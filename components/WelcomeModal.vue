@@ -9,9 +9,11 @@
           This simple tool is to help you plan and craft the perfect armor for you.
         </p>
         <p class="mb-4">
-          You can use the <span class="inline-block h-full text-sm p-1 rounded bg-blue-600 text-white">Generate</span>
-          button to generate sets base on the skills that you need. Of course, you can add and remove any equipment as
-          you see fit.
+          You can start by creating a new empty set or by automatically generating sets base on the skills that you need.
+        </p>
+        <p class="mb-4">
+          To automatically generate a set base on the skills that you need, just click the <span class="inline-block text-sm p-1 rounded bg-blue-600 text-white">Generate</span>
+          button.
         </p>
         <p class="mb-6">
           If you have any feedback or would like to report an issue, feel free to drop me a message at
