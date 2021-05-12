@@ -1,4 +1,4 @@
-# mhrsmithy
+# MHR Builder
 
 ## Build Setup
 
