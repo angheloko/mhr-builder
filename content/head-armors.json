@@ -1,0 +1,1938 @@
+[
+  {
+    "name": "Chainmail Headgear S",
+    "type": "head",
+    "slug": "chainmail-headgear-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Hunter's Helm S",
+    "type": "head",
+    "slug": "hunter-s-helm-s",
+    "skills": [
+      {
+        "name": "Item Prolonger",
+        "slug": "item-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Izuchi Helm S",
+    "type": "head",
+    "slug": "izuchi-helm-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Arzuros Helm S",
+    "type": "head",
+    "slug": "arzuros-helm-s",
+    "skills": [
+      {
+        "name": "Fortify",
+        "slug": "fortify",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bnahabra Hat S",
+    "type": "head",
+    "slug": "bnahabra-hat-s",
+    "skills": [
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 1
+      },
+      {
+        "name": "Recoil Down",
+        "slug": "recoil-down",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 34,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aknosom Helm S",
+    "type": "head",
+    "slug": "aknosom-helm-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      },
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Baggi Helm S",
+    "type": "head",
+    "slug": "baggi-helm-s",
+    "skills": [
+      {
+        "name": "Ice Attack",
+        "slug": "ice-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Lagombi Helm S",
+    "type": "head",
+    "slug": "lagombi-helm-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      },
+      {
+        "name": "Ice Attack",
+        "slug": "ice-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Alloy Helm S",
+    "type": "head",
+    "slug": "alloy-helm-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 1
+      },
+      {
+        "name": "Protective Polish",
+        "slug": "protective-polish",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bone Helm S",
+    "type": "head",
+    "slug": "bone-helm-s",
+    "skills": [
+      {
+        "name": "Stamina Thief",
+        "slug": "stamina-thief",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Chaos Archbun",
+    "type": "head",
+    "slug": "chaos-archbun",
+    "skills": [
+      {
+        "name": "Mushroomancer",
+        "slug": "mushroomancer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Helm S",
+    "type": "head",
+    "slug": "kulu-ya-ku-helm-s",
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Wroggi Helm S",
+    "type": "head",
+    "slug": "wroggi-helm-s",
+    "skills": [],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ludroth Helm S",
+    "type": "head",
+    "slug": "ludroth-helm-s",
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barroth Helm S",
+    "type": "head",
+    "slug": "barroth-helm-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Khezu Helm S",
+    "type": "head",
+    "slug": "khezu-helm-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Tetranadon Helm S",
+    "type": "head",
+    "slug": "tetranadon-helm-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      },
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ingot Helm S",
+    "type": "head",
+    "slug": "ingot-helm-s",
+    "skills": [
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Gargwa Mask S",
+    "type": "head",
+    "slug": "gargwa-mask-s",
+    "skills": [
+      {
+        "name": "Leap of Faith",
+        "slug": "leap-of-faith",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 6,
+    "baseDefense": 54,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bullfango Mask S",
+    "type": "head",
+    "slug": "bullfango-mask-s",
+    "skills": [
+      {
+        "name": "Bludgeoner",
+        "slug": "bludgeoner",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Remobra Headgear S",
+    "type": "head",
+    "slug": "remobra-headgear-s",
+    "skills": [
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Jaggi Mask S",
+    "type": "head",
+    "slug": "jaggi-mask-s",
+    "skills": [
+      {
+        "name": "Affinity Sliding",
+        "slug": "affinity-sliding",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bishaten Helm S",
+    "type": "head",
+    "slug": "bishaten-helm-s",
+    "skills": [
+      {
+        "name": "Item Prolonger",
+        "slug": "item-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Basarios Helm S",
+    "type": "head",
+    "slug": "basarios-helm-s",
+    "skills": [
+      {
+        "name": "Load Shells",
+        "slug": "load-shells",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Volvidon Helm S",
+    "type": "head",
+    "slug": "volvidon-helm-s",
+    "skills": [
+      {
+        "name": "Paralysis Attack",
+        "slug": "paralysis-attack",
+        "level": 2
+      },
+      {
+        "name": "Bludgeoner",
+        "slug": "bludgeoner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Death Stench Brain S",
+    "type": "head",
+    "slug": "death-stench-brain-s",
+    "skills": [
+      {
+        "name": "Protective Polish",
+        "slug": "protective-polish",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhenoplos Helm S",
+    "type": "head",
+    "slug": "rhenoplos-helm-s",
+    "skills": [
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 2
+      },
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "S. Studded Hat S",
+    "type": "head",
+    "slug": "s-studded-hat-s",
+    "skills": [
+      {
+        "name": "Aim Booster",
+        "slug": "aim-booster",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Somnacanth Helm S",
+    "type": "head",
+    "slug": "somnacanth-helm-s",
+    "skills": [
+      {
+        "name": "Sleep Attack",
+        "slug": "sleep-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Rathian Helm S",
+    "type": "head",
+    "slug": "rathian-helm-s",
+    "skills": [
+      {
+        "name": "Blight Resistances",
+        "slug": "blight-resistances",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barioth Helm S",
+    "type": "head",
+    "slug": "barioth-helm-s",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kadachi Helm S",
+    "type": "head",
+    "slug": "kadachi-helm-s",
+    "skills": [
+      {
+        "name": "Jump Master",
+        "slug": "jump-master",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Medium's Hair-tie S",
+    "type": "head",
+    "slug": "medium-s-hair-tie-s",
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Mask S (Visible)",
+    "type": "head",
+    "slug": "utsushi-mask-s-visible",
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Channeler's Hair-tie S",
+    "type": "head",
+    "slug": "channeler-s-hair-tie-s",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Mask S (Hidden)",
+    "type": "head",
+    "slug": "img-utsushi-mask-s-hidden",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 2
+      },
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Sinister Helm S",
+    "type": "head",
+    "slug": "sinister-helm-s",
+    "skills": [
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Almudron Helm S",
+    "type": "head",
+    "slug": "almudron-helm-s",
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Zinogre Helm S",
+    "type": "head",
+    "slug": "zinogre-helm-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Mizutsune Helm S",
+    "type": "head",
+    "slug": "mizutsune-helm-s",
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Nargacuga Helm S",
+    "type": "head",
+    "slug": "nargacuga-helm-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Anjanath Helm S",
+    "type": "head",
+    "slug": "anjanath-helm-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Pukei-Pukei Helm S",
+    "type": "head",
+    "slug": "pukei-pukei-helm-s",
+    "skills": [
+      {
+        "name": "Special Ammo Boost",
+        "slug": "special-ammo-boost",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Goss Harag Helm S",
+    "type": "head",
+    "slug": "goss-harag-helm-s",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 4,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Skull Visage S",
+    "type": "head",
+    "slug": "skull-visage-s",
+    "skills": [
+      {
+        "name": "Fortify",
+        "slug": "fortify",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Kamura Head Scarf S",
+    "type": "head",
+    "slug": "kamura-head-scarf-s",
+    "skills": [
+      {
+        "name": "Devine Blessing",
+        "slug": "devine-blessing",
+        "level": 1
+      },
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Leather Headgear S",
+    "type": "head",
+    "slug": "leather-headgear-s",
+    "skills": [
+      {
+        "name": "Geologist",
+        "slug": "geologist",
+        "level": 1
+      },
+      {
+        "name": "Hunger Resistance",
+        "slug": "hunger-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rathalos Helm S",
+    "type": "head",
+    "slug": "rathalos-helm-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhopessa Vertex S",
+    "type": "head",
+    "slug": "rhopessa-vertex-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aelucanth Vertex S",
+    "type": "head",
+    "slug": "img-aelucanth-vertex-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Jyuratodus Helm",
+    "type": "head",
+    "slug": "jyuratodus-helm",
+    "skills": [
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Dober Helm",
+    "type": "head",
+    "slug": "dober-helm",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Makluva Hood S",
+    "type": "head",
+    "slug": "makluva-hood-s",
+    "skills": [
+      {
+        "name": "Sleep Resistance",
+        "slug": "sleep-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Melahoa Hat S",
+    "type": "head",
+    "slug": "melahoa-hat-s",
+    "skills": [
+      {
+        "name": "Paralysis Resistance",
+        "slug": "paralysis-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Edel Vizor S",
+    "type": "head",
+    "slug": "edel-vizor-s",
+    "skills": [
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ibushi's Helm",
+    "type": "head",
+    "slug": "ibushi-s-helm",
+    "skills": [
+      {
+        "name": "Wind Alignment",
+        "slug": "wind-alignment",
+        "level": 1
+      },
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 66,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rakna Helm",
+    "type": "head",
+    "slug": "rakna-helm",
+    "skills": [
+      {
+        "name": "Spread Up",
+        "slug": "spread-up",
+        "level": 1
+      },
+      {
+        "name": "Reload Speed",
+        "slug": "reload-speed",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 66,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Golden Headdress",
+    "type": "head",
+    "slug": "golden-headdress",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 2
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 70,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Narwa's Helm",
+    "type": "head",
+    "slug": "narwa-s-helm",
+    "skills": [
+      {
+        "name": "Thunder Alignment",
+        "slug": "thunder-alignment",
+        "level": 1
+      },
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 76,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Diablos Helm S",
+    "type": "head",
+    "slug": "diablos-helm-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tigrex Helm S",
+    "type": "head",
+    "slug": "tigrex-helm-s",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 1
+      },
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jelly Hat S",
+    "type": "head",
+    "slug": "jelly-hat-s",
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Divine Blessing",
+        "slug": "divine-blessing",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Brigade Lobos S",
+    "type": "head",
+    "slug": "brigade-lobos-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Mighty Bow Feather",
+    "type": "head",
+    "slug": "mighty-bow-feather",
+    "skills": [
+      {
+        "name": "Bow Charge Plus",
+        "slug": "bow-charge-plus",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 6,
+    "baseDefense": 56,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mosgharl Visor S",
+    "type": "head",
+    "slug": "mosgharl-visor-s",
+    "skills": [
+      {
+        "name": "Blast Resistance",
+        "slug": "blast-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Vaik Helm S",
+    "type": "head",
+    "slug": "vaik-helm-s",
+    "skills": [
+      {
+        "name": "Ammo Up",
+        "slug": "ammo-up",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Spio Vertex S",
+    "type": "head",
+    "slug": "spio-vertex-s",
+    "skills": [
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Skalda Vertex S",
+    "type": "head",
+    "slug": "img-skalda-vertex-s",
+    "skills": [
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Damascus Helm",
+    "type": "head",
+    "slug": "damascus-helm",
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "slug": "tremor-resistance",
+        "level": 2
+      },
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 68,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bazelgeuse Helm",
+    "type": "head",
+    "slug": "bazelgeuse-helm",
+    "skills": [
+      {
+        "name": "Artillery",
+        "slug": "artillery",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 72,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mizuha Cap",
+    "type": "head",
+    "slug": "mizuha-cap",
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 2
+      },
+      {
+        "name": "Ballistics",
+        "slug": "ballistics",
+        "level": 2
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kushala Glare",
+    "type": "head",
+    "slug": "kushala-glare",
+    "skills": [
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 2
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kaiser Crown",
+    "type": "head",
+    "slug": "kaiser-crown",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 3
+      },
+      {
+        "name": "Critical Boost",
+        "slug": "critical-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Flame Seal",
+    "type": "head",
+    "slug": "flame-seal",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 4
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 56,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Slagtoth Hood S",
+    "type": "head",
+    "slug": "slagtoth-hood-s",
+    "skills": [
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      },
+      {
+        "name": "Diversion",
+        "slug": "diversion",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  }
+]

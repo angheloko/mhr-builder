@@ -1,0 +1,1867 @@
+[
+  {
+    "name": "Chainmail Pants S",
+    "type": "legs",
+    "slug": "chainmail-pants-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Hunter's Greaves S",
+    "type": "legs",
+    "slug": "hunter-s-greaves-s",
+    "skills": [
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Izuchi Greaves S",
+    "type": "legs",
+    "slug": "izuchi-greaves-s",
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Arzuros Greaves S",
+    "type": "legs",
+    "slug": "arzuros-greaves-s",
+    "skills": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bnahabra Boots S",
+    "type": "legs",
+    "slug": "bnahabra-boots-s",
+    "skills": [
+      {
+        "name": "Paralysis Attack",
+        "slug": "paralysis-attack",
+        "level": 1
+      },
+      {
+        "name": "Recoil Down",
+        "slug": "recoil-down",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 34,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aknosom Greaves S",
+    "type": "legs",
+    "slug": "aknosom-greaves-s",
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 1
+      },
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Baggi Greaves S",
+    "type": "legs",
+    "slug": "baggi-greaves-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Lagombi Greaves S",
+    "type": "legs",
+    "slug": "lagombi-greaves-s",
+    "skills": [
+      {
+        "name": "Jump Master",
+        "slug": "jump-master",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Alloy Greaves S",
+    "type": "legs",
+    "slug": "alloy-greaves-s",
+    "skills": [
+      {
+        "name": "Speed Sharpening",
+        "slug": "speed-sharpening",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bone Greaves S",
+    "type": "legs",
+    "slug": "bone-greaves-s",
+    "skills": [
+      {
+        "name": "Muck Resistance",
+        "slug": "muck-resistance",
+        "level": 2
+      },
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Droth Greaves S",
+    "type": "legs",
+    "slug": "droth-greaves-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jaggi Shinguards S",
+    "type": "legs",
+    "slug": "jaggi-shinguards-s",
+    "skills": [
+      {
+        "name": "Master Mounter",
+        "slug": "master-mounter",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Greaves S",
+    "type": "legs",
+    "slug": "kulu-ya-ku-greaves-s",
+    "skills": [
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Wroggi Greaves S",
+    "type": "legs",
+    "slug": "wroggi-greaves-s",
+    "skills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ludroth Greaves S",
+    "type": "legs",
+    "slug": "ludroth-greaves-s",
+    "skills": [
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barroth Greaves S",
+    "type": "legs",
+    "slug": "barroth-greaves-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Khezu Greaves S",
+    "type": "legs",
+    "slug": "khezu-greaves-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Tetranadon Greaves S",
+    "type": "legs",
+    "slug": "tetranadon-greaves-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      },
+      {
+        "name": "Hunger Resistance",
+        "slug": "hunger-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ingot Greaves S",
+    "type": "legs",
+    "slug": "ingot-greaves-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Remobra Feet S",
+    "type": "legs",
+    "slug": "remobra-feet-s",
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Bishaten Greaves S",
+    "type": "legs",
+    "slug": "bishaten-greaves-s",
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Basarios Greaves S",
+    "type": "legs",
+    "slug": "basarios-greaves-s",
+    "skills": [
+      {
+        "name": "Load Shells",
+        "slug": "load-shells",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Volvidon Greaves S",
+    "type": "legs",
+    "slug": "volvidon-greaves-s",
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Death Stench Heel S",
+    "type": "legs",
+    "slug": "death-stench-heel-s",
+    "skills": [
+      {
+        "name": "Protective Polish",
+        "slug": "protective-polish",
+        "level": 1
+      },
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhenoplos Greaves S",
+    "type": "legs",
+    "slug": "rhenoplos-greaves-s",
+    "skills": [
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 1
+      },
+      {
+        "name": "Tremor Resistance",
+        "slug": "tremor-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Shelled Sandals S",
+    "type": "legs",
+    "slug": "shelled-sandals-s",
+    "skills": [
+      {
+        "name": "Spread Up",
+        "slug": "spread-up",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Somnacanth Greaves S",
+    "type": "legs",
+    "slug": "somnacanth-greaves-s",
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "slug": "divine-blessing",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Rathian Greaves S",
+    "type": "legs",
+    "slug": "rathian-greaves-s",
+    "skills": [
+      {
+        "name": "Blight Resistances",
+        "slug": "blight-resistances",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barioth Greaves S",
+    "type": "legs",
+    "slug": "barioth-greaves-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kadachi Greaves S",
+    "type": "legs",
+    "slug": "kadachi-greaves-s",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Medium's Hakama S",
+    "type": "legs",
+    "slug": "medium-s-hakama-s",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Greaves S (Visible)",
+    "type": "legs",
+    "slug": "utsushi-greaves-s-visible",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Channeler's Hakama S",
+    "type": "legs",
+    "slug": "channeler-s-hakama-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Greaves S (Hidden)",
+    "type": "legs",
+    "slug": "utsushi-greaves-s-hidden",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Sinister Greaves S",
+    "type": "legs",
+    "slug": "sinister-greaves-s",
+    "skills": [
+      {
+        "name": "Hellfire Cloak",
+        "slug": "hellfire-cloak",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Almudron Greaves S",
+    "type": "legs",
+    "slug": "almudron-greaves-s",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Zinogre Greaves S",
+    "type": "legs",
+    "slug": "zinogre-greaves-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Mizutsune Greaves S",
+    "type": "legs",
+    "slug": "mizutsune-greaves-s",
+    "skills": [
+      {
+        "name": "Buddly Dance",
+        "slug": "buddly-dance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Nargacuga Greaves S",
+    "type": "legs",
+    "slug": "nargacuga-greaves-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 2
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Anjanath Greaves S",
+    "type": "legs",
+    "slug": "anjanath-greaves-s",
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Pukei-Pukei Greaves S",
+    "type": "legs",
+    "slug": "pukei-pukei-greaves-s",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      },
+      {
+        "name": "Aim Booster",
+        "slug": "aim-booster",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Goss Harag Greaves S",
+    "type": "legs",
+    "slug": "goss-harag-greaves-s",
+    "skills": [
+      {
+        "name": "Punishing Draw",
+        "slug": "punishing-draw",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 4,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kamura Leggings S",
+    "type": "legs",
+    "slug": "kamura-leggings-s",
+    "skills": [
+      {
+        "name": "Wall Runner",
+        "slug": "wall-runner",
+        "level": 2
+      },
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Leather Pants S",
+    "type": "legs",
+    "slug": "leather-pants-s",
+    "skills": [
+      {
+        "name": "Geologist",
+        "slug": "geologist",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rathalos Greaves S",
+    "type": "legs",
+    "slug": "rathalos-greaves-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhopessa Crura S",
+    "type": "legs",
+    "slug": "rhopessa-crura-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aelucanth Crura S",
+    "type": "legs",
+    "slug": "img-aelucanth-crura-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Jyuratodus Greaves",
+    "type": "legs",
+    "slug": "jyuratodus-greaves",
+    "skills": [
+      {
+        "name": "Guard Up",
+        "slug": "guard-up",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Dober Greaves",
+    "type": "legs",
+    "slug": "dober-greaves",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      },
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Makluva Pants S",
+    "type": "legs",
+    "slug": "makluva-pants-s",
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "slug": "bubbly-dance",
+        "level": 1
+      },
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Melahoa Roots S",
+    "type": "legs",
+    "slug": "melahoa-roots-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Edel Roots S",
+    "type": "legs",
+    "slug": "edel-roots-s",
+    "skills": [
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Foot of Ibushi",
+    "type": "legs",
+    "slug": "foot-of-ibushi",
+    "skills": [
+      {
+        "name": "Wind Alignment",
+        "slug": "wind-alignment",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 1
+      },
+      {
+        "name": "Guard Up",
+        "slug": "guard-up",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 66,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rakna Greaves",
+    "type": "legs",
+    "slug": "rakna-greaves",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 66,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Chrome Metal Boots",
+    "type": "legs",
+    "slug": "chrome-metal-boots",
+    "skills": [
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 46,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Golden Hakama",
+    "type": "legs",
+    "slug": "golden-hakama",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "slug": "critical-boost",
+        "level": 2
+      },
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 70,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Foot of Narwa",
+    "type": "legs",
+    "slug": "foot-of-narwa",
+    "skills": [
+      {
+        "name": "Thunder Alignment",
+        "slug": "thunder-alignment",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 76,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Diablos Greaves S",
+    "type": "legs",
+    "slug": "diablos-greaves-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tigrex Greaves S",
+    "type": "legs",
+    "slug": "tigrex-greaves-s",
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 2
+      },
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jelly Boots S",
+    "type": "legs",
+    "slug": "jelly-boots-s",
+    "skills": [
+      {
+        "name": "Blast Attack",
+        "slug": "blast-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mosgharl Roots S",
+    "type": "legs",
+    "slug": "mosgharl-roots-s",
+    "skills": [
+      {
+        "name": "Recoil Down",
+        "slug": "recoil-down",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Vaik Greaves S",
+    "type": "legs",
+    "slug": "vaik-greaves-s",
+    "skills": [
+      {
+        "name": "Ammo Up",
+        "slug": "ammo-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Spio Crura S",
+    "type": "legs",
+    "slug": "spio-crura-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      },
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Skalda Crura S",
+    "type": "legs",
+    "slug": "img-skalda-crura-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      },
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Damascus Greaves",
+    "type": "legs",
+    "slug": "damascus-greaves",
+    "skills": [
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 68,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bazelgeuse Greaves",
+    "type": "legs",
+    "slug": "bazelgeuse-greaves",
+    "skills": [
+      {
+        "name": "Artillery",
+        "slug": "artillery",
+        "level": 2
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 7,
+    "baseDefense": 72,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mizuha Gaiters",
+    "type": "legs",
+    "slug": "mizuha-gaiters",
+    "skills": [
+      {
+        "name": "Chamaleos Blessing",
+        "slug": "chamaleos-blessing",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kushala Crus",
+    "type": "legs",
+    "slug": "kushala-crus",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "slug": "kushala-blessing",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kaiser Greaves",
+    "type": "legs",
+    "slug": "kaiser-greaves",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "slug": "teostra-blessing",
+        "level": 1
+      },
+      {
+        "name": "Master's Touch",
+        "slug": "master-s-touch",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Brigade Boots S",
+    "type": "legs",
+    "slug": "brigade-boots-s",
+    "skills": [
+      {
+        "name": "Carving Pro",
+        "slug": "carving-pro",
+        "level": 1
+      },
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  }
+]

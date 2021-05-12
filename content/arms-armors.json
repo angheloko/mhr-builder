@@ -1,0 +1,1792 @@
+[
+  {
+    "name": "Chainmail Gloves S",
+    "type": "arms",
+    "slug": "chainmail-gloves-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Hunter's Vambraces S",
+    "type": "arms",
+    "slug": "hunter-s-vambraces-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Izuchi Braces S",
+    "type": "arms",
+    "slug": "izuchi-braces-s",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Arzuros Vambraces S",
+    "type": "arms",
+    "slug": "arzuros-vambraces-s",
+    "skills": [
+      {
+        "name": "Counterstrike",
+        "slug": "counterstrike",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bnahabra Gloves S",
+    "type": "arms",
+    "slug": "bnahabra-gloves-s",
+    "skills": [
+      {
+        "name": "Poison Attacl",
+        "slug": "poison-attacl",
+        "level": 2
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 34,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aknosom Braces S",
+    "type": "arms",
+    "slug": "aknosom-braces-s",
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 1
+      },
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Baggi Vambraces S",
+    "type": "arms",
+    "slug": "baggi-vambraces-s",
+    "skills": [
+      {
+        "name": "Sleep Resistance",
+        "slug": "sleep-resistance",
+        "level": 2
+      },
+      {
+        "name": "Ice Atttack",
+        "slug": "ice-atttack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Lagombi Vambraces S",
+    "type": "arms",
+    "slug": "lagombi-vambraces-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Ice Attack",
+        "slug": "ice-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Alloy Vambraces S",
+    "type": "arms",
+    "slug": "alloy-vambraces-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bone Vambraces S",
+    "type": "arms",
+    "slug": "bone-vambraces-s",
+    "skills": [
+      {
+        "name": "Muck Resistance",
+        "slug": "muck-resistance",
+        "level": 1
+      },
+      {
+        "name": "Stamina Thief",
+        "slug": "stamina-thief",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jaggi Gauntlets S",
+    "type": "arms",
+    "slug": "jaggi-gauntlets-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Braces S",
+    "type": "arms",
+    "slug": "kulu-ya-ku-braces-s",
+    "skills": [
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 1
+      },
+      {
+        "name": "Stamina Thief",
+        "slug": "stamina-thief",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Wroggi Vambraces S",
+    "type": "arms",
+    "slug": "wroggi-vambraces-s",
+    "skills": [],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ludroth Braces S",
+    "type": "arms",
+    "slug": "ludroth-braces-s",
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barroth Vambraces S",
+    "type": "arms",
+    "slug": "barroth-vambraces-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      },
+      {
+        "name": "Affinity Sliding",
+        "slug": "affinity-sliding",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Khezu Vambraces S",
+    "type": "arms",
+    "slug": "khezu-vambraces-s",
+    "skills": [
+      {
+        "name": "Wall Runner",
+        "slug": "wall-runner",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      },
+      {
+        "name": "Thunder Attack",
+        "slug": "thunder-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Tetranadon Braces S",
+    "type": "arms",
+    "slug": "tetranadon-braces-s",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      },
+      {
+        "name": "Special Ammo Boost",
+        "slug": "special-ammo-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ingot Vambraces S",
+    "type": "arms",
+    "slug": "ingot-vambraces-s",
+    "skills": [
+      {
+        "name": "Thunder Attack",
+        "slug": "thunder-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Remobra Gloves S",
+    "type": "arms",
+    "slug": "remobra-gloves-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 1
+      },
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Bishaten Vambraces S",
+    "type": "arms",
+    "slug": "bishaten-vambraces-s",
+    "skills": [
+      {
+        "name": "Item Prolonger",
+        "slug": "item-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Basarios Vambraces S",
+    "type": "arms",
+    "slug": "basarios-vambraces-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 2
+      },
+      {
+        "name": "Speed Sharpening",
+        "slug": "speed-sharpening",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Volvidon Vambraces S",
+    "type": "arms",
+    "slug": "volvidon-vambraces-s",
+    "skills": [
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      },
+      {
+        "name": "Paralysis Attack",
+        "slug": "paralysis-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Death Stench Grip S",
+    "type": "arms",
+    "slug": "death-stench-grip-s",
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhenoplos Braces S",
+    "type": "arms",
+    "slug": "rhenoplos-braces-s",
+    "skills": [
+      {
+        "name": "Artillery",
+        "slug": "artillery",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Shell-Studded Gloves S",
+    "type": "arms",
+    "slug": "shell-studded-gloves-s",
+    "skills": [
+      {
+        "name": "Spread Up",
+        "slug": "spread-up",
+        "level": 1
+      },
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Somnacanth Braces S",
+    "type": "arms",
+    "slug": "somnacanth-braces-s",
+    "skills": [
+      {
+        "name": "Bombardier",
+        "slug": "bombardier",
+        "level": 2
+      },
+      {
+        "name": "Divine Blessing",
+        "slug": "divine-blessing",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Rathian Braces S",
+    "type": "arms",
+    "slug": "rathian-braces-s",
+    "skills": [
+      {
+        "name": "Blight Resistances",
+        "slug": "blight-resistances",
+        "level": 1
+      },
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barioth Vambraces S",
+    "type": "arms",
+    "slug": "barioth-vambraces-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tobi-Kadachi Braces S",
+    "type": "arms",
+    "slug": "tobi-kadachi-braces-s",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 3
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Medium's Prayer S",
+    "type": "arms",
+    "slug": "medium-s-prayer-s",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Braces S (Visible)",
+    "type": "arms",
+    "slug": "utsushi-braces-s-visible",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Channeler's Hope S",
+    "type": "arms",
+    "slug": "channeler-s-hope-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Braces S (Hidden)",
+    "type": "arms",
+    "slug": "utsushi-braces-s-hidden",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Sinister Gauntlets S",
+    "type": "arms",
+    "slug": "sinister-gauntlets-s",
+    "skills": [
+      {
+        "name": "Hellfire Cloak",
+        "slug": "hellfire-cloak",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Almudron Vambraces S",
+    "type": "arms",
+    "slug": "almudron-vambraces-s",
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Zinogre Braces S",
+    "type": "arms",
+    "slug": "zinogre-braces-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Mizutsune Braces S",
+    "type": "arms",
+    "slug": "mizutsune-braces-s",
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Nargacuga Braces S",
+    "type": "arms",
+    "slug": "nargacuga-braces-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Anjanath Vambraces S",
+    "type": "arms",
+    "slug": "anjanath-vambraces-s",
+    "skills": [
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 2
+      },
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Pukei-Pukei Braces S",
+    "type": "arms",
+    "slug": "pukei-pukei-braces-s",
+    "skills": [
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 1
+      },
+      {
+        "name": "Aim Booster",
+        "slug": "aim-booster",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Goss Harag Braces S",
+    "type": "arms",
+    "slug": "goss-harag-braces-s",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 1
+      },
+      {
+        "name": "Punishing Draw",
+        "slug": "punishing-draw",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 4,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kamura Braces S",
+    "type": "arms",
+    "slug": "kamura-braces-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Leather Gloves S",
+    "type": "arms",
+    "slug": "leather-gloves-s",
+    "skills": [
+      {
+        "name": "Geologist",
+        "slug": "geologist",
+        "level": 1
+      },
+      {
+        "name": "Special Ammo Boost",
+        "slug": "special-ammo-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rathalos Braces S",
+    "type": "arms",
+    "slug": "rathalos-braces-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhopessa Brachia S",
+    "type": "arms",
+    "slug": "rhopessa-brachia-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aelucanth Brachia S",
+    "type": "arms",
+    "slug": "img-aelucanth-brachia-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Jyuratodus Vambraces",
+    "type": "arms",
+    "slug": "jyuratodus-vambraces",
+    "skills": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Dober Vambraces",
+    "type": "arms",
+    "slug": "dober-vambraces",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Makluva Sleeves S",
+    "type": "arms",
+    "slug": "makluva-sleeves-s",
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "slug": "bubbly-dance",
+        "level": 1
+      },
+      {
+        "name": "Leap of Faith",
+        "slug": "leap-of-faith",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Melahoa Branch S",
+    "type": "arms",
+    "slug": "melahoa-branch-s",
+    "skills": [
+      {
+        "name": "Paralysis Resistance",
+        "slug": "paralysis-resistance",
+        "level": 1
+      },
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Edel Creeper S",
+    "type": "arms",
+    "slug": "edel-creeper-s",
+    "skills": [
+      {
+        "name": "Capture Master",
+        "slug": "capture-master",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ibushi's Pauldrons",
+    "type": "arms",
+    "slug": "ibushi-s-pauldrons",
+    "skills": [
+      {
+        "name": "Wind Alignment",
+        "slug": "wind-alignment",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 66,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rakna Armguards",
+    "type": "arms",
+    "slug": "rakna-armguards",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 66,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Golden Kote",
+    "type": "arms",
+    "slug": "golden-kote",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 70,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Narwa's Pauldrons",
+    "type": "arms",
+    "slug": "narwa-s-pauldrons",
+    "skills": [
+      {
+        "name": "Thunder Alignment",
+        "slug": "thunder-alignment",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 76,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Diablos Vambraces S",
+    "type": "arms",
+    "slug": "diablos-vambraces-s",
+    "skills": [
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tigrex Braces S",
+    "type": "arms",
+    "slug": "tigrex-braces-s",
+    "skills": [
+      {
+        "name": "Bludgeoner",
+        "slug": "bludgeoner",
+        "level": 2
+      },
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jelly Gloves S",
+    "type": "arms",
+    "slug": "jelly-gloves-s",
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "slug": "divine-blessing",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mosgharl Creeper S",
+    "type": "arms",
+    "slug": "mosgharl-creeper-s",
+    "skills": [
+      {
+        "name": "Blast Resistance",
+        "slug": "blast-resistance",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Vaik Braces S",
+    "type": "arms",
+    "slug": "vaik-braces-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Spio Brachia S",
+    "type": "arms",
+    "slug": "spio-brachia-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Skalda Brachia S",
+    "type": "arms",
+    "slug": "skalda-brachia-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Poison Resistance",
+        "slug": "poison-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Damascus Vambraces",
+    "type": "arms",
+    "slug": "damascus-vambraces",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 68,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bazelgeuse Braces",
+    "type": "arms",
+    "slug": "bazelgeuse-braces",
+    "skills": [
+      {
+        "name": "Load Shells",
+        "slug": "load-shells",
+        "level": 1
+      },
+      {
+        "name": "Guard Up",
+        "slug": "guard-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 72,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mizuha Sleeves",
+    "type": "arms",
+    "slug": "mizuha-sleeves",
+    "skills": [
+      {
+        "name": "Chamaleos Blessing",
+        "slug": "chamaleos-blessing",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kushala Grip",
+    "type": "arms",
+    "slug": "kushala-grip",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "slug": "kushala-blessing",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kaiser Vambraces",
+    "type": "arms",
+    "slug": "kaiser-vambraces",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "slug": "teostra-blessing",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "slug": "critical-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Brigade Vambraces S",
+    "type": "arms",
+    "slug": "brigade-vambraces-s",
+    "skills": [
+      {
+        "name": "Geologist",
+        "slug": "geologist",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  }
+]

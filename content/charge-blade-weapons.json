@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "Kamura C. Blade I",
+    "slug": "kamura-c-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kamura C. Blade II",
+    "slug": "kamura-c-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kamura C. Blade III",
+    "slug": "kamura-c-blade-iii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kamura C. Blade IV",
+    "slug": "kamura-c-blade-iv",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kamura C. Blade V",
+    "slug": "kamura-c-blade-v",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kamura Ninja C. Blade",
+    "slug": "kamura-ninja-c-blade",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dear Lutemis I",
+    "slug": "dear-lutemis-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dear Lutemis II",
+    "slug": "dear-lutemis-ii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dear Lutemia",
+    "slug": "dear-lutemia",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Weissritter I",
+    "slug": "weissritter-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Weissritter II",
+    "slug": "weissritter-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 19
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Weissritter III",
+    "slug": "weissritter-iii",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Paladire Charge Blade",
+    "slug": "paladire-charge-blade",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Usurper's Lightning I",
+    "slug": "usurper-s-lightning-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Usurper's Lightning II",
+    "slug": "usurper-s-lightning-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Despot's Thundergale",
+    "slug": "despot-s-thundergale",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Shovedown Blade I",
+    "slug": "shovedown-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Shovedown Blade II",
+    "slug": "shovedown-blade-ii",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Spinning Takedown",
+    "slug": "spinning-takedown",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Giga Grips I",
+    "slug": "giga-grips-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Giga Grips II",
+    "slug": "giga-grips-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Giga Grips III",
+    "slug": "giga-grips-iii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Titan's Vise",
+    "slug": "titan-s-vise",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Surprise Axe I",
+    "slug": "surprise-axe-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 9
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Surprise Axe II",
+    "slug": "surprise-axe-ii",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 11
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Stunning Axe",
+    "slug": "stunning-axe",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 13
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Hyperguard I",
+    "slug": "hyperguard-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Hyperguard II",
+    "slug": "hyperguard-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Regas Hyper",
+    "slug": "regas-hyper",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Elite Blade I",
+    "slug": "elite-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Elite Blade II",
+    "slug": "elite-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kaiser Blade",
+    "slug": "kaiser-blade",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "K. Captain's Blade I",
+    "slug": "k-captain-s-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "K. Captain's Blade II",
+    "slug": "k-captain-s-blade-ii",
+    "type": "charge_blade",
+    "slots": [
+      3
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Die Walküre",
+    "slug": "die-walkure",
+    "type": "charge_blade",
+    "slots": [
+      3
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 37
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Biting Edge I",
+    "slug": "biting-edge-i",
+    "type": "charge_blade",
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Biting Edge II",
+    "slug": "biting-edge-ii",
+    "type": "charge_blade",
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 31
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Araknablade",
+    "slug": "araknablade",
+    "type": "charge_blade",
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Tigrex Divide I",
+    "slug": "tigrex-divide-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Tigrex Divide II",
+    "slug": "tigrex-divide-ii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Tigrex Blade",
+    "slug": "tigrex-blade",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Mizuniya Drill I",
+    "slug": "mizuniya-drill-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 21
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Mizuniya Drill II",
+    "slug": "mizuniya-drill-ii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kadachi Slasher I",
+    "slug": "kadachi-slasher-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kadachi Slasher II",
+    "slug": "kadachi-slasher-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Kadachi Otenta",
+    "slug": "kadachi-otenta",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Wind Thief Sickle I",
+    "slug": "wind-thief-sickle-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 70,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Wind Thief Sickle II",
+    "slug": "wind-thief-sickle-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Gale Sickle",
+    "slug": "gale-sickle",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 140,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Hidden Arsenal I",
+    "slug": "hidden-arsenal-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Hidden Arsenal II",
+    "slug": "hidden-arsenal-ii",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Scream in the Night",
+    "slug": "scream-in-the-night",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bone Sgrongarm I",
+    "slug": "bone-sgrongarm-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bone Sgrongarm II",
+    "slug": "bone-sgrongarm-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Hard Bone Strongarm",
+    "slug": "hard-bone-strongarm",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bone Blade I Charge Blade",
+    "slug": "bone-blade-i-charge-blade",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bone Blade II",
+    "slug": "bone-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bonesilt Veil",
+    "slug": "bonesilt-veil",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Jyura Silt I",
+    "slug": "jyura-silt-i",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Jyura Silt II",
+    "slug": "jyura-silt-ii",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 11
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Clutch of the Deep",
+    "slug": "clutch-of-the-deep",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Axelion Blade I",
+    "slug": "axelion-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Axelion Blade II",
+    "slug": "axelion-blade-ii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bardichion Blade",
+    "slug": "bardichion-blade",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bellowing Blow I",
+    "slug": "bellowing-blow-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Bellowing Blow II",
+    "slug": "bellowing-blow-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Illusory Frilled Wail",
+    "slug": "illusory-frilled-wail",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Poisonous Veil I",
+    "slug": "poisonous-veil-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 8
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Poisonous Veil II",
+    "slug": "poisonous-veil-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 11
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Infected Veil",
+    "slug": "infected-veil",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 14
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dragon Veil I",
+    "slug": "dragon-veil-i",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dragon Veil II",
+    "slug": "dragon-veil-ii",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Dragonsong",
+    "slug": "dragonsong",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 36
+      }
+    ],
+    "affinity": -5,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Barroth Anchor I",
+    "slug": "barroth-anchor-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Barroth Anchor II",
+    "slug": "barroth-anchor-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rugged Anchor",
+    "slug": "rugged-anchor",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Diablos Strongarm I",
+    "slug": "diablos-strongarm-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Diablos Strongarm II",
+    "slug": "diablos-strongarm-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rough Roller I",
+    "slug": "rough-roller-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rough Roller II",
+    "slug": "rough-roller-ii",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rotaxion",
+    "slug": "rotaxion",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Sinister Slasher I",
+    "slug": "sinister-slasher-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Sinister Slasher II",
+    "slug": "sinister-slasher-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Sinister Shade Axe",
+    "slug": "sinister-shade-axe",
+    "type": "charge_blade",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Undying Blade I",
+    "slug": "undying-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Undying Blade II",
+    "slug": "undying-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Azure Elder Blade I",
+    "slug": "azure-elder-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 6
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Azure Elder Blade II",
+    "slug": "azure-elder-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Thunderbolt Sawtooth I",
+    "slug": "thunderbolt-sawtooth-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Daora's Casca I",
+    "slug": "daora-s-casca-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra's Striker I",
+    "slug": "teostra-s-striker-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Arcane Draw I",
+    "slug": "arcane-draw-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Ricebane I",
+    "slug": "ricebane-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Ricebane II",
+    "slug": "ricebane-ii",
+    "type": "charge_blade",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Pounder of Rice",
+    "slug": "pounder-of-rice",
+    "type": "charge_blade",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Cuddly Cat I",
+    "slug": "cuddly-cat-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Cuddly Cat II",
+    "slug": "cuddly-cat-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Felyne Fancy",
+    "slug": "felyne-fancy",
+    "type": "charge_blade",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Mandible Blade I",
+    "slug": "mandible-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 14
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Mandible Blade II",
+    "slug": "mandible-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Maxilla Edge",
+    "slug": "maxilla-edge",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 22
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Vaik Veil I",
+    "slug": "vaik-veil-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Vaik Veil II",
+    "slug": "vaik-veil-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Shieldraad",
+    "slug": "shieldraad",
+    "type": "charge_blade",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage C. Blade I",
+    "slug": "rampage-c-blade-i",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage C. Blade II",
+    "slug": "rampage-c-blade-ii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage C. Blade III",
+    "slug": "rampage-c-blade-iii",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage C. Blade IV",
+    "slug": "rampage-c-blade-iv",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage C. Blade V",
+    "slug": "rampage-c-blade-v",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  }
+]

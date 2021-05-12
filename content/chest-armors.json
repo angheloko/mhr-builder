@@ -1,0 +1,1910 @@
+[
+  {
+    "name": "Chainmail Vest S",
+    "type": "chest",
+    "slug": "chainmail-vest-s",
+    "skills": [
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Hunter's Mail S",
+    "type": "chest",
+    "slug": "hunter-s-mail-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Izuchi Mail S",
+    "type": "chest",
+    "slug": "izuchi-mail-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Arzuros Mail S",
+    "type": "chest",
+    "slug": "arzuros-mail-s",
+    "skills": [
+      {
+        "name": "Counterstrike",
+        "slug": "counterstrike",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bnahabra Suit S",
+    "type": "chest",
+    "slug": "bnahabra-suit-s",
+    "skills": [
+      {
+        "name": "Paralysis Attack",
+        "slug": "paralysis-attack",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 34,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aknosom Mail S",
+    "type": "chest",
+    "slug": "aknosom-mail-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Baggi Mail S",
+    "type": "chest",
+    "slug": "baggi-mail-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Ice Attack",
+        "slug": "ice-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Lagombi Mail S",
+    "type": "chest",
+    "slug": "lagombi-mail-s",
+    "skills": [
+      {
+        "name": "Affinity Sliding",
+        "slug": "affinity-sliding",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Alloy Mail S",
+    "type": "chest",
+    "slug": "alloy-mail-s",
+    "skills": [
+      {
+        "name": "Speed Sharpening",
+        "slug": "speed-sharpening",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bone Mail S",
+    "type": "chest",
+    "slug": "bone-mail-s",
+    "skills": [
+      {
+        "name": "Stamina Thief",
+        "slug": "stamina-thief",
+        "level": 1
+      },
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Chaos Archplate",
+    "type": "chest",
+    "slug": "chaos-archplate",
+    "skills": [
+      {
+        "name": "Mushroomancer",
+        "slug": "mushroomancer",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Droth Mail S",
+    "type": "chest",
+    "slug": "droth-mail-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Mail S",
+    "type": "chest",
+    "slug": "kulu-ya-ku-mail-s",
+    "skills": [
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 2
+      },
+      {
+        "name": "Horn Maestro",
+        "slug": "horn-maestro",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Wroggi Mail S",
+    "type": "chest",
+    "slug": "wroggi-mail-s",
+    "skills": [],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ludroth Mail S",
+    "type": "chest",
+    "slug": "ludroth-mail-s",
+    "skills": [
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barroth Mail S",
+    "type": "chest",
+    "slug": "barroth-mail-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Khezu Mail S",
+    "type": "chest",
+    "slug": "khezu-mail-s",
+    "skills": [
+      {
+        "name": "Wall Runner",
+        "slug": "wall-runner",
+        "level": 1
+      },
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Tetranadon Mail S",
+    "type": "chest",
+    "slug": "tetranadon-mail-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ingot Mail S",
+    "type": "chest",
+    "slug": "ingot-mail-s",
+    "skills": [
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Slagtoth Cloak S",
+    "type": "chest",
+    "slug": "slagtoth-cloak-s",
+    "skills": [
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Uroktor Torso S",
+    "type": "chest",
+    "slug": "uroktor-torso-s",
+    "skills": [
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Remobra Suit S",
+    "type": "chest",
+    "slug": "remobra-suit-s",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "slug": "critical-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Bishaten Mail S",
+    "type": "chest",
+    "slug": "bishaten-mail-s",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Basarios Mail S",
+    "type": "chest",
+    "slug": "basarios-mail-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Load Shells",
+        "slug": "load-shells",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Volvidon Mail S",
+    "type": "chest",
+    "slug": "volvidon-mail-s",
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      },
+      {
+        "name": "Jump Master",
+        "slug": "jump-master",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "D. Stench Muscle S",
+    "type": "chest",
+    "slug": "d-stench-muscle-s",
+    "skills": [
+      {
+        "name": "Fortify",
+        "slug": "fortify",
+        "level": 1
+      },
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhenoplos Mail S",
+    "type": "chest",
+    "slug": "rhenoplos-mail-s",
+    "skills": [
+      {
+        "name": "Artillery",
+        "slug": "artillery",
+        "level": 1
+      },
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Shell-Studded Vest S",
+    "type": "chest",
+    "slug": "shell-studded-vest-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Somnacanth Mail S",
+    "type": "chest",
+    "slug": "somnacanth-mail-s",
+    "skills": [
+      {
+        "name": "Sleep Attack",
+        "slug": "sleep-attack",
+        "level": 1
+      },
+      {
+        "name": "Item Prolonger",
+        "slug": "item-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Rathian Mail S",
+    "type": "chest",
+    "slug": "rathian-mail-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      },
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barioth Mail S",
+    "type": "chest",
+    "slug": "barioth-mail-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tobi-Kadachi Mail S",
+    "type": "chest",
+    "slug": "tobi-kadachi-mail-s",
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Medium's Robe S",
+    "type": "chest",
+    "slug": "medium-s-robe-s",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Chest S (Visible)",
+    "type": "chest",
+    "slug": "utsushi-chest-s-visible",
+    "skills": [
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      },
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Channeler's Robe S",
+    "type": "chest",
+    "slug": "channeler-s-robe-s",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Chest S (Hidden) ",
+    "type": "chest",
+    "slug": "utsushi-chest-s-hidden",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 1
+      },
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Sinister Garb S",
+    "type": "chest",
+    "slug": "sinister-garb-s",
+    "skills": [
+      {
+        "name": "Hellfire Cloak",
+        "slug": "hellfire-cloak",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Almudron Mail S",
+    "type": "chest",
+    "slug": "almudron-mail-s",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "slug": "razor-sharp",
+        "level": 2
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Zinogre Mail S",
+    "type": "chest",
+    "slug": "zinogre-mail-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      },
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Mizutsune Mail S",
+    "type": "chest",
+    "slug": "mizutsune-mail-s",
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "slug": "bubbly-dance",
+        "level": 1
+      },
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Nargacuga Mail S",
+    "type": "chest",
+    "slug": "nargacuga-mail-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Anjanath Mail S",
+    "type": "chest",
+    "slug": "anjanath-mail-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 2
+      },
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Pukei-Pukei Mail S",
+    "type": "chest",
+    "slug": "pukei-pukei-mail-s",
+    "skills": [
+      {
+        "name": "Special Ammo Boost",
+        "slug": "special-ammo-boost",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Goss Harag Mail S",
+    "type": "chest",
+    "slug": "goss-harag-mail-s",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 4,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kamura Garb S",
+    "type": "chest",
+    "slug": "kamura-garb-s",
+    "skills": [
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 2
+      },
+      {
+        "name": "Wall Runner",
+        "slug": "wall-runner",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Leather Vest S",
+    "type": "chest",
+    "slug": "leather-vest-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rathalos Mail S",
+    "type": "chest",
+    "slug": "rathalos-mail-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 1
+      },
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 1
+      },
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhopessa Thorax S",
+    "type": "chest",
+    "slug": "rhopessa-thorax-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aelucanth Thorax S",
+    "type": "chest",
+    "slug": "img-aelucanth-thorax-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      },
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Jyuratodus Mail",
+    "type": "chest",
+    "slug": "jyuratodus-mail",
+    "skills": [
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 2
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Dober Mail",
+    "type": "chest",
+    "slug": "dober-mail",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      },
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Makluva Cover S",
+    "type": "chest",
+    "slug": "makluva-cover-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Melahoa Jacket S",
+    "type": "chest",
+    "slug": "melahoa-jacket-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 2
+      },
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Edel Ribplate S",
+    "type": "chest",
+    "slug": "edel-ribplate-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ibushi's Breastplate",
+    "type": "chest",
+    "slug": "ibushi-s-breastplate",
+    "skills": [
+      {
+        "name": "Wind Alignment",
+        "slug": "wind-alignment",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Flinch Free",
+        "slug": "flinch-free",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 66,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rakna Mail",
+    "type": "chest",
+    "slug": "rakna-mail",
+    "skills": [
+      {
+        "name": "Spread Up",
+        "slug": "spread-up",
+        "level": 1
+      },
+      {
+        "name": "Reload Speed",
+        "slug": "reload-speed",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 66,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Golden Haori",
+    "type": "chest",
+    "slug": "golden-haori",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      },
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 70,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Narwa Breastplate",
+    "type": "chest",
+    "slug": "narwa-breastplate",
+    "skills": [
+      {
+        "name": "Thunder Alignment",
+        "slug": "thunder-alignment",
+        "level": 1
+      },
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 1
+      },
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 76,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Diablos Mail S",
+    "type": "chest",
+    "slug": "diablos-mail-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 2
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tigrex Mail S",
+    "type": "chest",
+    "slug": "tigrex-mail-s",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 2
+      },
+      {
+        "name": "Bludgeoner",
+        "slug": "bludgeoner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jelly Vest S",
+    "type": "chest",
+    "slug": "jelly-vest-s",
+    "skills": [
+      {
+        "name": "Blast Attack",
+        "slug": "blast-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Brigade Suit S",
+    "type": "chest",
+    "slug": "brigade-suit-s",
+    "skills": [
+      {
+        "name": "Capture Master",
+        "slug": "capture-master",
+        "level": 1
+      },
+      {
+        "name": "Geologist",
+        "slug": "geologist",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Mosgharl Ribplate S",
+    "type": "chest",
+    "slug": "mosgharl-ribplate-s",
+    "skills": [
+      {
+        "name": "Reload Speed",
+        "slug": "reload-speed",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Vaik Mail S",
+    "type": "chest",
+    "slug": "img-vaik-mail-s",
+    "skills": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Spio Thorax S",
+    "type": "chest",
+    "slug": "img-spio-thorax-s",
+    "skills": [
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Skalda Thorax S",
+    "type": "chest",
+    "slug": "img-skalda-thorax-s",
+    "skills": [
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Damascus Mail",
+    "type": "chest",
+    "slug": "damascus-mail",
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "slug": "tremor-resistance",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 68,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bazelgeuse Mail",
+    "type": "chest",
+    "slug": "bazelgeuse-mail",
+    "skills": [
+      {
+        "name": "Guard Up",
+        "slug": "guard-up",
+        "level": 2
+      },
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 72,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mizuha Guards",
+    "type": "chest",
+    "slug": "mizuha-guards",
+    "skills": [
+      {
+        "name": "Chamaleos Blessing",
+        "slug": "chamaleos-blessing",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 1
+      },
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 1
+      },
+      {
+        "name": "Ballistics",
+        "slug": "ballistics",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kushala Cista",
+    "type": "chest",
+    "slug": "kushala-cista",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "slug": "kushala-blessing",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      },
+      {
+        "name": "Diversion",
+        "slug": "diversion",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kaiser Mail",
+    "type": "chest",
+    "slug": "kaiser-mail",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "slug": "teostra-blessing",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      },
+      {
+        "name": "Master's Touch",
+        "slug": "master-s-touch",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  }
+]

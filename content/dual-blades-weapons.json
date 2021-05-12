@@ -1,0 +1,2498 @@
+[
+  {
+    "name": "Kamura Glintblades I",
+    "slug": "kamura-glintblades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Glintblades II",
+    "slug": "kamura-glintblades-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Glintblades III",
+    "slug": "kamura-glintblades-iii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Glintblades IV",
+    "slug": "kamura-glintblades-iv",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Glintblades V",
+    "slug": "kamura-glintblades-v",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Kamura Ninja Blades",
+    "slug": "kamura-ninja-blades",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Mud Ripper I",
+    "slug": "mud-ripper-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Mud Ripper II",
+    "slug": "mud-ripper-ii",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Mud Twister",
+    "slug": "mud-twister",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Usurper's Fulgur I",
+    "slug": "usurper-s-fulgur-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Usurper's Fulgur II",
+    "slug": "usurper-s-fulgur-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Despot's Blitz",
+    "slug": "despot-s-blitz",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Blizzarioths I",
+    "slug": "blizzarioths-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Blizzarioths II",
+    "slug": "blizzarioths-ii",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Mountain Blizzarioths",
+    "slug": "mountain-blizzarioths",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Desperado I",
+    "slug": "desperado-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Poison Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Desperado II",
+    "slug": "desperado-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "The Kid",
+    "slug": "the-kid",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost II",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Khezu Daggers I",
+    "slug": "khezu-daggers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      },
+      {
+        "type": "Paralysis",
+        "attack": 8
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Paralysis Boost I"
+    ]
+  },
+  {
+    "name": "Khezu Daggers II",
+    "slug": "khezu-daggers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      },
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Paralysis Boost I"
+    ]
+  },
+  {
+    "name": "Khezu Skards",
+    "slug": "khezu-skards",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      },
+      {
+        "type": "Paralysis",
+        "attack": 14
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Paralysis Boost II"
+    ]
+  },
+  {
+    "name": "Matched Slicers I",
+    "slug": "matched-slicers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Matched Slicers II",
+    "slug": "matched-slicers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Dual Daggers",
+    "slug": "dual-daggers",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Hurricane I",
+    "slug": "hurricane-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Silk Boost"
+    ]
+  },
+  {
+    "name": "Hurricane II",
+    "slug": "hurricane-ii",
+    "type": "dual_blades",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Silk Boost"
+    ]
+  },
+  {
+    "name": "Cyclone",
+    "slug": "cyclone",
+    "type": "dual_blades",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silk Boost"
+    ]
+  },
+  {
+    "name": "Rex Slicers I",
+    "slug": "rex-slicers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rex Slicers II",
+    "slug": "rex-slicers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tigrex Claws",
+    "slug": "tigrex-claws",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Morning Dawn I",
+    "slug": "morning-dawn-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": []
+  },
+  {
+    "name": "Morning Dawn II",
+    "slug": "morning-dawn-ii",
+    "type": "dual_blades",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Schirmscorn I",
+    "slug": "schirmscorn-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Schirmscorn II",
+    "slug": "schirmscorn-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Daybreak Daggers",
+    "slug": "daybreak-daggers",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Kulu's Peck I",
+    "slug": "kulu-s-peck-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu's Peck II",
+    "slug": "kulu-s-peck-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu's Lasher",
+    "slug": "kulu-s-lasher",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Gelid Mind I",
+    "slug": "gelid-mind-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost I",
+      "Ice Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Gelid Mind II",
+    "slug": "gelid-mind-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost I",
+      "Ice Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Gelid Soul",
+    "slug": "gelid-soul",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost II",
+      "Ice Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Hidden Gemini I",
+    "slug": "hidden-gemini-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Gemini II",
+    "slug": "hidden-gemini-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Night Wings",
+    "slug": "night-wings",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Twin Chainsaws I",
+    "slug": "twin-chainsaws-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Twin Chainsaws II",
+    "slug": "twin-chainsaws-ii",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Guillotines",
+    "slug": "guillotines",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Dual Hatchets I",
+    "slug": "dual-hatchets-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Dual Hatchets II",
+    "slug": "dual-hatchets-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Dual Cleavers",
+    "slug": "dual-cleavers",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Cerulean Axes I",
+    "slug": "cerulean-axes-i",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Cerulean Axes II",
+    "slug": "cerulean-axes-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Ashigara Axes",
+    "slug": "ashigara-axes",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      2
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Flammenschild I",
+    "slug": "flammenschild-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 10
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Flammenschild II",
+    "slug": "flammenschild-ii",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gnashing Flammenschild",
+    "slug": "gnashing-flammenschild",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Bone Hatchets I",
+    "slug": "bone-hatchets-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Bone Hatchets II",
+    "slug": "bone-hatchets-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Wild Hatchets",
+    "slug": "wild-hatchets",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Talon Carvers I",
+    "slug": "talon-carvers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Talon Carvers II",
+    "slug": "talon-carvers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Talon Twins",
+    "slug": "talon-twins",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Twin Flames I",
+    "slug": "twin-flames-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Twin Flames II",
+    "slug": "twin-flames-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Wyvern Lovers",
+    "slug": "wyvern-lovers",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Diablos Bashers I",
+    "slug": "diablos-bashers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": -15,
+    "defense": 10,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Diablos Bashers II",
+    "slug": "diablos-bashers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -15,
+    "defense": 12,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Diablos Mashers",
+    "slug": "diablos-mashers",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 250,
+    "element": [],
+    "affinity": -15,
+    "defense": 16,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Jyura Duo I",
+    "slug": "jyura-duo-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 8
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Jyura Duo II",
+    "slug": "jyura-duo-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Jyura Pulverizers",
+    "slug": "jyura-pulverizers",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Water Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Kadachi Twinblades I",
+    "slug": "kadachi-twinblades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunder Boost II"
+    ]
+  },
+  {
+    "name": "Kadachi Twinblades II",
+    "slug": "kadachi-twinblades-ii",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Thunder Boost II"
+    ]
+  },
+  {
+    "name": "Shockblades",
+    "slug": "shockblades",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Thunder Boost III"
+    ]
+  },
+  {
+    "name": "Blazeblades I",
+    "slug": "blazeblades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 70,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Blazeblades II",
+    "slug": "blazeblades-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Infernal Furies",
+    "slug": "infernal-furies",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 30
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Ludroth Pair I",
+    "slug": "ludroth-pair-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Ludroth Pair II",
+    "slug": "ludroth-pair-ii",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Double Droth",
+    "slug": "double-droth",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Frilled Claw I",
+    "slug": "frilled-claw-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Frilled Claw II",
+    "slug": "frilled-claw-ii",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Illusory Frilled Claw",
+    "slug": "illusory-frilled-claw",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Snow Slicers I",
+    "slug": "snow-slicers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Snow Slicers II",
+    "slug": "snow-slicers-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Snow Sisters",
+    "slug": "snow-sisters",
+    "type": "dual_blades",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Sinister Blades I",
+    "slug": "sinister-blades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Blades II",
+    "slug": "sinister-blades-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Famineblades",
+    "slug": "sinister-famineblades",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Suzuka Takamaru I",
+    "slug": "suzuka-takamaru-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Suzuka Takamaru II",
+    "slug": "suzuka-takamaru-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Azure Elder Blades I",
+    "slug": "azure-elder-blades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 6
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Azure Elder Blades II",
+    "slug": "azure-elder-blades-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Thunderbolt Blades I",
+    "slug": "thunderbolt-blades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Rookslayer Handaxes I",
+    "slug": "rookslayer-handaxes-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rookslayer Handaxes II",
+    "slug": "rookslayer-handaxes-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Bazelhawk Rookslayer",
+    "slug": "bazelhawk-rookslayer",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 7,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Icesteel Fang I",
+    "slug": "icesteel-fang-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Twin Nails I",
+    "slug": "twin-nails-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 24
+      },
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost II",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Rogue Flames I",
+    "slug": "rogue-flames-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Felyne Claws I",
+    "slug": "felyne-claws-i",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 5
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Hellion Mode",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Felyne Claws II",
+    "slug": "felyne-claws-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 8
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Hellion Mode",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Raging Claws",
+    "slug": "raging-claws",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Hellion Mode",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Rainy Jelly I",
+    "slug": "rainy-jelly-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affiinity Boost I",
+      "Paralysis Boost I"
+    ]
+  },
+  {
+    "name": "Rainy Jelly II",
+    "slug": "rainy-jelly-ii",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affiinity Boost",
+      "Paralysis Boost I"
+    ]
+  },
+  {
+    "name": "Rain of Gore",
+    "slug": "rain-of-gore",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affiinity Boost",
+      "Paralysis Boost I"
+    ]
+  },
+  {
+    "name": "Qornu Waga I",
+    "slug": "qornu-waga-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Qornu Waga II",
+    "slug": "qornu-waga-ii",
+    "type": "dual_blades",
+    "slots": [
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Ro Waga",
+    "slug": "ro-waga",
+    "type": "dual_blades",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost III",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Sworn Rapiers I",
+    "slug": "sworn-rapiers-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Sworn Rapiers II",
+    "slug": "sworn-rapiers-ii",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Holy Sabers",
+    "slug": "holy-sabers",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost III",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Altair I",
+    "slug": "altair-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 13
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Master Rider",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Altair II",
+    "slug": "altair-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 22
+      }
+    ],
+    "affinity": 12,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Master Rider",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Fortis Gran",
+    "slug": "fortis-gran",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Master Rider",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Stealth Dango I",
+    "slug": "stealth-dango-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 3
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Stealth Dango II",
+    "slug": "stealth-dango-ii",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 5
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Perfected Dango",
+    "slug": "perfected-dango",
+    "type": "dual_blades",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Rampage Twinblades I",
+    "slug": "rampage-twinblades-i",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Twinblades II",
+    "slug": "rampage-twinblades-ii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Twinblades III",
+    "slug": "rampage-twinblades-iii",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Twinblades IV",
+    "slug": "rampage-twinblades-iv",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Twinblades V",
+    "slug": "rampage-twinblades-v",
+    "type": "dual_blades",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  }
+]

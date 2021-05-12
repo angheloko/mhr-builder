@@ -1,0 +1,2403 @@
+[
+  {
+    "name": "Kamura Cleaver I",
+    "slug": "kamura-cleaver-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Cleaver II",
+    "slug": "kamura-cleaver-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Cleaver III",
+    "slug": "kamura-cleaver-iii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Cleaver IV",
+    "slug": "kamura-cleaver-iv",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Cleaver V",
+    "slug": "kamura-cleaver-v",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Kamura Ninja Cleaver",
+    "slug": "kamura-ninja-cleaver",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Gossblade I",
+    "slug": "gossblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gossblade II",
+    "slug": "gossblade-ii",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Abominable Great Sword",
+    "slug": "abominable-great-sword",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Hanayako Yohino I",
+    "slug": "hanayako-yohino-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Water Boost I"
+    ]
+  },
+  {
+    "name": "Hanayako Yohino II",
+    "slug": "hanayako-yohino-ii",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Axeblade I",
+    "slug": "axeblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dulling Strike",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Axeblade II",
+    "slug": "axeblade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dulling Strike",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Colossal Axeblade",
+    "slug": "colossal-axeblade",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dulling Strike",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Carapace Sword I",
+    "slug": "carapace-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Carapace Sword II",
+    "slug": "carapace-sword-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Carapace Blade",
+    "slug": "carapace-blade",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tiger Jawblade I",
+    "slug": "tiger-jawblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tiger Jawblade II",
+    "slug": "tiger-jawblade-ii",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tigrex Great Sword",
+    "slug": "tigrex-great-sword",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Khezu Shock Sword I",
+    "slug": "khezu-shock-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Khezu Shock Sword II",
+    "slug": "khezu-shock-sword-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Khezu Shock Blade",
+    "slug": "khezu-shock-blade",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Izuchi Blade I",
+    "slug": "izuchi-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 69,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Izuchi Blade II",
+    "slug": "izuchi-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 12,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Snapper Blade",
+    "slug": "snapper-blade",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Deadly Serpentblade I",
+    "slug": "deadly-serpentblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Deadly Serpentblade II",
+    "slug": "deadly-serpentblade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Poison Serpentblade",
+    "slug": "poison-serpentblade",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Hidden Blade I",
+    "slug": "hidden-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Blade II",
+    "slug": "hidden-blade-ii",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Dark of Night",
+    "slug": "dark-of-night",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Frilled Blade I",
+    "slug": "frilled-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Frilled Blade II",
+    "slug": "frilled-blade-ii",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Illusory Frilled Blade",
+    "slug": "illusory-frilled-blade",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Iron Sword I",
+    "slug": "iron-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Steel Sword",
+    "slug": "steel-sword",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Buster Sword I",
+    "slug": "buster-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Buster Blade",
+    "slug": "buster-blade",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Chrome Razor I",
+    "slug": "chrome-razor-i",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Chrome Quietus",
+    "slug": "chrome-quietus",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Barbaroi Blade I",
+    "slug": "barbaroi-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Barbaroi Blade II",
+    "slug": "barbaroi-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Crimson Goat",
+    "slug": "crimson-goat",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Defense Grinder II"
+    ]
+  },
+  {
+    "name": "Pukei Edge I",
+    "slug": "pukei-edge-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": []
+  },
+  {
+    "name": "Pukei Edge II",
+    "slug": "pukei-edge-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": []
+  },
+  {
+    "name": "Datura Cleaver",
+    "slug": "datura-cleaver",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Icicle Fang I",
+    "slug": "icicle-fang-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Icicle Fang II",
+    "slug": "icicle-fang-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 34
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Paladire",
+    "slug": "paladire",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 38
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Blade I",
+    "slug": "aknosom-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Eploit"
+    ]
+  },
+  {
+    "name": "Aknosom Blade II",
+    "slug": "aknosom-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Eploit"
+    ]
+  },
+  {
+    "name": "Daybreak Cleaver",
+    "slug": "daybreak-cleaver",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Eploit"
+    ]
+  },
+  {
+    "name": "Tetranadon Edge I",
+    "slug": "tetranadon-edge-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Tetranadon Edge II",
+    "slug": "tetranadon-edge-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Tetranadon Cutter",
+    "slug": "tetranadon-cutter",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Bone Blade I",
+    "slug": "bone-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 9,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Bone Slasher",
+    "slug": "bone-slasher",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Jawblade I",
+    "slug": "jawblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Giant Jawblade",
+    "slug": "giant-jawblade",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Wyvern Fang I",
+    "slug": "wyvern-fang-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Great Wyvern Fang",
+    "slug": "great-wyvern-fang",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Golem Blade I",
+    "slug": "golem-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Blade of Talos",
+    "slug": "blade-of-talos",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Valkyrie Blade I",
+    "slug": "valkyrie-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Valkyrie Blade II",
+    "slug": "valkyrie-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Sieglinde",
+    "slug": "sieglinde",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Jyura Mudblade I",
+    "slug": "jyura-mudblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Jyura Mudblade II",
+    "slug": "jyura-mudblade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 17
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Terracutter",
+    "slug": "terracutter",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Water Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Red Wing I",
+    "slug": "red-wing-i",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Bonus II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Red Wing II",
+    "slug": "red-wing-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Bonus II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Rathalos Firesword",
+    "slug": "rathalos-firesword",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Quarrel Hornsword I",
+    "slug": "quarrel-hornsword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": -25,
+    "defense": 8,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Quarrel Hornsword II",
+    "slug": "quarrel-hornsword-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -25,
+    "defense": 12,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Feud Hornsword",
+    "slug": "feud-hornsword",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -25,
+    "defense": 16,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Hack Blade I",
+    "slug": "hack-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Dulling Strike",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Hack Blade II",
+    "slug": "hack-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dulling Strike",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Jaggi Greatblade",
+    "slug": "jaggi-greatblade",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dulling Strike",
+      "Defense Grinder I"
+    ]
+  },
+  {
+    "name": "Flammenzahn I",
+    "slug": "flammenzahn-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Flammenzahn II",
+    "slug": "flammenzahn-ii",
+    "type": "great_sword",
+    "slots": [
+      3
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 24
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gnashing Flammenzahn",
+    "slug": "gnashing-flammenzahn",
+    "type": "great_sword",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 26
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Usurper's Storm I",
+    "slug": "usurper-s-storm-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Usurper's Storm II",
+    "slug": "usurper-s-storm-ii",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Cataclysm Sword I",
+    "slug": "cataclysm-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Cataclysm Sword II",
+    "slug": "cataclysm-sword-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Cataclysm Blade",
+    "slug": "cataclysm-blade",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Snowclad I",
+    "slug": "snowclad-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Snowclad II",
+    "slug": "snowclad-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Lagombi Charlotte",
+    "slug": "lagombi-charlotte",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Sinister Blade I",
+    "slug": "sinister-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Blade II",
+    "slug": "sinister-blade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Shadowblade",
+    "slug": "sinister-shadowblade",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Demon Rod I",
+    "slug": "demon-rod-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Demon Rod II",
+    "slug": "demon-rod-ii",
+    "type": "great_sword",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Azure Elder Great Sword I",
+    "slug": "azure-elder-great-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Azure Elder Great Sword II",
+    "slug": "azure-elder-great-sword-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Thunderbolt Great Sword I",
+    "slug": "thunderbolt-great-sword-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Icesteel Edge I",
+    "slug": "icesteel-edge-i",
+    "type": "great_sword",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 40
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Teostra Blade I",
+    "slug": "teostra-blade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Grand Shamshir I",
+    "slug": "grand-shamshir-i",
+    "type": "great_sword",
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 60
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Wyvern's Perch I",
+    "slug": "wyvern-s-perch-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Poison Boost I",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Wyvern's Perch II",
+    "slug": "wyvern-s-perch-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Poison Boost I",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Roguish Deathcap",
+    "slug": "roguish-deathcap",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Poison Boost I",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Sleepy Shellblade I",
+    "slug": "sleepy-shellblade-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Sleepy Shellblade II",
+    "slug": "sleepy-shellblade-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 17,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Soporific Shellblade",
+    "slug": "soporific-shellblade",
+    "type": "great_sword",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Sleep Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Frozen Speartuna I",
+    "slug": "frozen-speartuna-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Element Exploit",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Frozen Speartuna II",
+    "slug": "frozen-speartuna-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 60
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Element Exploit",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Freezer Speartuna",
+    "slug": "freezer-speartuna",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 70
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Element Exploit",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Ninja Parasol I",
+    "slug": "ninja-parasol-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Ninja Parasol II",
+    "slug": "ninja-parasol-ii",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Dragonslayer Parasol",
+    "slug": "dragonslayer-parasol",
+    "type": "great_sword",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Boost III",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Cat's Soul I",
+    "slug": "cat-s-soul-i",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Cat's Soul II",
+    "slug": "cat-s-soul-ii",
+    "type": "great_sword",
+    "slots": [
+      2
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Cat's Curse",
+    "slug": "cat-s-curse",
+    "type": "great_sword",
+    "slots": [
+      3
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dulling Strike",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Rampage Cleaver I",
+    "slug": "rampage-cleaver-i",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Cleaver II",
+    "slug": "rampage-cleaver-ii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Cleaver III",
+    "slug": "rampage-cleaver-iii",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Cleaver IV",
+    "slug": "rampage-cleaver-iv",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Cleaver V",
+    "slug": "rampage-cleaver-v",
+    "type": "great_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  }
+]

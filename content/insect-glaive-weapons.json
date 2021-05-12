@@ -1,0 +1,2426 @@
+[
+  {
+    "name": "Kamura Glaive I",
+    "slug": "kamura-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Glaive II",
+    "slug": "kamura-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Glaive III",
+    "slug": "kamura-glaive-iii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Glaive IV",
+    "slug": "kamura-glaive-iv",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Glaive V",
+    "slug": "kamura-glaive-v",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Kamura Ninja Glaive",
+    "slug": "kamura-ninja-glaive",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Scythe I",
+    "slug": "hidden-scythe-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Scythe II",
+    "slug": "hidden-scythe-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Evening Calm",
+    "slug": "evening-calm",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Fox Halberd I",
+    "slug": "fox-halberd-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity I",
+      "Water Boost I"
+    ]
+  },
+  {
+    "name": "Fox Halberd II",
+    "slug": "fox-halberd-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Frilled Jab I",
+    "slug": "frilled-jab-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Frilled Jab II",
+    "slug": "frilled-jab-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Illusory Frilled Jab",
+    "slug": "illusory-frilled-jab",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Tigrex Kaina I",
+    "slug": "tigrex-kaina-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tigrex Kaina II",
+    "slug": "tigrex-kaina-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tigerclaw Glaive",
+    "slug": "tigerclaw-glaive",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Leaping Glaive I",
+    "slug": "leaping-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Leaping Glaive II",
+    "slug": "leaping-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Leapfrog",
+    "slug": "leapfrog",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Iron Blade I",
+    "slug": "iron-blade-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Iron Blade II",
+    "slug": "iron-blade-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Steel Blade",
+    "slug": "steel-blade",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Iron Bayonet I",
+    "slug": "iron-bayonet-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Iron Bayonet II",
+    "slug": "iron-bayonet-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Hiten Blade",
+    "slug": "hiten-blade",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rathmaul I",
+    "slug": "rathmaul-i",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Rathmaul II",
+    "slug": "rathmaul-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Firedance Rathmaul",
+    "slug": "firedance-rathmaul",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Bolt Chamber I",
+    "slug": "bolt-chamber-i",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Bolt Chamber II",
+    "slug": "bolt-chamber-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Full Bolt Chamber",
+    "slug": "full-bolt-chamber",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Princess Regalia I",
+    "slug": "princess-regalia-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Princess Regalia II",
+    "slug": "princess-regalia-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Queen Regalia",
+    "slug": "queen-regalia",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Pike I",
+    "slug": "aknosom-pike-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Pike II",
+    "slug": "aknosom-pike-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Daybreak Glaive",
+    "slug": "daybreak-glaive",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fire Blight Exploit"
+    ]
+  },
+  {
+    "name": "Kulu Glaive I",
+    "slug": "kulu-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu Glaive II",
+    "slug": "kulu-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu Pike",
+    "slug": "kulu-pike",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kadachi Glaive I",
+    "slug": "kadachi-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunder Boost II"
+    ]
+  },
+  {
+    "name": "Kadachi Glaive II",
+    "slug": "kadachi-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Thunder Boost II"
+    ]
+  },
+  {
+    "name": "Shocking Pike",
+    "slug": "shocking-pike",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Thunder Boost III"
+    ]
+  },
+  {
+    "name": "Lagombaglaive I",
+    "slug": "lagombaglaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Lagombaglaive II",
+    "slug": "lagombaglaive-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Lagombavarice",
+    "slug": "lagombavarice",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Bone Staff I",
+    "slug": "bone-staff-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Bone Staff II",
+    "slug": "bone-staff-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Aerial Glaive",
+    "slug": "aerial-glaive",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Sturdy Glaive I",
+    "slug": "sturdy-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Sturdy Glaive II",
+    "slug": "sturdy-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Sturdy Glaive Redux",
+    "slug": "sturdy-glaive-redux",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Sky-High Glaive I",
+    "slug": "sky-high-glaive-i",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Sky-High Glaive II",
+    "slug": "sky-high-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Highest of Glaives",
+    "slug": "highest-of-glaives",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Diablos Rod I",
+    "slug": "diablos-rod-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Kinsect Level Boost"
+    ]
+  },
+  {
+    "name": "Diablos Rod II",
+    "slug": "diablos-rod-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Kinsect Level Boost"
+    ]
+  },
+  {
+    "name": "Flammenkaefer I",
+    "slug": "flammenkaefer-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Flammenkaefer II",
+    "slug": "flammenkaefer-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gnashing Flammenkaefer",
+    "slug": "gnashing-flammenkaefer",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gossglaive I",
+    "slug": "gossglaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 10
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gossglaive II",
+    "slug": "gossglaive-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Abominable Glaive",
+    "slug": "abominable-glaive",
+    "type": "insect_glaive",
+    "slots": [
+      2
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Ice Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Pukei Rod I",
+    "slug": "pukei-rod-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dulling Strike",
+      "Poison Boost I"
+    ]
+  },
+  {
+    "name": "Pukei Rod II",
+    "slug": "pukei-rod-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Poison Boost I"
+    ]
+  },
+  {
+    "name": "Datura Pike",
+    "slug": "datura-pike",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Amber Piton I",
+    "slug": "amber-piton-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 16
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Amber Piton II",
+    "slug": "amber-piton-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Fenrir Storm",
+    "slug": "fenrir-storm",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Royal Bloom I",
+    "slug": "royal-bloom-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      " Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Royal Bloom II",
+    "slug": "royal-bloom-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      " Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Bloom Royale",
+    "slug": "bloom-royale",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      " Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Royal Bolt Scepter I",
+    "slug": "royal-bolt-scepter-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Royal Bolt Scepter II",
+    "slug": "royal-bolt-scepter-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Despot's Twinbolt",
+    "slug": "despot-s-twinbolt",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Hortadent I",
+    "slug": "hortadent-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Hortadent II",
+    "slug": "hortadent-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost III",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Hortadent Brada",
+    "slug": "hortadent-brada",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Rielle Nulo I",
+    "slug": "rielle-nulo-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo II",
+    "slug": "rielle-nulo-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Unu",
+    "slug": "rielle-unu",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Red I",
+    "slug": "rielle-nulo-red-i",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Red II",
+    "slug": "rielle-nulo-red-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Vermiglio",
+    "slug": "rielle-vermiglio",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Fire Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Black I",
+    "slug": "rielle-nulo-black-i",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Black II",
+    "slug": "rielle-nulo-black-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nerissimo",
+    "slug": "rielle-nerissimo",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo White I",
+    "slug": "rielle-nulo-white-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo White II",
+    "slug": "rielle-nulo-white-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Unu White",
+    "slug": "rielle-unu-white",
+    "type": "insect_glaive",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Ice Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Green I",
+    "slug": "rielle-nulo-green-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Nulo Green II",
+    "slug": "rielle-nulo-green-ii",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ]
+  },
+  {
+    "name": "Rielle Unu Green",
+    "slug": "rielle-unu-green",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ]
+  },
+  {
+    "name": "Sinister Staff I",
+    "slug": "sinister-staff-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Staff II",
+    "slug": "sinister-staff-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Shadowstaff",
+    "slug": "sinister-shadowstaff",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Metal Mauler I",
+    "slug": "metal-mauler-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Metal Mauler II",
+    "slug": "metal-mauler-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Azure Elder Glaive I",
+    "slug": "azure-elder-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Azure Elder Glaive II",
+    "slug": "azure-elder-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Thunderbolt Glaive I",
+    "slug": "thunderbolt-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Daora's Entom I",
+    "slug": "daora-s-entom-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost I",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Caster's Rod I",
+    "slug": "caster-s-rod-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Deathport Staff I",
+    "slug": "deathport-staff-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Deathport Staff II",
+    "slug": "deathport-staff-ii",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Garamorse",
+    "slug": "garamorse",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      2
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Magia Pitareen I",
+    "slug": "magia-pitareen-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 70,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Magia Pitareen II",
+    "slug": "magia-pitareen-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Magia Pitareen III",
+    "slug": "magia-pitareen-iii",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Magia Crescent",
+    "slug": "magia-crescent",
+    "type": "insect_glaive",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Brush Glaive I",
+    "slug": "brush-glaive-i",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 8
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Water Boost II",
+      "Dulling Strike",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Brush Glaive II",
+    "slug": "brush-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 9
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Water Boost III",
+      "Dulling Strike",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Watercolor Glaive",
+    "slug": "watercolor-glaive",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Water Boost IV",
+      "Dulling Strike",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Rampage Glaive I",
+    "slug": "rampage-glaive-i",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Glaive II",
+    "slug": "rampage-glaive-ii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Glaive III",
+    "slug": "rampage-glaive-iii",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Glaive IV",
+    "slug": "rampage-glaive-iv",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Glaive V",
+    "slug": "rampage-glaive-v",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  }
+]

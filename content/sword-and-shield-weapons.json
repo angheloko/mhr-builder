@@ -1,0 +1,2577 @@
+[
+  {
+    "name": "Kamura Sword I",
+    "slug": "kamura-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Sword II",
+    "slug": "kamura-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Sword III",
+    "slug": "kamura-sword-iii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Sword IV",
+    "slug": "kamura-sword-iv",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Sword V",
+    "slug": "kamura-sword-v",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Kamura Niuja Sword",
+    "slug": "kamura-niuja-sword",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      2
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Edge I",
+    "slug": "hidden-edge-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Edge II",
+    "slug": "hidden-edge-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Flash in the Night",
+    "slug": "flash-in-the-night",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hana no Nagoriwo I",
+    "slug": "hana-no-nagoriwo-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Water Boost I"
+    ]
+  },
+  {
+    "name": "Hana no Nagoriwo II",
+    "slug": "hana-no-nagoriwo-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 17
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Kurenawi Ougi",
+    "slug": "kurenawi-ougi",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 19
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Exorcising Sword I",
+    "slug": "exorcising-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Exorcising Sword II",
+    "slug": "exorcising-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Shaucha Pureblade",
+    "slug": "shaucha-pureblade",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Usurper's Firebolt I",
+    "slug": "usurper-s-firebolt-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Usurper's Firebolt II",
+    "slug": "usurper-s-firebolt-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Despot's Crookbolt",
+    "slug": "despot-s-crookbolt",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Dirty Baron I",
+    "slug": "dirty-baron-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Poison Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Dirty Baron II",
+    "slug": "dirty-baron-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Dirty Marquis",
+    "slug": "dirty-marquis",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost II",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Royal Claw I",
+    "slug": "royal-claw-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Royal Claw II",
+    "slug": "royal-claw-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Royal Ludroth Claw Sword & Shield",
+    "slug": "royal-ludroth-claw-sword-shield",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Rex Talon I",
+    "slug": "rex-talon-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rex Talon II",
+    "slug": "rex-talon-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tigrex Sword",
+    "slug": "tigrex-sword",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Frost Edge I",
+    "slug": "frost-edge-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Dulling Strike",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Frost Edge II",
+    "slug": "frost-edge-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Dulling Strike",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Hi Frost Edge",
+    "slug": "hi-frost-edge",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Hunter's Knife I",
+    "slug": "hunter-s-knife-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Hunter's Knife II",
+    "slug": "hunter-s-knife-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Fighter Sword",
+    "slug": "fighter-sword",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Iron Beater I",
+    "slug": "iron-beater-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Iron Beater II",
+    "slug": "iron-beater-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Smithy's Pride",
+    "slug": "smithy-s-pride",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Soldier's Dagger I",
+    "slug": "soldier-s-dagger-i",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Soldier's Dagger II",
+    "slug": "soldier-s-dagger-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Commander's Dagger",
+    "slug": "commander-s-dagger",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Odyssey Blade I",
+    "slug": "odyssey-blade-i",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dragon Exploit",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Odyssey Blade II",
+    "slug": "odyssey-blade-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Dragon Exploit",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Master Odyssey",
+    "slug": "master-odyssey",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Exploit",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Pukei Sword I",
+    "slug": "pukei-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Poison Boost I"
+    ]
+  },
+  {
+    "name": "Pukei Sword II",
+    "slug": "pukei-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      2
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Venomedge",
+    "slug": "venomedge",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      3
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Djinn I",
+    "slug": "djinn-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Djinn II",
+    "slug": "djinn-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Blazing Falchion",
+    "slug": "blazing-falchion",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Icicle Spike I",
+    "slug": "icicle-spike-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Icicle Spike II",
+    "slug": "icicle-spike-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Nardebosche",
+    "slug": "nardebosche",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Cunning Riposte I",
+    "slug": "cunning-riposte-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Cunning Riposte II",
+    "slug": "cunning-riposte-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Guard Breaker",
+    "slug": "guard-breaker",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Khezu Razor I",
+    "slug": "khezu-razor-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Khezu Razor II",
+    "slug": "khezu-razor-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Painful Razor",
+    "slug": "painful-razor",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      2
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Hypnos Knife I",
+    "slug": "hypnos-knife-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Hypnos Knife II",
+    "slug": "hypnos-knife-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Morpheus Knife",
+    "slug": "morpheus-knife",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Bone Kukri I",
+    "slug": "bone-kukri-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Bone Kukri II",
+    "slug": "bone-kukri-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Chief Kukri",
+    "slug": "chief-kukri",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 130,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Bone Barong I",
+    "slug": "bone-barong-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Bone Barong II",
+    "slug": "bone-barong-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Grand Barong",
+    "slug": "grand-barong",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Princess Rapier I",
+    "slug": "princess-rapier-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 14
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Princess Rapier II",
+    "slug": "princess-rapier-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Queen Rapier",
+    "slug": "queen-rapier",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Bone Tabar I",
+    "slug": "bone-tabar-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Brutal Strike",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Bone Tabar II",
+    "slug": "bone-tabar-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Brutal Strike",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Ragdos Tabar",
+    "slug": "ragdos-tabar",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 230,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Burtal Strike",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Carapace Mace I",
+    "slug": "carapace-mace-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Carapace Mace II",
+    "slug": "carapace-mace-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Barroth Club",
+    "slug": "barroth-club",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Studded Club I",
+    "slug": "studded-club-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 160,
+    "element": [],
+    "affinity": -5,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Studded Club II",
+    "slug": "studded-club-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Spiked Bat",
+    "slug": "spiked-bat",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Brash Buddies I",
+    "slug": "brash-buddies-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Brash Buddies II",
+    "slug": "brash-buddies-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Cocky Comrades",
+    "slug": "cocky-comrades",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 25,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Flammensucher I",
+    "slug": "flammensucher-i",
+    "type": "sword_and_shield",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Flammensucher II",
+    "slug": "flammensucher-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Gnashing Flammensucher",
+    "slug": "gnashing-flammensucher",
+    "type": "sword_and_shield",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Fire Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Mincing Blade I",
+    "slug": "mincing-blade-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 10
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Mincing Blade II",
+    "slug": "mincing-blade-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 11
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Chef's Knife",
+    "slug": "chef-s-knife",
+    "type": "sword_and_shield",
+    "slots": [
+      2
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 14
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Izuchi Sickle I",
+    "slug": "izuchi-sickle-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Izuchi Sickle II",
+    "slug": "izuchi-sickle-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 12,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Snapper Sickle",
+    "slug": "snapper-sickle",
+    "type": "sword_and_shield",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Lava Pick I",
+    "slug": "lava-pick-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost II",
+      "Fireblight Exploit",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Lava Pick II",
+    "slug": "lava-pick-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 8,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Fireblight Exploit",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Burly Beak",
+    "slug": "burly-beak",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Fireblight Exploit",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Secta Nulo I",
+    "slug": "secta-nulo-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Defense Boost I",
+      "Affinity Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Secta Unu",
+    "slug": "secta-unu",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Affinity Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Secta Nulo White I",
+    "slug": "secta-nulo-white-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Secta Unu White",
+    "slug": "secta-unu-white",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost III",
+      "Ice Boost IV",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Secta Nulo Black I",
+    "slug": "secta-nulo-black-i",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Secta Nulo Black II",
+    "slug": "secta-nulo-black-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost III",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Secta Unu Black",
+    "slug": "secta-unu-black",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost III",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Secta Nulo Green I",
+    "slug": "secta-nulo-green-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Paralysis Boost I",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Secta Unu Green",
+    "slug": "secta-unu-green",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Paralysis Boost II",
+      "Anti-Aerial Species"
+    ]
+  },
+  {
+    "name": "Secta Nulo Yellow I",
+    "slug": "secta-nulo-yellow-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost III",
+      "Element Exploit",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Secta Unu Yellow",
+    "slug": "secta-unu-yellow",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      3
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Element Exploit",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Secta Nulo Red I",
+    "slug": "secta-nulo-red-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Secta Nulo Red II",
+    "slug": "secta-nulo-red-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Secta Unu Red",
+    "slug": "secta-unu-red",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost III",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Sinister Sword I",
+    "slug": "sinister-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Sword II",
+    "slug": "sinister-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Shadekeeper",
+    "slug": "sinister-shadekeeper",
+    "type": "sword_and_shield",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Rajang Club I",
+    "slug": "rajang-club-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 11
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Rajang Club II",
+    "slug": "rajang-club-ii",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 17
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Azure Elder Sword I",
+    "slug": "azure-elder-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost"
+    ]
+  },
+  {
+    "name": "Azure Elder Sword II",
+    "slug": "azure-elder-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      " Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Thunderbolt Sword I",
+    "slug": "thunderbolt-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Icesteel Dagger I",
+    "slug": "icesteel-dagger-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 31
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Teostra's Spada I",
+    "slug": "teostra-s-spada-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Sleepy Shellsword I",
+    "slug": "sleepy-shellsword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 16,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Sleepy Shellsword II",
+    "slug": "sleepy-shellsword-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 18,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Waking Nightmare",
+    "slug": "waking-nightmare",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Sleep Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Catspaw I",
+    "slug": "catspaw-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Master Rider",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Catspaw II",
+    "slug": "catspaw-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Master Rider",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Catburglar",
+    "slug": "catburglar",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Master Rider",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Ninja Sword I",
+    "slug": "ninja-sword-i",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 50,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Silkbind Boost",
+      "Master Rider",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Hi Ninja Sword",
+    "slug": "hi-ninja-sword",
+    "type": "sword_and_shield",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": 100,
+    "defense": 0,
+    "rarity": 7,
+    "rampSkills": [
+      "Silkbind Boost",
+      "Master Rider",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Rampage Sword I",
+    "slug": "rampage-sword-i",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Sword II",
+    "slug": "rampage-sword-ii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Sword III",
+    "slug": "rampage-sword-iii",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Sword IV",
+    "slug": "rampage-sword-iv",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Sword V",
+    "slug": "rampage-sword-v",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  }
+]

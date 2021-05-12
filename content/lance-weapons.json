@@ -1,0 +1,2517 @@
+[
+  {
+    "name": "Kamura Spear I",
+    "slug": "kamura-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Spear II",
+    "slug": "kamura-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Kamura Spear III",
+    "slug": "kamura-spear-iii",
+    "type": "lance",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Spear IV",
+    "slug": "kamura-spear-iv",
+    "type": "lance",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Kamura Spear V",
+    "slug": "kamura-spear-v",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Kamura Ninja Spear",
+    "slug": "kamura-ninja-spear",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Goss Lance I",
+    "slug": "goss-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 10
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Goss Lance II",
+    "slug": "goss-lance-ii",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Abominable Lance",
+    "slug": "abominable-lance",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 14
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Hana Mo Hana Nare I",
+    "slug": "hana-mo-hana-nare-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 14
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Water Boost I"
+    ]
+  },
+  {
+    "name": "Hana Mo Hana Nare II",
+    "slug": "hana-mo-hana-nare-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Kimi Ga Kiru",
+    "slug": "kimi-ga-kiru",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Naag Serpentblade I",
+    "slug": "naag-serpentblade-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 26
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Naag Serpentblade II",
+    "slug": "naag-serpentblade-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Devta Serpentblade",
+    "slug": "devta-serpentblade",
+    "type": "lance",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 41
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Distension I",
+    "slug": "distension-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Distension II",
+    "slug": "distension-ii",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Croaker",
+    "slug": "croaker",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Water Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Wind Thief Lance I",
+    "slug": "wind-thief-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 70,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Wind Thief Lance II",
+    "slug": "wind-thief-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Gale Lance",
+    "slug": "gale-lance",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 140,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Sharktooth Spear I",
+    "slug": "sharktooth-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Defense Boost I",
+      "Master Rider",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Sharktooth Spear II",
+    "slug": "sharktooth-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Master Rider",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Razortooth Spear",
+    "slug": "razortooth-spear",
+    "type": "lance",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost III",
+      "Master Rider",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Iron Lance I",
+    "slug": "iron-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Iron Lance II",
+    "slug": "iron-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Millennial Lance",
+    "slug": "millennial-lance",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Paladin Lance I",
+    "slug": "paladin-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Paladin Lance II",
+    "slug": "paladin-lance-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Rampart",
+    "slug": "rampart",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Babel Spear I",
+    "slug": "babel-spear-i",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Babel Spear II",
+    "slug": "babel-spear-ii",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Elder Babel Spear",
+    "slug": "elder-babel-spear",
+    "type": "lance",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost III",
+      "Dragon Exploit"
+    ]
+  },
+  {
+    "name": "Venom Lance I",
+    "slug": "venom-lance-i",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 14
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Venom Lance II",
+    "slug": "venom-lance-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 20
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Basarios Venom Spear",
+    "slug": "basarios-venom-spear",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 23
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost III",
+      "Poison Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Hidden Stinger I",
+    "slug": "hidden-stinger-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Hidden Stinger II",
+    "slug": "hidden-stinger-ii",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Night Rains Black",
+    "slug": "night-rains-black",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Growling Wyvern I",
+    "slug": "growling-wyvern-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Growling Wyvern II",
+    "slug": "growling-wyvern-ii",
+    "type": "lance",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Roaring Wyvern",
+    "slug": "roaring-wyvern",
+    "type": "lance",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost III",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Kadachi Lance I",
+    "slug": "kadachi-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 13
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Kadachi Lance II",
+    "slug": "kadachi-lance-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Shockspear",
+    "slug": "shockspear",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Thunderblight Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Lance I",
+    "slug": "aknosom-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Lance II",
+    "slug": "aknosom-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Aknosom Lance III",
+    "slug": "aknosom-lance-iii",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Dawnbreaker Lance",
+    "slug": "dawnbreaker-lance",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost III",
+      "Fireblight Exploit"
+    ]
+  },
+  {
+    "name": "Rugged Lance I",
+    "slug": "rugged-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rugged Lance II",
+    "slug": "rugged-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Barroth Carver",
+    "slug": "barroth-carver",
+    "type": "lance",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": " Drill Lance I",
+    "slug": "drill-lance-i",
+    "type": "lance",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 8
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Drill Lance II",
+    "slug": "drill-lance-ii",
+    "type": "lance",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 11
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Gigadrill Lance",
+    "slug": "gigadrill-lance",
+    "type": "lance",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost III",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Volvi Stroke I",
+    "slug": "volvi-stroke-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Volvi Stroke II",
+    "slug": "volvi-stroke-ii",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Volvi Sweep",
+    "slug": "volvi-sweep",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Heat Lance I",
+    "slug": "heat-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 9
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Heat Lance II",
+    "slug": "heat-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 0,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Heatstinger",
+    "slug": "heatstinger",
+    "type": "lance",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost III",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": " Bone Lance I",
+    "slug": "bone-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Hard Bone Lance",
+    "slug": "hard-bone-lance",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Longhorn Spear I",
+    "slug": "longhorn-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Longtusk Spear",
+    "slug": "longtusk-spear",
+    "type": "lance",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ]
+  },
+  {
+    "name": "Barbarian Tusk I",
+    "slug": "barbarian-tusk-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Barbarian Fang",
+    "slug": "barbarian-fang",
+    "type": "lance",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Tiger Stinger I",
+    "slug": "tiger-stinger-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tiger Stinger II",
+    "slug": "tiger-stinger-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Tusk Lance I",
+    "slug": "tusk-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Tusk Lance II",
+    "slug": "tusk-lance-ii",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 24
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Sabertooth",
+    "slug": "sabertooth",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost III",
+      "Iceblight Exploit"
+    ]
+  },
+  {
+    "name": "Pukei Spear I",
+    "slug": "pukei-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Poison Boost I"
+    ]
+  },
+  {
+    "name": "Pukei Spear II",
+    "slug": "pukei-spear-ii",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Datura Spear",
+    "slug": "datura-spear",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Poison Boost II"
+    ]
+  },
+  {
+    "name": "Red Tail I",
+    "slug": "red-tail-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Spear of Prominence",
+    "slug": "spear-of-prominence",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Red Tail II",
+    "slug": "red-tail-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Spiral Lance I",
+    "slug": "spiral-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Spiral Lance II",
+    "slug": "spiral-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Spiral Splash",
+    "slug": "spiral-splash",
+    "type": "lance",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ]
+  },
+  {
+    "name": "Ploshasta I",
+    "slug": "ploshasta-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Brutal Strike",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Ploshasta II",
+    "slug": "ploshasta-ii",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 180,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost II",
+      "Brutal Strike",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Rhenoshasta",
+    "slug": "rhenoshasta",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Brutal Strike",
+      "Small Monster Exploit"
+    ]
+  },
+  {
+    "name": "Diablos Lance I",
+    "slug": "diablos-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Diablos Lance II",
+    "slug": "diablos-lance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 240,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Diablos Spear",
+    "slug": "diablos-spear",
+    "type": "lance",
+    "slots": [],
+    "attack": 250,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Kulu Spear I",
+    "slug": "kulu-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu Spear II",
+    "slug": "kulu-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 110,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Kulu Skewer",
+    "slug": "kulu-skewer",
+    "type": "lance",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 25,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Usurper's Coming I",
+    "slug": "usurper-s-coming-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Usurper's Coming II",
+    "slug": "usurper-s-coming-ii",
+    "type": "lance",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Despot's Cacophony",
+    "slug": "despot-s-cacophony",
+    "type": "lance",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Azure Crest I",
+    "slug": "azure-crest-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 70,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 1,
+    "rampSkills": [
+      "Affinty Boost I",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Azure Crest II",
+    "slug": "azure-crest-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Azure Crest III",
+    "slug": "azure-crest-iii",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Great Azure",
+    "slug": "great-azure",
+    "type": "lance",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ]
+  },
+  {
+    "name": "Sinister Spear I",
+    "slug": "sinister-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Spear II",
+    "slug": "sinister-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Sinister Shadespear",
+    "slug": "sinister-shadespear",
+    "type": "lance",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ]
+  },
+  {
+    "name": "Demon Lance I",
+    "slug": "demon-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 5
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Demon Lance II",
+    "slug": "demon-lance-ii",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 7
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Azure Elder Spear I",
+    "slug": "azure-elder-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 6
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ]
+  },
+  {
+    "name": "Azure Elder Spear II",
+    "slug": "azure-elder-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Thunderbolt Spear I",
+    "slug": "thunderbolt-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial",
+      "Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Rookslayer Lance I",
+    "slug": "rookslayer-lance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rookslayer Lance II",
+    "slug": "rookslayer-lance-ii",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Bazel Myniad Lance",
+    "slug": "bazel-myniad-lance",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Icesteel Spear I",
+    "slug": "icesteel-spear-i",
+    "type": "lance",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Teostra's Howl I",
+    "slug": "teostra-s-howl-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Plegis Needle I",
+    "slug": "plegis-needle-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Paralysis Boost I",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Plegis Needle II",
+    "slug": "plegis-needle-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Paralysis Boost I",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ]
+  },
+  {
+    "name": "Mighty Plegis",
+    "slug": "mighty-plegis",
+    "type": "lance",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Paralysis Boost I",
+      "Dulling Strike",
+      "Spiribird Double"
+    ]
+  },
+  {
+    "name": "Alacrantze I",
+    "slug": "alacrantze-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Defense Boost I",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Alacrantze II",
+    "slug": "alacrantze-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 130,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 3,
+    "rampSkills": [
+      "Defense Boost II",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Alacrantze III",
+    "slug": "alacrantze-iii",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 4,
+    "rampSkills": [
+      "Defense Boost II",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Scorpion Lance",
+    "slug": "scorpion-lance",
+    "type": "lance",
+    "slots": [
+      3
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rarity": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Poison Boost I",
+      "Silkbind Boost"
+    ]
+  },
+  {
+    "name": "Fragrance I",
+    "slug": "fragrance-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Fragrance II",
+    "slug": "fragrance-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Boost II",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Classy Fragrance",
+    "slug": "classy-fragrance",
+    "type": "lance",
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost III",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Rampage Spear I",
+    "slug": "rampage-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Spear II",
+    "slug": "rampage-spear-ii",
+    "type": "lance",
+    "slots": [],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Spear III",
+    "slug": "rampage-spear-iii",
+    "type": "lance",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 5,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Spear IV",
+    "slug": "rampage-spear-iv",
+    "type": "lance",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Rampage Spear V",
+    "slug": "rampage-spear-v",
+    "type": "lance",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  }
+]

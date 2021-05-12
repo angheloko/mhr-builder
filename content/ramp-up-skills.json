@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Attack Boost I",
+    "slug": "attack-boost-i"
+  },
+  {
+    "name": "Attack Boost II",
+    "slug": "attack-boost-ii"
+  },
+  {
+    "name": "Attack Boost III",
+    "slug": "attack-boost-iii"
+  },
+  {
+    "name": "Attack Boost IV",
+    "slug": "attack-boost-iv"
+  },
+  {
+    "name": "Affinity Boost I",
+    "slug": "affinity-boost-i"
+  },
+  {
+    "name": "Affinity Boost II",
+    "slug": "affinity-boost-ii"
+  },
+  {
+    "name": "Affinity Boost III",
+    "slug": "affinity-boost-iii"
+  },
+  {
+    "name": "Affinity Boost IV",
+    "slug": "affinity-boost-iv"
+  },
+  {
+    "name": "Defense Boost I",
+    "slug": "defense-boost-i"
+  },
+  {
+    "name": "Defense Boost II",
+    "slug": "defense-boost-ii"
+  },
+  {
+    "name": "Defense Boost III",
+    "slug": "defense-boost-iii"
+  },
+  {
+    "name": "Master Rider",
+    "slug": "master-rider"
+  },
+  {
+    "name": "Spread Effect I",
+    "slug": "spread-effect-i"
+  },
+  {
+    "name": "Spread Effect II",
+    "slug": "spread-effect-ii"
+  },
+  {
+    "name": "Silkbind Boost",
+    "slug": "silkbind-boost"
+  },
+  {
+    "name": "Thunderblight Exploit",
+    "slug": "thunderblight-exploit"
+  },
+  {
+    "name": "Pierce Effect I",
+    "slug": "pierce-effect-i"
+  },
+  {
+    "name": "Pierce Effect II",
+    "slug": "pierce-effect-ii"
+  },
+  {
+    "name": "Brutal Strike",
+    "slug": "brutal-strike"
+  },
+  {
+    "name": "Dragon Exploit",
+    "slug": "dragon-exploit"
+  },
+  {
+    "name": "Anti-Aquatic Species",
+    "slug": "anti-aquatic-species"
+  },
+  {
+    "name": "Element Exploit",
+    "slug": "element-exploit"
+  },
+  {
+    "name": "Fireblight Exploit",
+    "slug": "fireblight-exploit"
+  },
+  {
+    "name": "Sticky Effect I",
+    "slug": "sticky-effect-i"
+  },
+  {
+    "name": "Small Monster Exploit",
+    "slug": "small-monster-exploit"
+  },
+  {
+    "name": "Buddy Rally",
+    "slug": "buddy-rally"
+  },
+  {
+    "name": "Cluster Effect I",
+    "slug": "cluster-effect-i"
+  },
+  {
+    "name": "Cluster Effect II",
+    "slug": "cluster-effect-ii"
+  },
+  {
+    "name": "Normal Effect I",
+    "slug": "normal-effect-i"
+  },
+  {
+    "name": "Normal Effect II",
+    "slug": "normal-effect-ii"
+  },
+  {
+    "name": "Waterblight Exploit",
+    "slug": "waterblight-exploit"
+  },
+  {
+    "name": "Magnamalo Soul",
+    "slug": "magnamalo-soul"
+  },
+  {
+    "name": "Anti-Aerial Species",
+    "slug": "anti-aerial-species"
+  },
+  {
+    "name": "Fire Boost I",
+    "slug": "fire-boost-i"
+  },
+  {
+    "name": "Fire Boost II",
+    "slug": "fire-boost-ii"
+  },
+  {
+    "name": "Fire Boost III",
+    "slug": "fire-boost-iii"
+  },
+  {
+    "name": "Water Boost I",
+    "slug": "water-boost-i"
+  },
+  {
+    "name": "Water Boost II",
+    "slug": "water-boost-ii"
+  },
+  {
+    "name": "Water Boost III",
+    "slug": "water-boost-iii"
+  },
+  {
+    "name": "Water Boost IV",
+    "slug": "water-boost-iv"
+  },
+  {
+    "name": "Lasting Arc Shot",
+    "slug": "lasting-arc-shot"
+  },
+  {
+    "name": "Thunder Boost I",
+    "slug": "thunder-boost-i"
+  },
+  {
+    "name": "Thunder Boost II",
+    "slug": "thunder-boost-ii"
+  },
+  {
+    "name": "Thunder Boost III",
+    "slug": "thunder-boost-iii"
+  },
+  {
+    "name": "Iceblight Exploit",
+    "slug": "iceblight-exploit"
+  },
+  {
+    "name": "Sleep Coating Boost",
+    "slug": "sleep-coating-boost"
+  },
+  {
+    "name": "Spiribird Doubled",
+    "slug": "spiribird-doubled"
+  },
+  {
+    "name": "Poison Coating Boost",
+    "slug": "poison-coating-boost"
+  },
+  {
+    "name": "Paralysis Coating Boost",
+    "slug": "paralysis-coating-boost"
+  },
+  {
+    "name": "Dragon Boost I",
+    "slug": "dragon-boost-i"
+  },
+  {
+    "name": "Dragon Boost II",
+    "slug": "dragon-boost-ii"
+  },
+  {
+    "name": "Dragon Boost III",
+    "slug": "dragon-boost-iii"
+  },
+  {
+    "name": "Ice Boost I",
+    "slug": "ice-boost-i"
+  },
+  {
+    "name": "Ice Boost II",
+    "slug": "ice-boost-ii"
+  },
+  {
+    "name": "Ice Boost III",
+    "slug": "ice-boost-iii"
+  },
+  {
+    "name": "Ice Boost IV",
+    "slug": "ice-boost-iv"
+  },
+  {
+    "name": "Blast Boost I",
+    "slug": "blast-boost-i"
+  },
+  {
+    "name": "Blast Boost II",
+    "slug": "blast-boost-ii"
+  },
+  {
+    "name": "Blast Boost III",
+    "slug": "blast-boost-iii"
+  },
+  {
+    "name": "Ibushi Soul",
+    "slug": "ibushi-soul"
+  },
+  {
+    "name": "Sleep Boost I",
+    "slug": "sleep-boost-i"
+  },
+  {
+    "name": "Sleep Boost II",
+    "slug": "sleep-boost-ii"
+  },
+  {
+    "name": "Sleep Boost III",
+    "slug": "sleep-boost-iii"
+  },
+  {
+    "name": "Dulling Strike",
+    "slug": "dulling-strike"
+  },
+  {
+    "name": "Poison Boost I",
+    "slug": "poison-boost-i"
+  },
+  {
+    "name": "Poison Boost II",
+    "slug": "poison-boost-ii"
+  },
+  {
+    "name": "Poison Boost III",
+    "slug": "poison-boost-iii"
+  },
+  {
+    "name": "Kinsect Level Boost I",
+    "slug": "kinsect-level-boost-i"
+  },
+  {
+    "name": "Kinsect Level Boost II",
+    "slug": "kinsect-level-boost-ii"
+  },
+  {
+    "name": "Kinsect Level Boost III",
+    "slug": "kinsect-level-boost-iii"
+  },
+  {
+    "name": "Paralysis Boost I",
+    "slug": "paralysis-boost-i"
+  },
+  {
+    "name": "Paralysis Boost II",
+    "slug": "paralysis-boost-ii"
+  },
+  {
+    "name": "Paralysis Boost III",
+    "slug": "paralysis-boost-iii"
+  },
+  {
+    "name": "Narwa Soul",
+    "slug": "narwa-soul"
+  },
+  {
+    "name": "Boost Equipped Coating",
+    "slug": "boost-equipped-coating"
+  },
+  {
+    "name": "Wyrmstake Boost",
+    "slug": "wyrmstake-boost"
+  },
+  {
+    "name": "Defense Grinder I",
+    "slug": "defense-grinder-i"
+  },
+  {
+    "name": "Defense Grinder II",
+    "slug": "defense-grinder-ii"
+  },
+  {
+    "name": "Hellion Mode",
+    "slug": "hellion-mode"
+  },
+  {
+    "name": "Maximum Volume",
+    "slug": "maximum-volume"
+  },
+  {
+    "name": "Coating Switch Boost",
+    "slug": "coating-switch-boost"
+  }
+]

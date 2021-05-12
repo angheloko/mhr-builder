@@ -1,0 +1,1789 @@
+[
+  {
+    "name": "Chainmail Belt S",
+    "type": "waist",
+    "slug": "chainmail-belt-s",
+    "skills": [
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Hunter's Coil S",
+    "type": "waist",
+    "slug": "hunter-s-coil-s",
+    "skills": [
+      {
+        "name": "Stun Resistance",
+        "slug": "stun-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Izuchi Coil S",
+    "type": "waist",
+    "slug": "izuchi-coil-s",
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Arzuros Coil S",
+    "type": "waist",
+    "slug": "arzuros-coil-s",
+    "skills": [
+      {
+        "name": "Counterstrike",
+        "slug": "counterstrike",
+        "level": 1
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bnahabra Coil S",
+    "type": "waist",
+    "slug": "bnahabra-coil-s",
+    "skills": [
+      {
+        "name": "Paralysis Attack",
+        "slug": "paralysis-attack",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 34,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aknosom Coil S",
+    "type": "waist",
+    "slug": "aknosom-coil-s",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "slug": "quick-sheath",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Baggi Coil S",
+    "type": "waist",
+    "slug": "baggi-coil-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      },
+      {
+        "name": "Sleep Resistance",
+        "slug": "sleep-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Lagombi Coil S",
+    "type": "waist",
+    "slug": "lagombi-coil-s",
+    "skills": [
+      {
+        "name": "Constitution",
+        "slug": "constitution",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 36,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Alloy Coil S",
+    "type": "waist",
+    "slug": "alloy-coil-s",
+    "skills": [
+      {
+        "name": "Water Attack",
+        "slug": "water-attack",
+        "level": 2
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bone Coil S",
+    "type": "waist",
+    "slug": "bone-coil-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Droth Coil S",
+    "type": "waist",
+    "slug": "droth-coil-s",
+    "skills": [
+      {
+        "name": "Diversion",
+        "slug": "diversion",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Coil S",
+    "type": "waist",
+    "slug": "kulu-ya-ku-coil-s",
+    "skills": [
+      {
+        "name": "Stamina Thief",
+        "slug": "stamina-thief",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Wroggi Coil S",
+    "type": "waist",
+    "slug": "wroggi-coil-s",
+    "skills": [],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ludroth Coil S",
+    "type": "waist",
+    "slug": "ludroth-coil-s",
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "slug": "marathon-runner",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barroth Coil S",
+    "type": "waist",
+    "slug": "barroth-coil-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 2
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Khezu Coil S",
+    "type": "waist",
+    "slug": "khezu-coil-s",
+    "skills": [
+      {
+        "name": "Focus",
+        "slug": "focus",
+        "level": 1
+      },
+      {
+        "name": "Slugger",
+        "slug": "slugger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 38,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Tetranadon Coil S",
+    "type": "waist",
+    "slug": "tetranadon-coil-s",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ingot Coil S",
+    "type": "waist",
+    "slug": "ingot-coil-s",
+    "skills": [
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Uroktor Coil S",
+    "type": "waist",
+    "slug": "uroktor-coil-s",
+    "skills": [
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Remobra Belt S",
+    "type": "waist",
+    "slug": "remobra-belt-s",
+    "skills": [
+      {
+        "name": "Critical Element",
+        "slug": "critical-element",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Bishaten Coil S",
+    "type": "waist",
+    "slug": "bishaten-coil-s",
+    "skills": [
+      {
+        "name": "Item Prolonger",
+        "slug": "item-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Basarios Coil S",
+    "type": "waist",
+    "slug": "basarios-coil-s",
+    "skills": [
+      {
+        "name": "Speed Sharpening",
+        "slug": "speed-sharpening",
+        "level": 2
+      },
+      {
+        "name": "Defense Boost",
+        "slug": "defense-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Volvidon Coil S",
+    "type": "waist",
+    "slug": "volvidon-coil-s",
+    "skills": [
+      {
+        "name": "Rapid Morph",
+        "slug": "rapid-morph",
+        "level": 1
+      },
+      {
+        "name": "Bludgeoner",
+        "slug": "bludgeoner",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 50,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "D. Stench Bowels S",
+    "type": "waist",
+    "slug": "d-stench-bowels-s",
+    "skills": [
+      {
+        "name": "Protective Polish",
+        "slug": "protective-polish",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhenoplos Coil S",
+    "type": "waist",
+    "slug": "rhenoplos-coil-s",
+    "skills": [
+      {
+        "name": "Tremor Resistance",
+        "slug": "tremor-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 42,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "S. Studded Sash S",
+    "type": "waist",
+    "slug": "s-studded-sash-s",
+    "skills": [
+      {
+        "name": "Aim Booster",
+        "slug": "aim-booster",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Somnacanth Coil S",
+    "type": "waist",
+    "slug": "somnacanth-coil-s",
+    "skills": [
+      {
+        "name": "Sleep Attack",
+        "slug": "sleep-attack",
+        "level": 1
+      },
+      {
+        "name": "Bombardier",
+        "slug": "bombardier",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Rathian Coil S",
+    "type": "waist",
+    "slug": "rathian-coil-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 2
+      },
+      {
+        "name": "Wide-Range",
+        "slug": "wide-range",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Barioth Coil S",
+    "type": "waist",
+    "slug": "barioth-coil-s",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "slug": "critical-draw",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tobi-Kadachi Coil S",
+    "type": "waist",
+    "slug": "tobi-kadachi-coil-s",
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "slug": "mind-s-eye",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 58,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Medium's Obi S",
+    "type": "waist",
+    "slug": "medium-s-obi-s",
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Tassets S (Visible)",
+    "type": "waist",
+    "slug": "utsushi-tassets-s-visible",
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "slug": "speed-eating",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Channeler's Obi S",
+    "type": "waist",
+    "slug": "channeler-s-obi-s",
+    "skills": [
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Utsushi Tassets S (Hidden)",
+    "type": "waist",
+    "slug": "utsushi-tassets-s-hidden",
+    "skills": [
+      {
+        "name": "Agitator",
+        "slug": "agitator",
+        "level": 2
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Sinister Tassets S",
+    "type": "waist",
+    "slug": "sinister-tassets-s",
+    "skills": [
+      {
+        "name": "Hellfire Cloak",
+        "slug": "hellfire-cloak",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Almudron Coil S",
+    "type": "waist",
+    "slug": "almudron-coil-s",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Zinogre Coil S",
+    "type": "waist",
+    "slug": "zinogre-coil-s",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Mizutsune Coil S",
+    "type": "waist",
+    "slug": "mizutsune-coil-s",
+    "skills": [
+      {
+        "name": "Buddly Dance",
+        "slug": "buddly-dance",
+        "level": 1
+      },
+      {
+        "name": "Free Meal",
+        "slug": "free-meal",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Nargacuga Coil S",
+    "type": "waist",
+    "slug": "nargacuga-coil-s",
+    "skills": [
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Anjanath Coil S",
+    "type": "waist",
+    "slug": "anjanath-coil-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 60,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Pukei-Pukei Coil S",
+    "type": "waist",
+    "slug": "pukei-pukei-coil-s",
+    "skills": [
+      {
+        "name": "Spare Shot",
+        "slug": "spare-shot",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 50,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Goss Harag Coil S",
+    "type": "waist",
+    "slug": "goss-harag-coil-s",
+    "skills": [
+      {
+        "name": "Punishing Draw",
+        "slug": "punishing-draw",
+        "level": 1
+      },
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 4,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kamura Obi S",
+    "type": "waist",
+    "slug": "kamura-obi-s",
+    "skills": [
+      {
+        "name": "Wirebug Whisperer",
+        "slug": "wirebug-whisperer",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Leather Belt S",
+    "type": "waist",
+    "slug": "leather-belt-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      },
+      {
+        "name": "Hunger Resistance",
+        "slug": "hunger-resistance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 30,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rathalos Coil S",
+    "type": "waist",
+    "slug": "rathalos-coil-s",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      },
+      {
+        "name": "Windproof",
+        "slug": "windproof",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rhopessa Elytra S",
+    "type": "waist",
+    "slug": "rhopessa-elytra-s",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Aelucanth Elytra S",
+    "type": "waist",
+    "slug": "img-aelucanth-elytra-s",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Jyuratodus Coil",
+    "type": "waist",
+    "slug": "jyuratodus-coil",
+    "skills": [
+      {
+        "name": "Guard Up",
+        "slug": "guard-up",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Offensive Guard",
+        "slug": "offensive-guard",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 5,
+    "baseDefense": 48,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Dober Coil",
+    "type": "waist",
+    "slug": "dober-coil",
+    "skills": [
+      {
+        "name": "Dragon Attack",
+        "slug": "dragon-attack",
+        "level": 1
+      },
+      {
+        "name": "Attack Boost",
+        "slug": "attack-boost",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4
+  },
+  {
+    "name": "Makluva Coil S",
+    "type": "waist",
+    "slug": "makluva-coil-s",
+    "skills": [
+      {
+        "name": "Sleep Resistance",
+        "slug": "sleep-resistance",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Melahoa Folia S",
+    "type": "waist",
+    "slug": "melahoa-folia-s",
+    "skills": [
+      {
+        "name": "Botanist",
+        "slug": "botanist",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Edel Folia S",
+    "type": "waist",
+    "slug": "edel-folia-s",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "slug": "recovery-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 4,
+    "baseDefense": 40,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Ibushi's Fauld",
+    "type": "waist",
+    "slug": "ibushi-s-fauld",
+    "skills": [
+      {
+        "name": "Wind Alignment",
+        "slug": "wind-alignment",
+        "level": 1
+      },
+      {
+        "name": "Power Prolonger",
+        "slug": "power-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Evade Window",
+        "slug": "evade-window",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 66,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Rakna Coil",
+    "type": "waist",
+    "slug": "rakna-coil",
+    "skills": [
+      {
+        "name": "Spread Up",
+        "slug": "spread-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 66,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 1
+  },
+  {
+    "name": "Chrome Metal Coil",
+    "type": "waist",
+    "slug": "chrome-metal-coil",
+    "skills": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 46,
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Golden Obi",
+    "type": "waist",
+    "slug": "golden-obi",
+    "skills": [
+      {
+        "name": "Heroics",
+        "slug": "heroics",
+        "level": 1
+      },
+      {
+        "name": "Critical Boost",
+        "slug": "critical-boost",
+        "level": 1
+      },
+      {
+        "name": "Maximum Might",
+        "slug": "maximum-might",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 70,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  },
+  {
+    "name": "Narwa's Fauld",
+    "type": "waist",
+    "slug": "narwa-s-fauld",
+    "skills": [
+      {
+        "name": "Thunder Alignment",
+        "slug": "thunder-alignment",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Artillery",
+        "slug": "artillery",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 7,
+    "baseDefense": 76,
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Diablos Coil S",
+    "type": "waist",
+    "slug": "diablos-coil-s",
+    "skills": [
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      },
+      {
+        "name": "Stamina Surge",
+        "slug": "stamina-surge",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Tigrex Coil S",
+    "type": "waist",
+    "slug": "tigrex-coil-s",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 64,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Jelly Coil S",
+    "type": "waist",
+    "slug": "jelly-coil-s",
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "slug": "partbreaker",
+        "level": 2
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mosgharl Folia S",
+    "type": "waist",
+    "slug": "mosgharl-folia-s",
+    "skills": [
+      {
+        "name": "Fire Attack",
+        "slug": "fire-attack",
+        "level": 3
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Vaik Coil S",
+    "type": "waist",
+    "slug": "vaik-coil-s",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "slug": "normal-rapid-up",
+        "level": 1
+      }
+    ],
+    "slots": [],
+    "rarity": 5,
+    "baseDefense": 52,
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Spio Elytra S",
+    "type": "waist",
+    "slug": "spio-elytra-s",
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Skalda Elytra S",
+    "type": "waist",
+    "slug": "img-skalda-elytra-s",
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 2
+      }
+    ],
+    "slots": [],
+    "rarity": 4,
+    "baseDefense": 32,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 3
+  },
+  {
+    "name": "Damascus Coil",
+    "type": "waist",
+    "slug": "damascus-coil",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "slug": "earplugs",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 68,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Bazelgeuse Coil",
+    "type": "waist",
+    "slug": "bazelgeuse-coil",
+    "skills": [
+      {
+        "name": "Load Shells",
+        "slug": "load-shells",
+        "level": 1
+      },
+      {
+        "name": "Guard",
+        "slug": "guard",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rarity": 7,
+    "baseDefense": 72,
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Mizuha Sash",
+    "type": "waist",
+    "slug": "mizuha-sash",
+    "skills": [
+      {
+        "name": "Chamaleos Blessing",
+        "slug": "chamaleos-blessing",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 1
+      },
+      {
+        "name": "Peak Performance",
+        "slug": "peak-performance",
+        "level": 2
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kushala Cocoon",
+    "type": "waist",
+    "slug": "kushala-cocoon",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "slug": "kushala-blessing",
+        "level": 1
+      },
+      {
+        "name": "Recovery Speed",
+        "slug": "recovery-speed",
+        "level": 1
+      },
+      {
+        "name": "Handicraft",
+        "slug": "handicraft",
+        "level": 1
+      },
+      {
+        "name": "Pierce Up",
+        "slug": "pierce-up",
+        "level": 1
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Kaiser Coil",
+    "type": "waist",
+    "slug": "kaiser-coil",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "slug": "teostra-blessing",
+        "level": 1
+      },
+      {
+        "name": "Critical Eye",
+        "slug": "critical-eye",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "rarity": 7,
+    "baseDefense": 74,
+    "fireResistance": 4,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0
+  },
+  {
+    "name": "Brigade Coil S",
+    "type": "waist",
+    "slug": "brigade-coil-s",
+    "skills": [
+      {
+        "name": "Good Luck",
+        "slug": "good-luck",
+        "level": 1
+      }
+    ],
+    "slots": [
+      3,
+      1
+    ],
+    "rarity": 6,
+    "baseDefense": 62,
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2
+  }
+]

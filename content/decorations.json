@@ -1,0 +1,709 @@
+[
+  {
+    "name": "Absorber Jewel 1",
+    "slug": "absorber-jewel-1",
+    "skill": "Recoil Down",
+    "skillSlug": "recoil-down",
+    "level": 1
+  },
+  {
+    "name": "Antiblast Jewel 1",
+    "slug": "antiblast-jewel-1",
+    "skill": "Blast Resistance",
+    "skillSlug": "blast-resistance",
+    "level": 1
+  },
+  {
+    "name": "Antidote Jewel 1",
+    "slug": "antidote-jewel-1",
+    "skill": "Poison Resistance",
+    "skillSlug": "poison-resistance",
+    "level": 1
+  },
+  {
+    "name": "Antipara Jewel 1",
+    "slug": "antipara-jewel-1",
+    "skill": "Paralysis Resistance",
+    "skillSlug": "paralysis-resistance",
+    "level": 1
+  },
+  {
+    "name": "Blaze Jewel 1",
+    "slug": "blaze-jewel-1",
+    "skill": "Fire Attack",
+    "skillSlug": "fire-attack",
+    "level": 1
+  },
+  {
+    "name": "Bolt Jewel 1",
+    "slug": "bolt-jewel-1",
+    "skill": "Thunder Attack",
+    "skillSlug": "thunder-attack",
+    "level": 1
+  },
+  {
+    "name": "Bomber Jewel 1",
+    "slug": "bomber-jewel-1",
+    "skill": "Bombardier",
+    "skillSlug": "bombardier",
+    "level": 1
+  },
+  {
+    "name": "Botany Jewel 1",
+    "slug": "botany-jewel-1",
+    "skill": "Botanist",
+    "skillSlug": "botanist",
+    "level": 1
+  },
+  {
+    "name": "Brace Jewel 1",
+    "slug": "brace-jewel-1",
+    "skill": "Flinch Free",
+    "skillSlug": "flinch-free",
+    "level": 1
+  },
+  {
+    "name": "Carver Jewel 1",
+    "slug": "carver-jewel-1",
+    "skill": "Carving Pro",
+    "skillSlug": "carving-pro",
+    "level": 1
+  },
+  {
+    "name": "Defense Jewel 1",
+    "slug": "defense-jewel-1",
+    "skill": "Defense Boost",
+    "skillSlug": "defense-boost",
+    "level": 1
+  },
+  {
+    "name": "Dive Jewel 1",
+    "slug": "dive-jewel-1",
+    "skill": "Leap of Faith",
+    "skillSlug": "leap-of-faith",
+    "level": 1
+  },
+  {
+    "name": "Diversion Jewel 1",
+    "slug": "diversion-jewel-1",
+    "skill": "Diversion",
+    "skillSlug": "diversion",
+    "level": 1
+  },
+  {
+    "name": "Dragon Jewel 1",
+    "slug": "dragon-jewel-1",
+    "skill": "Dragon Attack",
+    "skillSlug": "dragon-attack",
+    "level": 1
+  },
+  {
+    "name": "Dragon Res Jewel 1",
+    "slug": "dragon-res-jewel-1",
+    "skill": "Dragon Resistance",
+    "skillSlug": "dragon-resistance",
+    "level": 1
+  },
+  {
+    "name": "Drain Jewel 1",
+    "slug": "drain-jewel-1",
+    "skill": "Stamina Thief",
+    "skillSlug": "stamina-thief",
+    "level": 1
+  },
+  {
+    "name": "Fire Res Jewel 1",
+    "slug": "fire-res-jewel-1",
+    "skill": "Fire Resistance",
+    "skillSlug": "fire-resistance",
+    "level": 1
+  },
+  {
+    "name": "Frost Jewel 1",
+    "slug": "frost-jewel-1",
+    "skill": "Ice Attack",
+    "skillSlug": "ice-attack",
+    "level": 1
+  },
+  {
+    "name": "Geology Jewel 1",
+    "slug": "geology-jewel-1",
+    "skill": "Geologist",
+    "skillSlug": "geologist",
+    "level": 1
+  },
+  {
+    "name": "Grinder Jewel 1",
+    "slug": "grinder-jewel-1",
+    "skill": "Speed Sharpening",
+    "skillSlug": "speed-sharpening",
+    "level": 1
+  },
+  {
+    "name": "Hungerless Jewel 1",
+    "slug": "hungerless-jewel-1",
+    "skill": "Hunger Resistance",
+    "skillSlug": "hunger-resistance",
+    "level": 1
+  },
+  {
+    "name": "Ice Res Jewel 1",
+    "slug": "ice-res-jewel-1",
+    "skill": "Ice Resistance",
+    "skillSlug": "ice-resistance",
+    "level": 1
+  },
+  {
+    "name": "Muck Jewel 1",
+    "slug": "muck-jewel-1",
+    "skill": "Muck Resistance",
+    "skillSlug": "muck-resistance",
+    "level": 1
+  },
+  {
+    "name": "Pep Jewel 1",
+    "slug": "pep-jewel-1",
+    "skill": "Sleep Resistance",
+    "skillSlug": "sleep-resistance",
+    "level": 1
+  },
+  {
+    "name": "Quickload Jewel 1",
+    "slug": "quickload-jewel-1",
+    "skill": "Reload Speed",
+    "skillSlug": "reload-speed",
+    "level": 1
+  },
+  {
+    "name": "Recovery Jewel 1",
+    "slug": "recovery-jewel-1",
+    "skill": "Recovery Speed",
+    "skillSlug": "recovery-speed",
+    "level": 1
+  },
+  {
+    "name": "Satiated Jewel 1",
+    "slug": "satiated-jewel-1",
+    "skill": "Free Meal",
+    "skillSlug": "free-meal",
+    "level": 1
+  },
+  {
+    "name": "Slider Jewel 1",
+    "slug": "slider-jewel-1",
+    "skill": "Affinity Sliding",
+    "skillSlug": "affinity-sliding",
+    "level": 1
+  },
+  {
+    "name": "Sniper Jewel 1",
+    "slug": "sniper-jewel-1",
+    "skill": "Steadiness",
+    "skillSlug": "steadiness",
+    "level": 1
+  },
+  {
+    "name": "Sonorous Jewel 1",
+    "slug": "sonorous-jewel-1",
+    "skill": "Horn Maestro",
+    "skillSlug": "horn-maestro",
+    "level": 1
+  },
+  {
+    "name": "Steadfast Jewel 1",
+    "slug": "steadfast-jewel-1",
+    "skill": "Stun Resistance",
+    "skillSlug": "stun-resistance",
+    "level": 1
+  },
+  {
+    "name": "Stream Jewel 1",
+    "slug": "stream-jewel-1",
+    "skill": "Water Attack",
+    "skillSlug": "water-attack",
+    "level": 1
+  },
+  {
+    "name": "Thunder Res Jewel 1",
+    "slug": "thunder-res-jewel-1",
+    "skill": "Thunder Resistance",
+    "skillSlug": "thunder-resistance",
+    "level": 1
+  },
+  {
+    "name": "Venom Jewel 1",
+    "slug": "venom-jewel-1",
+    "skill": "Poison Attack",
+    "skillSlug": "poison-attack",
+    "level": 1
+  },
+  {
+    "name": "Water Res Jewel 1",
+    "slug": "water-res-jewel-1",
+    "skill": "Water Resistance",
+    "skillSlug": "water-resistance",
+    "level": 1
+  },
+  {
+    "name": "Wind Res Jewel 1",
+    "slug": "wind-res-jewel-1",
+    "skill": "Windproof",
+    "skillSlug": "windproof",
+    "level": 1
+  },
+  {
+    "name": "Artillery Jewel 2",
+    "slug": "artillery-jewel-2",
+    "skill": "Artillery",
+    "skillSlug": "artillery",
+    "level": 2
+  },
+  {
+    "name": "Attack Jewel 2",
+    "slug": "attack-jewel-2",
+    "skill": "Attack Boost",
+    "skillSlug": "attack-boost",
+    "level": 2
+  },
+  {
+    "name": "Blast Jewel 2",
+    "slug": "blast-jewel-2",
+    "skill": "Blast Attack",
+    "skillSlug": "blast-attack",
+    "level": 2
+  },
+  {
+    "name": "Blunt Jewel 2",
+    "slug": "blunt-jewel-2",
+    "skill": "Bludgeoner",
+    "skillSlug": "bludgeoner",
+    "level": 2
+  },
+  {
+    "name": "Bubble Jewel 2",
+    "slug": "bubble-jewel-2",
+    "skill": "Bubbly Dance",
+    "skillSlug": "bubbly-dance",
+    "level": 2
+  },
+  {
+    "name": "Challenger Jewel 2",
+    "slug": "challenger-jewel-2",
+    "skill": "Agitator",
+    "skillSlug": "agitator",
+    "level": 2
+  },
+  {
+    "name": "Charger Jewel 2",
+    "slug": "charger-jewel-2",
+    "skill": "Focus",
+    "skillSlug": "focus",
+    "level": 2
+  },
+  {
+    "name": "Counter Jewel 2",
+    "slug": "counter-jewel-2",
+    "skill": "Counterstrike",
+    "skillSlug": "counterstrike",
+    "level": 2
+  },
+  {
+    "name": "Crisis Jewel 2",
+    "slug": "crisis-jewel-2",
+    "skill": "Resuscitate",
+    "skillSlug": "resuscitate",
+    "level": 2
+  },
+  {
+    "name": "Crit Element Jewel 2",
+    "slug": "crit-element-jewel-2",
+    "skill": "Critical Element",
+    "skillSlug": "critical-element",
+    "level": 2
+  },
+  {
+    "name": "Critical Jewel 2",
+    "slug": "critical-jewel-2",
+    "skill": "Critical Boost",
+    "skillSlug": "critical-boost",
+    "level": 2
+  },
+  {
+    "name": "Destroyer Jewel 2",
+    "slug": "destroyer-jewel-2",
+    "skill": "Partbreaker",
+    "skillSlug": "partbreaker",
+    "level": 2
+  },
+  {
+    "name": "Enduring Jewel 2",
+    "slug": "enduring-jewel-2",
+    "skill": "Item Prolonger",
+    "skillSlug": "item-prolonger",
+    "level": 2
+  },
+  {
+    "name": "Enhancer Jewel 2",
+    "slug": "enhancer-jewel-2",
+    "skill": "Power Prolonger",
+    "skillSlug": "power-prolonger",
+    "level": 2
+  },
+  {
+    "name": "Evasion Jewel 2",
+    "slug": "evasion-jewel-2",
+    "skill": "Evade Window",
+    "skillSlug": "evade-window",
+    "level": 2
+  },
+  {
+    "name": "Expert Jewel 2",
+    "slug": "expert-jewel-2",
+    "skill": "Critical Eye",
+    "skillSlug": "critical-eye",
+    "level": 2
+  },
+  {
+    "name": "Flawless Jewel 2",
+    "slug": "flawless-jewel-2",
+    "skill": "Peak Performance",
+    "skillSlug": "peak-performance",
+    "level": 2
+  },
+  {
+    "name": "Footing Jewel 2",
+    "slug": "footing-jewel-2",
+    "skill": "Tremor Resistance",
+    "skillSlug": "tremor-resistance",
+    "level": 2
+  },
+  {
+    "name": "Fortitude Jewel 2",
+    "slug": "fortitude-jewel-2",
+    "skill": "Fortify",
+    "skillSlug": "fortify",
+    "level": 2
+  },
+  {
+    "name": "Friendship Jewel 2",
+    "slug": "friendship-jewel-2",
+    "skill": "Wide-Range",
+    "skillSlug": "wide-range",
+    "level": 2
+  },
+  {
+    "name": "Furor Jewel 2",
+    "slug": "furor-jewel-2",
+    "skill": "Resentment",
+    "skillSlug": "resentment",
+    "level": 2
+  },
+  {
+    "name": "Gambit Jewel 2",
+    "slug": "gambit-jewel-2",
+    "skill": "Punishing Draw",
+    "skillSlug": "punishing-draw",
+    "level": 2
+  },
+  {
+    "name": "Gobbler Jewel 2",
+    "slug": "gobbler-jewel-2",
+    "skill": "Speed Eating",
+    "skillSlug": "speed-eating",
+    "level": 2
+  },
+  {
+    "name": "Ironwall Jewel 2",
+    "slug": "ironwall-jewel-2",
+    "skill": "Guard",
+    "skillSlug": "guard",
+    "level": 2
+  },
+  {
+    "name": "Jumping Jewel 2",
+    "slug": "jumping-jewel-2",
+    "skill": "Evade Extender",
+    "skillSlug": "evade-extender",
+    "level": 2
+  },
+  {
+    "name": "KO Jewel 2",
+    "slug": "ko-jewel-2",
+    "skill": "Slugger",
+    "skillSlug": "slugger",
+    "level": 2
+  },
+  {
+    "name": "Magazine Jewel 2",
+    "slug": "magazine-jewel-2",
+    "skill": "Load Shells",
+    "skillSlug": "load-shells",
+    "level": 2
+  },
+  {
+    "name": "Mastery Jewel 2",
+    "slug": "mastery-jewel-2",
+    "skill": "Master's Touch",
+    "skillSlug": "master-s-touch",
+    "level": 2
+  },
+  {
+    "name": "Medicine Jewel 2",
+    "slug": "medicine-jewel-2",
+    "skill": "Recovery Up",
+    "skillSlug": "recovery-up",
+    "level": 2
+  },
+  {
+    "name": "Mighty Jewel 2",
+    "slug": "mighty-jewel-2",
+    "skill": "Maximum Might",
+    "skillSlug": "maximum-might",
+    "level": 2
+  },
+  {
+    "name": "Mind's Eye Jewel 2",
+    "slug": "mind-s-eye-jewel-2",
+    "skill": "Mind's Eye",
+    "skillSlug": "mind-s-eye",
+    "level": 2
+  },
+  {
+    "name": "Paralyzer Jewel 2",
+    "slug": "paralyzer-jewel-2",
+    "skill": "Paralysis Attack",
+    "skillSlug": "paralysis-attack",
+    "level": 2
+  },
+  {
+    "name": "Physique Jewel 2",
+    "slug": "physique-jewel-2",
+    "skill": "Constitution",
+    "skillSlug": "constitution",
+    "level": 2
+  },
+  {
+    "name": "Potential Jewel 2",
+    "slug": "potential-jewel-2",
+    "skill": "Heroics",
+    "skillSlug": "heroics",
+    "level": 2
+  },
+  {
+    "name": "Precise Jewel 2",
+    "slug": "precise-jewel-2",
+    "skill": "Aim Booster",
+    "skillSlug": "aim-booster",
+    "level": 2
+  },
+  {
+    "name": "Protection Jewel 2",
+    "slug": "protection-jewel-2",
+    "skill": "Divine Blessing",
+    "skillSlug": "divine-blessing",
+    "level": 2
+  },
+  {
+    "name": "Quickswitch Jewel 2",
+    "slug": "quickswitch-jewel-2",
+    "skill": "Rapid Morph",
+    "skillSlug": "rapid-morph",
+    "level": 2
+  },
+  {
+    "name": "Razor Jewel 2",
+    "slug": "razor-jewel-2",
+    "skill": "Razor Sharp",
+    "skillSlug": "razor-sharp",
+    "level": 2
+  },
+  {
+    "name": "Refresh Jewel 2",
+    "slug": "refresh-jewel-2",
+    "skill": "Stamina Surge",
+    "skillSlug": "stamina-surge",
+    "level": 2
+  },
+  {
+    "name": "Resistor Jewel 2",
+    "slug": "resistor-jewel-2",
+    "skill": "Blight Resistance",
+    "skillSlug": "blight-resistance",
+    "level": 2
+  },
+  {
+    "name": "Rodeo Jewel 2",
+    "slug": "rodeo-jewel-2",
+    "skill": "Master Mounter",
+    "skillSlug": "master-mounter",
+    "level": 2
+  },
+  {
+    "name": "Sharp Jewel 2",
+    "slug": "sharp-jewel-2",
+    "skill": "Protective Polish",
+    "skillSlug": "protective-polish",
+    "level": 2
+  },
+  {
+    "name": "Sheath Jewel 2",
+    "slug": "sheath-jewel-2",
+    "skill": "Quick Sheath",
+    "skillSlug": "quick-sheath",
+    "level": 2
+  },
+  {
+    "name": "Shield Jewel 2",
+    "slug": "shield-jewel-2",
+    "skill": "Guard Up",
+    "skillSlug": "guard-up",
+    "level": 2
+  },
+  {
+    "name": "Sleep Jewel 2",
+    "slug": "sleep-jewel-2",
+    "skill": "Sleep Attack",
+    "skillSlug": "sleep-attack",
+    "level": 2
+  },
+  {
+    "name": "Sprinter Jewel 2",
+    "slug": "sprinter-jewel-2",
+    "skill": "Marathon Runner",
+    "skillSlug": "marathon-runner",
+    "level": 2
+  },
+  {
+    "name": "Tenderizer Jewel 2",
+    "slug": "tenderizer-jewel-2",
+    "skill": "Weakness Exploit",
+    "skillSlug": "weakness-exploit",
+    "level": 2
+  },
+  {
+    "name": "Thrift Jewel 2",
+    "slug": "thrift-jewel-2",
+    "skill": "Spare Shot",
+    "skillSlug": "spare-shot",
+    "level": 2
+  },
+  {
+    "name": "Throttle Jewel 2",
+    "slug": "throttle-jewel-2",
+    "skill": "Latent Power",
+    "skillSlug": "latent-power",
+    "level": 2
+  },
+  {
+    "name": "Trueshot Jewel 2",
+    "slug": "trueshot-jewel-2",
+    "skill": "Special Ammo Boost",
+    "skillSlug": "special-ammo-boost",
+    "level": 2
+  },
+  {
+    "name": "Wall Run Jewel 2",
+    "slug": "wall-run-jewel-2",
+    "skill": "Wall Runner",
+    "skillSlug": "wall-runner",
+    "level": 2
+  },
+  {
+    "name": "Wirebug Jewel 2",
+    "slug": "wirebug-jewel-2",
+    "skill": "Wirebug Whisperer",
+    "skillSlug": "wirebug-whisperer",
+    "level": 2
+  },
+  {
+    "name": "Capacity Jewel 3",
+    "slug": "capacity-jewel-3",
+    "skill": "Ammo Up",
+    "skillSlug": "ammo-up",
+    "level": 3
+  },
+  {
+    "name": "Draw Jewel 3",
+    "slug": "draw-jewel-3",
+    "skill": "Critical Draw",
+    "skillSlug": "critical-draw",
+    "level": 3
+  },
+  {
+    "name": "Earplug Jewel 3",
+    "slug": "earplug-jewel-3",
+    "skill": "Earplugs",
+    "skillSlug": "earplugs",
+    "level": 3
+  },
+  {
+    "name": "Fate Jewel 3",
+    "slug": "fate-jewel-3",
+    "skill": "Good Luck",
+    "skillSlug": "good-luck",
+    "level": 3
+  },
+  {
+    "name": "Forceshot Jewel 3",
+    "slug": "forceshot-jewel-3",
+    "skill": "Normal/Rapid Up",
+    "skillSlug": "normal-rapid-up",
+    "level": 3
+  },
+  {
+    "name": "Fungiform Jewel 3",
+    "slug": "fungiform-jewel-3",
+    "skill": "Mushroomancer",
+    "skillSlug": "mushroomancer",
+    "level": 3
+  },
+  {
+    "name": "Guardian Jewel 3",
+    "slug": "guardian-jewel-3",
+    "skill": "Offensive Guard",
+    "skillSlug": "offensive-guard",
+    "level": 3
+  },
+  {
+    "name": "Handicraft Jewel 3",
+    "slug": "handicraft-jewel-3",
+    "skill": "Handicraft",
+    "skillSlug": "handicraft",
+    "level": 3
+  },
+  {
+    "name": "Hellfire Jewel 3",
+    "slug": "hellfire-jewel-3",
+    "skill": "Hellfire Cloak",
+    "skillSlug": "hellfire-cloak",
+    "level": 3
+  },
+  {
+    "name": "Leap Jewel 3",
+    "slug": "leap-jewel-3",
+    "skill": "Jump Master",
+    "skillSlug": "jump-master",
+    "level": 3
+  },
+  {
+    "name": "Pierce Jewel 3",
+    "slug": "pierce-jewel-3",
+    "skill": "Pierce Up",
+    "skillSlug": "pierce-up",
+    "level": 3
+  },
+  {
+    "name": "Salvo Jewel 3",
+    "slug": "salvo-jewel-3",
+    "skill": "Rapid Fire Up",
+    "skillSlug": "rapid-fire-up",
+    "level": 3
+  },
+  {
+    "name": "Spread Jewel 3",
+    "slug": "spread-jewel-3",
+    "skill": "Spread Up",
+    "skillSlug": "spread-up",
+    "level": 3
+  }
+]
