@@ -1,0 +1,26 @@
+<html {{ HTML_ATTRS }}>
+<head {{ HEAD_ATTRS }}>
+  {{ HEAD }}
+</head>
+<body {{ BODY_ATTRS }}>
+  {{ APP }}
+  <script src="https://www.gstatic.com/firebasejs/8.6.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.0/firebase-analytics.js"></script>
+  <script>
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    var firebaseConfig = {
+      apiKey: "AIzaSyDutoERMJX7MRh-_u4FdmXgFeO8_D-dueg",
+      authDomain: "mhr-builder.firebaseapp.com",
+      projectId: "mhr-builder",
+      storageBucket: "mhr-builder.appspot.com",
+      messagingSenderId: "733974308444",
+      appId: "1:733974308444:web:46e62f0dbc9edab73a6899",
+      measurementId: "G-47VZWW1BS3"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+</body>
+</html>
