@@ -3,23 +3,23 @@
     <div class="font-light text-xs pb-1">
       Decorations
     </div>
-    <div class="grid grid-cols-3">
-      <div v-for="(level, slotIndex) in 3" :key="slotIndex" class="border-r last:border-none">
-        <template v-if="!slots[slotIndex]">
+    <div class="grid grid-cols-3 place-items-center h-8">
+      <div v-for="(level, slotIndex) in 3" :key="slotIndex">
+        <div v-if="!slots[slotIndex]">
           &mdash;
-        </template>
+        </div>
         <template v-else>
           <a
             v-if="canDecorate"
-            class="block cursor-pointer"
-            :class="{ 'text-blue-600': decorations[slotIndex] }"
+            class="inline-flex justify-center items-center cursor-pointer rounded-full bg-gray-200 h-8 w-8 text-xs"
+            :class="{ 'bg-blue-200': decorations[slotIndex] }"
             @click="$emit('click-slot', { level: slots[slotIndex], slot: slotIndex, current: decorations && decorations[slotIndex] && decorations[slotIndex].slug })"
           >
             {{ slots[slotIndex] }}
           </a>
-          <template v-else>
+          <div v-else class="inline-flex justify-center items-center cursor-pointer rounded-full border border-gray h-8 w-8 text-xs">
             {{ slots[slotIndex] }}
-          </template>
+          </div>
         </template>
       </div>
     </div>

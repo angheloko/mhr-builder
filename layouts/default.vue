@@ -19,7 +19,7 @@
         MHR Set Builder
       </h1>
       <button
-        class="bg-blue-600 text-white font-medium py-2 px-4 rounded mr-2"
+        class="bg-blue-600 text-white font-medium text-sm py-0 px-4 rounded mr-2 ring h-8"
         @click="showModal = true"
       >
         Generate

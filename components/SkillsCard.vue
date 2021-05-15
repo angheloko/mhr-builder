@@ -4,10 +4,13 @@
       Skills
     </div>
     <div class="pl-2">
-      <table v-if="skills.length > 0" class="w-full">
+      <table v-if="skills.length > 0" class="w-full text-gray-600 text-sm">
         <tr v-for="(skill, index) of skills" :key="index">
           <td>{{ skill.name }}</td>
-          <td class="text-right">
+          <td
+            class="text-right"
+            :class="{'text-red-600': skill.level > skill.max}"
+          >
             {{ skill.level }}
           </td>
         </tr>
@@ -20,6 +23,8 @@
 </template>
 
 <script>
+import { mapGetters } from 'vuex'
+
 export default {
   name: 'SkillsCard',
   props: {
@@ -41,6 +46,9 @@ export default {
     }
   },
   computed: {
+    ...mapGetters({
+      getSkill: 'skills/getSkill'
+    }),
     skills () {
       const skills = []
 
@@ -59,6 +67,7 @@ export default {
             } else {
               skills.push({
                 name: skill.name,
+                slug: skill.slug,
                 level: skill.level
               })
             }
@@ -76,6 +85,7 @@ export default {
               } else {
                 skills.push({
                   name: decoration.skill,
+                  slug: decoration.skillSlug,
                   level: 1
                 })
               }
@@ -84,12 +94,22 @@ export default {
         }
       }
 
+      for (const i in skills) {
+        skills[i].max = this.getSkillMax(skills[i].slug)
+      }
+
       return skills.sort((a, b) => {
         if (a.level === b.level) {
           return a.name > b.name
         }
         return b.level - a.level
       })
+    }
+  },
+  methods: {
+    getSkillMax (slug) {
+      const skill = this.getSkill(slug)
+      return skill ? skill.level : 0
     }
   }
 }
