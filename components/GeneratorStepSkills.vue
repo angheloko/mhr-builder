@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <div class="p-2">
     <div class="border rounded p-2 mb-2">
       <div class="text-sm font-medium mb-2 flex">
         <div class="flex-grow">
-          Prioritize skills
+          Required skill
         </div>
         <div class="w-16">
           Level
@@ -13,7 +13,7 @@
         <p class="mb-2">
           Select up to {{ skills.length }} skills that you want to prioritize. You can also set the max. level for each skill.
         </p>
-        <p class="mb-2">
+        <p class="mb-2 font-medium">
           Skills at the top are prioritized over the skills at the bottom.
         </p>
       </div>
@@ -51,7 +51,7 @@
           :options="skillOptions"
           :value="skill"
           :height="44"
-          :bottom="index >= excluded.length - 2"
+          :bottom="index >= excluded.length - 3"
           @update="$emit('exclude', { index, value: $event })"
         />
       </div>

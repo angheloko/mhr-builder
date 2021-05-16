@@ -27,7 +27,7 @@
           To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
       -->
       <div class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:rounded-lg md:align-middle md:max-w-screen-sm md:w-full md:h-4/5 md:shadow-xl">
-        <div class="px-2 pt-2 text-right h-10 flex items-center justify-end">
+        <div class="p-2 text-right h-10 flex items-center justify-end border-b">
           <button @click="$emit('close')">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
