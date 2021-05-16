@@ -18,11 +18,11 @@ export const mutations = {
     localStorage.sets = JSON.stringify(state.sets)
   },
   equip (state, { index, type, item }) {
-    state.sets[index][type] = item
+    Vue.set(state.sets[index], type, item)
     localStorage.sets = JSON.stringify(state.sets)
   },
   unequip (state, { index, type }) {
-    state.sets[index][type] = null
+    Vue.set(state.sets[index], type, null)
     localStorage.sets = JSON.stringify(state.sets)
   },
   decorate (state, { index, type, slot, decoration }) {
