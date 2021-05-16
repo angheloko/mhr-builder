@@ -5,7 +5,7 @@
         Step {{ step + 1 }} of {{ steps.length }}: {{ steps[step].name }}
       </h1>
       <GeneratorStepSkills
-        v-if="step === 3"
+        v-if="step === 0"
         :skills="skills"
         :excluded="excluded"
         @select="selectSkill"
@@ -21,13 +21,13 @@
         v-if="step === 2"
         :slots="talisman.slots"
         :skills="talisman.skills"
-        @select-slot="setTalismanSlot"
-        @increase-skills="increaseTalismanSkills"
-        @select-skill="selectTalismanSkill"
-        @update-skill="updateTalismanSkill"
+        @add="addTalismanSkills"
+        @select="selectTalismanSkill"
+        @update:skill="updateTalismanSkill"
+        @update:slot="setTalismanSlot"
       />
       <GeneratorStepOptions
-        v-if="step === 0"
+        v-if="step === 3"
         :unique="unique"
         :decorate="decorate"
         @update:unique="updateUnique"
@@ -135,7 +135,7 @@ export default {
       const level = parseInt(value) || 0
       this.$set(this.talisman.slots, index, level)
     },
-    increaseTalismanSkills () {
+    addTalismanSkills () {
       this.talisman.skills.push({
         slug: '',
         level: 0
@@ -161,14 +161,18 @@ export default {
       this.decorate = value
     },
     generate () {
-      this.step++
+      if (this.step < this.steps.length - 1) {
+        this.step++
+      }
 
-      console.log({
+      console.log(JSON.stringify({
         skills: this.skills,
         excluded: this.excluded,
         weapon: this.weapon,
-        talisman: this.talisman
-      })
+        talisman: this.talisman,
+        unique: this.unique,
+        decorate: this.decorate
+      }))
     }
   }
 }
