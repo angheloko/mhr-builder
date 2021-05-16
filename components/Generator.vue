@@ -5,7 +5,7 @@
         Step {{ step + 1 }} of {{ steps.length }}: {{ steps[step].name }}
       </h1>
       <GeneratorStepSkills
-        v-if="step === 1"
+        v-if="step === 3"
         :skills="skills"
         :excluded="excluded"
         @select="selectSkill"
@@ -13,18 +13,25 @@
         @exclude="excludeSkill"
       />
       <GeneratorStepWeapon
-        v-if="step === 2"
+        v-if="step === 1"
         :value="weapon"
         @select="selectWeapon"
       />
       <GeneratorStepTalisman
-        v-if="step === 0"
+        v-if="step === 2"
         :slots="talisman.slots"
         :skills="talisman.skills"
         @select-slot="setTalismanSlot"
         @increase-skills="increaseTalismanSkills"
         @select-skill="selectTalismanSkill"
         @update-skill="updateTalismanSkill"
+      />
+      <GeneratorStepOptions
+        v-if="step === 0"
+        :unique="unique"
+        :decorate="decorate"
+        @update:unique="updateUnique"
+        @update:decorate="updateDecorate"
       />
     </div>
     <div class="text-right p-2">
@@ -43,10 +50,11 @@ import { mapGetters } from 'vuex'
 import GeneratorStepSkills from './GeneratorStepSkills'
 import GeneratorStepWeapon from './GeneratorStepWeapon'
 import GeneratorStepTalisman from './GeneratorStepTalisman'
+import GeneratorStepOptions from './GeneratorStepOptions'
 
 export default {
   name: 'Generator',
-  components: { GeneratorStepTalisman, GeneratorStepWeapon, GeneratorStepSkills },
+  components: { GeneratorStepOptions, GeneratorStepTalisman, GeneratorStepWeapon, GeneratorStepSkills },
   props: {
     value: {
       type: Object,
@@ -81,7 +89,9 @@ export default {
           level: 0
         }]
       },
-      weapon: null
+      weapon: null,
+      unique: false,
+      decorate: false
     }
   },
   computed: {
@@ -143,6 +153,12 @@ export default {
       if (Number.isInteger(level)) {
         this.talisman.skills[index].level = level
       }
+    },
+    updateUnique (value) {
+      this.unique = value
+    },
+    updateDecorate (value) {
+      this.decorate = value
     },
     generate () {
       this.step++
