@@ -13,7 +13,17 @@ export const mutations = {
 
 export const getters = {
   getSkill: state => slug => state.skills.find(skill => skill.slug === slug),
-  skills: state => state.skills
+  skills: state => state.skills,
+  getSkillOptions: (state) => {
+    const options = []
+    for (const skill of state.skills) {
+      options.push({
+        label: skill.name,
+        value: skill.slug
+      })
+    }
+    return options
+  }
 }
 
 export const actions = {

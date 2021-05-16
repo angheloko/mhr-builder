@@ -13,7 +13,8 @@
     </button>
     <div
       v-if="showOptions"
-      class="z-20 origin-top-right absolute w-full rounded shadow-lg bg-white overflow-y-auto max-h-64 ring-1 ring-black ring-opacity-5 focus:outline-none"
+      class="z-20 origin-top-right absolute w-full rounded shadow-lg bg-white overflow-y-auto ring-1 ring-black ring-opacity-5 focus:outline-none"
+      :class="'max-h-'+ height"
     >
       <div class="py-1" role="none">
         <a
@@ -60,6 +61,10 @@ export default {
     required: {
       type: Boolean,
       default: true
+    },
+    height: {
+      type: Number,
+      default: 56
     }
   },
   data () {
