@@ -51,6 +51,7 @@
           :options="skillOptions"
           :value="skill"
           :height="44"
+          :bottom="index >= excluded.length - 2"
           @update="$emit('exclude', { index, value: $event })"
         />
       </div>

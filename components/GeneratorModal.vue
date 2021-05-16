@@ -1,18 +1,25 @@
 <template>
   <Modal @close="$emit('close')">
-    <div class="p-2 flex flex-col h-full">
+    <div class="flex flex-col h-full">
       <div class="flex-grow">
         <GeneratorStepSkills
+          v-if="step === 0"
           :skills="skills"
           :excluded="excluded"
+          class="px-2"
           @select="selectSkill"
           @update="updateSkill"
           @exclude="excludeSkill"
         />
+        <GeneratorStepWeapon
+          v-if="step === 1"
+          :value="weapon"
+          @select="selectWeapon"
+        />
       </div>
-      <div class="text-right">
+      <div class="text-right p-2">
         <button
-          class="bg-blue-600 text-white font-medium py-2 px-4 rounded mr-2"
+          class="bg-blue-600 text-white font-medium py-2 px-4 rounded"
           @click="generate"
         >
           Next
@@ -26,9 +33,10 @@
 import { mapGetters } from 'vuex'
 import Modal from './Modal'
 import GeneratorStepSkills from './GeneratorStepSkills'
+import GeneratorStepWeapon from './GeneratorStepWeapon'
 export default {
   name: 'GeneratorModal',
-  components: { GeneratorStepSkills, Modal },
+  components: { GeneratorStepWeapon, GeneratorStepSkills, Modal },
   props: {
     value: {
       type: Object,
@@ -37,10 +45,12 @@ export default {
   },
   data () {
     return {
+      step: 0,
       maxSkills: 5,
       maxExcluded: 3,
       skills: [],
-      excluded: []
+      excluded: [],
+      weapon: null
     }
   },
   computed: {
@@ -77,9 +87,14 @@ export default {
     excludeSkill ({ index, value }) {
       this.$set(this.excluded, index, value)
     },
+    selectWeapon (weapon) {
+      this.weapon = weapon
+    },
     generate () {
+      this.step++
       console.log(this.skills)
       console.log(this.excluded)
+      console.log(this.weapon)
     }
   }
 }

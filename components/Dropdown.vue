@@ -13,8 +13,8 @@
     </button>
     <div
       v-if="showOptions"
-      class="z-20 origin-top-right absolute w-full rounded shadow-lg bg-white overflow-y-auto ring-1 ring-black ring-opacity-5 focus:outline-none"
-      :class="'max-h-'+ height"
+      class="z-20 absolute w-full rounded shadow-lg bg-white overflow-y-auto ring-1 ring-black ring-opacity-5 focus:outline-none"
+      :class="classes"
     >
       <div class="py-1" role="none">
         <a
@@ -65,6 +65,10 @@ export default {
     height: {
       type: Number,
       default: 56
+    },
+    bottom: {
+      type: Boolean,
+      default: false
     }
   },
   data () {
@@ -73,6 +77,14 @@ export default {
     }
   },
   computed: {
+    classes () {
+      return [
+        'max-h-' + this.height,
+        {
+          'bottom-11': this.bottom
+        }
+      ]
+    },
     getOptions () {
       const options = [...this.options]
 

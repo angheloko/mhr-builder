@@ -1,6 +1,6 @@
 <template>
   <div class="rounded border shadow flex flex-col w-full bg-white text-sm py-2">
-    <div class="pb-2 border-b grid place-items-center">
+    <div class="pb-2 px-1 border-b grid place-items-center">
       <h4 class="font-medium text-center">
         {{ item.name }}
       </h4>

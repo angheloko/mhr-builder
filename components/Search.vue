@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col h-full">
-    <div class="p-2 border-b shadow">
+    <div class="p-2 border-b">
       <input
         id="search"
         v-model="keywords"

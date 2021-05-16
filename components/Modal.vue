@@ -34,7 +34,7 @@
             </svg>
           </button>
         </div>
-        <div class="modal__body flex-grow md:overflow-y-auto">
+        <div class="modal__body flex-grow overflow-y-auto">
           <slot />
         </div>
       </div>
