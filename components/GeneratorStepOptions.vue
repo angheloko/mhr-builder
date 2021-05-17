@@ -5,7 +5,7 @@
         <input
           type="checkbox"
           class="h-4 w-4 rounded"
-          :value="decorate"
+          :checked="decorate"
           @change="$emit('update:decorate', $event.target.checked)"
         >
         <span class="font-medium text-sm">Add decorations</span>
@@ -19,7 +19,7 @@
         <input
           type="checkbox"
           class="h-4 w-4 rounded"
-          :value="unique"
+          :checked="unique"
           @change="$emit('update:unique', $event.target.checked)"
         >
         <span class="font-medium text-sm">Unique sets only</span>

@@ -1,12 +1,14 @@
 <template>
-  <div class="flex flex-col h-full">
-    <div class="flex-grow">
+  <div class="generator h-full">
+    <div>
       <h1
         v-if="step < steps.length"
         class="text-sm font-medium p-2"
       >
         Step {{ step + 1 }} of {{ steps.length }}: {{ steps[step].name }}
       </h1>
+    </div>
+    <div class="overflow-y-auto">
       <GeneratorStepSkills
         v-if="step === 0"
         :skills="skills"
@@ -70,19 +72,22 @@
         </div>
       </div>
     </div>
-    <div v-if="step < steps.length" class="text-right p-2">
-      <button
-        class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8 mr-2"
-        @click="back"
-      >
-        Back
-      </button>
-      <button
-        class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"
-        @click="next"
-      >
-        Next
-      </button>
+    <div>
+      <div v-if="step < steps.length" class="text-right p-2 border-t">
+        <button
+          v-if="step > 0"
+          class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8 mr-2"
+          @click="back"
+        >
+          Back
+        </button>
+        <button
+          class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"
+          @click="next"
+        >
+          Next
+        </button>
+      </div>
     </div>
   </div>
 </template>
@@ -244,15 +249,6 @@ export default {
       }
     },
     async generate () {
-      localStorage.generator = JSON.stringify({
-        skills: this.skills,
-        excluded: this.excluded,
-        talisman: this.talisman,
-        weapon: this.weapon,
-        unique: this.unique,
-        decorate: this.decorate
-      })
-
       this.isGenerating = true
       const sets = []
       this.clearSets()
@@ -304,6 +300,14 @@ export default {
       }
 
       this.isGenerating = false
+      localStorage.generator = JSON.stringify({
+        skills: this.skills,
+        excluded: this.excluded,
+        talisman: this.talisman,
+        weapon: this.weapon,
+        unique: this.unique,
+        decorate: this.decorate
+      })
     },
     isSetValid (set) {
       for (const skill of this.skills) {
@@ -456,5 +460,8 @@ export default {
 </script>
 
 <style scoped>
-
+.generator {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
 </style>
