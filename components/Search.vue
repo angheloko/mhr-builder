@@ -17,7 +17,7 @@
           :required="filter.required || false"
           :options="filter.options"
           :value="activeFilters[filter.type]"
-          class="sm:mr-3 last:mr-0 w-full"
+          class="sm:mr-2 last:mr-0 w-full sm:w-52"
           @update="selectFilter(filter.type, $event)"
         />
       </div>

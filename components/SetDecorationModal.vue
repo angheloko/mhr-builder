@@ -1,6 +1,7 @@
 <template>
   <Modal @close="$emit('close')">
     <Search
+      :filters="filters"
       @search="debouncedSearch"
     >
       <div v-if="results.length === 0" class="grid place-items-center h-full">
@@ -62,7 +63,34 @@ export default {
   data () {
     return {
       results: [],
-      isLoading: true
+      isLoading: true,
+      filters: {
+        level: {
+          label: 'Level',
+          options: []
+        }
+      }
+    }
+  },
+  mounted () {
+    const options = [
+      {
+        value: 1,
+        label: 'Decoration 1'
+      },
+      {
+        value: 2,
+        label: 'Decoration 2'
+      },
+      {
+        value: 3,
+        label: 'Decoration 3'
+      }
+    ]
+    for (let i = 0; i < options.length; i++) {
+      if (options[i].value <= this.level) {
+        this.filters.level.options.push(options[i])
+      }
     }
   },
   methods: {
@@ -72,15 +100,24 @@ export default {
     debouncedSearch: debounce(function (keywords, filters) {
       this.search(keywords, filters)
     }, 500),
-    search (keywords) {
+    search (keywords, filters) {
       let queryBuilder = this.$content('decorations')
-        .where({
-          level: this.level
-        })
         .sortBy('name')
 
       if (keywords) {
         queryBuilder = queryBuilder.search(keywords)
+      }
+
+      if (filters.level) {
+        queryBuilder.where({
+          level: filters.level
+        })
+      } else {
+        queryBuilder.where({
+          level: {
+            $lte: this.level
+          }
+        })
       }
 
       this.isLoading = true

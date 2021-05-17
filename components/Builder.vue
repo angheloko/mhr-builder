@@ -1,7 +1,7 @@
 <template>
   <div class="builder flex items-start overflow-x-auto p-2">
     <AddWeaponModal
-      v-if="showModal === 'weapons'"
+      v-if="showModal === 'weapon'"
       @close="closeModal"
       @select="addEquipment"
     />

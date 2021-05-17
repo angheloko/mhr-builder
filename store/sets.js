@@ -6,8 +6,7 @@ export const state = () => ({
 
 export const mutations = {
   load (state) {
-    const sets = localStorage.sets
-    state.sets = sets ? JSON.parse(localStorage.sets) : []
+    state.sets = localStorage.sets ? JSON.parse(localStorage.sets) : []
   },
   add (state, set) {
     state.sets.push(set)
