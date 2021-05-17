@@ -1,6 +1,8 @@
 <template>
   <Modal @close="$emit('close')">
-    <Generator />
+    <Generator
+      @update="$emit('close')"
+    />
   </Modal>
 </template>
 

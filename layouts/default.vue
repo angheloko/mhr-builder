@@ -1,14 +1,9 @@
 <template>
   <div class="text-gray-600 bg-gray-50">
-    <WelcomeModal
-      v-if="showWelcome"
-      @close="closeWelcome"
-    />
     <GeneratorModal
       v-if="showModal"
       :value="{ selectedSkills, excludedSkills }"
       @close="showModal = false"
-      @input="generate"
     />
     <div class="h-12 flex items-center p-1">
       <Logo class="inline-block h-5 w-auto" />
@@ -36,17 +31,15 @@
   </div>
 </template>
 <script>
-import { mapActions, mapMutations } from 'vuex'
+import { mapActions } from 'vuex'
 import Logo from '../components/Logo'
 import GeneratorModal from '../components/GeneratorModal'
-import WelcomeModal from '../components/WelcomeModal'
 
 export default {
-  components: { WelcomeModal, GeneratorModal, Logo },
+  components: { GeneratorModal, Logo },
   data () {
     return {
       showModal: false,
-      showWelcome: false,
       selectedSkills: [],
       excludedSkills: [],
       types: [
@@ -60,196 +53,11 @@ export default {
   },
   mounted () {
     this.loadSkills()
-    this.showWelcome = !localStorage.welcomed
   },
   methods: {
     ...mapActions({
       loadSkills: 'skills/load'
-    }),
-    ...mapMutations({
-      addSet: 'sets/add',
-      clearSets: 'sets/clear'
-    }),
-    async generate ({ selectedSkills, excludedSkills }) {
-      this.showModal = false
-      this.selectedSkills = selectedSkills
-      this.excludedSkills = excludedSkills
-
-      this.clearSets()
-      const headArmors = await this.loadArmors('head')
-      const chestArmors = await this.loadArmors('chest')
-      const armsArmors = await this.loadArmors('arms')
-      const waistArmors = await this.loadArmors('waist')
-      const legsArmors = await this.loadArmors('legs')
-
-      const allArmors = [
-        ...headArmors,
-        ...chestArmors,
-        ...armsArmors,
-        ...waistArmors,
-        ...legsArmors
-      ]
-      allArmors.sort((a, b) => b.__points - a.__points)
-      const sets = this.generateSets(allArmors)
-
-      const shortlist = sets.sort((a, b) => b.__points - a.__points).slice(0, 5)
-
-      // Clean-up.
-      for (const set of shortlist) {
-        delete set.__points
-        for (const type of Object.getOwnPropertyNames(set)) {
-          if (set[type]) {
-            delete set[type].__points
-          }
-        }
-        this.addSet(set)
-      }
-    },
-    generateSets (armors) {
-      let sets = []
-      const remainingArmors = []
-
-      const set = {
-        head: null,
-        chest: null,
-        arms: null,
-        waist: null,
-        legs: null
-      }
-      for (const armor of armors) {
-        if (set[armor.type] !== null) {
-          remainingArmors.push(armor)
-        } else {
-          set[armor.type] = armor
-          if (!this.validateSkills(set)) {
-            set[armor.type] = null
-            remainingArmors.push(armor)
-          }
-        }
-      }
-      set.__points = 0
-      for (const type of Object.getOwnPropertyNames(set)) {
-        if (set[type]) {
-          set.__points += set[type].points
-        }
-      }
-      sets.push(set)
-
-      if (remainingArmors.length > 0) {
-        sets = [
-          ...sets,
-          ...this.generateSets(remainingArmors)
-        ]
-      }
-
-      return sets
-    },
-    validateSkills (set) {
-      const skills = []
-
-      for (const type of Object.getOwnPropertyNames(set)) {
-        if (set[type] && set[type].skills) {
-          for (const skill of set[type].skills) {
-            const found = skills.findIndex(element => element.name === skill.name)
-            if (found >= 0) {
-              skills[found].level += skill.level
-            } else {
-              skills.push({
-                name: skill.name,
-                slug: skill.slug,
-                level: skill.level
-              })
-            }
-          }
-        }
-      }
-
-      for (const skill of skills) {
-        const requiredSkill = this.selectedSkills.find(el => el.skill.slug === skill.slug)
-
-        if (requiredSkill) {
-          if (skill.level > requiredSkill.level || skill.level > requiredSkill.skill.level) {
-            return false
-          }
-        } else {
-          const skillInfo = this.getSkillInfo(skill.slug)
-          if (skillInfo) {
-            if (skill.level > skillInfo.level) {
-              return false
-            }
-          }
-        }
-      }
-
-      return true
-    },
-    async loadArmors (type) {
-      const armors = []
-      const slugs = this.selectedSkills.map(skill => skill.skill.slug)
-      const conditions = {
-        'skills.slug': {
-          $containsAny: slugs
-        }
-      }
-      const result = await this.$content(`${type}-armors`).where(conditions).fetch()
-      for (const armor of result) {
-        const hasExcludedSkill = armor.skills.find(skill => this.excludedSkills.includes(skill.slug))
-        if (hasExcludedSkill) {
-          continue
-        }
-        armor.__points = this.calculatePoints(armor)
-        armors.push(armor)
-      }
-      return armors
-    },
-    calculatePoints (armor) {
-      const skillsWeight = 0.5
-      const slotsWeight = 0.3
-      const defenseWeight = 0.2
-
-      const skillsPoints = this.calculateSkillsPoints(armor) * skillsWeight
-      const slotPoints = this.calculateSlotPoints(armor) * slotsWeight
-      const defensePoints = this.calculateDefensePoints(armor) * defenseWeight
-
-      return skillsPoints +
-        slotPoints +
-        defensePoints
-    },
-    calculateSkillsPoints (armor) {
-      const baseModifier = 0.1
-      let points = 0
-      let modifier = 1
-
-      for (const selectedSkill of this.selectedSkills) {
-        const skill = selectedSkill.skill
-        const maxLevel = selectedSkill.level
-        const armorSkill = armor.skills.find(el => el.slug === skill.slug)
-        if (armorSkill) {
-          points += (armorSkill.level / maxLevel) * modifier
-        }
-        modifier -= baseModifier
-      }
-
-      return points
-    },
-    calculateSlotPoints (armor) {
-      let slots = 0
-      for (const slot of armor.slots) {
-        slots += slot
-      }
-
-      return slots / 9
-    },
-    calculateDefensePoints (armor) {
-      return armor.baseDefense / 100
-    },
-    getSkillInfo (slug) {
-      return this.$store.getters['skills/getSkill'](slug)
-    },
-    closeWelcome () {
-      localStorage.welcomed = true
-      this.showWelcome = false
-    }
+    })
   }
 }
 </script>
