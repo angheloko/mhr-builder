@@ -166,6 +166,16 @@ export default {
     for (let i = 0; i < this.maxExcluded; i++) {
       this.excluded.push('')
     }
+
+    if (localStorage.generator) {
+      const params = JSON.parse(localStorage.generator)
+      this.skills = params.skills
+      this.excluded = params.excluded
+      this.weapon = params.weapon
+      this.talisman = params.talisman
+      this.unique = params.unique
+      this.decorate = params.decorate
+    }
   },
   methods: {
     ...mapMutations({
@@ -234,6 +244,15 @@ export default {
       }
     },
     async generate () {
+      localStorage.generator = JSON.stringify({
+        skills: this.skills,
+        excluded: this.excluded,
+        talisman: this.talisman,
+        weapon: this.weapon,
+        unique: this.unique,
+        decorate: this.decorate
+      })
+
       this.isGenerating = true
       const sets = []
       this.clearSets()
