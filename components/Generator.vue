@@ -1,7 +1,10 @@
 <template>
   <div class="flex flex-col h-full">
     <div class="flex-grow">
-      <h1 class="text-sm font-medium p-2">
+      <h1
+        v-if="step < steps.length"
+        class="text-sm font-medium p-2"
+      >
         Step {{ step + 1 }} of {{ steps.length }}: {{ steps[step].name }}
       </h1>
       <GeneratorStepSkills
@@ -33,8 +36,47 @@
         @update:unique="updateUnique"
         @update:decorate="updateDecorate"
       />
+      <div v-if="step === 4" class="flex flex-col justify-center items-center h-full text-sm">
+        <div v-if="isGenerating">
+          <svg class="animate-spin m-auto h-5 w-5 text-blue-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle
+              class="opacity-25"
+              cx="12"
+              cy="12"
+              r="10"
+              stroke="currentColor"
+              stroke-width="4"
+            />
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+          </svg>
+          <p class="text-sm mt-2">
+            Generating sets...
+          </p>
+        </div>
+        <div v-else class="w-2/3 text-center">
+          <h2 class="text-lg mb-5">
+            Done!
+          </h2>
+          <p class="mb-6">
+            If you have any feedback or would like to report an issue, feel free to drop me a message at
+            <a href="https://twitter.com/DonOrDoNot" class="text-blue-600 font-medium">@DonOrDoNot</a>!
+          </p>
+          <button
+            class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"
+            @click="$emit('update')"
+          >
+            Close
+          </button>
+        </div>
+      </div>
     </div>
-    <div class="text-right p-2">
+    <div v-if="step < steps.length" class="text-right p-2">
+      <button
+        class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8 mr-2"
+        @click="back"
+      >
+        Back
+      </button>
       <button
         class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"
         @click="next"
@@ -78,6 +120,7 @@ export default {
           name: 'Options'
         }
       ],
+      isGenerating: false,
       maxSkills: 5,
       maxExcluded: 3,
       skills: [],
@@ -177,14 +220,21 @@ export default {
     updateDecorate (value) {
       this.decorate = value
     },
+    back () {
+      if (this.step > 0) {
+        this.step--
+      }
+    },
     next () {
-      if (this.step < this.steps.length - 1) {
+      if (this.step < this.steps.length) {
         this.step++
-      } else {
+      }
+      if (this.step >= this.steps.length) {
         this.generate()
       }
     },
     async generate () {
+      this.isGenerating = true
       const sets = []
       this.clearSets()
 
@@ -234,7 +284,7 @@ export default {
         this.addSet(set)
       }
 
-      this.$emit('update')
+      this.isGenerating = false
     },
     isSetValid (set) {
       for (const skill of this.skills) {
@@ -248,6 +298,9 @@ export default {
     calculateDefensePoints (set) {
       let total = 0
       for (const piece of this.setPieces) {
+        if (!set[piece]) {
+          continue
+        }
         const defense = set[piece].baseDefense ?? set[piece].defense ?? 0
         total += defense
       }
@@ -256,7 +309,7 @@ export default {
     calculateSlotsPoints (set) {
       let total = 0
       for (const piece of this.setPieces) {
-        if (set[piece].slots !== undefined) {
+        if (set[piece] && set[piece].slots !== undefined) {
           for (const slot of set[piece].slots) {
             total += slot
           }
@@ -297,7 +350,7 @@ export default {
 
         if (total < skill.level && decoration) {
           for (const piece of this.setPieces) {
-            if (set[piece].slots !== undefined) {
+            if (set[piece] && set[piece].slots !== undefined) {
               const currentDecorations = set[piece].decorations ?? []
               const slots = set[piece].slots.filter(slot => slot > 0)
 
@@ -328,6 +381,9 @@ export default {
     getSkillTotal (set, slug) {
       let count = 0
       for (const piece of this.setPieces) {
+        if (!set[piece]) {
+          continue
+        }
         if (set[piece].skills !== undefined) {
           for (const skill of set[piece].skills) {
             if (skill.slug === slug) {
