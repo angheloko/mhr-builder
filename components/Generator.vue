@@ -138,8 +138,8 @@ export default {
         }]
       },
       weapon: null,
-      unique: false,
-      decorate: false,
+      unique: true,
+      decorate: true,
       decorations: [],
       setPieces: [
         'talisman',
@@ -294,7 +294,38 @@ export default {
         }
       }
 
-      const shortlist = sets.sort((a, b) => b._score - a._score).slice(0, 5)
+      let sorted = sets.sort((a, b) => b._score - a._score)
+
+      if (this.unique) {
+        const unique = []
+        const pieces = {
+          head: {},
+          chest: {},
+          arms: {},
+          waist: {},
+          legs: {}
+        }
+        for (const set of sorted) {
+          let exists = false
+
+          for (const piece of ['head', 'chest', 'arms', 'waist', 'legs']) {
+            if (pieces[piece][set[piece].slug]) {
+              exists = true
+              break
+            }
+          }
+
+          if (!exists) {
+            for (const piece of ['head', 'chest', 'arms', 'waist', 'legs']) {
+              pieces[piece][set[piece].slug] = true
+            }
+            unique.push(set)
+          }
+        }
+        sorted = unique
+      }
+
+      const shortlist = sorted.slice(0, 5)
       for (const set of shortlist) {
         this.addSet(set)
       }
