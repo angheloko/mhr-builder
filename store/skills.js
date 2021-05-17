@@ -1,3 +1,5 @@
+import { cloneDeep } from 'lodash'
+
 export const state = () => ({
   skills: []
 })
@@ -12,7 +14,7 @@ export const mutations = {
 }
 
 export const getters = {
-  getSkill: state => slug => state.skills.find(skill => skill.slug === slug),
+  getSkill: state => slug => cloneDeep(state.skills.find(skill => skill.slug === slug)),
   skills: state => state.skills,
   getSkillOptions: (state) => {
     const options = []
