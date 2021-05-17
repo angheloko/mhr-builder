@@ -35,14 +35,7 @@ export default {
   },
   data () {
     return {
-      equipmentTypes: {
-        weapon: 'Weapon',
-        head: 'Head',
-        chest: 'Chest',
-        arms: 'Arms',
-        waist: 'Waist',
-        legs: 'Legs'
-      }
+      equipmentTypes: ['talisman', 'weapon', 'head', 'chest', 'arms', 'waist', 'legs']
     }
   },
   computed: {
@@ -52,7 +45,7 @@ export default {
     skills () {
       const skills = []
 
-      for (const type in this.equipmentTypes) {
+      for (const type of this.equipmentTypes) {
         if (!this.set[type]) {
           continue
         }

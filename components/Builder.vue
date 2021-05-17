@@ -40,6 +40,14 @@
               @click-slot="showDecorationsModal(type, index, $event)"
               @remove-decoration="removeDecoration(type, index, $event)"
             />
+            <TalismanCard
+              v-else-if="type === 'talisman'"
+              :item="set[type]"
+              :can-decorate="true"
+              class="flex-grow"
+              @click-slot="showDecorationsModal(type, index, $event)"
+              @remove-decoration="removeDecoration(type, index, $event)"
+            />
             <ArmorCard
               v-else
               :item="set[type]"
@@ -74,13 +82,15 @@ import AddWeaponModal from './AddWeaponModal'
 import WeaponCard from './WeaponCard'
 import ArmorCard from './ArmorCard'
 import SkillsCard from './SkillsCard'
+import TalismanCard from './TalismanCard'
 
 export default {
   name: 'Builder',
-  components: { SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
+  components: { TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
   data () {
     return {
       equipmentTypes: {
+        talisman: 'Talisman',
         weapon: 'Weapon',
         head: 'Head',
         chest: 'Chest',

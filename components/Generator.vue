@@ -269,7 +269,7 @@ export default {
             for (const waist of waistArmors) {
               for (const legs of legsArmors) {
                 const set = {
-                  talisman: this.talisman,
+                  talisman: this.generateTalisman(),
                   weapon: this.weapon,
                   head,
                   chest,
@@ -405,27 +405,28 @@ export default {
         if (total < skill.level && decoration) {
           for (const piece of this.setPieces) {
             if (set[piece] && set[piece].slots !== undefined) {
-              const currentDecorations = set[piece].decorations ?? []
-              const slots = set[piece].slots.filter(slot => slot > 0)
+              const slots = set[piece].slots
+              const decorations = set[piece].decorations ?? slots.map(() => null)
 
-              if (currentDecorations.length < slots.length) {
-                for (const slot of slots) {
-                  if (slot >= decoration.level) {
-                    if (set[piece].decorations === undefined) {
-                      set[piece].decorations = []
-                    }
-                    set[piece].decorations.push(decoration)
-                    total++
-
-                    if (total >= skill.level) {
-                      break
-                    }
-                  }
+              const emptySlots = []
+              for (let i = 0; i < decorations.length; i++) {
+                if (!decorations[i] && slots[i] >= decoration.level) {
+                  emptySlots.push(i)
                 }
+              }
+
+              for (const emptySlot of emptySlots) {
+                decorations[emptySlot] = decoration
+                set[piece].decorations = decorations
+                total++
 
                 if (total >= skill.level) {
                   break
                 }
+              }
+
+              if (total >= skill.level) {
+                break
               }
             }
           }
@@ -446,7 +447,7 @@ export default {
           }
         }
         if (set[piece].decorations !== undefined) {
-          for (const decoration of set[piece].decorations) {
+          for (const decoration of set[piece].decorations.filter(element => element)) {
             if (decoration.skillSlug === slug) {
               count++
             }
@@ -467,6 +468,24 @@ export default {
     },
     getDecoration (slug) {
       return this.decorations.find(decoration => decoration.skillSlug === slug)
+    },
+    generateTalisman () {
+      const slots = this.talisman.slots.filter(slot => slot > 0)
+      const skills = this.talisman.skills.filter(skill => skill.level > 0).map((skill) => {
+        const skillInfo = this.getSkill(skill.slug)
+        return {
+          name: skillInfo.name,
+          slug: skill.slug,
+          level: skill.level
+        }
+      })
+      if (slots.length > 0 || skills.length > 0) {
+        return {
+          slots,
+          skills
+        }
+      }
+      return null
     },
     async loadArmors (type) {
       const armors = []
