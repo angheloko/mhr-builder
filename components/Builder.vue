@@ -11,6 +11,11 @@
       @close="closeModal"
       @select="addEquipment"
     />
+    <AddTalismanModal
+      v-if="showModal === 'talisman'"
+      @close="closeModal"
+      @input="addEquipment"
+    />
     <SetDecorationModal
       v-if="showModal === 'decorations'"
       :level="decorationLevel"
@@ -83,10 +88,11 @@ import WeaponCard from './WeaponCard'
 import ArmorCard from './ArmorCard'
 import SkillsCard from './SkillsCard'
 import TalismanCard from './TalismanCard'
+import AddTalismanModal from './AddTalismanModal'
 
 export default {
   name: 'Builder',
-  components: { TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
+  components: { AddTalismanModal, TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
   data () {
     return {
       equipmentTypes: {
@@ -138,8 +144,8 @@ export default {
       this.equipmentType = type
       this.setIndex = index
 
-      this.showModal = type === 'weapon'
-        ? 'weapons'
+      this.showModal = type === 'weapon' || type === 'talisman'
+        ? type
         : 'armors'
     },
     addNewSet () {

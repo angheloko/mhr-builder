@@ -53,7 +53,7 @@ export default {
         if (this.set[type].skills) {
           for (const skill of this.set[type].skills) {
             const found = skills.findIndex((element) => {
-              return element.name === skill.name
+              return element.slug === skill.slug
             })
             if (found >= 0) {
               skills[found].level += skill.level
@@ -71,7 +71,7 @@ export default {
           for (const decoration of this.set[type].decorations) {
             if (decoration) {
               const found = skills.findIndex((element) => {
-                return element.name === decoration.skill
+                return element.slug === decoration.skillSlug
               })
               if (found >= 0) {
                 skills[found].level++
