@@ -142,7 +142,7 @@ export default {
       unique: true,
       decorate: true,
       decorations: [],
-      setPieces: [
+      equipmentTypes: [
         'talisman',
         'weapon',
         'head',
@@ -305,7 +305,7 @@ export default {
 
       if (this.unique) {
         const unique = []
-        const pieces = {
+        const equipments = {
           head: {},
           chest: {},
           arms: {},
@@ -315,16 +315,16 @@ export default {
         for (const set of sorted) {
           let exists = false
 
-          for (const piece of ['head', 'chest', 'arms', 'waist', 'legs']) {
-            if (pieces[piece][set[piece].slug]) {
+          for (const type of ['head', 'chest', 'arms', 'waist', 'legs']) {
+            if (equipments[type][set[type].slug]) {
               exists = true
               break
             }
           }
 
           if (!exists) {
-            for (const piece of ['head', 'chest', 'arms', 'waist', 'legs']) {
-              pieces[piece][set[piece].slug] = true
+            for (const type of ['head', 'chest', 'arms', 'waist', 'legs']) {
+              equipments[type][set[type].slug] = true
             }
             unique.push(set)
           }
@@ -385,25 +385,25 @@ export default {
     },
     calculateDefensePoints (set) {
       let total = 0
-      for (const piece of this.setPieces) {
-        if (!set[piece]) {
+      for (const type of this.equipmentTypes) {
+        if (!set[type]) {
           continue
         }
-        const defense = set[piece].baseDefense ?? set[piece].defense ?? 0
+        const defense = set[type].baseDefense ?? set[type].defense ?? 0
         total += defense
       }
-      return total / 600 // Set pieces that has defense (weapon, head, chest, arms, waist, legs).
+      return total / 600 // Equipments that has defense (weapon, head, chest, arms, waist, legs).
     },
     calculateSlotsPoints (set) {
       let total = 0
-      for (const piece of this.setPieces) {
-        if (set[piece] && set[piece].slots !== undefined) {
-          for (const slot of set[piece].slots) {
+      for (const type of this.equipmentTypes) {
+        if (set[type] && set[type].slots !== undefined) {
+          for (const slot of set[type].slots) {
             total += slot
           }
         }
       }
-      return total / (this.setPieces.length * 9)
+      return total / (this.equipmentTypes.length * 9)
     },
     calculateSkillsPoints (set) {
       const baseModifier = 0.1
@@ -443,13 +443,13 @@ export default {
         const decoration = this.getDecoration(skill.slug)
 
         if (total < skill.level && decoration) {
-          for (const piece of this.setPieces) {
-            if (!set[piece]) {
+          for (const type of this.equipmentTypes) {
+            if (!set[type]) {
               continue
             }
 
-            const slots = set[piece].slots ?? []
-            const decorations = set[piece].decorations ?? slots.map(() => null)
+            const slots = set[type].slots ?? []
+            const decorations = set[type].decorations ?? slots.map(() => null)
 
             const emptySlots = []
             for (let i = 0; i < decorations.length; i++) {
@@ -460,7 +460,7 @@ export default {
 
             for (const emptySlot of emptySlots) {
               decorations[emptySlot] = decoration
-              set[piece].decorations = decorations
+              set[type].decorations = decorations
               total++
 
               if (total >= skill.level) {
@@ -477,19 +477,19 @@ export default {
     },
     getSkillTotal (set, slug) {
       let count = 0
-      for (const piece of this.setPieces) {
-        if (!set[piece]) {
+      for (const type of this.equipmentTypes) {
+        if (!set[type]) {
           continue
         }
-        if (set[piece].skills !== undefined) {
-          for (const skill of set[piece].skills) {
+        if (set[type].skills !== undefined) {
+          for (const skill of set[type].skills) {
             if (skill.slug === slug) {
               count += skill.level
             }
           }
         }
-        if (set[piece].decorations !== undefined) {
-          for (const decoration of set[piece].decorations.filter(element => element)) {
+        if (set[type].decorations !== undefined) {
+          for (const decoration of set[type].decorations.filter(element => element)) {
             if (decoration.skillSlug === slug) {
               count++
             }
