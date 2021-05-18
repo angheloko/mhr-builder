@@ -94,6 +94,7 @@
 
 <script>
 import { mapGetters, mapMutations } from 'vuex'
+import { cloneDeep } from 'lodash'
 import GeneratorStepSkills from './GeneratorStepSkills'
 import GeneratorStepWeapon from './GeneratorStepWeapon'
 import GeneratorStepTalisman from './GeneratorStepTalisman'
@@ -188,10 +189,15 @@ export default {
       clearSets: 'sets/clear'
     }),
     selectSkill ({ index, value }) {
-      const skill = this.getSkill(value)
-      if (skill) {
-        this.skills[index].slug = value
-        this.skills[index].level = skill.level
+      if (!value) {
+        this.skills[index].slug = ''
+        this.skills[index].level = 0
+      } else {
+        const skill = this.getSkill(value)
+        if (skill) {
+          this.skills[index].slug = value
+          this.skills[index].level = skill.level
+        }
       }
     },
     updateSkill ({ index, value }) {
@@ -258,6 +264,7 @@ export default {
       const armsArmors = await this.loadArmors('arms')
       const waistArmors = await this.loadArmors('waist')
       const legsArmors = await this.loadArmors('legs')
+      const talisman = this.generateTalisman()
 
       if (this.decorate) {
         this.decorations = await this.loadDecorations()
@@ -268,15 +275,15 @@ export default {
           for (const arms of armsArmors) {
             for (const waist of waistArmors) {
               for (const legs of legsArmors) {
-                const set = {
-                  talisman: this.generateTalisman(),
+                const set = cloneDeep({
+                  talisman,
                   weapon: this.weapon,
                   head,
                   chest,
                   arms,
                   waist,
                   legs
-                }
+                })
 
                 if (this.decorate) {
                   this.decorateSet(set)
@@ -340,6 +347,33 @@ export default {
         decorate: this.decorate
       })
     },
+    generateTalisman () {
+      let talisman = null
+      const slots = this.talisman.slots.filter(slot => slot > 0)
+      const skills = []
+
+      for (const skill of this.talisman.skills) {
+        if (skill.slug && skill.level > 0) {
+          const skillInfo = this.getSkill(skill.slug)
+          if (skillInfo) {
+            skills.push({
+              name: skillInfo.name,
+              slug: skill.slug,
+              level: skill.level
+            })
+          }
+        }
+      }
+
+      if (slots.length > 0 || skills.length > 0) {
+        talisman = {
+          slots,
+          skills
+        }
+      }
+
+      return talisman
+    },
     isSetValid (set) {
       for (const skill of this.skills) {
         const total = this.getSkillTotal(set, skill.slug)
@@ -378,7 +412,7 @@ export default {
       let skillCount = 0
       const skillPoints = []
 
-      for (const skill of this.skills.filter(element => element.level > 0)) {
+      for (const skill of this.skills.filter(this.filterSkills)) {
         const totalLevel = this.getSkillTotal(set, skill.slug)
         let points = 0
 
@@ -398,36 +432,44 @@ export default {
       return total
     },
     decorateSet (set) {
-      for (const skill of this.skills.filter(skill => skill.level > 0)) {
-        let total = this.getSkillTotal(set, skill.slug)
+      const setSkills = {}
+
+      for (const skill of this.skills.filter(this.filterSkills)) {
+        setSkills[skill.slug] = this.getSkillTotal(set, skill.slug)
+      }
+
+      for (const skill of this.skills.filter(this.filterSkills)) {
+        let total = setSkills[skill.slug]
         const decoration = this.getDecoration(skill.slug)
 
         if (total < skill.level && decoration) {
           for (const piece of this.setPieces) {
-            if (set[piece] && set[piece].slots !== undefined) {
-              const slots = set[piece].slots
-              const decorations = set[piece].decorations ?? slots.map(() => null)
+            if (!set[piece]) {
+              continue
+            }
 
-              const emptySlots = []
-              for (let i = 0; i < decorations.length; i++) {
-                if (!decorations[i] && slots[i] >= decoration.level) {
-                  emptySlots.push(i)
-                }
+            const slots = set[piece].slots ?? []
+            const decorations = set[piece].decorations ?? slots.map(() => null)
+
+            const emptySlots = []
+            for (let i = 0; i < decorations.length; i++) {
+              if (!decorations[i] && slots[i] >= decoration.level) {
+                emptySlots.push(i)
               }
+            }
 
-              for (const emptySlot of emptySlots) {
-                decorations[emptySlot] = decoration
-                set[piece].decorations = decorations
-                total++
-
-                if (total >= skill.level) {
-                  break
-                }
-              }
+            for (const emptySlot of emptySlots) {
+              decorations[emptySlot] = decoration
+              set[piece].decorations = decorations
+              total++
 
               if (total >= skill.level) {
                 break
               }
+            }
+
+            if (total >= skill.level) {
+              break
             }
           }
         }
@@ -456,36 +498,25 @@ export default {
       }
       return count
     },
-    loadDecorations () {
+    async loadDecorations () {
+      const decorations = {}
       const slugs = this.skills.map(skill => skill.slug)
-      return this.$content('decorations')
+      const results = await this.$content('decorations')
         .where({
           skillSlug: {
             $in: slugs
           }
         })
         .fetch()
+
+      for (const decoration of results) {
+        decorations[decoration.skillSlug] = decoration
+      }
+
+      return decorations
     },
     getDecoration (slug) {
-      return this.decorations.find(decoration => decoration.skillSlug === slug)
-    },
-    generateTalisman () {
-      const slots = this.talisman.slots.filter(slot => slot > 0)
-      const skills = this.talisman.skills.filter(skill => skill.level > 0).map((skill) => {
-        const skillInfo = this.getSkill(skill.slug)
-        return {
-          name: skillInfo.name,
-          slug: skill.slug,
-          level: skill.level
-        }
-      })
-      if (slots.length > 0 || skills.length > 0) {
-        return {
-          slots,
-          skills
-        }
-      }
-      return null
+      return this.decorations[slug]
     },
     async loadArmors (type) {
       const armors = []
@@ -504,6 +535,9 @@ export default {
         armors.push(armor)
       }
       return armors
+    },
+    filterSkills (skill) {
+      return skill.slug && skill.level > 0
     }
   }
 }
