@@ -10,5 +10,12 @@ module.exports = {
       backgroundColor: ['checked'],
       borderColor: ['checked']
     }
+  },
+  purge: {
+    options: {
+      safelist: {
+        standard: [/^max-h-/]
+      }
+    }
   }
 }
