@@ -2418,5 +2418,51 @@
     "defense": 0,
     "rarity": 6,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Ritmico",
+    "slug": "reddnaught-ritmico",
+    "type": "hunting_horn",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Flute I",
+    "slug": "redwing-flute-i",
+    "type": "hunting_horn",
+    "slots": [
+      2
+    ],
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

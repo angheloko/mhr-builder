@@ -2605,5 +2605,51 @@
     "defense": 0,
     "rarity": 6,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Hammer",
+    "slug": "reddnaught-hammer",
+    "type": "hammer",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Drill I",
+    "slug": "redwing-drill-i",
+    "type": "hammer",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

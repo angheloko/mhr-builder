@@ -2513,5 +2513,47 @@
     "defense": 0,
     "rarity": 6,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Spear",
+    "slug": "reddnaught-spear",
+    "type": "lance",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Spear I",
+    "slug": "redwing-spear-i",
+    "type": "lance",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

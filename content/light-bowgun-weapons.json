@@ -1801,5 +1801,41 @@
     "defense": 0,
     "rarity": 6,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Bowgun",
+    "slug": "reddnaught-bowgun",
+    "type": "light_bowgun",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Shooter I",
+    "slug": "redwing-shooter-i",
+    "type": "light_bowgun",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

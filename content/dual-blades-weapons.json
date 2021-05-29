@@ -2494,5 +2494,51 @@
     "defense": 0,
     "rarity": 6,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Dragon Wing",
+    "slug": "reddnaught-dragon-wing",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Blades I",
+    "slug": "redwing-blades-i",
+    "type": "dual_blades",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

@@ -1738,5 +1738,37 @@
       "Affinity Boost II",
       "Normal Effect I"
     ]
+  },
+  {
+    "name": "Diabolica",
+    "slug": "diabolica",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Normal Effect II",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Cannon I",
+    "slug": "redwing-cannon-i",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Normal Effect II",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]

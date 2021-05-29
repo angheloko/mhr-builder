@@ -2098,5 +2098,51 @@
     "defense": 0,
     "rarity": 0,
     "rampSkills": []
+  },
+  {
+    "name": "Reddnaught Dunat",
+    "slug": "reddnaught-dunat",
+    "type": "switch_axe",
+    "slots": [
+      2
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack":37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Redwing Switch Axe I",
+    "slug": "redwing-switch–axe-i",
+    "type": "switch_axe",
+    "slots": [
+      2
+    ],
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack":32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ]
   }
 ]
