@@ -1785,5 +1785,37 @@
     "thunderResistance": 2,
     "iceResistance": 0,
     "dragonResistance": 2
+  },
+  {
+    "name": "Valstrax Coil",
+    "type": "waist",
+    "slug": "valstrax-coil",
+    "skills": [
+      {
+        "name": "Resentment",
+        "slug": "resentment",
+        "level": 2
+      },
+      {
+        "name": "Resuscitate",
+        "slug": "resuscitate",
+        "level": 1
+      },
+      {
+        "name": "Dragonheart",
+        "slug": "dragonheart",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2
+    ],
+    "rarity": 6,
+    "baseDefense": 80,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3
   }
 ]

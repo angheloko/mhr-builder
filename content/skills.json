@@ -646,5 +646,11 @@
     "slug": "kushala-blessing",
     "description": "Gain the power of the elder dragon",
     "level": 4
+  },
+  {
+    "name": "Dragonheart",
+    "slug": "dragonheart",
+    "description": "Draconic energy fills you after losing a certain amount of health. Weapons lose all non-dragon effects.",
+    "level": 4
   }
 ]

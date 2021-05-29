@@ -1934,5 +1934,33 @@
     "thunderResistance": 0,
     "iceResistance": 0,
     "dragonResistance": 1
+  },
+  {
+    "name": "Valstrax Helm",
+    "type": "head",
+    "slug": "valstrax-helm",
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "slug": "weakness-exploit",
+        "level": 1
+      },
+      {
+        "name": "Dragonheart",
+        "slug": "dragonheart",
+        "level": 1
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "rarity": 4,
+    "baseDefense": 80,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3
   }
 ]
