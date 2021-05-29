@@ -2525,7 +2525,7 @@
     "element": [
       {
         "type": "Dragon",
-        "attack":35
+        "attack": 35
       }
     ],
     "affinity": 0,
@@ -2535,6 +2535,27 @@
       "Attack Boost III",
       "Wyvern Exploit",
       "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Tamonowo",
+    "slug": "tamonowo",
+    "type": "long_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
     ]
   }
 ]
