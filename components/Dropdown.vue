@@ -27,7 +27,7 @@
           {{ option.label || 'None' }}
           <!-- heroicons: check -->
           <svg
-            v-if="value === option.value && value !== ''"
+            v-if="(value && value === option.value) || (!value && option.default)"
             xmlns="http://www.w3.org/2000/svg"
             class="h-4 w-4 text-blue-600"
             fill="none"
@@ -73,7 +73,8 @@ export default {
   },
   data () {
     return {
-      showOptions: false
+      showOptions: false,
+      default: null
     }
   },
   computed: {
@@ -105,8 +106,11 @@ export default {
           }
         }
       }
-      return this.label
+      return this.default?.label ?? this.label
     }
+  },
+  mounted () {
+    this.default = this.options.find(element => element.default)
   },
   methods: {
     select (value) {
