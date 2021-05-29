@@ -2557,5 +2557,192 @@
       "Affinity Boost II",
       "Water Boost II"
     ]
+  },
+  {
+    "name": "Abyssal Gale Sword",
+    "slug": "abyssal-gale-sword",
+    "type": "long_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Sword",
+    "slug": "abyssal-storm-sword",
+    "type": "long_sword",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Bazel Varga Rookslayer",
+    "slug": "bazel-varga-rookslayer",
+    "type": "long_sword",
+    "slots": [
+      1
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 17
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost III",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Daora's Raid",
+    "slug": "daora-s-raid",
+    "type": "long_sword",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Great Demon Halberd",
+    "slug": "great-demon-halberd",
+    "type": "long_sword",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Imperial Shimmer",
+    "slug": "imperial-shimmer",
+    "type": "long_sword",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Kamura's Inheritance",
+    "slug": "kamura-s-inheritance",
+    "type": "long_sword",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Anti-Aerial Species",
+      "Anti-Aquatic Species"
+    ]
+  },
+  {
+    "name": "Phantom Mirage",
+    "slug": "phantom-mirage",
+    "type": "long_sword",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Rampage Blade S",
+    "slug": "rampage-blade-s",
+    "type": "long_sword",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 4,
+    "rampSkills": []
   }
 ]
