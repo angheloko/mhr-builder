@@ -2468,5 +2468,29 @@
       "Affinity Boost II",
       "Water Boost II"
     ]
+  },
+  {
+    "name": "Despot's Blackstorm",
+    "slug": "despot-s-blackstorm",
+    "type": "great_sword",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ]
   }
 ]
