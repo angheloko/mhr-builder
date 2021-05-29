@@ -2601,29 +2601,6 @@
     ]
   },
   {
-    "name": "Bazel Varga Rookslayer",
-    "slug": "bazel-varga-rookslayer",
-    "type": "long_sword",
-    "slots": [
-      1
-    ],
-    "attack": 220,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 17
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rarity": 6,
-    "rampSkills": [
-      "Defense Boost II",
-      "Blast Boost III",
-      "Brutal Strike"
-    ]
-  },
-  {
     "name": "Daora's Raid",
     "slug": "daora-s-raid",
     "type": "long_sword",
