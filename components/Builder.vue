@@ -119,6 +119,10 @@ export default {
   },
   mounted () {
     this.loadSets()
+
+    if (!this.sets.length) {
+      this.addSet(this.newSet())
+    }
   },
   methods: {
     ...mapMutations({
