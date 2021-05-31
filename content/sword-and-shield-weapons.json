@@ -2598,8 +2598,8 @@
     ]
   },
   {
-    "name": "Vermillion Orgul",
-    "slug": "vermillion-orgul",
+    "name": "Vermilion Orgul",
+    "slug": "vermilion-orgul",
     "type": "sword_and_shield",
     "slots": [
       2
@@ -2618,6 +2618,127 @@
       "Attack Boost III",
       "Wyvern Exploit",
       "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Gale Shredder",
+    "slug": "abyssal-gale-shredder",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Shredder",
+    "slug": "abyssal-storm-shredder",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Banned Rajang Club",
+    "slug": "banned-rajang-club",
+    "type": "sword_and_shield",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 19
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Daora's Razor",
+    "slug": "daora-s-razor",
+    "type": "sword_and_shield",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Rampage Sword S",
+    "slug": "rampage-sword-s",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra's Emblem",
+    "slug": "teostra-s-emblem",
+    "type": "sword_and_shield",
+    "slots": [],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
     ]
   }
 ]
