@@ -2468,5 +2468,170 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Glaive",
+    "slug": "abyssal-gale-glaive",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Glaive",
+    "slug": "abyssal-storm-glaive",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Curved Naganagi",
+    "slug": "curved-naganagi",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ]
+  },
+  {
+    "name": "Daora's Tethidine",
+    "slug": "daora-s-tethidine",
+    "type": "insect_glaive",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Kushala Doara Soul"
+    ]
+  },
+  {
+    "name": "Hazy Caster",
+    "slug": "hazy-caster",
+    "type": "insect_glaive",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Metalmangler",
+    "slug": "metalmangler",
+    "type": "insect_glaive",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Rampage Glaive S",
+    "slug": "rampage-glaive-s",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Tyrant Rod",
+    "slug": "tyrant-rod",
+    "type": "insect_glaive",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Kinsect Level Boost"
+    ]
   }
 ]
