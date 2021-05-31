@@ -2631,5 +2631,128 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Gunlance",
+    "slug": "abyssal-gale-gunlance",
+    "type": "gunlance",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Gunlance",
+    "slug": "abyssal-storm-gunlance",
+    "type": "gunlance",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Daora's Brigia",
+    "slug": "daora-s-brigia",
+    "type": "gunlance",
+    "slots": [
+      1
+    ],
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 44
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Great Demon Gunlance",
+    "slug": "great-demon-gunlance",
+    "type": "gunlance",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Rampage Gunlance S",
+    "slug": "rampage-gunlance-s",
+    "type": "gunlance",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Venomous Attar",
+    "slug": "venomous-attar",
+    "type": "gunlance",
+    "slots": [
+      3
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
   }
 ]
