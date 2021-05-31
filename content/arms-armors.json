@@ -1138,7 +1138,7 @@
       {
         "name": "Attack Boost",
         "slug": "attack-boost",
-        "level": 1
+        "level": 2
       }
     ],
     "slots": [
@@ -1148,9 +1148,9 @@
     "baseDefense": 62,
     "fireResistance": 3,
     "waterResistance": 1,
-    "thunderResistance": 0,
+    "thunderResistance": -2,
     "iceResistance": 1,
-    "dragonResistance": 0
+    "dragonResistance": -3
   },
   {
     "name": "Rhopessa Brachia S",
