@@ -1837,5 +1837,134 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Bolt",
+    "slug": "abyssal-gale-bolt",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Normal Effect II",
+      "Anti-Areial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Bolt",
+    "slug": "abyssal-storm-bolt",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Areial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Cursed Lamp",
+    "slug": "cursed-lamp",
+    "type": "light_bowgun",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 190,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Daora's Hornet",
+    "slug": "daora-s-hornet",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Rampage L. Bowgun S",
+    "slug": "rampage-l-bowgun-s",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Ten Thousand Volts",
+    "slug": "ten-thousand-volts",
+    "type": "light_bowgun",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Brutal Strike",
+      "Master Rider"
+    ]
+  },
+  {
+    "name": "Teostra's Flamebolt",
+    "slug": "teostra-s-flamebolt",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Tigrex Wargun",
+    "slug": "tigrex-wargun",
+    "type": "light_bowgun",
+    "slots": [],
+    "attack": 220,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ]
   }
 ]
