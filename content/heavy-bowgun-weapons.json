@@ -1770,5 +1770,139 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Barrage",
+    "slug": "abyssal-gale-barrage",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Pierce Effect II",
+      "Anti-Areial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Barrage",
+    "slug": "abyssal-storm-barrage",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Areial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Daora Grande",
+    "slug": "daora-grande",
+    "type": "heavy_bowgun",
+    "slots": [
+      1
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Pierce Effect I",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Rajang's Rage",
+    "slug": "rajang-s-rage",
+    "type": "heavy_bowgun",
+    "slots": [
+      3
+    ],
+    "attack": 230,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Normal Effect II",
+      "Sticky Effect II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rampage H. Bowgun S",
+    "slug": "rampage-h-bowgun-s",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra's Flames",
+    "slug": "teostra-s-flames",
+    "type": "heavy_bowgun",
+    "slots": [],
+    "attack": 230,
+    "element": [],
+    "affinity": 5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Sticky Effect II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Tigrex Skull",
+    "slug": "tigrex-skull",
+    "type": "heavy_bowgun",
+    "slots": [
+      1
+    ],
+    "attack": 240,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sticky Effect I",
+      "Cluster Effect II"
+    ]
+  },
+  {
+    "name": "Veiled Kamaeleon",
+    "slug": "veiled-kamaeleon",
+    "type": "heavy_bowgun",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Defense Boost III",
+      "Spread Effect II",
+      "Chameleos Soul"
+    ]
   }
 ]
