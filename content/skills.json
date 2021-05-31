@@ -652,5 +652,11 @@
     "slug": "dragonheart",
     "description": "Draconic energy fills you after losing a certain amount of health. Weapons lose all non-dragon effects.",
     "level": 4
+  },
+  {
+    "name": "Stormsoul",
+    "slug": "stormsoul",
+    "description": "Strengthens thunder and dragon power and improves skills of the same elements.",
+    "level": 5
   }
 ]

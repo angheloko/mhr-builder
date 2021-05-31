@@ -1396,16 +1396,21 @@
         "name": "Guard Up",
         "slug": "guard-up",
         "level": 1
+      },
+      {
+        "name": "Stormsoul",
+        "slug": "stormsoul",
+        "level": 1
       }
     ],
     "slots": [],
     "rarity": 7,
     "baseDefense": 66,
-    "fireResistance": 0,
+    "fireResistance": -1,
     "waterResistance": 0,
     "thunderResistance": 0,
     "iceResistance": 0,
-    "dragonResistance": 0
+    "dragonResistance": -2
   },
   {
     "name": "Rakna Greaves",
@@ -1503,6 +1508,11 @@
         "name": "Marathon Runner",
         "slug": "marathon-runner",
         "level": 1
+      },
+      {
+        "name": "Stormsoul",
+        "slug": "stormsoul",
+        "level": 1
       }
     ],
     "slots": [],
@@ -1511,8 +1521,8 @@
     "fireResistance": 2,
     "waterResistance": 1,
     "thunderResistance": 4,
-    "iceResistance": 0,
-    "dragonResistance": 0
+    "iceResistance": -3,
+    "dragonResistance": -4
   },
   {
     "name": "Diablos Greaves S",
