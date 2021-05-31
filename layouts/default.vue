@@ -1,31 +1,38 @@
 <template>
   <div class="text-gray-600 bg-gray-50">
     <GeneratorModal
-      v-if="showModal"
+      v-show="showModal"
       :value="{ selectedSkills, excludedSkills }"
       @close="showModal = false"
     />
-    <div class="h-12 flex items-center p-1">
-      <Logo class="inline-block h-5 w-auto" />
+    <WelcomeModal
+      v-show="showHelp"
+      @close="showHelp = false"
+    />
+    <div class="h-12 flex items-center px-2 py-1">
+      <Logo class="inline-block h-6 w-auto" />
       <h1 class="text-lg inline-block ml-1 flex-grow hidden md:block">
         Monster Hunter Rise Set Builder
       </h1>
       <h1 class="text-lg inline-block ml-1 flex-grow md:hidden">
-        MHR Set Builder
+        MHRise Builder
       </h1>
       <button
-        class="bg-blue-600 text-white font-medium text-sm py-0 px-4 rounded mr-2 ring h-8"
+        class="bg-blue-600 text-white font-medium text-sm py-0 px-4 rounded ring h-8"
         @click="showModal = true"
       >
         Generate
       </button>
-      <div>
-        <a href="https://github.com/angheloko/mhr-builder">
-          <svg width="24" height="24" fill="currentColor">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.463 2 11.97c0 4.404 2.865 8.14 6.839 9.458.5.092.682-.216.682-.48 0-.236-.008-.864-.013-1.695-2.782.602-3.369-1.337-3.369-1.337-.454-1.151-1.11-1.458-1.11-1.458-.908-.618.069-.606.069-.606 1.003.07 1.531 1.027 1.531 1.027.892 1.524 2.341 1.084 2.91.828.092-.643.35-1.083.636-1.332-2.22-.251-4.555-1.107-4.555-4.927 0-1.088.39-1.979 1.029-2.675-.103-.252-.446-1.266.098-2.638 0 0 .84-.268 2.75 1.022A9.606 9.606 0 0112 6.82c.85.004 1.705.114 2.504.336 1.909-1.29 2.747-1.022 2.747-1.022.546 1.372.202 2.386.1 2.638.64.696 1.028 1.587 1.028 2.675 0 3.83-2.339 4.673-4.566 4.92.359.307.678.915.678 1.846 0 1.332-.012 2.407-.012 2.734 0 .267.18.577.688.48C19.137 20.107 22 16.373 22 11.969 22 6.463 17.522 2 12 2z"></path>
-          </svg>
-        </a>
-      </div>
+      <a href="https://github.com/angheloko/mhr-builder" class="ml-3">
+        <svg class="w-6 h-6" viewBox="0 0 24 24">
+          <path fill="currentColor" d="M12,2A10,10 0 0,0 2,12C2,16.42 4.87,20.17 8.84,21.5C9.34,21.58 9.5,21.27 9.5,21C9.5,20.77 9.5,20.14 9.5,19.31C6.73,19.91 6.14,17.97 6.14,17.97C5.68,16.81 5.03,16.5 5.03,16.5C4.12,15.88 5.1,15.9 5.1,15.9C6.1,15.97 6.63,16.93 6.63,16.93C7.5,18.45 8.97,18 9.54,17.76C9.63,17.11 9.89,16.67 10.17,16.42C7.95,16.17 5.62,15.31 5.62,11.5C5.62,10.39 6,9.5 6.65,8.79C6.55,8.54 6.2,7.5 6.75,6.15C6.75,6.15 7.59,5.88 9.5,7.17C10.29,6.95 11.15,6.84 12,6.84C12.85,6.84 13.71,6.95 14.5,7.17C16.41,5.88 17.25,6.15 17.25,6.15C17.8,7.5 17.45,8.54 17.35,8.79C18,9.5 18.38,10.39 18.38,11.5C18.38,15.32 16.04,16.16 13.81,16.41C14.17,16.72 14.5,17.33 14.5,18.26C14.5,19.6 14.5,20.68 14.5,21C14.5,21.27 14.66,21.59 15.17,21.5C19.14,20.16 22,16.42 22,12A10,10 0 0,0 12,2Z" />
+        </svg>
+      </a>
+      <button class="ml-2" @click="showHelp = true">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
+        </svg>
+      </button>
     </div>
     <Nuxt />
   </div>
@@ -34,12 +41,14 @@
 import { mapActions } from 'vuex'
 import Logo from '../components/Logo'
 import GeneratorModal from '../components/GeneratorModal'
+import WelcomeModal from '../components/WelcomeModal'
 
 export default {
-  components: { GeneratorModal, Logo },
+  components: { WelcomeModal, GeneratorModal, Logo },
   data () {
     return {
       showModal: false,
+      showHelp: false,
       selectedSkills: [],
       excludedSkills: [],
       types: [
