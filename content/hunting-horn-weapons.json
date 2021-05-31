@@ -2464,5 +2464,190 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Horn",
+    "slug": "abyssal-gale-horn",
+    "type": "hunting_horn",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Horn",
+    "slug": "abyssal-storm-horn",
+    "type": "hunting_horn",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Cursed Ocarina",
+    "slug": "cursed-ocarina",
+    "type": "hunting_horn",
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Daora's Baphophone",
+    "slug": "daora-s-baphophone",
+    "type": "hunting_horn",
+    "slots": [
+      1
+    ],
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 35
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Denden Doomsounder",
+    "slug": "denden-doomsounder",
+    "type": "hunting_horn",
+    "slots": [
+      3
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Thunder Boost II",
+      "Dulling Strike",
+      "Maximum Volume"
+    ]
+  },
+  {
+    "name": "Duo Risoluto",
+    "slug": "duo-risoluto",
+    "type": "hunting_horn",
+    "slots": [],
+    "attack": 240,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Rampage Agitato S",
+    "slug": "rampage-agitato-s",
+    "type": "hunting_horn",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Summoning Bell",
+    "slug": "summoning-bell",
+    "type": "hunting_horn",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Element Exploit"
+    ]
+  },
+  {
+    "name": "Teostra's Orphee",
+    "slug": "teostra-s-orphee",
+    "type": "hunting_horn",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
   }
 ]
