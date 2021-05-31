@@ -2110,7 +2110,7 @@
     "element": [
       {
         "type": "Dragon",
-        "attack":37
+        "attack": 37
       }
     ],
     "affinity": 0,
@@ -2133,7 +2133,7 @@
     "element": [
       {
         "type": "Dragon",
-        "attack":32
+        "attack": 32
       }
     ],
     "affinity": 0,
@@ -2143,6 +2143,153 @@
       "Attack Boost III",
       "Wyvern Exploit",
       "Valstrax Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Gale Axe",
+    "slug": "abyssal-gale-axe",
+    "type": "switch_axe",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Axe",
+    "slug": "abyssal-storm-axe",
+    "type": "switch_axe",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Balor's Mirage",
+    "slug": "balor-s-mirage",
+    "type": "switch_axe",
+    "slots": [
+      3,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Daora's Janah",
+    "slug": "daora-s-janah",
+    "type": "switch_axe",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Rampage Slicer S",
+    "slug": "rampage-slicer-s",
+    "type": "switch_axe",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra's Castle",
+    "slug": "teostra-s-castle",
+    "type": "switch_axe",
+    "slots": [
+      2
+    ],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
+  },
+  {
+    "name": "Undying Light",
+    "slug": "undying-light",
+    "type": "switch_axe",
+    "slots": [
+      3
+    ],
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
     ]
   }
 ]
