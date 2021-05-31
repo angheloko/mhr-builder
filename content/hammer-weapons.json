@@ -2651,5 +2651,168 @@
       "Wyvern Exploit",
       "Valstrax Soul"
     ]
+  },
+  {
+    "name": "Abyssal Gale Mauler",
+    "slug": "abyssal-gale-mauler",
+    "type": "hammer",
+    "slots": [],
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Mauler",
+    "slug": "abyssal-storm-mauler",
+    "type": "hammer",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Daora's Colossus",
+    "slug": "daora-s-colossus",
+    "type": "hammer",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 42
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Diablos Tail",
+    "slug": "diablos-tail",
+    "type": "hammer",
+    "slots": [],
+    "attack": 240,
+    "element": [],
+    "affinity": -25,
+    "defense": 15,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Brutal Strike"
+    ]
+  },
+  {
+    "name": "Diamalto's Dream",
+    "slug": "diamalto-s-dream",
+    "type": "hammer",
+    "slots": [
+      1
+    ],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Mane Malice Rajang",
+    "slug": "mane-malice-rajang",
+    "type": "hammer",
+    "slots": [
+      3
+    ],
+    "attack": 230,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Rampage Hammer S",
+    "slug": "rampage-hammer-s",
+    "type": "hammer",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra Cratergouger",
+    "slug": "teostra-cratergouger",
+    "type": "hammer",
+    "slots": [
+      1,
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 46
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rarity": 6,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
   }
 ]
