@@ -1831,5 +1831,165 @@
       "Affinity Boost II",
       "Water Boost II"
     ]
+  },
+  {
+    "name": "Abyssal Gale Ward",
+    "slug": "abyssal-gale-ward",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ]
+  },
+  {
+    "name": "Abyssal Storm Ward",
+    "slug": "abyssal-storm-ward",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ]
+  },
+  {
+    "name": "Cera Strongarm",
+    "slug": "cera-strongarm",
+    "type": "charge_blade",
+    "slots": [
+      3
+    ],
+    "attack": 240,
+    "element": [],
+    "affinity": -30,
+    "defense": 20,
+    "rarity": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Defense Grinder II"
+    ]
+  },
+  {
+    "name": "Daora's Thwartoise",
+    "slug": "daora-s-thwartoise",
+    "type": "charge_blade",
+    "slots": [
+      1
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ]
+  },
+  {
+    "name": "Etherward",
+    "slug": "etherward",
+    "type": "charge_blade",
+    "slots": [
+      3
+    ],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ]
+  },
+  {
+    "name": "Ikaji Immortal",
+    "slug": "ikaji-immortal",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 240,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ]
+  },
+  {
+    "name": "Rampage C. Blade S",
+    "slug": "rampage-c-blade-s",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": []
+  },
+  {
+    "name": "Teostra's Nova",
+    "slug": "teostra-s-nova",
+    "type": "charge_blade",
+    "slots": [],
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rarity": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ]
   }
 ]
