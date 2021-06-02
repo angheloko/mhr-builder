@@ -1217,7 +1217,7 @@
   {
     "name": "Aelucanth Crura S",
     "type": "legs",
-    "slug": "img-aelucanth-crura-s",
+    "slug": "aelucanth-crura-s",
     "skills": [
       {
         "name": "Critical Eye",
@@ -1681,7 +1681,7 @@
   {
     "name": "Skalda Crura S",
     "type": "legs",
-    "slug": "img-skalda-crura-s",
+    "slug": "skalda-crura-s",
     "skills": [
       {
         "name": "Latent Power",

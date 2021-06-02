@@ -1175,7 +1175,7 @@
   {
     "name": "Aelucanth Elytra S",
     "type": "waist",
-    "slug": "img-aelucanth-elytra-s",
+    "slug": "aelucanth-elytra-s",
     "skills": [
       {
         "name": "Dragon Attack",
@@ -1604,7 +1604,7 @@
   {
     "name": "Skalda Elytra S",
     "type": "waist",
-    "slug": "img-skalda-elytra-s",
+    "slug": "skalda-elytra-s",
     "skills": [
       {
         "name": "Weakness Exploit",

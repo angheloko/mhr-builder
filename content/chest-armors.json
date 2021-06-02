@@ -1285,7 +1285,7 @@
   {
     "name": "Aelucanth Thorax S",
     "type": "chest",
-    "slug": "img-aelucanth-thorax-s",
+    "slug": "aelucanth-thorax-s",
     "skills": [
       {
         "name": "Critical Element",
@@ -1708,7 +1708,7 @@
   {
     "name": "Vaik Mail S",
     "type": "chest",
-    "slug": "img-vaik-mail-s",
+    "slug": "vaik-mail-s",
     "skills": [],
     "slots": [
       3,
@@ -1726,7 +1726,7 @@
   {
     "name": "Spio Thorax S",
     "type": "chest",
-    "slug": "img-spio-thorax-s",
+    "slug": "spio-thorax-s",
     "skills": [
       {
         "name": "Poison Attack",
@@ -1746,7 +1746,7 @@
   {
     "name": "Skalda Thorax S",
     "type": "chest",
-    "slug": "img-skalda-thorax-s",
+    "slug": "skalda-thorax-s",
     "skills": [
       {
         "name": "Poison Attack",

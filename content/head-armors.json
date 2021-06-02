@@ -908,7 +908,7 @@
   {
     "name": "Utsushi Mask S (Hidden)",
     "type": "head",
-    "slug": "img-utsushi-mask-s-hidden",
+    "slug": "utsushi-mask-s-hidden",
     "skills": [
       {
         "name": "Razor Sharp",
@@ -1275,7 +1275,7 @@
   {
     "name": "Aelucanth Vertex S",
     "type": "head",
-    "slug": "img-aelucanth-vertex-s",
+    "slug": "aelucanth-vertex-s",
     "skills": [
       {
         "name": "Critical Element",
@@ -1743,7 +1743,7 @@
   {
     "name": "Skalda Vertex S",
     "type": "head",
-    "slug": "img-skalda-vertex-s",
+    "slug": "skalda-vertex-s",
     "skills": [
       {
         "name": "Poison Attack",
