@@ -223,10 +223,15 @@ export default {
       })
     },
     selectTalismanSkill ({ index, value }) {
-      const skill = this.getSkill(value)
-      if (skill) {
-        this.talisman.skills[index].slug = value
-        this.talisman.skills[index].level = skill.level
+      if (!value) {
+        this.talisman.skills[index].slug = ''
+        this.talisman.skills[index].level = 0
+      } else {
+        const skill = this.getSkill(value)
+        if (skill) {
+          this.talisman.skills[index].slug = value
+          this.talisman.skills[index].level = 1
+        }
       }
     },
     updateTalismanSkill ({ index, value }) {

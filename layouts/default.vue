@@ -1,7 +1,7 @@
 <template>
   <div class="text-gray-600 bg-gray-50">
     <GeneratorModal
-      v-show="showModal"
+      v-if="showModal"
       :value="{ selectedSkills, excludedSkills }"
       @close="showModal = false"
     />

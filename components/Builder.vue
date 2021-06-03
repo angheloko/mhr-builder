@@ -1,5 +1,11 @@
 <template>
   <div class="builder flex items-start overflow-x-auto p-2">
+    <div
+      v-show="showBottomMessage"
+      class="absolute z-10 mx-auto inset-x-0 bottom-4 rounded border shadow-md bg-white w-80 p-2 text-center text-sm"
+    >
+      <a :href="setUrl" class="font-medium text-blue-600">Link</a> copied to clipboard.
+    </div>
     <AddWeaponModal
       v-if="showModal === 'weapon'"
       @close="closeModal"
@@ -24,10 +30,15 @@
       @select="setDecoration"
     />
     <div v-for="(set, index) in sets" :key="index" class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 mr-2 pb-4">
-      <div class="text-right">
-        <button class="text-sm p-1 h-6 w-6" @click="removeSet(index)">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      <div class="p-2 flex justify-between">
+        <button class="focus:outline-none" @click="share(index)">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M15 8a3 3 0 10-2.977-2.63l-4.94 2.47a3 3 0 100 4.319l4.94 2.47a3 3 0 10.895-1.789l-4.94-2.47a3.027 3.027 0 000-.74l4.94-2.47C13.456 7.68 14.19 8 15 8z" />
+          </svg>
+        </button>
+        <button @click="removeSet(index)">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
         </button>
       </div>
@@ -109,19 +120,26 @@ export default {
       setIndex: 0,
       slot: 0,
       decorationLevel: 0,
-      currentDecoration: ''
+      currentDecoration: '',
+      setUrl: '',
+      showBottomMessage: false
     }
   },
   computed: {
     ...mapGetters({
-      sets: 'sets/sets'
+      sets: 'sets/sets',
+      getSkill: 'skills/getSkill'
     })
   },
   mounted () {
     this.loadSets()
 
     if (!this.sets.length) {
-      this.addSet(this.newSet())
+      this.loadSetFromQuery()
+
+      if (!this.sets.length) {
+        this.addSet(this.newSet())
+      }
     }
   },
   methods: {
@@ -134,6 +152,114 @@ export default {
       undecorate: 'sets/undecorate',
       removeSet: 'sets/remove'
     }),
+    async loadSetFromQuery () {
+      if (location.search) {
+        this.addSet(this.newSet())
+        this.setIndex = this.sets.length - 1
+
+        const query = new URLSearchParams(location.search)
+        let weaponPromise
+        const equipmentPromises = []
+        const decorationPromises = []
+        const equipmentDecorations = {}
+        const decorations = []
+        const skillPromises = []
+        const talisman = {
+          skills: [],
+          slots: []
+        }
+
+        for (const type in this.equipmentTypes) {
+          if (type !== 'talisman') {
+            const slug = query.get(type)
+            if (!slug) {
+              continue
+            }
+
+            if (type === 'weapon') {
+              const weaponType = query.get('weapon-type')
+              if (weaponType) {
+                weaponPromise = this.$content(`${weaponType}-weapons`, slug).fetch()
+              }
+            } else {
+              equipmentPromises.push(this.$content(`${type}-armors`, slug).fetch())
+            }
+          }
+
+          const decorationSlugs = query.get(`${type}-deco`) ? query.get(`${type}-deco`).split(',') : []
+          equipmentDecorations[type] = decorationSlugs
+          for (const decorationSlug of decorationSlugs) {
+            if (decorationSlug) {
+              decorationPromises.push(this.$content('decorations', decorationSlug).fetch())
+            }
+          }
+        }
+
+        if (decorationPromises.length > 0) {
+          const results = await Promise.all(decorationPromises)
+          for (const result of results) {
+            decorations.push(result)
+          }
+        }
+
+        talisman.slots = query.get('talisman-slot')
+          ? query.get('talisman-slot').split(',').map(element => parseInt(element))
+          : []
+
+        const skillSlugs = query.get('talisman-skill') ? query.get('talisman-skill').split(',') : []
+        for (const skillSlug of skillSlugs) {
+          if (skillSlug) {
+            skillPromises.push(this.$content('skills', skillSlug).fetch())
+          }
+        }
+
+        if (skillPromises.length > 0) {
+          const results = await Promise.all(skillPromises)
+          for (const result of results) {
+            talisman.skills.push(result)
+          }
+        }
+
+        if (talisman.skills.length > 0 || talisman.slots.length > 0) {
+          this.equipmentType = 'talisman'
+          this.addEquipment(talisman)
+        }
+
+        if (weaponPromise) {
+          const result = await weaponPromise
+          if (result) {
+            this.equipmentType = 'weapon'
+            this.addEquipment(result)
+          }
+        }
+
+        if (equipmentPromises.length > 0) {
+          const results = await Promise.all(equipmentPromises)
+          for (const result of results) {
+            this.equipmentType = result.type
+            this.addEquipment(result)
+          }
+        }
+
+        for (const type in equipmentDecorations) {
+          for (let i = 0; i < equipmentDecorations[type].length; i++) {
+            const slug = equipmentDecorations[type][i]
+            if (slug) {
+              const decoration = decorations.find(element => element.slug === slug)
+              if (decoration && this.sets[this.setIndex][type]) {
+                this.equipmentType = type
+                this.decorate({
+                  index: this.setIndex,
+                  type: this.equipmentType,
+                  slot: i,
+                  decoration
+                })
+              }
+            }
+          }
+        }
+      }
+    },
     newSet () {
       const set = {}
       for (const type in this.equipmentTypes) {
@@ -190,6 +316,51 @@ export default {
         type,
         slot
       })
+    },
+    share (index) {
+      const query = new URLSearchParams()
+      const set = this.sets[index]
+
+      for (const type in this.equipmentTypes) {
+        if (set[type]) {
+          const equipment = set[type]
+
+          if (type === 'talisman') {
+            if (equipment.slots !== undefined) {
+              query.append(`${type}-slot`, equipment.slots.join())
+            }
+
+            if (equipment.skills !== undefined) {
+              const skills = equipment.skills
+                .map(element => element ? element.slug : '')
+                .join()
+              query.append(`${type}-skill`, skills)
+            }
+          } else {
+            query.append(type, equipment.slug)
+          }
+
+          if (equipment.decorations !== undefined) {
+            const decorations = equipment.decorations
+              .map(element => element ? element.slug : '')
+              .join()
+            query.append(`${type}-deco`, decorations)
+          }
+
+          if (type === 'weapon') {
+            query.append('weapon-type', equipment.type.replace('_', '-'))
+          }
+        }
+      }
+
+      this.setUrl = `${location.protocol}//${location.host}?${query.toString()}`
+      navigator.clipboard.writeText(this.setUrl)
+        .then(() => {
+          this.showBottomMessage = true
+          setTimeout(() => {
+            this.showBottomMessage = false
+          }, 3000)
+        })
     }
   }
 }
