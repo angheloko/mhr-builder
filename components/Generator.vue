@@ -26,7 +26,6 @@
         v-if="step === 2"
         :slots="talisman.slots"
         :skills="talisman.skills"
-        @add="addTalismanSkills"
         @select="selectTalismanSkill"
         @update:skill="updateTalismanSkill"
         @update:slot="setTalismanSlot"
@@ -131,12 +130,10 @@ export default {
       maxExcluded: 3,
       skills: [],
       excluded: [],
+      maxTalismanSkills: 3,
       talisman: {
         slots: [0, 0, 0],
-        skills: [{
-          slug: '',
-          level: 0
-        }]
+        skills: []
       },
       weapon: null,
       unique: true,
@@ -173,12 +170,24 @@ export default {
       this.excluded.push('')
     }
 
+    for (let i = 0; i < this.maxTalismanSkills; i++) {
+      this.talisman.skills.push({
+        slug: '',
+        level: 0
+      })
+    }
+
     if (localStorage.generator) {
       const params = JSON.parse(localStorage.generator)
-      this.skills = params.skills
-      this.excluded = params.excluded
+
+      this.fillArray(this.skills, params.skills.filter(skill => skill.slug && skill.level))
+      this.fillArray(this.excluded, params.excluded.filter(skill => skill))
+
       this.weapon = params.weapon
-      this.talisman = params.talisman
+
+      this.fillArray(this.talisman.slots, params.talisman.slots.filter(slot => slot))
+      this.fillArray(this.talisman.skills, params.talisman.skills.filter(skill => skill.slug && skill.level))
+
       this.unique = params.unique
       this.decorate = params.decorate
     }
@@ -188,6 +197,13 @@ export default {
       addSet: 'sets/add',
       clearSets: 'sets/clear'
     }),
+    fillArray (arr1, arr2) {
+      for (let i = 0; i < arr1.length; i++) {
+        if (i < arr2.length) {
+          arr1.splice(i, 1, arr2[i])
+        }
+      }
+    },
     selectSkill ({ index, value }) {
       if (!value) {
         this.skills[index].slug = ''
@@ -215,12 +231,6 @@ export default {
     setTalismanSlot ({ index, value }) {
       const level = parseInt(value) || 0
       this.$set(this.talisman.slots, index, level)
-    },
-    addTalismanSkills () {
-      this.talisman.skills.push({
-        slug: '',
-        level: 0
-      })
     },
     selectTalismanSkill ({ index, value }) {
       if (!value) {
@@ -344,9 +354,12 @@ export default {
 
       this.isGenerating = false
       localStorage.generator = JSON.stringify({
-        skills: this.skills,
-        excluded: this.excluded,
-        talisman: this.talisman,
+        skills: this.skills.filter(skill => skill.slug && skill.level),
+        excluded: this.excluded.filter(skill => skill),
+        talisman: {
+          slots: this.talisman.slots.filter(slot => slot),
+          skills: this.talisman.skills.filter(skill => skill.slug && skill.level)
+        },
         weapon: this.weapon,
         unique: this.unique,
         decorate: this.decorate
