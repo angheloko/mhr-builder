@@ -17,7 +17,11 @@
           >
             {{ slots[slotIndex] }}
           </a>
-          <div v-else class="inline-flex justify-center items-center cursor-pointer rounded-full border border-gray h-8 w-8 text-xs">
+          <div
+            v-else
+            class="inline-flex justify-center items-center rounded-full border border-gray h-8 w-8 text-xs"
+            :class="{ 'bg-blue-200': decorations[slotIndex] }"
+          >
             {{ slots[slotIndex] }}
           </div>
         </template>
@@ -39,7 +43,11 @@
               {{ decorations[decorationIndex].skill }}
             </div>
           </div>
-          <button class="text-red-600" @click="$emit('remove-decoration', decorationIndex)">
+          <button
+            v-if="canDecorate"
+            class="text-red-600"
+            @click="$emit('remove-decoration', decorationIndex)"
+          >
             <!-- heroicons: outline/minus-circle -->
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />

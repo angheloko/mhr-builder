@@ -6,6 +6,11 @@
     >
       <a :href="setUrl" class="font-medium text-blue-600">Link</a> copied to clipboard.
     </div>
+    <SetPreviewModal
+      v-if="showModal === 'preview'"
+      :set="preview"
+      @close="closePreviewModal"
+    />
     <AddWeaponModal
       v-if="showModal === 'weapon'"
       @close="closeModal"
@@ -100,10 +105,11 @@ import ArmorCard from './ArmorCard'
 import SkillsCard from './SkillsCard'
 import TalismanCard from './TalismanCard'
 import AddTalismanModal from './AddTalismanModal'
+import SetPreviewModal from './SetPreviewModal'
 
 export default {
   name: 'Builder',
-  components: { AddTalismanModal, TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
+  components: { SetPreviewModal, AddTalismanModal, TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
   data () {
     return {
       equipmentTypes: {
@@ -115,6 +121,7 @@ export default {
         waist: 'Waist',
         legs: 'Legs'
       },
+      preview: {},
       showModal: '',
       equipmentType: '',
       setIndex: 0,
@@ -135,12 +142,10 @@ export default {
     this.loadSets()
 
     if (!this.sets.length) {
-      this.loadSetFromQuery()
-
-      if (!this.sets.length) {
-        this.addSet(this.newSet())
-      }
+      this.addSet(this.newSet())
     }
+
+    this.loadSetFromQuery()
   },
   methods: {
     ...mapMutations({
@@ -154,9 +159,6 @@ export default {
     }),
     async loadSetFromQuery () {
       if (location.search) {
-        this.addSet(this.newSet())
-        this.setIndex = this.sets.length - 1
-
         const query = new URLSearchParams(location.search)
         let weaponPromise
         const equipmentPromises = []
@@ -164,10 +166,13 @@ export default {
         const equipmentDecorations = {}
         const decorations = []
         const skillPromises = []
+        const talismanSkills = {}
         const talisman = {
           skills: [],
           slots: []
         }
+
+        this.preview = this.newSet()
 
         for (const type in this.equipmentTypes) {
           if (type !== 'talisman') {
@@ -209,55 +214,58 @@ export default {
         const skillSlugs = query.get('talisman-skill') ? query.get('talisman-skill').split(',') : []
         for (const skillSlug of skillSlugs) {
           if (skillSlug) {
-            skillPromises.push(this.$content('skills', skillSlug).fetch())
+            const slugParts = skillSlug.split(':')
+            skillPromises.push(this.$content('skills', slugParts[0]).fetch())
+            talismanSkills[slugParts[0]] = slugParts[1]
           }
         }
 
         if (skillPromises.length > 0) {
           const results = await Promise.all(skillPromises)
           for (const result of results) {
-            talisman.skills.push(result)
+            talisman.skills.push({
+              name: result.name,
+              slug: result.slug,
+              level: talismanSkills[result.slug]
+            })
           }
         }
 
         if (talisman.skills.length > 0 || talisman.slots.length > 0) {
-          this.equipmentType = 'talisman'
-          this.addEquipment(talisman)
+          this.preview.talisman = talisman
         }
 
         if (weaponPromise) {
           const result = await weaponPromise
           if (result) {
-            this.equipmentType = 'weapon'
-            this.addEquipment(result)
+            this.preview.weapon = result
           }
         }
 
         if (equipmentPromises.length > 0) {
           const results = await Promise.all(equipmentPromises)
           for (const result of results) {
-            this.equipmentType = result.type
-            this.addEquipment(result)
+            this.preview[result.type] = result
           }
         }
 
         for (const type in equipmentDecorations) {
-          for (let i = 0; i < equipmentDecorations[type].length; i++) {
-            const slug = equipmentDecorations[type][i]
-            if (slug) {
-              const decoration = decorations.find(element => element.slug === slug)
-              if (decoration && this.sets[this.setIndex][type]) {
-                this.equipmentType = type
-                this.decorate({
-                  index: this.setIndex,
-                  type: this.equipmentType,
-                  slot: i,
-                  decoration
-                })
+          if (this.preview[type]) {
+            this.preview[type].decorations = this.preview[type].slots.map(() => null)
+
+            for (let i = 0; i < equipmentDecorations[type].length; i++) {
+              const slug = equipmentDecorations[type][i]
+              if (slug) {
+                const decoration = decorations.find(element => element.slug === slug)
+                if (decoration) {
+                  this.preview[type].decorations[i] = decoration
+                }
               }
             }
           }
         }
+
+        this.showModal = 'preview'
       }
     },
     newSet () {
@@ -268,6 +276,10 @@ export default {
       return set
     },
     closeModal () {
+      this.showModal = ''
+    },
+    closePreviewModal () {
+      this.$router.replace('/')
       this.showModal = ''
     },
     showEquipmentModal (type, index) {
@@ -332,7 +344,7 @@ export default {
 
             if (equipment.skills !== undefined) {
               const skills = equipment.skills
-                .map(element => element ? element.slug : '')
+                .map(element => element ? `${element.slug}:${element.level}` : '')
                 .join()
               query.append(`${type}-skill`, skills)
             }
