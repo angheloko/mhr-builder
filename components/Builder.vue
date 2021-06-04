@@ -2,9 +2,9 @@
   <div class="builder flex items-start overflow-x-auto p-2">
     <div
       v-show="showBottomMessage"
-      class="absolute z-10 mx-auto inset-x-0 bottom-4 rounded border shadow-md bg-white w-80 p-2 text-center text-sm"
+      class="absolute z-10 mx-auto inset-x-0 bottom-4 rounded shadow-md bg-gray-600 text-white w-80 p-2 text-center text-sm"
     >
-      <a :href="setUrl" class="font-medium text-blue-600">Link</a> copied to clipboard.
+      <a :href="setUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
     </div>
     <SetPreviewModal
       v-if="showModal === 'preview'"
@@ -75,7 +75,6 @@
               v-if="type === 'weapon'"
               :item="set[type]"
               :can-decorate="true"
-              class="flex-grow"
               @click-slot="showDecorationsModal(type, index, $event)"
               @remove-decoration="removeDecoration(type, index, $event)"
             />
@@ -83,7 +82,6 @@
               v-else-if="type === 'talisman'"
               :item="set[type]"
               :can-decorate="true"
-              class="flex-grow"
               @click-slot="showDecorationsModal(type, index, $event)"
               @remove-decoration="removeDecoration(type, index, $event)"
             />
@@ -91,13 +89,15 @@
               v-else
               :item="set[type]"
               :can-decorate="true"
-              class="flex-grow"
               @click-slot="showDecorationsModal(type, index, $event)"
               @remove-decoration="removeDecoration(type, index, $event)"
             />
-            <button class="text-sm bg-red-400 text-red-800 shadow rounded-full absolute -top-2 -right-2 p-1 h-6 w-6" @click="removeEquipment(type, index)">
-              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            <button
+              class="text-sm absolute -top-2 -right-2 text-red-500 rounded-full"
+              @click="removeEquipment(type, index)"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd" />
               </svg>
             </button>
           </div>
