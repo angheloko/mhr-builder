@@ -35,17 +35,35 @@
       @select="setDecoration"
     />
     <div v-for="(set, index) in sets" :key="index" class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 mr-2 pb-4">
-      <div class="p-2 flex justify-between">
-        <button class="focus:outline-none" @click="share(index)">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-            <path d="M15 8a3 3 0 10-2.977-2.63l-4.94 2.47a3 3 0 100 4.319l4.94 2.47a3 3 0 10.895-1.789l-4.94-2.47a3.027 3.027 0 000-.74l4.94-2.47C13.456 7.68 14.19 8 15 8z" />
-          </svg>
-        </button>
-        <button @click="removeSet(index)">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
-          </svg>
-        </button>
+      <div class="p-2 text-right">
+        <div class="relative">
+          <button
+            v-click-outside="hideBuildMenu"
+            class="focus:outline-none"
+            @click.stop="toggleBuildMenu(index)"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z" />
+            </svg>
+          </button>
+          <div
+            v-show="showBuildMenu === index"
+            class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28"
+          >
+            <button class="focus:outline-none flex items-center text-sm m-2" @click="share(index)">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M15 8a3 3 0 10-2.977-2.63l-4.94 2.47a3 3 0 100 4.319l4.94 2.47a3 3 0 10.895-1.789l-4.94-2.47a3.027 3.027 0 000-.74l4.94-2.47C13.456 7.68 14.19 8 15 8z" />
+              </svg>
+              Copy link
+            </button>
+            <button class="focus:outline-none flex items-center text-sm m-2 text-red-600" @click="removeSet(index)">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
+              </svg>
+              Delete
+            </button>
+          </div>
+        </div>
       </div>
       <div class="p-2">
         <SkillsCard :set="set" class="rounded bg-gray-300 text-gray-600 p-2 text-sm" />
@@ -129,7 +147,8 @@ export default {
       decorationLevel: 0,
       currentDecoration: '',
       setUrl: '',
-      showBottomMessage: false
+      showBottomMessage: false,
+      showBuildMenu: -1
     }
   },
   computed: {
@@ -373,6 +392,12 @@ export default {
             this.showBottomMessage = false
           }, 3000)
         })
+    },
+    toggleBuildMenu (index) {
+      this.showBuildMenu = this.showBuildMenu === index ? -1 : index
+    },
+    hideBuildMenu () {
+      this.showBuildMenu = -1
     }
   }
 }
