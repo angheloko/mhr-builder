@@ -52,14 +52,6 @@
               @input="updateSkill({ index, value: $event.target.value })"
             >
           </div>
-          <div class="mt-2 text-right">
-            <button
-              class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8"
-              @click="addMoreSkills"
-            >
-              Add more skills
-            </button>
-          </div>
         </div>
       </div>
       <div class="text-right">
@@ -83,11 +75,9 @@ export default {
   components: { Dropdown, Modal },
   data () {
     return {
+      maxSkills: 3,
       slots: [0, 0, 0],
-      skills: [{
-        slug: '',
-        level: 0
-      }]
+      skills: []
     }
   },
   computed: {
@@ -112,20 +102,35 @@ export default {
       ]
     }
   },
+  mounted () {
+    for (let i = 0; i < this.maxSkills; i++) {
+      this.skills.push({
+        name: '',
+        slug: '',
+        level: 0
+      })
+    }
+  },
   methods: {
     updateSlot ({ index, value }) {
       this.$set(this.slots, index, value)
     },
-    addMoreSkills () {
-      this.skills.push({
-        slug: '',
-        level: 0
-      })
-    },
     selectSkill ({ index, value }) {
-      const skill = this.getSkill(value)
-      if (skill) {
-        this.$set(this.skills, index, skill)
+      if (!value) {
+        this.$set(this.skills, index, {
+          name: '',
+          slug: '',
+          level: 0
+        })
+      } else {
+        const skill = this.getSkill(value)
+        if (skill) {
+          this.$set(this.skills, index, {
+            name: skill.name,
+            slug: skill.slug,
+            level: 1
+          })
+        }
       }
     },
     updateSkill ({ index, value }) {

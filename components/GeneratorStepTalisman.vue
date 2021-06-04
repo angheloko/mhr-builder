@@ -33,30 +33,22 @@
           Add the skills that your talisman has.
         </p>
       </div>
-      <div v-for="(value, index) in skills" :key="index" class="flex">
+      <div v-for="(skill, index) in skills" :key="index" class="flex">
         <Dropdown
           label="Select skill"
           :required="false"
           :options="skillOptions"
-          :value="skills[index] && skills[index].slug"
+          :value="skill.slug"
           class="flex-grow mr-2"
           @update="$emit('select', { index, value: $event })"
         />
         <input
-          :value="skills[index] && skills[index].level"
+          :value="skill.level"
           type="number"
           placeholder="Level"
           class="rounded border-gray-300 text-sm w-20 leading-none mb-1"
           @input="$emit('update:skill', { index, value: $event.target.value })"
         >
-      </div>
-      <div class="mt-2 text-right">
-        <button
-          class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8"
-          @click="$emit('add')"
-        >
-          Add more skills
-        </button>
       </div>
     </div>
   </div>
