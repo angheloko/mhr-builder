@@ -1,11 +1,11 @@
 <template>
-  <div class="p-2">
+  <div>
     <div class="border rounded p-2 mb-2">
       <h3 class="text-sm font-medium mb-2">
         Slots
       </h3>
       <div class="text-xs text-gray-500 mb-2">
-        Set the slots that your talisman has.
+        Select the slots that your talisman has.
       </div>
       <div class="grid grid-cols-3 gap-3">
         <Dropdown
@@ -30,7 +30,7 @@
       </div>
       <div class="text-xs text-gray-500 mb-2">
         <p class="mb-2">
-          Add the skills that your talisman has.
+          Select the skills that your talisman has.
         </p>
       </div>
       <div v-for="(skill, index) in skills" :key="index" class="flex">
@@ -58,7 +58,7 @@
 import { mapGetters } from 'vuex'
 import Dropdown from './Dropdown'
 export default {
-  name: 'GeneratorStepTalisman',
+  name: 'TalismanSettings',
   components: { Dropdown },
   props: {
     slots: {

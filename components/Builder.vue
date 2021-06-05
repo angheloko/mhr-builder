@@ -101,7 +101,7 @@
               </svg>
             </button>
           </div>
-          <button v-else class="bg-gray-200 text-gray-600 rounded block w-full p-2 text-sm" @click="showEquipmentModal(type, index)">
+          <button v-else class="bg-gray-200 text-gray-600 rounded block w-full p-2 text-sm focus:outline-none" @click="showEquipmentModal(type, index)">
             Add {{ label }}
           </button>
         </div>

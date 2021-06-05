@@ -22,10 +22,11 @@
         :value="weapon"
         @select="selectWeapon"
       />
-      <GeneratorStepTalisman
+      <TalismanSettings
         v-if="step === 2"
         :slots="talisman.slots"
         :skills="talisman.skills"
+        class="p-2"
         @select="selectTalismanSkill"
         @update:skill="updateTalismanSkill"
         @update:slot="setTalismanSlot"
@@ -96,12 +97,12 @@ import { mapGetters, mapMutations } from 'vuex'
 import { cloneDeep } from 'lodash'
 import GeneratorStepSkills from './GeneratorStepSkills'
 import GeneratorStepWeapon from './GeneratorStepWeapon'
-import GeneratorStepTalisman from './GeneratorStepTalisman'
 import GeneratorStepOptions from './GeneratorStepOptions'
+import TalismanSettings from './TalismanSettings'
 
 export default {
   name: 'Generator',
-  components: { GeneratorStepOptions, GeneratorStepTalisman, GeneratorStepWeapon, GeneratorStepSkills },
+  components: { TalismanSettings, GeneratorStepOptions, GeneratorStepWeapon, GeneratorStepSkills },
   props: {
     value: {
       type: Object,
