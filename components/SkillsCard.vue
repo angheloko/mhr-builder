@@ -1,20 +1,33 @@
 <template>
   <div>
-    <div class="font-medium mb-1">
+    <button
+      class="flex justify-between items-center w-full focus:outline-none font-medium"
+      @click="showDetails = !showDetails"
+    >
       Skills
-    </div>
-    <div class="pl-2">
-      <table v-if="skills.length > 0" class="w-full text-gray-600 text-sm">
-        <tr v-for="(skill, index) of skills" :key="index">
-          <td>{{ skill.name }}</td>
-          <td
+      <svg v-if="showDetails" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd" />
+      </svg>
+      <svg v-else xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+      </svg>
+    </button>
+    <div v-if="showDetails" class="px-2 mt-2">
+      <template v-if="skills.length > 0">
+        <div
+          v-for="(skill, index) of skills"
+          :key="index"
+          class="flex justify-between items-center mb-1"
+        >
+          <div>{{ skill.name }}</div>
+          <div
             class="text-right"
             :class="{'text-red-600': skill.level > skill.max}"
           >
             {{ skill.level }}
-          </td>
-        </tr>
-      </table>
+          </div>
+        </div>
+      </template>
       <div v-else class="italic">
         None
       </div>
@@ -35,7 +48,8 @@ export default {
   },
   data () {
     return {
-      equipmentTypes: ['talisman', 'weapon', 'head', 'chest', 'arms', 'waist', 'legs']
+      equipmentTypes: ['talisman', 'weapon', 'head', 'chest', 'arms', 'waist', 'legs'],
+      showDetails: false
     }
   },
   computed: {

@@ -48,7 +48,7 @@
           </button>
           <div
             v-show="showBuildMenu === index"
-            class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28"
+            class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28 z-10"
           >
             <button class="focus:outline-none flex items-center text-sm m-2" @click="share(index)">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
@@ -66,7 +66,7 @@
         </div>
       </div>
       <div class="p-2">
-        <SkillsCard :set="set" class="rounded bg-gray-300 text-gray-600 p-2 text-sm" />
+        <SkillsCard :set="set" class="rounded p-2 border border-gray-400 text-sm" />
       </div>
       <div class="overflow-y-auto list-items px-2">
         <div v-for="(label, type) in equipmentTypes" :key="type" class="mb-2 last:mb-0">
@@ -235,7 +235,7 @@ export default {
           if (skillSlug) {
             const slugParts = skillSlug.split(':')
             skillPromises.push(this.$content('skills', slugParts[0]).fetch())
-            talismanSkills[slugParts[0]] = slugParts[1]
+            talismanSkills[slugParts[0]] = parseInt(slugParts[1])
           }
         }
 
