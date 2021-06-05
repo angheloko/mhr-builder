@@ -27,7 +27,7 @@
         </template>
       </div>
     </div>
-    <div v-if="canDecorate" class="text-xs text-gray-400 mt-1">
+    <div v-if="canDecorate" class="text-xs text-gray-400 mt-1 font-light">
       Click slot to add a decoration
     </div>
     <div v-if="hasDecorations" class="m-1 border rounded shadow px-1">

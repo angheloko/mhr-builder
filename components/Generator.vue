@@ -266,11 +266,16 @@ export default {
         this.step++
       }
       if (this.step >= this.steps.length) {
-        this.generate()
+        this.isGenerating = true
+
+        setTimeout(() => {
+          this.generate().then(() => {
+            this.isGenerating = false
+          })
+        }, 300)
       }
     },
     async generate () {
-      this.isGenerating = true
       const sets = []
       this.clearSets()
 
@@ -352,7 +357,6 @@ export default {
         this.addSet(set)
       }
 
-      this.isGenerating = false
       localStorage.generator = JSON.stringify({
         skills: this.skills.filter(skill => skill.slug && skill.level),
         excluded: this.excluded.filter(skill => skill),
