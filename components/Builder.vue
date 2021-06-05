@@ -1,7 +1,7 @@
 <template>
   <div class="builder flex items-start overflow-x-auto p-2">
     <div
-      v-show="showBottomMessage"
+      v-if="showBottomMessage"
       class="absolute z-10 mx-auto inset-x-0 bottom-4 rounded shadow-md bg-gray-600 text-white w-80 p-2 text-center text-sm"
     >
       <a :href="setUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
@@ -47,7 +47,7 @@
             </svg>
           </button>
           <div
-            v-show="showBuildMenu === index"
+            v-if="showBuildMenu === index"
             class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28 z-10"
           >
             <button class="focus:outline-none flex items-center text-sm m-2" @click="share(index)">

@@ -18,7 +18,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -45,7 +44,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -72,7 +70,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 36,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -94,7 +91,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 36,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -122,7 +118,6 @@
       1,
       1
     ],
-    "rarity": 4,
     "baseDefense": 34,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -149,7 +144,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 38,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -176,7 +170,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 36,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -204,7 +197,6 @@
       1,
       1
     ],
-    "rarity": 4,
     "baseDefense": 36,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -226,7 +218,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -253,7 +244,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -273,7 +263,6 @@
       }
     ],
     "slots": [],
-    "rarity": 4,
     "baseDefense": 40,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -296,7 +285,6 @@
       2,
       1
     ],
-    "rarity": 4,
     "baseDefense": 42,
     "fireResistance": 0,
     "waterResistance": 4,
@@ -323,7 +311,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 38,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -339,7 +326,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 38,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -361,7 +347,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 48,
     "fireResistance": 0,
     "waterResistance": 4,
@@ -388,7 +373,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 50,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -416,7 +400,6 @@
       1,
       1
     ],
-    "rarity": 4,
     "baseDefense": 38,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -443,7 +426,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 40,
     "fireResistance": 0,
     "waterResistance": 4,
@@ -466,7 +448,6 @@
       2,
       1
     ],
-    "rarity": 4,
     "baseDefense": 40,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -489,7 +470,6 @@
       2,
       1
     ],
-    "rarity": 4,
     "baseDefense": 42,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -511,7 +491,6 @@
     "slots": [
       2
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 4,
     "waterResistance": 0,
@@ -534,7 +513,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 1,
     "waterResistance": 1,
@@ -556,7 +534,6 @@
     "slots": [
       3
     ],
-    "rarity": 4,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -584,7 +561,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -611,7 +587,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 50,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -638,7 +613,6 @@
     "slots": [
       2
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 1,
@@ -666,7 +640,6 @@
       2,
       1
     ],
-    "rarity": 4,
     "baseDefense": 42,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -694,7 +667,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -722,7 +694,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 58,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -751,7 +722,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -780,7 +750,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 58,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -807,7 +776,6 @@
     "slots": [
       3
     ],
-    "rarity": 5,
     "baseDefense": 58,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -835,7 +803,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -863,7 +830,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -900,7 +866,6 @@
     "slots": [
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -937,7 +902,6 @@
     "slots": [
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -964,7 +928,6 @@
     "slots": [
       2
     ],
-    "rarity": 6,
     "baseDefense": 64,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -991,7 +954,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 64,
     "fireResistance": 0,
     "waterResistance": 3,
@@ -1018,7 +980,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -1045,7 +1006,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 60,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -1073,7 +1033,6 @@
       1,
       1
     ],
-    "rarity": 6,
     "baseDefense": 60,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -1101,7 +1060,6 @@
       1,
       1
     ],
-    "rarity": 6,
     "baseDefense": 60,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -1128,7 +1086,6 @@
     "slots": [
       1
     ],
-    "rarity": 5,
     "baseDefense": 50,
     "fireResistance": 0,
     "waterResistance": 3,
@@ -1156,7 +1113,6 @@
       2,
       1
     ],
-    "rarity": 6,
     "baseDefense": 64,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -1188,7 +1144,6 @@
     "slots": [
       1
     ],
-    "rarity": 4,
     "baseDefense": 30,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -1210,7 +1165,6 @@
     "slots": [
       2
     ],
-    "rarity": 4,
     "baseDefense": 30,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -1242,7 +1196,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 3,
     "waterResistance": 1,
@@ -1274,7 +1227,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -1306,7 +1258,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -1335,7 +1286,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 48,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -1367,7 +1317,6 @@
     "slots": [
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 0,
@@ -1389,7 +1338,6 @@
     "slots": [
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 1,
     "waterResistance": 2,
@@ -1417,7 +1365,6 @@
       1,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -1440,7 +1387,6 @@
       1,
       1
     ],
-    "rarity": 4,
     "baseDefense": 40,
     "fireResistance": 0,
     "waterResistance": 3,
@@ -1475,7 +1421,6 @@
       }
     ],
     "slots": [],
-    "rarity": 7,
     "baseDefense": 66,
     "fireResistance": -1,
     "waterResistance": 0,
@@ -1503,7 +1448,6 @@
       2,
       1
     ],
-    "rarity": 6,
     "baseDefense": 66,
     "fireResistance": 4,
     "waterResistance": 0,
@@ -1535,7 +1479,6 @@
     "slots": [
       2
     ],
-    "rarity": 7,
     "baseDefense": 70,
     "fireResistance": 2,
     "waterResistance": 1,
@@ -1570,7 +1513,6 @@
       }
     ],
     "slots": [],
-    "rarity": 7,
     "baseDefense": 76,
     "fireResistance": 2,
     "waterResistance": 1,
@@ -1597,7 +1539,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 64,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -1625,7 +1566,6 @@
       1,
       1
     ],
-    "rarity": 6,
     "baseDefense": 64,
     "fireResistance": 2,
     "waterResistance": 0,
@@ -1648,7 +1588,6 @@
       2,
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 1,
     "waterResistance": 3,
@@ -1675,7 +1614,6 @@
     "slots": [
       1
     ],
-    "rarity": 6,
     "baseDefense": 62,
     "fireResistance": 1,
     "waterResistance": 0,
@@ -1697,7 +1635,6 @@
     "slots": [
       2
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -1715,7 +1652,6 @@
       2,
       1
     ],
-    "rarity": 5,
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 3,
@@ -1735,7 +1671,6 @@
       }
     ],
     "slots": [],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -1755,7 +1690,6 @@
       }
     ],
     "slots": [],
-    "rarity": 4,
     "baseDefense": 32,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -1780,7 +1714,6 @@
       }
     ],
     "slots": [],
-    "rarity": 7,
     "baseDefense": 68,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -1808,7 +1741,6 @@
       1,
       1
     ],
-    "rarity": 7,
     "baseDefense": 72,
     "fireResistance": 3,
     "waterResistance": 1,
@@ -1845,7 +1777,6 @@
     "slots": [
       1
     ],
-    "rarity": 7,
     "baseDefense": 74,
     "fireResistance": 0,
     "waterResistance": 1,
@@ -1877,7 +1808,6 @@
     "slots": [
       2
     ],
-    "rarity": 7,
     "baseDefense": 74,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -1909,7 +1839,6 @@
     "slots": [
       1
     ],
-    "rarity": 7,
     "baseDefense": 74,
     "fireResistance": 4,
     "waterResistance": 0,
@@ -1937,7 +1866,6 @@
       3,
       1
     ],
-    "rarity": 7,
     "baseDefense": 80,
     "fireResistance": -2,
     "waterResistance": -2,

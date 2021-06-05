@@ -8,7 +8,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost II",
@@ -24,7 +23,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost II",
@@ -40,7 +38,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost II",
@@ -56,7 +53,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost II",
@@ -74,7 +70,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Affinity Boost III",
       "Defense Boost II",
@@ -93,7 +88,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost IV",
       "Defense Boost II",
@@ -109,7 +103,6 @@
     "element": [],
     "affinity": 35,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -127,7 +120,6 @@
     "element": [],
     "affinity": 35,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost I",
@@ -145,7 +137,6 @@
     "element": [],
     "affinity": 40,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
@@ -165,7 +156,6 @@
     "element": [],
     "affinity": 30,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect II",
@@ -185,7 +175,6 @@
     "element": [],
     "affinity": 30,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect II",
@@ -201,7 +190,6 @@
     "element": [],
     "affinity": 35,
     "defense": 0,
-    "rarity": 7,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect II",
@@ -217,7 +205,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost I",
       "Shrapnel Effect I",
@@ -235,7 +222,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Shrapnel Effect I",
@@ -253,7 +239,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Shrapnel Effect II",
@@ -269,7 +254,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Spread Effect I",
@@ -285,7 +269,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect I",
@@ -304,7 +287,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect II",
@@ -323,7 +305,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost IV",
       "Spread Effect II",
@@ -339,7 +320,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost I",
@@ -355,7 +335,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -371,7 +350,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
@@ -391,7 +369,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost IV",
       "Affinity Boost III",
@@ -407,7 +384,6 @@
     "element": [],
     "affinity": 0,
     "defense": 10,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost I",
       "Defense Boost I",
@@ -423,7 +399,6 @@
     "element": [],
     "affinity": 0,
     "defense": 10,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost I",
       "Defense Boost II",
@@ -442,7 +417,6 @@
     "element": [],
     "affinity": 0,
     "defense": 15,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost I",
       "Defense Boost II",
@@ -458,7 +432,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect I",
@@ -476,7 +449,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect I",
@@ -494,7 +466,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect II",
@@ -512,7 +483,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect II",
@@ -528,7 +498,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost I",
@@ -544,7 +513,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost I",
@@ -560,7 +528,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -576,7 +543,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Defense Boost II",
@@ -594,7 +560,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost II",
       "Defense Boost III",
@@ -612,7 +577,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost III",
       "Defense Boost III",
@@ -628,7 +592,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost I",
       "Affinity Boost I",
@@ -644,7 +607,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -662,7 +624,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Pierce Effect II",
@@ -678,7 +639,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Normal Effect II",
@@ -697,7 +657,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost II",
       "Normal Effect II",
@@ -716,7 +675,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Normal Effect II",
@@ -732,7 +690,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect I",
@@ -748,7 +705,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Affinity Boost I",
       "Pierce Effect I",
@@ -766,7 +722,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost II",
       "Pierce Effect I",
@@ -782,7 +737,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -800,7 +754,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -818,7 +771,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
@@ -834,7 +786,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Affinity Boost I",
       "Small Monster Exploit",
@@ -850,7 +801,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Affinity Boost II",
       "Small Monster Exploit",
@@ -869,7 +819,6 @@
     "element": [],
     "affinity": 15,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Affinity Boost II",
       "Small Monster Exploit",
@@ -888,7 +837,6 @@
     "element": [],
     "affinity": 15,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost III",
       "Small Monster Exploit",
@@ -907,7 +855,6 @@
     "element": [],
     "affinity": -30,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost I",
       "Cluster Effect I",
@@ -926,7 +873,6 @@
     "element": [],
     "affinity": -30,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost I",
       "Cluster Effect I",
@@ -945,7 +891,6 @@
     "element": [],
     "affinity": -30,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost II",
       "Cluster Effect I",
@@ -961,7 +906,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost I",
       "Pierce Effect I",
@@ -977,7 +921,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Pierce Effect I",
@@ -993,7 +936,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Pierce Effect I",
@@ -1009,7 +951,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1025,7 +966,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 1,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1041,7 +981,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Affiinity Boost II",
@@ -1057,7 +996,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost II",
@@ -1073,7 +1011,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
@@ -1089,7 +1026,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost IV",
       "Affinity Boost II",
@@ -1105,7 +1041,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost I",
       "Defense Boost II",
@@ -1121,7 +1056,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost I",
       "Defense Boost III",
@@ -1137,7 +1071,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost II",
       "Defense Boost III",
@@ -1153,7 +1086,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Shrapnel Effect I",
@@ -1171,7 +1103,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Shrapnel Effect I",
@@ -1187,7 +1118,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Shrapnel Effect I",
@@ -1203,7 +1133,6 @@
     "element": [],
     "affinity": 15,
     "defense": 0,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost II",
@@ -1223,7 +1152,6 @@
     "element": [],
     "affinity": 20,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
@@ -1239,7 +1167,6 @@
     "element": [],
     "affinity": 25,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost IV",
       "Affinity Boost II",
@@ -1255,7 +1182,6 @@
     "element": [],
     "affinity": 0,
     "defense": 15,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1271,7 +1197,6 @@
     "element": [],
     "affinity": 0,
     "defense": 15,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1289,7 +1214,6 @@
     "element": [],
     "affinity": 0,
     "defense": 20,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1307,7 +1231,6 @@
     "element": [],
     "affinity": 0,
     "defense": 20,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Defense Boost II",
@@ -1323,7 +1246,6 @@
     "element": [],
     "affinity": -20,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost I",
@@ -1339,7 +1261,6 @@
     "element": [],
     "affinity": -20,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost II",
@@ -1355,7 +1276,6 @@
     "element": [],
     "affinity": 0,
     "defense": 10,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Spread Effect I",
@@ -1371,7 +1291,6 @@
     "element": [],
     "affinity": 0,
     "defense": 10,
-    "rarity": 2,
     "rampSkills": [
       "Attack Boost II",
       "Spread Effect I",
@@ -1389,7 +1308,6 @@
     "element": [],
     "affinity": 0,
     "defense": 10,
-    "rarity": 5,
     "rampSkills": [
       "Attack Boost III",
       "Spread Effect II",
@@ -1405,7 +1323,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost II",
       "Cluster Effect I",
@@ -1421,7 +1338,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost III",
       "Cluster Effect I",
@@ -1440,7 +1356,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Cluster Effect I",
@@ -1458,7 +1373,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost I",
       "Brutal Strike",
@@ -1476,7 +1390,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost I",
       "Brutal Strike",
@@ -1492,7 +1405,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Normal Effect I",
       "Anti-Aerial Species",
@@ -1508,7 +1420,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Normal Effect II",
       "Anti-Aerial Species",
@@ -1524,7 +1435,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Anti-Aerial Species",
@@ -1543,7 +1453,6 @@
     "element": [],
     "affinity": -10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Defense Boost I",
       "Shrapnel Effect I",
@@ -1562,7 +1471,6 @@
     "element": [],
     "affinity": -10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Defense Boost I",
       "Shrapnel Effect I",
@@ -1578,7 +1486,6 @@
     "element": [],
     "affinity": -10,
     "defense": 0,
-    "rarity": 7,
     "rampSkills": [
       "Defense Boost II",
       "Shrapnel Effect II",
@@ -1594,7 +1501,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Affinity Boost II",
@@ -1610,7 +1516,6 @@
     "element": [],
     "affinity": 5,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Fireblight Exploit",
@@ -1629,7 +1534,6 @@
     "element": [],
     "affinity": 20,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Defense Boost III",
@@ -1645,7 +1549,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Attack Boost I",
       "Master Rider",
@@ -1664,7 +1567,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": [
       "Attack Boost I",
       "Master Rider",
@@ -1683,7 +1585,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost II",
       "Master Rider",
@@ -1699,7 +1600,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Affinity Boost I",
       "Anti-Aquatic Species",
@@ -1715,7 +1615,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 3,
     "rampSkills": [
       "Affinity Boost II",
       "Anti-Aquatic Species",
@@ -1735,7 +1634,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": [
       "Affinity Boost III",
       "Anti-Aquatic Species",
@@ -1751,7 +1649,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 4,
     "rampSkills": []
   },
   {
@@ -1763,7 +1660,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": []
   },
   {
@@ -1775,7 +1671,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 5,
     "rampSkills": []
   },
   {
@@ -1787,7 +1682,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": []
   },
   {
@@ -1799,7 +1693,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": []
   },
   {
@@ -1813,7 +1706,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Wyvern Exploit",
@@ -1831,7 +1723,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Wyvern Exploit",
@@ -1847,7 +1738,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Normal Effect II",
       "Anti-Areial Species",
@@ -1863,7 +1753,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Anti-Areial Species",
@@ -1882,7 +1771,6 @@
     "element": [],
     "affinity": 20,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Defense Boost III",
@@ -1898,7 +1786,6 @@
     "element": [],
     "affinity": 10,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost III",
@@ -1914,7 +1801,6 @@
     "element": [],
     "affinity": 0,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": []
   },
   {
@@ -1928,7 +1814,6 @@
     "element": [],
     "affinity": -15,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Affinity Boost II",
       "Brutal Strike",
@@ -1944,7 +1829,6 @@
     "element": [],
     "affinity": 5,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Fireblight Exploit",
@@ -1960,7 +1844,6 @@
     "element": [],
     "affinity": -20,
     "defense": 0,
-    "rarity": 6,
     "rampSkills": [
       "Attack Boost III",
       "Affinity Boost II",
