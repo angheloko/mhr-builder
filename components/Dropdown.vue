@@ -106,7 +106,8 @@ export default {
           }
         }
       }
-      return this.default?.label ?? this.label
+      const defaultValue = this.options.find(element => element.default)
+      return defaultValue?.label ?? this.label
     }
   },
   mounted () {

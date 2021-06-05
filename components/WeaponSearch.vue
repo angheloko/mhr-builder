@@ -58,8 +58,7 @@ export default {
           options: [
             {
               value: 'great-sword',
-              label: 'Great sword',
-              default: true
+              label: 'Great sword'
             },
             {
               value: 'long-sword',
@@ -162,6 +161,20 @@ export default {
       }
     }
   },
+  mounted () {
+    let selected = 0
+
+    if (this.value) {
+      for (let i = 0; i < this.filters.type.options.length; i++) {
+        const type = this.filters.type.options[i].value.replace('-', '_')
+        if (this.value.type === type) {
+          selected = i
+        }
+      }
+    }
+
+    this.$set(this.filters.type.options[selected], 'default', true)
+  },
   methods: {
     selectItem (item) {
       this.$emit('select', cloneDeep(item))
@@ -175,6 +188,10 @@ export default {
         if (defaultValue !== undefined && (filters[type] === '' || filters[type] === undefined)) {
           filters[type] = defaultValue.value
         }
+      }
+
+      if (!filters.type) {
+        return
       }
 
       const resourceName = `${filters.type}-weapons`
