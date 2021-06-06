@@ -54,20 +54,20 @@
     "level": 5
   },
   {
-    "name": "Fire Resistance Skill",
-    "slug": "fire-resistance-skill",
+    "name": "Fire Resistance",
+    "slug": "fire-resistance",
     "description": "Increases fire resistance. Also improves defense at higher levels.",
     "level": 3
   },
   {
-    "name": "Ice Resistance Skill",
-    "slug": "ice-resistance-skill",
+    "name": "Ice Resistance",
+    "slug": "ice-resistance",
     "description": "Increases ice resistance. Also improves defense at higher levels.",
     "level": 3
   },
   {
-    "name": "Dragon Resistance Skill",
-    "slug": "dragon-resistance-skill",
+    "name": "Dragon Resistance",
+    "slug": "dragon-resistance",
     "description": "Increases dragon resistance. Also improves defense at higher levels.",
     "level": 3
   },
@@ -144,8 +144,8 @@
     "level": 3
   },
   {
-    "name": "Water Resistance Skill",
-    "slug": "water-resistance-skill",
+    "name": "Water Resistance",
+    "slug": "water-resistance",
     "description": "Increases water resistance. Also improves defense at higher levels.",
     "level": 3
   },
@@ -156,8 +156,8 @@
     "level": 5
   },
   {
-    "name": "Thunder Resistance Skill",
-    "slug": "thunder-resistance-skill",
+    "name": "Thunder Resistance",
+    "slug": "thunder-resistance",
     "description": "Increases thunder resistance. Also improves defense at higher levels.",
     "level": 3
   },
