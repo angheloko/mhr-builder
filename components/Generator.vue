@@ -57,11 +57,12 @@
         </div>
         <div v-else class="w-2/3 text-center">
           <h2 class="text-lg mb-5">
-            Done!
+            Done! 🎉
           </h2>
           <p class="mb-6">
-            If you have any feedback or would like to report an issue, feel free to drop me a message at
-            <a href="https://twitter.com/DonOrDoNot" class="text-blue-600 font-medium">@DonOrDoNot</a>!
+            If you see any problems with the data, found any bugs, or would like to suggest a new feature, please
+            <a href="https://github.com/angheloko/mhr-builder/issues" class="text-blue-600 font-bold">submit an issue</a> or
+            <a href="mailto:angheloko@gmail.com" class="text-blue-600 font-bold">drop me an email</a>.
           </p>
           <button
             class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"

@@ -1,6 +1,6 @@
 <template>
   <Modal @close="$emit('close')">
-    <div class="h-full p-5">
+    <div class="h-full p-5 text-sm">
       <div class="w-full">
         <p class="mb-4">
           <a href="https://github.com/angheloko/mhr-builder" class="text-blue-600 font-bold">mhr-builder</a> is an
@@ -12,8 +12,11 @@
           <a href="https://github.com/angheloko/mhr-builder/issues" class="text-blue-600 font-bold">submit an issue</a> or
           <a href="mailto:angheloko@gmail.com" class="text-blue-600 font-bold">drop me an email</a>.
         </p>
-        <p>
+        <p class="mb-4">
           Happy hunting!
+        </p>
+        <p>
+          🛠 with ❤️ by <a href="https://donlalicon.dev" class="text-blue-600 font-bold">Don</a>
         </p>
       </div>
     </div>
