@@ -282,7 +282,9 @@
     "name": "Tigerclaw Glaive",
     "slug": "tigerclaw-glaive",
     "type": "insect_glaive",
-    "slots": [],
+    "slots": [
+      1
+    ],
     "attack": 220,
     "element": [],
     "affinity": -10,
