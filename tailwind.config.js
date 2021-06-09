@@ -14,7 +14,11 @@ module.exports = {
   purge: {
     options: {
       safelist: {
-        standard: [/^max-h-/]
+        standard: [
+          /^max-h-/,
+          /^w-/,
+          /^h-/
+        ]
       }
     }
   }

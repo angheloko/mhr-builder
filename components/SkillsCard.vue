@@ -17,9 +17,12 @@
         <div
           v-for="(skill, index) of skills"
           :key="index"
-          class="flex justify-between items-center mb-1"
+          class="flex justify-between items-center mb-1 cursor-pointer"
+          @click="$emit('click:skill', skill.slug)"
         >
-          <div>{{ skill.name }}</div>
+          <div class="text-blue-600">
+            {{ skill.name }}
+          </div>
           <div
             class="text-right"
             :class="{'text-red-600': skill.level > skill.max}"

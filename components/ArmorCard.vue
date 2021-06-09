@@ -62,10 +62,12 @@
     </div>
     <CardDecorations
       :can-decorate="canDecorate"
+      :can-click-skill="canClickSkill"
       :slots="item.slots"
       :decorations="item.decorations"
-      @click-slot="$emit('click-slot', $event)"
-      @remove-decoration="$emit('remove-decoration', $event)"
+      @click:slot="$emit('click:slot', $event)"
+      @click:skill="$emit('click:skill', $event)"
+      @remove:decoration="$emit('remove:decoration', $event)"
     />
     <div class="text-center p-1 flex-grow">
       <div class="font-light text-xs p-1">
@@ -73,7 +75,12 @@
       </div>
       <div>
         <ul v-if="item.skills.length > 0">
-          <li v-for="(skill, skillIndex) of item.skills" :key="skillIndex">
+          <li
+            v-for="(skill, skillIndex) of item.skills"
+            :key="skillIndex"
+            :class="{'cursor-pointer text-blue-600': canClickSkill}"
+            @click="canClickSkill && $emit('click:skill', skill.slug)"
+          >
             {{ skill.name }} Lv {{ skill.level }}
           </li>
         </ul>
@@ -96,6 +103,10 @@ export default {
       required: true
     },
     canDecorate: {
+      type: Boolean,
+      default: false
+    },
+    canClickSkill: {
       type: Boolean,
       default: false
     }

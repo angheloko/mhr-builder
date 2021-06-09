@@ -6,6 +6,14 @@
     >
       <a :href="setUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
     </div>
+    <Modal
+      v-if="showModal === 'skill'"
+      width="w-1/2"
+      height="h-1/2"
+      @close="closeModal"
+    >
+      <SkillInfoModal v-if="skill" :value="skill" />
+    </Modal>
     <SetPreviewModal
       v-if="showModal === 'preview'"
       :set="preview"
@@ -66,7 +74,11 @@
         </div>
       </div>
       <div class="p-2">
-        <SkillsCard :set="set" class="rounded p-2 border border-gray-400 text-sm" />
+        <SkillsCard
+          :set="set"
+          class="rounded p-2 border border-gray-400 text-sm"
+          @click:skill="showSkill"
+        />
       </div>
       <div class="overflow-y-auto list-items px-2">
         <div v-for="(label, type) in equipmentTypes" :key="type" class="mb-2 last:mb-0">
@@ -75,22 +87,28 @@
               v-if="type === 'weapon'"
               :item="set[type]"
               :can-decorate="true"
-              @click-slot="showDecorationsModal(type, index, $event)"
-              @remove-decoration="removeDecoration(type, index, $event)"
+              :can-click-skill="true"
+              @click:slot="showDecorationsModal(type, index, $event)"
+              @click:skill="showSkill"
+              @remove:decoration="removeDecoration(type, index, $event)"
             />
             <TalismanCard
               v-else-if="type === 'talisman'"
               :item="set[type]"
               :can-decorate="true"
-              @click-slot="showDecorationsModal(type, index, $event)"
-              @remove-decoration="removeDecoration(type, index, $event)"
+              :can-click-skill="true"
+              @click:slot="showDecorationsModal(type, index, $event)"
+              @click:skill="showSkill"
+              @remove:decoration="removeDecoration(type, index, $event)"
             />
             <ArmorCard
               v-else
               :item="set[type]"
               :can-decorate="true"
-              @click-slot="showDecorationsModal(type, index, $event)"
-              @remove-decoration="removeDecoration(type, index, $event)"
+              :can-click-skill="true"
+              @click:slot="showDecorationsModal(type, index, $event)"
+              @click:skill="showSkill"
+              @remove:decoration="removeDecoration(type, index, $event)"
             />
             <button
               class="text-sm absolute -top-1 -right-1 text-white bg-red-400 rounded-full h-4 w-4 p-0.5"
@@ -124,10 +142,12 @@ import SkillsCard from './SkillsCard'
 import TalismanCard from './TalismanCard'
 import AddTalismanModal from './AddTalismanModal'
 import SetPreviewModal from './SetPreviewModal'
+import Modal from './Modal'
+import SkillInfoModal from './SkillInfoModal'
 
 export default {
   name: 'Builder',
-  components: { SetPreviewModal, AddTalismanModal, TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
+  components: { SkillInfoModal, Modal, SetPreviewModal, AddTalismanModal, TalismanCard, SkillsCard, ArmorCard, WeaponCard, AddWeaponModal, SetDecorationModal, AddArmorModal },
   data () {
     return {
       equipmentTypes: {
@@ -148,7 +168,8 @@ export default {
       currentDecoration: '',
       setUrl: '',
       showBottomMessage: false,
-      showBuildMenu: -1
+      showBuildMenu: -1,
+      skill: null
     }
   },
   computed: {
@@ -398,6 +419,10 @@ export default {
     },
     hideBuildMenu () {
       this.showBuildMenu = -1
+    },
+    showSkill (slug) {
+      this.skill = this.getSkill(slug)
+      this.showModal = 'skill'
     }
   }
 }

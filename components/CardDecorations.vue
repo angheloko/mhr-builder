@@ -13,7 +13,7 @@
             v-if="canDecorate"
             class="inline-flex justify-center items-center cursor-pointer rounded-full bg-gray-200 h-8 w-8 text-xs"
             :class="{ 'bg-blue-200': decorations[slotIndex] }"
-            @click="$emit('click-slot', { level: slots[slotIndex], slot: slotIndex, current: decorations && decorations[slotIndex] && decorations[slotIndex].slug })"
+            @click="$emit('click:slot', { level: slots[slotIndex], slot: slotIndex, current: decorations && decorations[slotIndex] && decorations[slotIndex].slug })"
           >
             {{ slots[slotIndex] }}
           </a>
@@ -35,18 +35,22 @@
         v-for="(decoration, decorationIndex) in 3"
       >
         <div v-if="decorations[decorationIndex]" :key="decorationIndex" class="flex border-b last:border-none p-1 last:p-0">
-          <div class="flex-grow">
-            <div class="text-sm text-left">
+          <div class="flex-grow text-sm text-left">
+            <div>
               {{ decorations[decorationIndex].name }}
             </div>
-            <div class="text-xs text-left">
+            <div
+              class="text-xs"
+              :class="{'text-blue-600 cursor-pointer': canClickSkill}"
+              @click="canClickSkill && $emit('click:skill', decorations[decorationIndex].skillSlug)"
+            >
               {{ decorations[decorationIndex].skill }}
             </div>
           </div>
           <button
             v-if="canDecorate"
             class="text-red-600"
-            @click="$emit('remove-decoration', decorationIndex)"
+            @click="$emit('remove:decoration', decorationIndex)"
           >
             <!-- heroicons: outline/minus-circle -->
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -64,6 +68,10 @@ export default {
   name: 'CardDecorations',
   props: {
     canDecorate: {
+      type: Boolean,
+      default: false
+    },
+    canClickSkill: {
       type: Boolean,
       default: false
     },
