@@ -1,18 +1,15 @@
 <template>
-  <Modal @close="$emit('close')">
-    <BuildList
-      class="m-2 max-w-xs mx-auto"
-      :set="set"
-    />
-  </Modal>
+  <BuildList
+    class="m-2 max-w-xs mx-auto"
+    :set="set"
+  />
 </template>
 
 <script>
-import Modal from './Modal'
 import BuildList from './BuildList'
 export default {
   name: 'SetPreviewModal',
-  components: { BuildList, Modal },
+  components: { BuildList },
   props: {
     set: {
       type: Object,

@@ -7,41 +7,39 @@
       <a :href="setUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
     </div>
     <Modal
-      v-if="showModal === 'skill'"
-      width="w-1/2"
-      height="h-1/2"
+      v-if="showModal"
+      :width="modals[showModal].width"
+      :height="modals[showModal].height"
       @close="closeModal"
     >
-      <SkillInfoModal v-if="skill" :value="skill" />
+      <SkillInfoModal
+        v-if="showModal === modals.skill.id && skill"
+        :value="skill"
+      />
+      <SetPreviewModal
+        v-if="showModal === modals.preview.id"
+        :set="preview"
+      />
+      <AddWeaponModal
+        v-if="showModal === modals.weapons.id"
+        @select="addEquipment"
+      />
+      <AddArmorModal
+        v-if="showModal === modals.armors.id"
+        :type="equipmentType"
+        @select="addEquipment"
+      />
+      <AddTalismanModal
+        v-if="showModal === modals.talisman.id"
+        @input="addEquipment"
+      />
+      <SetDecorationModal
+        v-if="showModal === modals.decorations.id"
+        :level="decorationLevel"
+        :selected="currentDecoration"
+        @select="setDecoration"
+      />
     </Modal>
-    <SetPreviewModal
-      v-if="showModal === 'preview'"
-      :set="preview"
-      @close="closePreviewModal"
-    />
-    <AddWeaponModal
-      v-if="showModal === 'weapon'"
-      @close="closeModal"
-      @select="addEquipment"
-    />
-    <AddArmorModal
-      v-if="showModal === 'armors'"
-      :type="equipmentType"
-      @close="closeModal"
-      @select="addEquipment"
-    />
-    <AddTalismanModal
-      v-if="showModal === 'talisman'"
-      @close="closeModal"
-      @input="addEquipment"
-    />
-    <SetDecorationModal
-      v-if="showModal === 'decorations'"
-      :level="decorationLevel"
-      :selected="currentDecoration"
-      @close="closeModal"
-      @select="setDecoration"
-    />
     <div v-for="(set, index) in sets" :key="index" class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 mr-2 pb-4">
       <div class="p-2 text-right">
         <div class="relative">
@@ -76,6 +74,7 @@
       <div class="p-2">
         <SkillsCard
           :set="set"
+          :can-click-skill="true"
           class="rounded p-2 border border-gray-400 text-sm"
           @click:skill="showSkill"
         />
@@ -119,7 +118,11 @@
               </svg>
             </button>
           </div>
-          <button v-else class="bg-gray-200 text-gray-600 rounded block w-full p-2 text-sm focus:outline-none" @click="showEquipmentModal(type, index)">
+          <button
+            v-else
+            class="bg-gray-200 text-gray-600 rounded block w-full p-2 text-sm focus:outline-none"
+            @click="showEquipmentModal(type, index)"
+          >
             Add {{ label }}
           </button>
         </div>
@@ -169,7 +172,29 @@ export default {
       setUrl: '',
       showBottomMessage: false,
       showBuildMenu: -1,
-      skill: null
+      skill: null,
+      modals: {
+        skill: {
+          id: 'skill',
+          height: 'h-1/2',
+          width: 'w-1/2'
+        },
+        preview: {
+          id: 'preview'
+        },
+        weapons: {
+          id: 'weapons'
+        },
+        armors: {
+          id: 'armors'
+        },
+        talisman: {
+          id: 'talisman'
+        },
+        decorations: {
+          id: 'decorations'
+        }
+      }
     }
   },
   computed: {
@@ -305,7 +330,7 @@ export default {
           }
         }
 
-        this.showModal = 'preview'
+        this.showModal = this.modals.preview.id
       }
     },
     newSet () {
@@ -316,19 +341,22 @@ export default {
       return set
     },
     closeModal () {
-      this.showModal = ''
-    },
-    closePreviewModal () {
-      this.$router.replace('/')
+      if (this.showModal === this.modals.preview.id) {
+        this.$router.replace('/')
+      }
       this.showModal = ''
     },
     showEquipmentModal (type, index) {
       this.equipmentType = type
       this.setIndex = index
 
-      this.showModal = type === 'weapon' || type === 'talisman'
-        ? type
-        : 'armors'
+      if (type === 'weapon') {
+        this.showModal = this.modals.weapons.id
+      } else if (type === 'talisman') {
+        this.showModal = this.modals.talisman.id
+      } else {
+        this.showModal = this.modals.armors.id
+      }
     },
     addNewSet () {
       this.addSet(this.newSet())
@@ -351,7 +379,7 @@ export default {
       this.slot = slot
       this.decorationLevel = level
       this.currentDecoration = current ?? ''
-      this.showModal = 'decorations'
+      this.showModal = this.modals.decorations.id
     },
     setDecoration (decoration) {
       this.showModal = ''
@@ -422,7 +450,7 @@ export default {
     },
     showSkill (slug) {
       this.skill = this.getSkill(slug)
-      this.showModal = 'skill'
+      this.showModal = this.modals.skill.id
     }
   }
 }

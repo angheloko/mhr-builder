@@ -17,10 +17,13 @@
         <div
           v-for="(skill, index) of skills"
           :key="index"
-          class="flex justify-between items-center mb-1 cursor-pointer"
-          @click="$emit('click:skill', skill.slug)"
+          class="flex justify-between items-center mb-1"
+          :class="{ 'cursor-pointer': canClickSkill }"
+          @click="canClickSkill && $emit('click:skill', skill.slug)"
         >
-          <div class="text-blue-600">
+          <div
+            :class="{ 'text-blue-600': canClickSkill }"
+          >
             {{ skill.name }}
           </div>
           <div
@@ -47,6 +50,10 @@ export default {
     set: {
       type: Object,
       required: true
+    },
+    canClickSkill: {
+      type: Boolean,
+      default: false
     }
   },
   data () {

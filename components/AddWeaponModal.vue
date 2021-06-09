@@ -1,18 +1,15 @@
 <template>
-  <Modal @close="$emit('close')">
-    <WeaponSearch
-      @select="$emit('select', $event)"
-    />
-  </Modal>
+  <WeaponSearch
+    @select="$emit('select', $event)"
+  />
 </template>
 
 <script>
-import Modal from './Modal'
 import WeaponSearch from './WeaponSearch'
 
 export default {
   name: 'AddWeaponModal',
-  components: { WeaponSearch, Modal }
+  components: { WeaponSearch }
 }
 </script>
 
