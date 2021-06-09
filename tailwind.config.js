@@ -16,8 +16,8 @@ module.exports = {
       safelist: {
         standard: [
           /^max-h-/,
-          /^w-/,
-          /^h-/
+          /^md:w-/,
+          /^md:h-/
         ]
       }
     }

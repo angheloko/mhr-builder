@@ -27,7 +27,7 @@
           To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
       -->
       <div
-        class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:rounded-lg md:align-middle md:shadow-xl"
+        class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:max-w-screen-sm md:rounded-lg md:align-middle md:shadow-xl"
         :class="[ 'md:' + width, 'md:' + height ]"
       >
         <div class="p-2 text-right h-10 flex items-center justify-end">
