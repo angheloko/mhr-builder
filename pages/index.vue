@@ -10,6 +10,7 @@
       v-if="showModal"
       :width="modals[showModal].width"
       :height="modals[showModal].height"
+      :title="modalTitle"
       @close="closeModal"
     >
       <SkillInfoModal
@@ -182,16 +183,19 @@ export default {
           id: 'preview'
         },
         weapons: {
-          id: 'weapons'
+          id: 'weapons',
+          title: 'Select weapon'
         },
         armors: {
           id: 'armors'
         },
         talisman: {
-          id: 'talisman'
+          id: 'talisman',
+          title: 'Add talisman'
         },
         decorations: {
-          id: 'decorations'
+          id: 'decorations',
+          title: 'Select decoration'
         }
       }
     }
@@ -200,7 +204,14 @@ export default {
     ...mapGetters({
       sets: 'sets/sets',
       getSkill: 'skills/getSkill'
-    })
+    }),
+    modalTitle () {
+      if (this.showModal === this.modals.armors.id) {
+        return `Select ${this.equipmentTypes[this.equipmentType].toLowerCase()} armor`
+      } else {
+        return this.modals[this.showModal].title
+      }
+    }
   },
   mounted () {
     this.loadSets()
