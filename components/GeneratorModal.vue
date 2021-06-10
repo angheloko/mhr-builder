@@ -1,18 +1,15 @@
 <template>
-  <Modal @close="$emit('close')">
-    <Generator
-      @update="$emit('close')"
-    />
-  </Modal>
+  <Generator
+    @update="$emit('close')"
+  />
 </template>
 
 <script>
-import Modal from './Modal'
 import Generator from './Generator'
 
 export default {
   name: 'GeneratorModal',
-  components: { Generator, Modal }
+  components: { Generator }
 }
 </script>
 

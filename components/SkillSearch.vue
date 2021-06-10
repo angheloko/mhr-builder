@@ -20,9 +20,28 @@
         No skills found.
       </template>
     </div>
-    <div v-else class="grid grid-cols-2 gap-2 p-2 sm:grid-cols-3">
-      <div v-for="item of results" :key="item.slug">
-        {{ item }}
+    <div v-else class="p-2 space-y-2">
+      <div v-for="item of results" :key="item.slug" class="rounded border shadow">
+        <div class="p-2 border-b font-medium">
+          {{ item.name }}
+        </div>
+        <div class="p-2 border-b">
+          {{ item.description }}
+        </div>
+        <ul>
+          <li
+            v-for="(description, index) of item.levels"
+            :key="index"
+            class="flex mb-1 border-b last:border-none p-2 items-center"
+          >
+            <div class="pr-2 flex-none font-light text-sm">
+              Lv {{ index + 1 }}:
+            </div>
+            <div class="flex-auto">
+              {{ description }}
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </Search>
@@ -46,7 +65,7 @@ export default {
       this.search(keywords)
     }, 500),
     search (keywords) {
-      let queryBuilder = this.$content('skills')
+      let queryBuilder = this.$content('skills').sortBy('name')
 
       if (keywords) {
         queryBuilder = queryBuilder.search(keywords)

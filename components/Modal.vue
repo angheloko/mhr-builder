@@ -30,12 +30,13 @@
         class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:max-w-screen-sm md:rounded-lg md:align-middle md:shadow-xl"
         :class="[ 'md:' + width, 'md:' + height ]"
       >
-        <div class="p-2 text-right h-10 flex items-center justify-end">
+        <div class="h-12 p-2 flex items-center space-x-2">
           <button @click="$emit('close')">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-            </svg>
+            <CloseIcon />
           </button>
+          <div>
+            {{ title }}
+          </div>
         </div>
         <div class="modal__body flex-grow overflow-y-auto">
           <slot />
@@ -46,9 +47,15 @@
 </template>
 
 <script>
+import CloseIcon from './icons/CloseIcon'
 export default {
   name: 'Modal',
+  components: { CloseIcon },
   props: {
+    title: {
+      type: String,
+      default: ''
+    },
     width: {
       type: String,
       default: 'w-4/5'
@@ -63,6 +70,6 @@ export default {
 
 <style scoped>
 .modal__body {
-  height: calc(100vh - 2.5rem);
+  height: calc(100vh - 3rem);
 }
 </style>
