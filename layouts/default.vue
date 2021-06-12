@@ -1,5 +1,30 @@
 <template>
-  <div class="text-gray-600 bg-gray-50">
+  <div class="text-gray-600 bg-gray-50 min-h-screen flex flex-col">
+    <div class="h-12 flex items-center px-2 py-1 space-x-2">
+      <NuxtLink to="/">
+        <Logo class="inline-block h-6 w-auto" />
+      </NuxtLink>
+      <h1 class="text-lg inline-block flex-grow hidden md:block">
+        <NuxtLink to="/">
+          Monster Hunter Rise Set Builder
+        </NuxtLink>
+      </h1>
+      <h1 class="text-lg inline-block flex-grow md:hidden">
+        <NuxtLink to="/">
+          MHRise Builder
+        </NuxtLink>
+      </h1>
+      <button
+        class="bg-blue-600 text-white font-medium text-sm py-0 px-4 rounded ring h-8"
+        @click="showModal = modals.generator.id"
+      >
+        Generate
+      </button>
+      <button @click="showSideSheet = true">
+        <MenuIcon />
+      </button>
+    </div>
+    <Nuxt class="flex-grow" />
     <Modal
       v-if="showModal"
       :title="modals[showModal].title"
@@ -60,25 +85,6 @@
         </div>
       </div>
     </SideSheet>
-    <div class="h-12 flex items-center px-2 py-1 space-x-2">
-      <Logo class="inline-block h-6 w-auto" />
-      <h1 class="text-lg inline-block flex-grow hidden md:block">
-        Monster Hunter Rise Set Builder
-      </h1>
-      <h1 class="text-lg inline-block flex-grow md:hidden">
-        MHRise Builder
-      </h1>
-      <button
-        class="bg-blue-600 text-white font-medium text-sm py-0 px-4 rounded ring h-8"
-        @click="showModal = modals.generator.id"
-      >
-        Generate
-      </button>
-      <button @click="showSideSheet = true">
-        <MenuIcon />
-      </button>
-    </div>
-    <Nuxt />
   </div>
 </template>
 <script>
@@ -121,6 +127,9 @@ export default {
   },
   mounted () {
     this.loadSkills()
+    this.$emitter.on('snackbar', (url) => {
+      console.log(url)
+    })
   },
   methods: {
     ...mapActions({

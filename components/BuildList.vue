@@ -1,5 +1,6 @@
 <template>
-  <div class="rounded bg-gray-300 pb-4">
+  <div class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 mr-2 pb-4">
+    <slot />
     <div class="p-2">
       <SkillsCard :set="set" class="rounded p-2 border border-gray-400 text-sm" />
     </div>
@@ -32,6 +33,8 @@ import SkillsCard from './SkillsCard'
 import WeaponCard from './WeaponCard'
 import TalismanCard from './TalismanCard'
 import ArmorCard from './ArmorCard'
+import config from '~/app.config'
+
 export default {
   name: 'BuildList',
   components: { ArmorCard, TalismanCard, WeaponCard, SkillsCard },
@@ -43,15 +46,7 @@ export default {
   },
   data () {
     return {
-      equipmentTypes: {
-        talisman: 'Talisman',
-        weapon: 'Weapon',
-        head: 'Head',
-        chest: 'Chest',
-        arms: 'Arms',
-        waist: 'Waist',
-        legs: 'Legs'
-      }
+      equipmentTypes: config.equipmentTypes
     }
   }
 }
