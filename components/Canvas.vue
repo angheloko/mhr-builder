@@ -1,5 +1,5 @@
 <template>
-  <div class="canvas flex items-start overflow-x-auto p-2">
+  <div class="flex items-start overflow-x-auto p-2 space-x-2">
     <slot />
   </div>
 </template>
@@ -11,7 +11,5 @@ export default {
 </script>
 
 <style scoped>
-.canvas {
-  height: calc(100vh - 3rem);
-}
+
 </style>

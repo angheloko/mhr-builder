@@ -5,11 +5,8 @@
 </template>
 
 <script>
-import IconMixin from './IconMixin'
-
 export default {
-  name: 'ExclamationCircleIcon',
-  mixins: [IconMixin]
+  name: 'ExclamationCircleIcon'
 }
 </script>
 

@@ -5,11 +5,9 @@
 </template>
 
 <script>
-import IconMixin from './IconMixin'
 
 export default {
-  name: 'ChevronUpIcon',
-  mixins: [IconMixin]
+  name: 'ChevronUpIcon'
 }
 </script>
 

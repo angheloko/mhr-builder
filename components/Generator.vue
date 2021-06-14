@@ -66,7 +66,7 @@
           </p>
           <button
             class="bg-blue-600 text-white font-medium text-sm px-4 rounded h-8"
-            @click="$emit('update')"
+            @click="$emit('close')"
           >
             Close
           </button>
@@ -104,12 +104,6 @@ import TalismanSettings from './TalismanSettings'
 export default {
   name: 'Generator',
   components: { TalismanSettings, GeneratorStepOptions, GeneratorStepWeapon, GeneratorStepSkills },
-  props: {
-    value: {
-      type: Object,
-      default: () => ({})
-    }
-  },
   data () {
     return {
       step: 0,

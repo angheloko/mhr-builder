@@ -6,11 +6,8 @@
 </template>
 
 <script>
-import IconMixin from './IconMixin'
-
 export default {
-  name: 'DocumentDuplicateIcon',
-  mixins: [IconMixin]
+  name: 'DocumentDuplicateIcon'
 }
 </script>
 

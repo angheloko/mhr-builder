@@ -11,21 +11,75 @@
         </button>
       </div>
       <div class="p-2 flex-grow">
-        <slot />
+        <div class="flex flex-col justify-between h-full">
+          <div class="space-y-4">
+            <slot />
+            <div
+              class="flex items-center space-x-2 cursor-pointer"
+              @click="$emit('close'); showSkillSearch = true"
+            >
+              <LightningBoltIcon />
+              <div>
+                Skills
+              </div>
+            </div>
+            <a
+              href="https://github.com/angheloko/mhr-builder/issues"
+              class="flex items-center space-x-2 cursor-pointer"
+            >
+              <ExclamationCircleIcon />
+              <div>
+                Report an issue
+              </div>
+            </a>
+            <a
+              href="mailto:angheloko@gmail.com"
+              class="flex items-center space-x-2 cursor-pointer"
+            >
+              <MailIcon />
+              <div>
+                Contact developer
+              </div>
+            </a>
+          </div>
+          <div class="flex justify-between items-center">
+            <div>
+              🛠 with ❤️ by <a href="https://donlalicon.dev" class="text-blue-600 font-bold">Don</a>
+            </div>
+            <a href="https://github.com/angheloko/mhr-builder" class="ml-3">
+              <GithubIcon />
+            </a>
+          </div>
+        </div>
       </div>
     </div>
+    <SkillSearchModal
+      v-if="showSkillSearch"
+      @close="showSkillSearch = false"
+    />
   </div>
 </template>
 
 <script>
 import CloseIcon from './icons/CloseIcon'
+import LightningBoltIcon from './icons/LightningBoltIcon'
+import ExclamationCircleIcon from './icons/ExclamationCircleIcon'
+import MailIcon from './icons/MailIcon'
+import GithubIcon from './icons/GithubIcon'
+import SkillSearchModal from './SkillSearchModal'
+
 export default {
   name: 'SideSheet',
-  components: { CloseIcon },
+  components: { SkillSearchModal, GithubIcon, MailIcon, ExclamationCircleIcon, LightningBoltIcon, CloseIcon },
   props: {
     heading: {
       type: String,
       default: ''
+    }
+  },
+  data () {
+    return {
+      showSkillSearch: false
     }
   }
 }

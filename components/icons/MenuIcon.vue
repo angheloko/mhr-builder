@@ -5,11 +5,8 @@
 </template>
 
 <script>
-import IconMixin from './IconMixin'
-
 export default {
-  name: 'MenuIcon',
-  mixins: [IconMixin]
+  name: 'MenuIcon'
 }
 </script>
 
