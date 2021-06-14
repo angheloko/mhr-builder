@@ -46,7 +46,9 @@ export default {
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
-    '@nuxt/content'
+    '@nuxt/content',
+    // https://github.com/LinusBorg/portal-vue
+    'portal-vue/nuxt'
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

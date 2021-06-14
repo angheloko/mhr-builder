@@ -85,6 +85,8 @@
         </div>
       </div>
     </SideSheet>
+    <ModalPortal />
+    <SnackbarPortal />
   </div>
 </template>
 <script>
@@ -98,9 +100,11 @@ import MenuIcon from '~/components/icons/MenuIcon'
 import SkillSearch from '~/components/SkillSearch'
 import ExclamationCircleIcon from '~/components/icons/ExclamationCircleIcon'
 import MailIcon from '~/components/icons/MailIcon'
+import ModalPortal from '~/components/ModalPortal'
+import SnackbarPortal from '~/components/SnackbarPortal'
 
 export default {
-  components: { MailIcon, ExclamationCircleIcon, SkillSearch, MenuIcon, Modal, LightningBoltIcon, SideSheet, GeneratorModal, Logo },
+  components: { SnackbarPortal, ModalPortal, MailIcon, ExclamationCircleIcon, SkillSearch, MenuIcon, Modal, LightningBoltIcon, SideSheet, GeneratorModal, Logo },
   data () {
     return {
       showModal: '',
@@ -127,9 +131,6 @@ export default {
   },
   mounted () {
     this.loadSkills()
-    this.$emitter.on('snackbar', (url) => {
-      console.log(url)
-    })
   },
   methods: {
     ...mapActions({

@@ -1,6 +1,35 @@
 <template>
   <div class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 mr-2 pb-4">
-    <slot />
+    <div class="p-2 text-right">
+      <div class="relative">
+        <button
+          class="focus:outline-none"
+          @click.stop="showMenu = true"
+        >
+          <DotsVerticalIcon />
+        </button>
+        <div
+          v-if="showMenu"
+          v-click-outside="clickOutsideMenuHandler"
+          class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28 z-10"
+        >
+          <button
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('copy')"
+          >
+            <DocumentDuplicateIcon />
+            <span>Copy set</span>
+          </button>
+          <button
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('share')"
+          >
+            <ShareIcon />
+            <span>Copy link</span>
+          </button>
+        </div>
+      </div>
+    </div>
     <div class="p-2">
       <SkillsCard :set="set" class="rounded p-2 border border-gray-400 text-sm" />
     </div>
@@ -33,20 +62,41 @@ import SkillsCard from './SkillsCard'
 import WeaponCard from './WeaponCard'
 import TalismanCard from './TalismanCard'
 import ArmorCard from './ArmorCard'
+import DotsVerticalIcon from './icons/DotsVerticalIcon'
+import DocumentDuplicateIcon from './icons/DocumentDuplicateIcon'
+import ShareIcon from './icons/ShareIcon'
 import config from '~/app.config'
 
 export default {
   name: 'BuildList',
-  components: { ArmorCard, TalismanCard, WeaponCard, SkillsCard },
+  components: { ShareIcon, DocumentDuplicateIcon, DotsVerticalIcon, ArmorCard, TalismanCard, WeaponCard, SkillsCard },
   props: {
     set: {
       type: Object,
       required: true
+    },
+    readOnly: {
+      type: Boolean,
+      default: true
     }
   },
   data () {
     return {
-      equipmentTypes: config.equipmentTypes
+      showMenu: false
+    }
+  },
+  computed: {
+    equipmentTypes () {
+      return config.equipmentTypes
+    }
+  },
+  methods: {
+    clickOutsideMenuHandler () {
+      this.showMenu = false
+    },
+    menuClickHandler (menu) {
+      this.showMenu = false
+      this.$emit(`click:${menu}`)
     }
   }
 }

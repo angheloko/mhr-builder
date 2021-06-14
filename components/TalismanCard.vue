@@ -7,51 +7,28 @@
     </div>
     <CardDecorations
       :can-decorate="canDecorate"
-      :can-click-skill="canClickSkill"
       :slots="item.slots"
       :decorations="item.decorations"
       @click:slot="$emit('click:slot', $event)"
       @click:skill="$emit('click:skill', $event)"
       @remove:decoration="$emit('remove:decoration', $event)"
     />
-    <div class="text-center p-1 flex-grow">
-      <div class="font-light text-xs p-1">
-        Skills
-      </div>
-      <div>
-        <ul v-if="item.skills.length > 0">
-          <li
-            v-for="(skill, skillIndex) of item.skills"
-            :key="skillIndex"
-            :class="{'cursor-pointer text-blue-600': canClickSkill}"
-            @click="canClickSkill && $emit('click:skill', skill.slug)"
-          >
-            {{ skill.name }} Lv {{ skill.level }}
-          </li>
-        </ul>
-        <div v-else class="italic">
-          None
-        </div>
-      </div>
-    </div>
+    <SkillsList :skills="item.skills" />
   </div>
 </template>
 
 <script>
 import CardDecorations from './CardDecorations'
+import SkillsList from './SkillsList'
 export default {
   name: 'TalismanCard',
-  components: { CardDecorations },
+  components: { SkillsList, CardDecorations },
   props: {
     item: {
       type: Object,
       required: true
     },
     canDecorate: {
-      type: Boolean,
-      default: false
-    },
-    canClickSkill: {
       type: Boolean,
       default: false
     }

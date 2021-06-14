@@ -1,29 +1,27 @@
 <template>
   <div>
+    <SkillInfoModal
+      v-if="showSkill"
+      :value="showSkill"
+      @close="showSkill = null"
+    />
     <button
       class="flex justify-between items-center w-full focus:outline-none font-medium"
       @click="showDetails = !showDetails"
     >
       Skills
-      <svg v-if="showDetails" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd" />
-      </svg>
-      <svg v-else xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-        <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-      </svg>
+      <ChevronUpIcon v-if="showDetails" />
+      <ChevronDownIcon v-else />
     </button>
     <div v-if="showDetails" class="px-2 mt-2">
       <template v-if="skills.length > 0">
         <div
           v-for="(skill, index) of skills"
           :key="index"
-          class="flex justify-between items-center mb-1"
-          :class="{ 'cursor-pointer': canClickSkill }"
-          @click="canClickSkill && $emit('click:skill', skill.slug)"
+          class="flex justify-between items-center mb-1 cursor-pointer"
+          @click="clickHandler(skill.slug)"
         >
-          <div
-            :class="{ 'text-blue-600': canClickSkill }"
-          >
+          <div class="text-blue-600">
             {{ skill.name }}
           </div>
           <div
@@ -43,29 +41,33 @@
 
 <script>
 import { mapGetters } from 'vuex'
+import SkillInfoModal from './SkillInfoModal'
+import ChevronUpIcon from './icons/ChevronUpIcon'
+import ChevronDownIcon from './icons/ChevronDownIcon'
+import config from '~/app.config'
 
 export default {
   name: 'SkillsCard',
+  components: { ChevronDownIcon, ChevronUpIcon, SkillInfoModal },
   props: {
     set: {
       type: Object,
       required: true
-    },
-    canClickSkill: {
-      type: Boolean,
-      default: false
     }
   },
   data () {
     return {
-      equipmentTypes: ['talisman', 'weapon', 'head', 'chest', 'arms', 'waist', 'legs'],
-      showDetails: false
+      showDetails: false,
+      showSkill: null
     }
   },
   computed: {
     ...mapGetters({
       getSkill: 'skills/getSkill'
     }),
+    equipmentTypes () {
+      return Object.getOwnPropertyNames(config.equipmentTypes)
+    },
     skills () {
       const skills = []
 
@@ -127,6 +129,9 @@ export default {
     getSkillMax (slug) {
       const skill = this.getSkill(slug)
       return skill ? skill.level : 0
+    },
+    clickHandler (slug) {
+      this.showSkill = this.getSkill(slug)
     }
   }
 }

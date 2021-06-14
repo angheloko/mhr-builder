@@ -69,34 +69,16 @@
       @click:skill="$emit('click:skill', $event)"
       @remove:decoration="$emit('remove:decoration', $event)"
     />
-    <div class="text-center p-1 flex-grow">
-      <div class="font-light text-xs p-1">
-        Skills
-      </div>
-      <div>
-        <ul v-if="item.skills.length > 0">
-          <li
-            v-for="(skill, skillIndex) of item.skills"
-            :key="skillIndex"
-            :class="{'cursor-pointer text-blue-600': canClickSkill}"
-            @click="canClickSkill && $emit('click:skill', skill.slug)"
-          >
-            {{ skill.name }} Lv {{ skill.level }}
-          </li>
-        </ul>
-        <div v-else class="italic">
-          None
-        </div>
-      </div>
-    </div>
+    <SkillsList :skills="item.skills" />
   </div>
 </template>
 
 <script>
 import CardDecorations from './CardDecorations'
+import SkillsList from './SkillsList'
 export default {
   name: 'ArmorCard',
-  components: { CardDecorations },
+  components: { SkillsList, CardDecorations },
   props: {
     item: {
       type: Object,
