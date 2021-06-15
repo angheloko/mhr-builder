@@ -10,10 +10,10 @@
         </div>
         <template v-else>
           <a
-            v-if="canDecorate"
+            v-if="!readOnly"
             class="inline-flex justify-center items-center cursor-pointer rounded-full bg-gray-200 h-8 w-8 text-xs"
             :class="{ 'bg-blue-200': decorations[slotIndex] }"
-            @click="$emit('click:slot', { level: slots[slotIndex], slot: slotIndex, current: decorations && decorations[slotIndex] && decorations[slotIndex].slug })"
+            @click="clickDecorationHandler({ level: slots[slotIndex], slot: slotIndex, current: decorations[slotIndex] })"
           >
             {{ slots[slotIndex] }}
           </a>
@@ -27,7 +27,7 @@
         </template>
       </div>
     </div>
-    <div v-if="canDecorate" class="text-xs text-gray-400 mt-1 font-light">
+    <div v-if="!readOnly" class="text-xs text-gray-400 mt-1 font-light">
       Click slot to add a decoration
     </div>
     <div v-if="hasDecorations" class="m-1 border rounded shadow px-1">
@@ -41,24 +41,28 @@
             </div>
             <div
               class="text-xs text-blue-600 cursor-pointer"
-              @click="clickHandler(decorations[decorationIndex].skillSlug)"
+              @click="clickSkillHandler(decorations[decorationIndex].skillSlug)"
             >
               {{ decorations[decorationIndex].skill }}
             </div>
           </div>
           <button
-            v-if="canDecorate"
+            v-if="!readOnly"
             class="text-red-600"
             @click="$emit('remove', decorationIndex)"
           >
-            <!-- heroicons: outline/minus-circle -->
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
+            <MinusCircleIcon class="w-4 h-4 text-red-400" />
           </button>
         </div>
       </template>
     </div>
+    <SetDecorationModal
+      v-if="decorationLevel"
+      :level="decorationLevel"
+      :selected="currentDecoration"
+      @select="selectDecorationHandler"
+      @close="decorationLevel = 0"
+    />
     <SkillInfoModal
       v-if="showSkill"
       :value="showSkill"
@@ -70,14 +74,16 @@
 <script>
 import { mapGetters } from 'vuex'
 import SkillInfoModal from './SkillInfoModal'
+import SetDecorationModal from './SetDecorationModal'
+import MinusCircleIcon from './icons/MinusCircleIcon'
 
 export default {
   name: 'CardDecorations',
-  components: { SkillInfoModal },
+  components: { MinusCircleIcon, SetDecorationModal, SkillInfoModal },
   props: {
-    canDecorate: {
+    readOnly: {
       type: Boolean,
-      default: false
+      default: true
     },
     slots: {
       type: Array,
@@ -90,7 +96,10 @@ export default {
   },
   data () {
     return {
-      showSkill: null
+      showSkill: null,
+      decorationLevel: 0,
+      slot: -1,
+      currentDecoration: null
     }
   },
   computed: {
@@ -103,7 +112,22 @@ export default {
     }
   },
   methods: {
-    clickHandler (slug) {
+    selectDecorationHandler (decoration) {
+      this.$emit('add', {
+        slot: this.slot,
+        decoration
+      })
+
+      this.decorationLevel = 0
+      this.slot = -1
+      this.currentDecoration = null
+    },
+    clickDecorationHandler ({ level, slot, current }) {
+      this.decorationLevel = level
+      this.slot = slot
+      this.currentDecoration = current
+    },
+    clickSkillHandler (slug) {
       this.showSkill = this.getSkill(slug)
     }
   }

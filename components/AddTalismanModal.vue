@@ -1,29 +1,35 @@
 <template>
-  <div class="p-2 h-full">
-    <TalismanSettings
-      :slots="slots"
-      :skills="skills"
-      @select="selectSkill"
-      @update:skill="updateSkill"
-      @update:slot="updateSlot"
-    />
-    <div class="text-right">
-      <button
-        class="text-white bg-blue-600 font-medium text-sm px-4 rounded h-8"
-        @click="addTalisman"
-      >
-        Add
-      </button>
+  <Modal
+    @close="$emit('close')"
+  >
+    <div class="p-2 h-full">
+      <TalismanSettings
+        :slots="slots"
+        :skills="skills"
+        @select="selectSkill"
+        @update:skill="updateSkill"
+        @update:slot="updateSlot"
+      />
+      <div class="text-right">
+        <button
+          class="text-white bg-blue-600 font-medium text-sm px-4 rounded h-8"
+          @click="addTalisman"
+        >
+          Add
+        </button>
+      </div>
     </div>
-  </div>
+  </Modal>
 </template>
 
 <script>
 import { mapGetters } from 'vuex'
 import TalismanSettings from './TalismanSettings'
+import Modal from './Modal'
+
 export default {
   name: 'AddTalismanModal',
-  components: { TalismanSettings },
+  components: { Modal, TalismanSettings },
   data () {
     return {
       maxSkills: 3,

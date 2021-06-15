@@ -8,24 +8,19 @@
         {{ content.description }}
       </div>
     </div>
-    <Canvas class="canvas">
-      <BuildList
-        v-for="(set, index) of content.sets"
-        :key="index"
-        :index="index"
-        :value="set"
-      />
-    </Canvas>
+    <Builder
+      class="builder"
+      :value="content.sets"
+    />
   </Scaffold>
 </template>
 
 <script>
-import BuildList from '~/components/BuildList'
-import Canvas from '~/components/Canvas'
 import Scaffold from '~/components/Scaffold'
+import Builder from '~/components/Builder'
 
 export default {
-  components: { Scaffold, Canvas, BuildList },
+  components: { Builder, Scaffold },
   async asyncData ({
     $content,
     params
@@ -83,7 +78,7 @@ export default {
 </script>
 
 <style scoped>
-.canvas {
+.builder {
   height: calc(100vh - 7rem);
 }
 </style>

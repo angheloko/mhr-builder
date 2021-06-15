@@ -6,10 +6,10 @@
       </h4>
     </div>
     <CardDecorations
-      :can-decorate="canDecorate"
       :slots="value.slots"
       :decorations="value.decorations"
-      @click:slot="$emit('click:slot', $event)"
+      :read-only="readOnly"
+      @add="$emit('decorate', $event)"
       @remove="$emit('undecorate', $event)"
     />
     <SkillsList :skills="value.skills" />
@@ -27,9 +27,9 @@ export default {
       type: Object,
       required: true
     },
-    canDecorate: {
+    readOnly: {
       type: Boolean,
-      default: false
+      default: true
     }
   }
 }

@@ -24,7 +24,7 @@
     <div v-else class="grid grid-cols-2 gap-2 p-2 sm:grid-cols-3">
       <div v-for="item of results" :key="item.slug" @click="selectItem(item)">
         <WeaponCard
-          :item="item"
+          :value="item"
           class="h-full"
           :class="{ 'ring-2': value && value.slug === item.slug }"
         />
