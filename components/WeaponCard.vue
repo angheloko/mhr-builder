@@ -2,7 +2,7 @@
   <div class="rounded border shadow flex flex-col w-full bg-white text-sm py-2">
     <div class="pb-2 px-1 border-b grid place-items-center">
       <h4 class="font-medium text-center">
-        {{ item.name }}
+        {{ value.name }}
       </h4>
     </div>
     <div class="text-center border-b p-1 grid grid-cols-3">
@@ -11,7 +11,7 @@
           Attack
         </div>
         <div>
-          {{ item.attack }}
+          {{ value.attack }}
         </div>
       </div>
       <div class="p-1 border-r">
@@ -19,7 +19,7 @@
           Affinity
         </div>
         <div>
-          {{ item.affinity }}
+          {{ value.affinity }}
         </div>
       </div>
       <div class="p-1">
@@ -27,7 +27,7 @@
           Defense
         </div>
         <div>
-          {{ item.defense }}
+          {{ value.defense }}
         </div>
       </div>
     </div>
@@ -35,9 +35,9 @@
       <div class="font-light text-xs pb-1">
         Element
       </div>
-      <div v-if="item.element.length > 0" class="flex flex-wrap justify-center">
+      <div v-if="value.element.length > 0" class="flex flex-wrap justify-center">
         <div
-          v-for="(element, elementIndex) of item.element"
+          v-for="(element, elementIndex) of value.element"
           :key="elementIndex"
           class="w-1/2 sm:w-1/3 p-1 flex-initial"
         >
@@ -55,20 +55,18 @@
     </div>
     <CardDecorations
       :can-decorate="canDecorate"
-      :can-click-skill="canClickSkill"
-      :slots="item.slots"
-      :decorations="item.decorations"
+      :slots="value.slots"
+      :decorations="value.decorations"
       @click:slot="$emit('click:slot', $event)"
-      @click:skill="$emit('click:skill', $event)"
-      @remove:decoration="$emit('remove:decoration', $event)"
+      @remove="$emit('undecorate', $event)"
     />
     <div class="text-center p-1 flex-grow">
       <div class="font-light text-xs pb-1">
         Rampage skills
       </div>
       <div>
-        <ul v-if="item.rampSkills">
-          <li v-for="(skill, skillIndex) of item.rampSkills" :key="skillIndex">
+        <ul v-if="value.rampSkills">
+          <li v-for="(skill, skillIndex) of value.rampSkills" :key="skillIndex">
             {{ skill }}
           </li>
         </ul>
@@ -82,19 +80,16 @@
 
 <script>
 import CardDecorations from './CardDecorations'
+
 export default {
   name: 'WeaponCard',
   components: { CardDecorations },
   props: {
-    item: {
+    value: {
       type: Object,
       required: true
     },
     canDecorate: {
-      type: Boolean,
-      default: false
-    },
-    canClickSkill: {
       type: Boolean,
       default: false
     }

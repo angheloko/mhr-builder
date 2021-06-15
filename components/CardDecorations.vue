@@ -40,9 +40,8 @@
               {{ decorations[decorationIndex].name }}
             </div>
             <div
-              class="text-xs"
-              :class="{'text-blue-600 cursor-pointer': canClickSkill}"
-              @click="canClickSkill && $emit('click:skill', decorations[decorationIndex].skillSlug)"
+              class="text-xs text-blue-600 cursor-pointer"
+              @click="clickHandler(decorations[decorationIndex].skillSlug)"
             >
               {{ decorations[decorationIndex].skill }}
             </div>
@@ -50,7 +49,7 @@
           <button
             v-if="canDecorate"
             class="text-red-600"
-            @click="$emit('remove:decoration', decorationIndex)"
+            @click="$emit('remove', decorationIndex)"
           >
             <!-- heroicons: outline/minus-circle -->
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -60,18 +59,23 @@
         </div>
       </template>
     </div>
+    <SkillInfoModal
+      v-if="showSkill"
+      :value="showSkill"
+      @close="showSkill = null"
+    />
   </div>
 </template>
 
 <script>
+import { mapGetters } from 'vuex'
+import SkillInfoModal from './SkillInfoModal'
+
 export default {
   name: 'CardDecorations',
+  components: { SkillInfoModal },
   props: {
     canDecorate: {
-      type: Boolean,
-      default: false
-    },
-    canClickSkill: {
       type: Boolean,
       default: false
     },
@@ -84,10 +88,23 @@ export default {
       default: () => ([])
     }
   },
+  data () {
+    return {
+      showSkill: null
+    }
+  },
   computed: {
+    ...mapGetters({
+      getSkill: 'skills/getSkill'
+    }),
     hasDecorations () {
       const decorations = this.decorations.filter(value => value)
       return decorations.length > 0
+    }
+  },
+  methods: {
+    clickHandler (slug) {
+      this.showSkill = this.getSkill(slug)
     }
   }
 }

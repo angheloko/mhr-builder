@@ -2,7 +2,7 @@
   <div class="rounded border shadow flex flex-col w-full bg-white text-sm py-2">
     <div class="pb-2 px-1 border-b grid place-items-center">
       <h4 class="font-medium text-center">
-        {{ item.name }}
+        {{ value.name }}
       </h4>
     </div>
     <div class="text-center border-b p-1">
@@ -10,7 +10,7 @@
         Defense
       </div>
       <div>
-        {{ item.baseDefense }}
+        {{ value.baseDefense }}
       </div>
     </div>
     <div class="text-center border-b p-1">
@@ -20,7 +20,7 @@
       <div class="flex flex-wrap justify-center">
         <div class="w-1/3 p-1 flex-initial">
           <div>
-            {{ item.fireResistance }}
+            {{ value.fireResistance }}
           </div>
           <div class="font-light text-xs">
             Fire
@@ -28,7 +28,7 @@
         </div>
         <div class="w-1/3 p-1 flex-initial">
           <div>
-            {{ item.waterResistance }}
+            {{ value.waterResistance }}
           </div>
           <div class="font-light text-xs">
             Water
@@ -36,7 +36,7 @@
         </div>
         <div class="w-1/3 p-1 flex-initial">
           <div>
-            {{ item.iceResistance }}
+            {{ value.iceResistance }}
           </div>
           <div class="font-light text-xs">
             Ice
@@ -44,7 +44,7 @@
         </div>
         <div class="w-1/3 p-1 flex-initial">
           <div>
-            {{ item.thunderResistance }}
+            {{ value.thunderResistance }}
           </div>
           <div class="font-light text-xs">
             Thunder
@@ -52,7 +52,7 @@
         </div>
         <div class="w-1/3 p-1 flex-initial">
           <div>
-            {{ item.dragonResistance }}
+            {{ value.dragonResistance }}
           </div>
           <div class="font-light text-xs">
             Dragon
@@ -62,14 +62,12 @@
     </div>
     <CardDecorations
       :can-decorate="canDecorate"
-      :can-click-skill="canClickSkill"
-      :slots="item.slots"
-      :decorations="item.decorations"
+      :slots="value.slots"
+      :decorations="value.decorations"
       @click:slot="$emit('click:slot', $event)"
-      @click:skill="$emit('click:skill', $event)"
-      @remove:decoration="$emit('remove:decoration', $event)"
+      @remove="$emit('undecorate', $event)"
     />
-    <SkillsList :skills="item.skills" />
+    <SkillsList :skills="value.skills" />
   </div>
 </template>
 
@@ -80,24 +78,13 @@ export default {
   name: 'ArmorCard',
   components: { SkillsList, CardDecorations },
   props: {
-    item: {
+    value: {
       type: Object,
       required: true
     },
     canDecorate: {
       type: Boolean,
       default: false
-    },
-    canClickSkill: {
-      type: Boolean,
-      default: false
-    }
-  },
-  computed: {
-    decorations () {
-      return this.item.decorations
-        ? this.item.decorations.filter(value => value)
-        : [null, null, null]
     }
   }
 }

@@ -38,15 +38,15 @@
         <div v-if="set[type]" class="relative mt-4">
           <WeaponCard
             v-if="type === 'weapon'"
-            :item="set[type]"
+            :value="set[type]"
           />
           <TalismanCard
             v-else-if="type === 'talisman'"
-            :item="set[type]"
+            :value="set[type]"
           />
           <ArmorCard
             v-else
-            :item="set[type]"
+            :value="set[type]"
           />
         </div>
         <div v-else class="bg-gray-200 text-gray-600 rounded block w-full p-2 text-sm">

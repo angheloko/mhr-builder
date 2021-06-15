@@ -7,13 +7,12 @@
     </div>
     <CardDecorations
       :can-decorate="canDecorate"
-      :slots="item.slots"
-      :decorations="item.decorations"
+      :slots="value.slots"
+      :decorations="value.decorations"
       @click:slot="$emit('click:slot', $event)"
-      @click:skill="$emit('click:skill', $event)"
-      @remove:decoration="$emit('remove:decoration', $event)"
+      @remove="$emit('undecorate', $event)"
     />
-    <SkillsList :skills="item.skills" />
+    <SkillsList :skills="value.skills" />
   </div>
 </template>
 
@@ -24,7 +23,7 @@ export default {
   name: 'TalismanCard',
   components: { SkillsList, CardDecorations },
   props: {
-    item: {
+    value: {
       type: Object,
       required: true
     },
