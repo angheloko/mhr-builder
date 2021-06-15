@@ -14,6 +14,15 @@
         <div class="flex flex-col justify-between h-full">
           <div class="space-y-4">
             <slot />
+            <NuxtLink
+              class="flex items-center space-x-2 cursor-pointer"
+              to="/"
+            >
+              <HomeIcon />
+              <div>
+                My sets
+              </div>
+            </NuxtLink>
             <div
               class="flex items-center space-x-2 cursor-pointer"
               @click="$emit('close'); showSkillSearch = true"
@@ -67,10 +76,11 @@ import ExclamationCircleIcon from './icons/ExclamationCircleIcon'
 import MailIcon from './icons/MailIcon'
 import GithubIcon from './icons/GithubIcon'
 import SkillSearchModal from './SkillSearchModal'
+import HomeIcon from './icons/HomeIcon'
 
 export default {
   name: 'NavigationDrawer',
-  components: { SkillSearchModal, GithubIcon, MailIcon, ExclamationCircleIcon, LightningBoltIcon, CloseIcon },
+  components: { HomeIcon, SkillSearchModal, GithubIcon, MailIcon, ExclamationCircleIcon, LightningBoltIcon, CloseIcon },
   props: {
     heading: {
       type: String,
