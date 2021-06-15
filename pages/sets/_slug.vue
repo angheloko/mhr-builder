@@ -12,29 +12,20 @@
       <BuildList
         v-for="(set, index) of content.sets"
         :key="index"
-        :set="set"
-        @click:copy="copy(index)"
-        @click:share="share(index)"
+        :index="index"
+        :value="set"
       />
-      <Snackbar
-        v-if="setUrl"
-        @close="setUrl = ''"
-      >
-        <a :href="setUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
-      </Snackbar>
     </Canvas>
   </Scaffold>
 </template>
 
 <script>
-import createLink from '~/common/createLink'
 import BuildList from '~/components/BuildList'
 import Canvas from '~/components/Canvas'
-import Snackbar from '~/components/Snackbar'
 import Scaffold from '~/components/Scaffold'
 
 export default {
-  components: { Scaffold, Snackbar, Canvas, BuildList },
+  components: { Scaffold, Canvas, BuildList },
   async asyncData ({
     $content,
     params
@@ -86,18 +77,6 @@ export default {
           content: this.content.description
         }
       ]
-    }
-  },
-  methods: {
-    copy (index) {
-      // @todo Copy set to own set
-    },
-    share (index) {
-      const url = createLink(this.content.sets[index])
-      navigator.clipboard.writeText(url)
-        .then(() => {
-          this.setUrl = url
-        })
     }
   }
 }
