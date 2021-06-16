@@ -6,13 +6,29 @@
           class="focus:outline-none"
           @click.stop="showMenu = !showMenu"
         >
-          <DotsVerticalIcon />
+          <DotsVerticalIcon class="h-5 w-5" />
         </button>
         <div
           v-if="showMenu"
           v-click-outside="clickOutsideMenuHandler"
-          class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28 z-10"
+          class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-32 z-10"
         >
+          <button
+            v-if="!readOnly && !isPinned"
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('pin')"
+          >
+            <BookmarkIcon class="h-5 w-5" />
+            <span>Pin</span>
+          </button>
+          <button
+            v-if="!readOnly && isPinned"
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('unpin')"
+          >
+            <BanIcon class="h-5 w-5" />
+            <span>Unpin</span>
+          </button>
           <button
             v-if="readOnly"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2"
@@ -29,7 +45,7 @@
             <span>Copy link</span>
           </button>
           <button
-            v-if="!readOnly"
+            v-if="!readOnly && !isPinned"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2 text-red-600"
             @click="menuClickHandler('delete')"
           >
@@ -114,6 +130,12 @@
       <div v-if="showSnackbar === snackbarTypes.copy">
         The set has been added to your collection.
       </div>
+      <div v-if="showSnackbar === snackbarTypes.pin">
+        The set has been pinned.
+      </div>
+      <div v-if="showSnackbar === snackbarTypes.unpin">
+        The set has been unpinned.
+      </div>
     </Snackbar>
   </div>
 </template>
@@ -135,10 +157,12 @@ import DocumentDuplicateIcon from '~/components/icons/DocumentDuplicateIcon'
 import ShareIcon from '~/components/icons/ShareIcon'
 import TrashIcon from '~/components/icons/TrashIcon'
 import XIcon from '~/components/icons/XIcon'
+import BookmarkIcon from '~/components/icons/BookmarkIcon'
+import BanIcon from '~/components/icons/BanIcon'
 
 export default {
   name: 'BuildList',
-  components: { AddTalismanModal, AddArmorModal, AddWeaponModal, TrashIcon, Snackbar, ShareIcon, DocumentDuplicateIcon, DotsVerticalIcon, XIcon, ArmorCard, TalismanCard, WeaponCard, SkillsCard },
+  components: { BanIcon, BookmarkIcon, AddTalismanModal, AddArmorModal, AddWeaponModal, TrashIcon, Snackbar, ShareIcon, DocumentDuplicateIcon, DotsVerticalIcon, XIcon, ArmorCard, TalismanCard, WeaponCard, SkillsCard },
   props: {
     index: {
       type: Number,
@@ -162,7 +186,9 @@ export default {
       showSnackbar: '',
       snackbarTypes: {
         share: 'share',
-        copy: 'copy'
+        copy: 'copy',
+        pin: 'pin',
+        unpin: 'unpin'
       },
       modalTypes: {
         weapons: 'weapons',
@@ -174,6 +200,9 @@ export default {
   computed: {
     equipmentTypes () {
       return config.equipmentTypes
+    },
+    isPinned () {
+      return this.value._meta?.pin ?? false
     }
   },
   methods: {
@@ -183,7 +212,8 @@ export default {
       unequip: 'sets/unequip',
       decorate: 'sets/decorate',
       undecorate: 'sets/undecorate',
-      removeSet: 'sets/remove'
+      removeSet: 'sets/remove',
+      setMeta: 'sets/setMeta'
     }),
     addEquipment (item) {
       this.closeModal()
@@ -236,6 +266,12 @@ export default {
       this.showMenu = false
 
       switch (menu) {
+        case 'pin':
+          this.pinHandler()
+          break
+        case 'unpin':
+          this.unpinHandler()
+          break
         case 'copy':
           this.copyHandler()
           break
@@ -247,6 +283,22 @@ export default {
       }
 
       this.$emit(`click:${menu}`)
+    },
+    pinHandler () {
+      this.setMeta({
+        index: this.index,
+        key: 'pin',
+        value: true
+      })
+      this.showSnackbar = this.snackbarTypes.pin
+    },
+    unpinHandler () {
+      this.setMeta({
+        index: this.index,
+        key: 'pin',
+        value: false
+      })
+      this.showSnackbar = this.snackbarTypes.unpin
     },
     copyHandler () {
       const set = JSON.parse(JSON.stringify(this.value))

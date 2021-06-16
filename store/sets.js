@@ -60,8 +60,23 @@ export const mutations = {
       localStorage.sets = JSON.stringify(state.sets)
     }
   },
+  setMeta (state, { index, key, value }) {
+    if (state.sets[index]._meta) {
+      Vue.set(state.sets[index]._meta, key, value)
+    } else {
+      const meta = {}
+      meta[key] = value
+      Vue.set(state.sets[index], '_meta', meta)
+    }
+
+    if (state.persist) {
+      localStorage.sets = JSON.stringify(state.sets)
+    }
+  },
   clear (state) {
-    state.sets = []
+    state.sets = state.sets.filter((set) => {
+      return set._meta?.pin ?? false
+    })
     if (state.persist) {
       localStorage.sets = JSON.stringify(state.sets)
     }

@@ -28,12 +28,22 @@
         If selected, every set will be unique. Armor pieces will not be reused in other sets.
       </div>
     </div>
+    <div class="text-sm my-4">
+      <span class="font-bold">Important:</span> Any unpinned sets from your collection will be
+      removed. You can pin a set by clicking the menu icon <DotsVerticalIcon class="w-4 h-4 inline-block" />
+      of the build and selecting <BookmarkIcon class="w-4 h-4 inline-block" />
+      <span class="font-bold">Pin</span>.
+    </div>
   </div>
 </template>
 
 <script>
+import BookmarkIcon from './icons/BookmarkIcon'
+import DotsVerticalIcon from './icons/DotsVerticalIcon'
+
 export default {
   name: 'GeneratorStepOptions',
+  components: { DotsVerticalIcon, BookmarkIcon },
   props: {
     unique: {
       type: Boolean,
