@@ -96,10 +96,11 @@
 <script>
 import { mapGetters, mapMutations } from 'vuex'
 import { cloneDeep } from 'lodash'
-import GeneratorStepSkills from './GeneratorStepSkills'
-import GeneratorStepWeapon from './GeneratorStepWeapon'
-import GeneratorStepOptions from './GeneratorStepOptions'
-import TalismanSettings from './TalismanSettings'
+import config from '~/app.config'
+import GeneratorStepSkills from '~/components/GeneratorStepSkills'
+import GeneratorStepWeapon from '~/components/GeneratorStepWeapon'
+import GeneratorStepOptions from '~/components/GeneratorStepOptions'
+import TalismanSettings from '~/components/TalismanSettings'
 
 export default {
   name: 'Generator',
@@ -135,15 +136,6 @@ export default {
       unique: true,
       decorate: true,
       decorations: [],
-      equipmentTypes: [
-        'talisman',
-        'weapon',
-        'head',
-        'chest',
-        'arms',
-        'waist',
-        'legs'
-      ],
       skillsWeight: 0.5,
       slotsWeight: 0.3,
       defenseWeight: 0.2
@@ -152,7 +144,10 @@ export default {
   computed: {
     ...mapGetters({
       getSkill: 'skills/getSkill'
-    })
+    }),
+    equipmentTypes () {
+      return Object.getOwnPropertyNames(config.equipmentTypes)
+    }
   },
   mounted () {
     for (let i = 0; i < this.maxSkills; i++) {

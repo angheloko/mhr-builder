@@ -14,6 +14,7 @@
           class="origin-top-right absolute right-0 mt-2 rounded shadow bg-white flex flex-col w-28 z-10"
         >
           <button
+            v-if="readOnly"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2"
             @click="menuClickHandler('copy')"
           >
@@ -104,10 +105,15 @@
       @close="closeModal"
     />
     <Snackbar
-      v-if="shareUrl"
-      @close="shareUrl = ''"
+      v-if="showSnackbar"
+      @close="showSnackbar = ''"
     >
-      <a :href="shareUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
+      <div v-if="showSnackbar === snackbarTypes.share">
+        <a :href="shareUrl" class="font-medium text-yellow-400">Link</a> copied to clipboard.
+      </div>
+      <div v-if="showSnackbar === snackbarTypes.copy">
+        The set has been added to your collection.
+      </div>
     </Snackbar>
   </div>
 </template>
@@ -153,6 +159,11 @@ export default {
       shareUrl: '',
       equipmentType: '',
       showModal: '',
+      showSnackbar: '',
+      snackbarTypes: {
+        share: 'share',
+        copy: 'copy'
+      },
       modalTypes: {
         weapons: 'weapons',
         armors: 'armors',
@@ -167,6 +178,7 @@ export default {
   },
   methods: {
     ...mapMutations({
+      addSet: 'sets/add',
       equip: 'sets/equip',
       unequip: 'sets/unequip',
       decorate: 'sets/decorate',
@@ -237,13 +249,16 @@ export default {
       this.$emit(`click:${menu}`)
     },
     copyHandler () {
-      // @todo Copy set to own set
+      const set = JSON.parse(JSON.stringify(this.value))
+      this.addSet(set)
+      this.showSnackbar = this.snackbarTypes.copy
     },
     shareHandler () {
       const url = createLink(this.value)
       navigator.clipboard.writeText(url)
         .then(() => {
           this.shareUrl = url
+          this.showSnackbar = this.snackbarTypes.share
         })
     },
     deleteHandler () {
