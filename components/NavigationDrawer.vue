@@ -23,6 +23,15 @@
                 My sets
               </div>
             </NuxtLink>
+            <NuxtLink
+              class="flex items-center space-x-2 cursor-pointer px-4"
+              to="/sets"
+            >
+              <UserGroupIcon class="h-5 w-5" />
+              <div>
+                Community sets
+              </div>
+            </NuxtLink>
             <hr>
             <div class="px-4 text-sm text-gray-400">
               Glossary
@@ -97,10 +106,11 @@ import HomeIcon from './icons/HomeIcon'
 import InformationCircleIcon from './icons/InformationCircleIcon'
 import AboutModal from './AboutModal'
 import ExclamationIcon from './icons/ExclamationIcon'
+import UserGroupIcon from './icons/UserGroupIcon'
 
 export default {
   name: 'NavigationDrawer',
-  components: { ExclamationIcon, AboutModal, InformationCircleIcon, HomeIcon, SkillSearchModal, GithubIcon, MailIcon, LightningBoltIcon, CloseIcon },
+  components: { UserGroupIcon, ExclamationIcon, AboutModal, InformationCircleIcon, HomeIcon, SkillSearchModal, GithubIcon, MailIcon, LightningBoltIcon, CloseIcon },
   props: {
     heading: {
       type: String,
