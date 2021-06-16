@@ -10,12 +10,12 @@
           <CloseIcon />
         </button>
       </div>
-      <div class="p-2 flex-grow">
+      <div class="flex-grow">
         <div class="flex flex-col justify-between h-full">
           <div class="space-y-4">
             <slot />
             <NuxtLink
-              class="flex items-center space-x-2 cursor-pointer"
+              class="flex items-center space-x-2 cursor-pointer px-4"
               to="/"
             >
               <HomeIcon />
@@ -23,8 +23,12 @@
                 My sets
               </div>
             </NuxtLink>
+            <hr>
+            <div class="px-4 text-sm text-gray-400">
+              Glossary
+            </div>
             <div
-              class="flex items-center space-x-2 cursor-pointer"
+              class="flex items-center space-x-2 cursor-pointer px-4 pl-8"
               @click="$emit('close'); showSkillSearch = true"
             >
               <LightningBoltIcon />
@@ -32,18 +36,28 @@
                 Skills
               </div>
             </div>
+            <hr>
+            <div
+              class="flex items-center space-x-2 cursor-pointer px-4"
+              @click="$emit('close'); showAbout = true"
+            >
+              <InformationCircleIcon class="h-5 w-5" />
+              <div>
+                About
+              </div>
+            </div>
             <a
               href="https://github.com/angheloko/mhr-builder/issues"
-              class="flex items-center space-x-2 cursor-pointer"
+              class="flex items-center space-x-2 cursor-pointer px-4"
             >
-              <ExclamationCircleIcon />
+              <ExclamationIcon class="h-5 w-5" />
               <div>
                 Report an issue
               </div>
             </a>
             <a
               href="mailto:angheloko@gmail.com"
-              class="flex items-center space-x-2 cursor-pointer"
+              class="flex items-center space-x-2 cursor-pointer px-4"
             >
               <MailIcon />
               <div>
@@ -51,7 +65,7 @@
               </div>
             </a>
           </div>
-          <div class="flex justify-between items-center">
+          <div class="flex justify-between items-center p-4">
             <div>
               🛠 with ❤️ by <a href="https://donlalicon.dev" class="text-blue-600 font-bold">Don</a>
             </div>
@@ -66,21 +80,27 @@
       v-if="showSkillSearch"
       @close="showSkillSearch = false"
     />
+    <AboutModal
+      v-if="showAbout"
+      @close="showAbout = false"
+    />
   </div>
 </template>
 
 <script>
 import CloseIcon from './icons/CloseIcon'
 import LightningBoltIcon from './icons/LightningBoltIcon'
-import ExclamationCircleIcon from './icons/ExclamationCircleIcon'
 import MailIcon from './icons/MailIcon'
 import GithubIcon from './icons/GithubIcon'
 import SkillSearchModal from './SkillSearchModal'
 import HomeIcon from './icons/HomeIcon'
+import InformationCircleIcon from './icons/InformationCircleIcon'
+import AboutModal from './AboutModal'
+import ExclamationIcon from './icons/ExclamationIcon'
 
 export default {
   name: 'NavigationDrawer',
-  components: { HomeIcon, SkillSearchModal, GithubIcon, MailIcon, ExclamationCircleIcon, LightningBoltIcon, CloseIcon },
+  components: { ExclamationIcon, AboutModal, InformationCircleIcon, HomeIcon, SkillSearchModal, GithubIcon, MailIcon, LightningBoltIcon, CloseIcon },
   props: {
     heading: {
       type: String,
@@ -89,7 +109,8 @@ export default {
   },
   data () {
     return {
-      showSkillSearch: false
+      showSkillSearch: false,
+      showAbout: false
     }
   }
 }
