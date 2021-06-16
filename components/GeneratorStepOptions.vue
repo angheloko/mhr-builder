@@ -31,7 +31,7 @@
     <div class="text-sm my-4">
       <span class="font-bold">Important:</span> Any unpinned sets from your collection will be
       removed. You can pin a set by clicking the menu icon <DotsVerticalIcon class="w-4 h-4 inline-block" />
-      of the build and selecting <BookmarkIcon class="w-4 h-4 inline-block" />
+      of the set and selecting <BookmarkIcon class="w-4 h-4 inline-block" />
       <span class="font-bold">Pin</span>.
     </div>
   </div>

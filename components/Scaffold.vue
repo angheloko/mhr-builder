@@ -22,7 +22,7 @@
     </div>
     <GeneratorModal
       v-if="showGenerator"
-      @close="showGenerator = false"
+      @close="closeGenerator"
     />
   </div>
 </template>
@@ -40,6 +40,14 @@ export default {
     return {
       showGenerator: false,
       showDrawer: false
+    }
+  },
+  methods: {
+    closeGenerator () {
+      this.showGenerator = false
+      if (this.$route.path !== '/') {
+        this.$router.push({ path: '/' })
+      }
     }
   }
 }
