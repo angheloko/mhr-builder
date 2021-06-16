@@ -13,49 +13,35 @@
       </button>
     </Builder>
     <SetPreviewModal
-      v-if="showModal === modals.preview.id"
+      v-if="showPreviewModal"
       :value="preview"
-      @close="closeModal"
+      @close="closePreview"
     />
   </Scaffold>
 </template>
 
 <script>
 import { mapMutations, mapGetters } from 'vuex'
+import config from '~/app.config'
 import SetPreviewModal from '~/components/SetPreviewModal'
 import Scaffold from '~/components/Scaffold'
 import Builder from '~/components/Builder'
 
-/**
- * @todo Clean-up.
- */
 export default {
   components: { Builder, Scaffold, SetPreviewModal },
   data () {
     return {
-      equipmentTypes: {
-        talisman: 'Talisman',
-        weapon: 'Weapon',
-        head: 'Head',
-        chest: 'Chest',
-        arms: 'Arms',
-        waist: 'Waist',
-        legs: 'Legs'
-      },
       preview: {},
-      showModal: '',
-      // @todo Change this to a simple enum
-      modals: {
-        preview: {
-          id: 'preview'
-        }
-      }
+      showPreviewModal: false
     }
   },
   computed: {
     ...mapGetters({
       sets: 'sets/sets'
-    })
+    }),
+    equipmentTypes () {
+      return config.equipmentTypes
+    }
   },
   mounted () {
     this.loadSets()
@@ -179,7 +165,7 @@ export default {
           }
         }
 
-        this.showModal = this.modals.preview.id
+        this.showPreviewModal = true
       }
     },
     newSet () {
@@ -192,11 +178,9 @@ export default {
     addNewSet () {
       this.addSet(this.newSet())
     },
-    closeModal () {
-      if (this.showModal === this.modals.preview.id) {
-        this.$router.replace('/')
-      }
-      this.showModal = ''
+    closePreview () {
+      this.$router.replace('/')
+      this.showPreviewModal = false
     }
   }
 }

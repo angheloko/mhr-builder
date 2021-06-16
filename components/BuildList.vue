@@ -41,7 +41,7 @@
     <div class="p-2">
       <SkillsCard :set="value" class="rounded p-2 border border-gray-400 text-sm" />
     </div>
-    <div class="overflow-y-auto list-items px-2">
+    <div class="overflow-y-auto px-2">
       <div v-for="(label, type) in equipmentTypes" :key="type" class="mb-2 last:mb-0">
         <div v-if="value[type]" class="relative mt-4">
           <WeaponCard

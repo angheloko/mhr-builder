@@ -24,7 +24,6 @@ export default function (set) {
 
       if (equipment.decorations !== undefined) {
         const decorations = equipment.decorations
-          .filter(element => element)
           .map(element => element ? element.slug : '')
           .join()
         query.append(`${type}-deco`, decorations)
