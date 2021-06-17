@@ -1,0 +1,270 @@
+{
+  "title": "Flexible elemental bows",
+  "description": "Different types of pain for different monsters.",
+  "createdAt": "2021-06-17",
+  "updatedAt": "2021-06-17",
+  "sets": [
+    {
+      "talisman": {
+        "slots": [
+          3
+        ],
+        "skills": [],
+        "decorations": [
+          {
+            "slug": "physique-jewel-2",
+            "name": "Physique Jewel 2",
+            "skill": "Constitution",
+            "skillSlug": "constitution",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/physique-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "weapon": {
+        "slug": "rampage-bow-s",
+        "name": "Rampage Bow S",
+        "type": "bow",
+        "slots": [],
+        "attack": 210,
+        "element": [],
+        "affinity": 0,
+        "defense": 0,
+        "rampSkills": [],
+        "dir": "/bow-weapons",
+        "path": "/bow-weapons/rampage-bow-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z"
+      },
+      "head": {
+        "slug": "mighty-bow-feather",
+        "name": "Mighty Bow Feather",
+        "type": "head",
+        "skills": [
+          {
+            "name": "Bow Charge Plus",
+            "slug": "bow-charge-plus",
+            "level": 1
+          }
+        ],
+        "slots": [],
+        "baseDefense": 56,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/head-armors",
+        "path": "/head-armors/mighty-bow-feather",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.561Z",
+        "updatedAt": "2021-06-05T02:54:43.562Z"
+      },
+      "chest": {
+        "slug": "vaik-mail-s",
+        "name": "Vaik Mail S",
+        "type": "chest",
+        "skills": [],
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "baseDefense": 52,
+        "fireResistance": 0,
+        "waterResistance": 3,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/chest-armors",
+        "path": "/chest-armors/vaik-mail-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.560Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1
+          }
+        ]
+      },
+      "arms": {
+        "slug": "jyuratodus-vambraces",
+        "name": "Jyuratodus Vambraces",
+        "type": "arms",
+        "skills": [],
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "baseDefense": 48,
+        "fireResistance": 0,
+        "waterResistance": 2,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/arms-armors",
+        "path": "/arms-armors/jyuratodus-vambraces",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": [
+          {
+            "slug": "forceshot-jewel-3",
+            "name": "Forceshot Jewel 3",
+            "skill": "Normal/Rapid Up",
+            "skillSlug": "normal-rapid-up",
+            "level": 3,
+            "dir": "/decorations",
+            "path": "/decorations/forceshot-jewel-3",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1
+          }
+        ]
+      },
+      "waist": {
+        "slug": "chrome-metal-coil",
+        "name": "Chrome Metal Coil",
+        "type": "waist",
+        "skills": [],
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "baseDefense": 46,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/waist-armors",
+        "path": "/waist-armors/chrome-metal-coil",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.564Z",
+        "updatedAt": "2021-06-05T02:54:43.565Z",
+        "decorations": [
+          {
+            "slug": "forceshot-jewel-3",
+            "name": "Forceshot Jewel 3",
+            "skill": "Normal/Rapid Up",
+            "skillSlug": "normal-rapid-up",
+            "level": 3,
+            "dir": "/decorations",
+            "path": "/decorations/forceshot-jewel-3",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1
+          },
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1
+          }
+        ]
+      },
+      "legs": {
+        "slug": "rakna-greaves",
+        "name": "Rakna Greaves",
+        "type": "legs",
+        "skills": [
+          {
+            "name": "Constitution",
+            "slug": "constitution",
+            "level": 2
+          },
+          {
+            "name": "Stamina Surge",
+            "slug": "stamina-surge",
+            "level": 2
+          }
+        ],
+        "slots": [
+          1
+        ],
+        "baseDefense": 66,
+        "fireResistance": 4,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 1,
+        "dir": "/legs-armors",
+        "path": "/legs-armors/rakna-greaves",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z",
+        "decorations": [
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1
+          }
+        ]
+      }
+    }
+  ]
+}

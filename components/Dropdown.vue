@@ -64,7 +64,7 @@ export default {
     },
     height: {
       type: Number,
-      default: 56
+      default: 48
     },
     bottom: {
       type: Boolean,

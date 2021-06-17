@@ -1,7 +1,7 @@
 <template>
   <Scaffold>
     <Builder
-      class="builder"
+      class="builder px-4 py-2"
       :value="sets"
       :read-only="false"
     >

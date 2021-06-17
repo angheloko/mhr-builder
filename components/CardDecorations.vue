@@ -59,7 +59,7 @@
     <SetDecorationModal
       v-if="decorationLevel"
       :level="decorationLevel"
-      :selected="currentDecoration"
+      :selected="currentDecoration && currentDecoration.slug"
       @select="selectDecorationHandler"
       @close="decorationLevel = 0"
     />

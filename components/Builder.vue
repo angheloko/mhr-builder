@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-start overflow-x-auto p-2 space-x-2">
+  <div class="flex items-start overflow-x-auto space-x-4">
     <BuildList
       v-for="(set, index) of value"
       :key="index"

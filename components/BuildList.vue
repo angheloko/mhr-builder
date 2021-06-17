@@ -1,6 +1,12 @@
 <template>
   <div class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 pb-4">
-    <div class="p-2 text-right">
+    <div class="p-2 flex justify-between">
+      <div>
+        <BookmarkIcon
+          v-if="!readOnly && isPinned"
+          class="h-5 w-5 text-yellow-600"
+        />
+      </div>
       <div class="relative">
         <button
           class="focus:outline-none"
@@ -43,6 +49,13 @@
           >
             <ShareIcon />
             <span>Copy link</span>
+          </button>
+          <button
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('export')"
+          >
+            <CodeIcon class="h-5 w-5" />
+            <span>Export</span>
           </button>
           <button
             v-if="!readOnly && !isPinned"
@@ -136,12 +149,15 @@
       <div v-if="showSnackbar === snackbarTypes.unpin">
         The set has been unpinned.
       </div>
+      <div v-if="showSnackbar === snackbarTypes.export">
+        Set data copied to clipboard.
+      </div>
     </Snackbar>
   </div>
 </template>
 
 <script>
-import { mapMutations } from 'vuex'
+import { mapActions, mapMutations } from 'vuex'
 import config from '~/app.config'
 import createLink from '~/common/create-link'
 import SkillsCard from '~/components/SkillsCard'
@@ -159,10 +175,11 @@ import TrashIcon from '~/components/icons/TrashIcon'
 import XIcon from '~/components/icons/XIcon'
 import BookmarkIcon from '~/components/icons/BookmarkIcon'
 import BanIcon from '~/components/icons/BanIcon'
+import CodeIcon from '~/components/icons/CodeIcon'
 
 export default {
   name: 'BuildList',
-  components: { BanIcon, BookmarkIcon, AddTalismanModal, AddArmorModal, AddWeaponModal, TrashIcon, Snackbar, ShareIcon, DocumentDuplicateIcon, DotsVerticalIcon, XIcon, ArmorCard, TalismanCard, WeaponCard, SkillsCard },
+  components: { CodeIcon, BanIcon, BookmarkIcon, AddTalismanModal, AddArmorModal, AddWeaponModal, TrashIcon, Snackbar, ShareIcon, DocumentDuplicateIcon, DotsVerticalIcon, XIcon, ArmorCard, TalismanCard, WeaponCard, SkillsCard },
   props: {
     index: {
       type: Number,
@@ -188,7 +205,8 @@ export default {
         share: 'share',
         copy: 'copy',
         pin: 'pin',
-        unpin: 'unpin'
+        unpin: 'unpin',
+        export: 'export'
       },
       modalTypes: {
         weapons: 'weapons',
@@ -206,14 +224,17 @@ export default {
     }
   },
   methods: {
+    ...mapActions({
+      pin: 'sets/pin',
+      unpin: 'sets/unpin'
+    }),
     ...mapMutations({
       addSet: 'sets/add',
       equip: 'sets/equip',
       unequip: 'sets/unequip',
       decorate: 'sets/decorate',
       undecorate: 'sets/undecorate',
-      removeSet: 'sets/remove',
-      setMeta: 'sets/setMeta'
+      removeSet: 'sets/remove'
     }),
     addEquipment (item) {
       this.closeModal()
@@ -278,6 +299,9 @@ export default {
         case 'share':
           this.shareHandler()
           break
+        case 'export':
+          this.exportHandler()
+          break
         case 'delete':
           this.deleteHandler()
       }
@@ -285,19 +309,11 @@ export default {
       this.$emit(`click:${menu}`)
     },
     pinHandler () {
-      this.setMeta({
-        index: this.index,
-        key: 'pin',
-        value: true
-      })
+      this.pin(this.index)
       this.showSnackbar = this.snackbarTypes.pin
     },
     unpinHandler () {
-      this.setMeta({
-        index: this.index,
-        key: 'pin',
-        value: false
-      })
+      this.unpin(this.index)
       this.showSnackbar = this.snackbarTypes.unpin
     },
     copyHandler () {
@@ -315,6 +331,13 @@ export default {
     },
     deleteHandler () {
       this.removeSet(this.index)
+    },
+    exportHandler () {
+      const json = JSON.stringify(this.value)
+      navigator.clipboard.writeText(json)
+        .then(() => {
+          this.showSnackbar = this.snackbarTypes.export
+        })
     }
   }
 }

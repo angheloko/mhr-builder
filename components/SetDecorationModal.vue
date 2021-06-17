@@ -70,6 +70,7 @@ export default {
       filters: {
         level: {
           label: 'Level',
+          required: true,
           options: []
         }
       }

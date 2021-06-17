@@ -1,15 +1,20 @@
 <template>
   <Scaffold>
-    <div class="h-16 px-2 flex flex-col">
-      <h1 class="text-lg whitespace-nowrap overflow-hidden overflow-ellipsis">
+    <div class="h-24 px-4">
+      <div class="text-xs mb-1">
+        <NuxtLink to="/sets" class="text-blue-600 font-medium">
+          Community sets
+        </NuxtLink>
+      </div>
+      <h1 class="text-lg mb-2 whitespace-nowrap overflow-hidden overflow-ellipsis">
         {{ content.title }}
       </h1>
-      <div class="text-sm h-9 overflow-hidden overflow-ellipsis flex-grow">
+      <div class="text-sm overflow-hidden overflow-ellipsis">
         {{ content.description }}
       </div>
     </div>
     <Builder
-      class="builder"
+      class="builder px-4 py-2"
       :value="content.sets"
     />
   </Scaffold>
@@ -79,6 +84,6 @@ export default {
 
 <style scoped>
 .builder {
-  height: calc(100vh - 7rem);
+  height: calc(100vh - 9rem);
 }
 </style>

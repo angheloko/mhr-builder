@@ -1,0 +1,693 @@
+{
+  "title": "Critical lance",
+  "description": "Talisman-less lance-based builds focusing on poking monsters where they hurt the most.",
+  "createdAt": "2021-06-17",
+  "updatedAt": "2021-06-17",
+  "sets": [
+    {
+      "talisman": null,
+      "weapon": {
+        "slug": "tigrex-lance",
+        "name": "Tigrex Lance",
+        "type": "lance",
+        "slots": [
+          1
+        ],
+        "attack": 230,
+        "element": [],
+        "affinity": -15,
+        "defense": 0,
+        "rampSkills": [
+          "Attack Boost III",
+          "Affinity Boost II",
+          "Brutal Strike"
+        ],
+        "dir": "/lance-weapons",
+        "path": "/lance-weapons/tigrex-lance",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      },
+      "head": {
+        "slug": "kaiser-crown",
+        "name": "Kaiser Crown",
+        "type": "head",
+        "skills": [
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 3
+          },
+          {
+            "name": "Critical Boost",
+            "slug": "critical-boost",
+            "level": 1
+          }
+        ],
+        "slots": [
+          1
+        ],
+        "baseDefense": 74,
+        "fireResistance": 4,
+        "waterResistance": 0,
+        "thunderResistance": 1,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/head-armors",
+        "path": "/head-armors/kaiser-crown",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.561Z",
+        "updatedAt": "2021-06-05T02:54:43.562Z"
+      },
+      "chest": {
+        "slug": "tobi-kadachi-mail-s",
+        "name": "Tobi-Kadachi Mail S",
+        "type": "chest",
+        "skills": [
+          {
+            "name": "Mind's Eye",
+            "slug": "mind-s-eye",
+            "level": 1
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 1
+          }
+        ],
+        "slots": [
+          3
+        ],
+        "baseDefense": 58,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 3,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/chest-armors",
+        "path": "/chest-armors/tobi-kadachi-mail-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.560Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "arms": {
+        "slug": "valstrax-braces",
+        "name": "Valstrax Braces",
+        "type": "arms",
+        "skills": [
+          {
+            "name": "Weakness Exploit",
+            "slug": "weakness-exploit",
+            "level": 2
+          },
+          {
+            "name": "Dragonheart",
+            "slug": "dragonheart",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2
+        ],
+        "baseDefense": 80,
+        "fireResistance": -2,
+        "waterResistance": -2,
+        "thunderResistance": -2,
+        "iceResistance": -2,
+        "dragonResistance": 3,
+        "dir": "/arms-armors",
+        "path": "/arms-armors/valstrax-braces",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "waist": {
+        "slug": "anjanath-coil-s",
+        "name": "Anjanath Coil S",
+        "type": "waist",
+        "skills": [
+          {
+            "name": "Attack Boost",
+            "slug": "attack-boost",
+            "level": 2
+          }
+        ],
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "baseDefense": 60,
+        "fireResistance": 3,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/waist-armors",
+        "path": "/waist-armors/anjanath-coil-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.564Z",
+        "updatedAt": "2021-06-05T02:54:43.565Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          null,
+          null
+        ]
+      },
+      "legs": {
+        "slug": "golden-hakama",
+        "name": "Golden Hakama",
+        "type": "legs",
+        "skills": [
+          {
+            "name": "Critical Boost",
+            "slug": "critical-boost",
+            "level": 2
+          },
+          {
+            "name": "Latent Power",
+            "slug": "latent-power",
+            "level": 1
+          }
+        ],
+        "slots": [
+          1,
+          1
+        ],
+        "baseDefense": 70,
+        "fireResistance": 2,
+        "waterResistance": 1,
+        "thunderResistance": 3,
+        "iceResistance": 0,
+        "dragonResistance": 2,
+        "dir": "/legs-armors",
+        "path": "/legs-armors/golden-hakama",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      }
+    },
+    {
+      "talisman": null,
+      "weapon": {
+        "slug": "tigrex-lance",
+        "name": "Tigrex Lance",
+        "type": "lance",
+        "slots": [
+          1
+        ],
+        "attack": 230,
+        "element": [],
+        "affinity": -15,
+        "defense": 0,
+        "rampSkills": [
+          "Attack Boost III",
+          "Affinity Boost II",
+          "Brutal Strike"
+        ],
+        "dir": "/lance-weapons",
+        "path": "/lance-weapons/tigrex-lance",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      },
+      "head": {
+        "slug": "kaiser-crown",
+        "name": "Kaiser Crown",
+        "type": "head",
+        "skills": [
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 3
+          },
+          {
+            "name": "Critical Boost",
+            "slug": "critical-boost",
+            "level": 1
+          }
+        ],
+        "slots": [
+          1
+        ],
+        "baseDefense": 74,
+        "fireResistance": 4,
+        "waterResistance": 0,
+        "thunderResistance": 1,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/head-armors",
+        "path": "/head-armors/kaiser-crown",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.561Z",
+        "updatedAt": "2021-06-05T02:54:43.562Z"
+      },
+      "chest": {
+        "slug": "tobi-kadachi-mail-s",
+        "name": "Tobi-Kadachi Mail S",
+        "type": "chest",
+        "skills": [
+          {
+            "name": "Mind's Eye",
+            "slug": "mind-s-eye",
+            "level": 1
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 1
+          }
+        ],
+        "slots": [
+          3
+        ],
+        "baseDefense": 58,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 3,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/chest-armors",
+        "path": "/chest-armors/tobi-kadachi-mail-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.560Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "arms": {
+        "slug": "kaiser-vambraces",
+        "name": "Kaiser Vambraces",
+        "type": "arms",
+        "skills": [
+          {
+            "name": "Teostra Blessing",
+            "slug": "teostra-blessing",
+            "level": 1
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 1
+          },
+          {
+            "name": "Critical Boost",
+            "slug": "critical-boost",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2
+        ],
+        "baseDefense": 74,
+        "fireResistance": 4,
+        "waterResistance": 0,
+        "thunderResistance": 1,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/arms-armors",
+        "path": "/arms-armors/kaiser-vambraces",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "waist": {
+        "slug": "anjanath-coil-s",
+        "name": "Anjanath Coil S",
+        "type": "waist",
+        "skills": [
+          {
+            "name": "Attack Boost",
+            "slug": "attack-boost",
+            "level": 2
+          }
+        ],
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "baseDefense": 60,
+        "fireResistance": 3,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/waist-armors",
+        "path": "/waist-armors/anjanath-coil-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.564Z",
+        "updatedAt": "2021-06-05T02:54:43.565Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          null,
+          null
+        ]
+      },
+      "legs": {
+        "slug": "ingot-greaves-s",
+        "name": "Ingot Greaves S",
+        "type": "legs",
+        "skills": [
+          {
+            "name": "Attack Boost",
+            "slug": "attack-boost",
+            "level": 2
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 2
+          }
+        ],
+        "slots": [
+          1
+        ],
+        "baseDefense": 40,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 1,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/legs-armors",
+        "path": "/legs-armors/ingot-greaves-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      }
+    },
+    {
+      "talisman": null,
+      "weapon": {
+        "slug": "tigrex-lance",
+        "name": "Tigrex Lance",
+        "type": "lance",
+        "slots": [
+          1
+        ],
+        "attack": 230,
+        "element": [],
+        "affinity": -15,
+        "defense": 0,
+        "rampSkills": [
+          "Attack Boost III",
+          "Affinity Boost II",
+          "Brutal Strike"
+        ],
+        "dir": "/lance-weapons",
+        "path": "/lance-weapons/tigrex-lance",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      },
+      "head": {
+        "slug": "valstrax-helm",
+        "name": "Valstrax Helm",
+        "type": "head",
+        "skills": [
+          {
+            "name": "Weakness Exploit",
+            "slug": "weakness-exploit",
+            "level": 1
+          },
+          {
+            "name": "Dragonheart",
+            "slug": "dragonheart",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2,
+          1
+        ],
+        "baseDefense": 80,
+        "fireResistance": -2,
+        "waterResistance": -2,
+        "thunderResistance": -2,
+        "iceResistance": -2,
+        "dragonResistance": 3,
+        "dir": "/head-armors",
+        "path": "/head-armors/valstrax-helm",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.561Z",
+        "updatedAt": "2021-06-05T02:54:43.562Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          null
+        ]
+      },
+      "chest": {
+        "slug": "tobi-kadachi-mail-s",
+        "name": "Tobi-Kadachi Mail S",
+        "type": "chest",
+        "skills": [
+          {
+            "name": "Mind's Eye",
+            "slug": "mind-s-eye",
+            "level": 1
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 1
+          }
+        ],
+        "slots": [
+          3
+        ],
+        "baseDefense": 58,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 3,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/chest-armors",
+        "path": "/chest-armors/tobi-kadachi-mail-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.560Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "arms": {
+        "slug": "valstrax-braces",
+        "name": "Valstrax Braces",
+        "type": "arms",
+        "skills": [
+          {
+            "name": "Weakness Exploit",
+            "slug": "weakness-exploit",
+            "level": 2
+          },
+          {
+            "name": "Dragonheart",
+            "slug": "dragonheart",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2
+        ],
+        "baseDefense": 80,
+        "fireResistance": -2,
+        "waterResistance": -2,
+        "thunderResistance": -2,
+        "iceResistance": -2,
+        "dragonResistance": 3,
+        "dir": "/arms-armors",
+        "path": "/arms-armors/valstrax-braces",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "waist": {
+        "slug": "anjanath-coil-s",
+        "name": "Anjanath Coil S",
+        "type": "waist",
+        "skills": [
+          {
+            "name": "Attack Boost",
+            "slug": "attack-boost",
+            "level": 2
+          }
+        ],
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "baseDefense": 60,
+        "fireResistance": 3,
+        "waterResistance": 0,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/waist-armors",
+        "path": "/waist-armors/anjanath-coil-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.564Z",
+        "updatedAt": "2021-06-05T02:54:43.565Z",
+        "decorations": [
+          {
+            "slug": "expert-jewel-2",
+            "name": "Expert Jewel 2",
+            "skill": "Critical Eye",
+            "skillSlug": "critical-eye",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/expert-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          null,
+          null
+        ]
+      },
+      "legs": {
+        "slug": "ingot-greaves-s",
+        "name": "Ingot Greaves S",
+        "type": "legs",
+        "skills": [
+          {
+            "name": "Attack Boost",
+            "slug": "attack-boost",
+            "level": 2
+          },
+          {
+            "name": "Critical Eye",
+            "slug": "critical-eye",
+            "level": 2
+          }
+        ],
+        "slots": [
+          1
+        ],
+        "baseDefense": 40,
+        "fireResistance": 0,
+        "waterResistance": 0,
+        "thunderResistance": 1,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/legs-armors",
+        "path": "/legs-armors/ingot-greaves-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-05T02:54:43.563Z"
+      }
+    }
+  ]
+}

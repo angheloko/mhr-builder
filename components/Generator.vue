@@ -455,6 +455,8 @@ export default {
         let total = setSkills[skill.slug]
         const decoration = this.getDecoration(skill.slug)
 
+        // Check that we have a decoration to use and that the
+        // skill's total level has not exceeded the required level.
         if (total < skill.level && decoration) {
           for (const type of this.equipmentTypes) {
             if (!set[type]) {
@@ -464,6 +466,7 @@ export default {
             const slots = set[type].slots ?? []
             const decorations = set[type].decorations ?? slots.map(() => null)
 
+            // Collect empty slots that can fit the decoration.
             const emptySlots = []
             for (let i = 0; i < decorations.length; i++) {
               if (!decorations[i] && slots[i] >= decoration.level) {
@@ -471,7 +474,11 @@ export default {
               }
             }
 
-            for (const emptySlot of emptySlots) {
+            // The slots are ordered from highest to lowest so we start from
+            // the end so that the smallest slot can be filled-in first.
+            for (let i = emptySlots.length - 1; i >= 0; i--) {
+              const emptySlot = emptySlots[i]
+
               decorations[emptySlot] = decoration
               set[type].decorations = decorations
               total++
@@ -532,21 +539,43 @@ export default {
       return this.decorations[slug]
     },
     async loadArmors (type) {
+      const promises = []
       const armors = []
       const slugs = this.skills.map(skill => skill.slug)
-      const conditions = {
-        'skills.slug': {
-          $containsAny: slugs
+
+      // All armors with the specified skills.
+      const promise1 = this.$content(`${type}-armors`)
+        .where({
+          'skills.slug': {
+            $containsAny: slugs
+          }
+        }).fetch()
+      promises.push(promise1)
+
+      // All slot-able skill-less armors.
+      const promise2 = this.$content(`${type}-armors`)
+        .where({
+          skills: {
+            $size: 0
+          },
+          slots: {
+            $containsAny: [1, 2, 3]
+          }
+        }).fetch()
+      promises.push(promise2)
+
+      const results = await Promise.all(promises)
+
+      for (const result of results) {
+        for (const armor of result) {
+          const hasExcludedSkill = armor.skills.find(skill => this.excluded.includes(skill.slug))
+          if (hasExcludedSkill) {
+            continue
+          }
+          armors.push(armor)
         }
       }
-      const result = await this.$content(`${type}-armors`).where(conditions).fetch()
-      for (const armor of result) {
-        const hasExcludedSkill = armor.skills.find(skill => this.excluded.includes(skill.slug))
-        if (hasExcludedSkill) {
-          continue
-        }
-        armors.push(armor)
-      }
+
       return armors
     },
     filterSkills (skill) {

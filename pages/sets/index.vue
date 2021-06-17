@@ -1,7 +1,7 @@
 <template>
   <Scaffold>
-    <div class="p-4 sm:p-8">
-      <div>
+    <div class="p-4">
+      <div class="mb-4">
         <h1 class="text-xl">
           Community sets
         </h1>
@@ -9,7 +9,23 @@
           A showcase of different sets from the community.
         </div>
       </div>
-      <div class="mt-10">
+      <template v-if="result.length > 10">
+        <div
+          v-for="doc of result"
+          :key="doc.slug"
+          class="px-2 py-4 border rounded shadow mb-4"
+        >
+          <NuxtLink :to="`/sets/${doc.slug}`">
+            <h2 class="mb-2">
+              {{ doc.title }}
+            </h2>
+            <div class="text-sm">
+              {{ doc.description }}
+            </div>
+          </NuxtLink>
+        </div>
+      </template>
+      <div v-else class="mt-10">
         <div class="w-full mx-auto max-w-screen-sm">
           <h2 class="text-center">
             Coming soon!
@@ -240,7 +256,13 @@ import Scaffold from '../../components/Scaffold'
 
 export default {
   name: 'Index',
-  components: { Scaffold }
+  components: { Scaffold },
+  async asyncData ({ $content }) {
+    const result = await $content('sets').sortBy('createdAt', 'desc').fetch()
+    return {
+      result
+    }
+  }
 }
 </script>
 
