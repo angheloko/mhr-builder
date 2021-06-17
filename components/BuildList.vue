@@ -51,6 +51,7 @@
             <span>Copy link</span>
           </button>
           <button
+            v-if="false"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2"
             @click="menuClickHandler('export')"
           >
