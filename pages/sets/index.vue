@@ -1,6 +1,6 @@
 <template>
   <Scaffold>
-    <div class="p-4">
+    <div class="p-4 max-w-screen-sm m-auto">
       <div class="mb-4">
         <h1 class="text-xl">
           Community sets
@@ -9,7 +9,7 @@
           A showcase of different sets from the community.
         </div>
       </div>
-      <template v-if="result.length > 10">
+      <template v-if="result.length > 1">
         <div
           v-for="doc of result"
           :key="doc.slug"

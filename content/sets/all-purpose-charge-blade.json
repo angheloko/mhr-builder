@@ -1,0 +1,338 @@
+{
+  "title": "All-Purpose Charge Blade",
+  "description": "A nice all-purpose set suitable for almost every hunt, solo or party.",
+  "createdAt": "2021-06-17",
+  "updatedAt": "2021-06-17",
+  "sets": [
+    {
+      "talisman": {
+        "slots": [
+          2,
+          2
+        ],
+        "skills": [],
+        "decorations": [
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "weapon": {
+        "slug": "scream-in-the-night",
+        "name": "Scream in the Night",
+        "type": "charge_blade",
+        "slots": [
+          2
+        ],
+        "attack": 190,
+        "element": [],
+        "affinity": 40,
+        "defense": 0,
+        "rampSkills": [],
+        "dir": "/charge-blade-weapons",
+        "path": "/charge-blade-weapons/scream-in-the-night",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "head": {
+        "slug": "almudron-helm-s",
+        "name": "Almudron Helm S",
+        "type": "head",
+        "skills": [
+          {
+            "name": "Rapid Morph",
+            "slug": "rapid-morph",
+            "level": 2
+          }
+        ],
+        "slots": [
+          2,
+          2
+        ],
+        "baseDefense": 64,
+        "fireResistance": 0,
+        "waterResistance": 3,
+        "thunderResistance": 3,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/head-armors",
+        "path": "/head-armors/almudron-helm-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.561Z",
+        "updatedAt": "2021-06-05T02:54:43.562Z",
+        "decorations": [
+          {
+            "slug": "quickswitch-jewel-2",
+            "name": "Quickswitch Jewel 2",
+            "skill": "Rapid Morph",
+            "skillSlug": "rapid-morph",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/quickswitch-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "artillery-jewel-2",
+            "name": "Artillery Jewel 2",
+            "skill": "Artillery",
+            "skillSlug": "artillery",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/artillery-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "chest": {
+        "slug": "vaik-mail-s",
+        "name": "Vaik Mail S",
+        "type": "chest",
+        "skills": [],
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "baseDefense": 52,
+        "fireResistance": 0,
+        "waterResistance": 3,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/chest-armors",
+        "path": "/chest-armors/vaik-mail-s",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.560Z",
+        "updatedAt": "2021-06-05T02:54:43.560Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          null
+        ]
+      },
+      "arms": {
+        "slug": "bazelgeuse-braces",
+        "name": "Bazelgeuse Braces",
+        "type": "arms",
+        "skills": [
+          {
+            "name": "Load Shells",
+            "slug": "load-shells",
+            "level": 1
+          },
+          {
+            "name": "Guard Up",
+            "slug": "guard-up",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2,
+          2
+        ],
+        "baseDefense": 72,
+        "fireResistance": 3,
+        "waterResistance": 1,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/arms-armors",
+        "path": "/arms-armors/bazelgeuse-braces",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.559Z",
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "waist": {
+        "slug": "bazelgeuse-coil",
+        "name": "Bazelgeuse Coil",
+        "type": "waist",
+        "skills": [
+          {
+            "name": "Load Shells",
+            "slug": "load-shells",
+            "level": 1
+          },
+          {
+            "name": "Guard",
+            "slug": "guard",
+            "level": 1
+          }
+        ],
+        "slots": [
+          2,
+          2
+        ],
+        "baseDefense": 72,
+        "fireResistance": 3,
+        "waterResistance": 1,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/waist-armors",
+        "path": "/waist-armors/bazelgeuse-coil",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.564Z",
+        "updatedAt": "2021-06-05T02:54:43.565Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      },
+      "legs": {
+        "slug": "bazelgeuse-greaves",
+        "name": "Bazelgeuse Greaves",
+        "type": "legs",
+        "skills": [
+          {
+            "name": "Artillery",
+            "slug": "artillery",
+            "level": 2
+          },
+          {
+            "name": "Guard",
+            "slug": "guard",
+            "level": 1
+          }
+        ],
+        "slots": [
+          3
+        ],
+        "baseDefense": 72,
+        "fireResistance": 3,
+        "waterResistance": 1,
+        "thunderResistance": 0,
+        "iceResistance": 0,
+        "dragonResistance": 0,
+        "dir": "/legs-armors",
+        "path": "/legs-armors/bazelgeuse-greaves",
+        "extension": ".json",
+        "createdAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-18T01:14:27.312Z",
+        "decorations": [
+          {
+            "slug": "attack-jewel-2",
+            "name": "Attack Jewel 2",
+            "skill": "Attack Boost",
+            "skillSlug": "attack-boost",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/attack-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}

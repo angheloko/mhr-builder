@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col">
-    <AppBar>
+    <AppBar class="h-12">
       <template #navigation>
         <button @click="showDrawer = true">
           <MenuIcon />
@@ -17,7 +17,7 @@
       v-show="showDrawer"
       @close="showDrawer = false"
     />
-    <div class="flex-grow">
+    <div class="flex-grow main">
       <slot />
     </div>
     <GeneratorModal
@@ -54,5 +54,7 @@ export default {
 </script>
 
 <style scoped>
-
+.main {
+  height: calc(100vh - 3rem);
+}
 </style>

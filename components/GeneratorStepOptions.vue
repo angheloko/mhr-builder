@@ -19,6 +19,21 @@
         <input
           type="checkbox"
           class="h-4 w-4 rounded"
+          :checked="allowEmptyPieces"
+          @change="$emit('update:allowEmptyPieces', $event.target.checked)"
+        >
+        <span class="font-medium text-sm">Allow skill-less pieces</span>
+      </label>
+      <div class="text-xs text-gray-500 mt-1">
+        If selected, armor with no skills but with the necessary slots, such as
+        the <span class="font-medium">Vaik Mail S</span>, will be included.
+      </div>
+    </div>
+    <div class="border rounded p-2 mb-2">
+      <label class="flex items-center space-x-2">
+        <input
+          type="checkbox"
+          class="h-4 w-4 rounded"
           :checked="unique"
           @change="$emit('update:unique', $event.target.checked)"
         >
@@ -50,6 +65,10 @@ export default {
       default: false
     },
     decorate: {
+      type: Boolean,
+      default: false
+    },
+    allowEmptyPieces: {
       type: Boolean,
       default: false
     }

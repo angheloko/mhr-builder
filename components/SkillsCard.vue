@@ -57,7 +57,7 @@ export default {
   },
   data () {
     return {
-      showDetails: false,
+      showDetails: true,
       showSkill: null
     }
   },

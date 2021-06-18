@@ -1,22 +1,24 @@
 <template>
   <Scaffold>
-    <div class="h-24 px-4">
-      <div class="text-xs mb-1">
-        <NuxtLink to="/sets" class="text-blue-600 font-medium">
-          Community sets
-        </NuxtLink>
+    <div class="flex flex-col h-full">
+      <div class="px-4">
+        <div class="text-xs mb-1">
+          <NuxtLink to="/sets" class="text-blue-600 font-medium">
+            Community sets
+          </NuxtLink>
+        </div>
+        <h1 class="text-lg mb-2 whitespace-nowrap overflow-hidden overflow-ellipsis">
+          {{ content.title }}
+        </h1>
+        <div class="text-sm overflow-hidden overflow-ellipsis">
+          {{ content.description }}
+        </div>
       </div>
-      <h1 class="text-lg mb-2 whitespace-nowrap overflow-hidden overflow-ellipsis">
-        {{ content.title }}
-      </h1>
-      <div class="text-sm overflow-hidden overflow-ellipsis">
-        {{ content.description }}
-      </div>
+      <Builder
+        class="flex-grow px-4 py-2"
+        :value="content.sets"
+      />
     </div>
-    <Builder
-      class="builder px-4 py-2"
-      :value="content.sets"
-    />
   </Scaffold>
 </template>
 
@@ -83,7 +85,5 @@ export default {
 </script>
 
 <style scoped>
-.builder {
-  height: calc(100vh - 9rem);
-}
+
 </style>

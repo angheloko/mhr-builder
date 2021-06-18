@@ -1,15 +1,16 @@
 {
-  "title": "Flexible elemental bows",
-  "description": "Different types of pain for different monsters.",
+  "title": "Flexible elemental rapid bows",
+  "description": "A bow for every occasion. Just swap Blaze Jewel with any elemental attack jewel (e.g. Stream Jewel). You can also swap Weakness Exploit with any 3-level skill that requires a level 2 slot such as Critical Boost.",
   "createdAt": "2021-06-17",
   "updatedAt": "2021-06-17",
   "sets": [
     {
       "talisman": {
-        "slots": [
-          3
-        ],
         "skills": [],
+        "slots": [
+          2,
+          1
+        ],
         "decorations": [
           {
             "slug": "physique-jewel-2",
@@ -19,6 +20,18 @@
             "level": 2,
             "dir": "/decorations",
             "path": "/decorations/physique-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
+          },
+          {
+            "slug": "blaze-jewel-1",
+            "name": "Blaze Jewel 1",
+            "skill": "Fire Attack",
+            "skillSlug": "fire-attack",
+            "level": 1,
+            "dir": "/decorations",
+            "path": "/decorations/blaze-jewel-1",
             "extension": ".json",
             "createdAt": "2021-05-09T14:21:43.000Z",
             "updatedAt": "2021-05-09T14:21:43.000Z"
@@ -39,7 +52,8 @@
         "path": "/bow-weapons/rampage-bow-s",
         "extension": ".json",
         "createdAt": "2021-06-05T02:54:43.559Z",
-        "updatedAt": "2021-06-05T02:54:43.559Z"
+        "updatedAt": "2021-06-05T02:54:43.559Z",
+        "decorations": []
       },
       "head": {
         "slug": "mighty-bow-feather",
@@ -63,7 +77,8 @@
         "path": "/head-armors/mighty-bow-feather",
         "extension": ".json",
         "createdAt": "2021-06-05T02:54:43.561Z",
-        "updatedAt": "2021-06-05T02:54:43.562Z"
+        "updatedAt": "2021-06-05T02:54:43.562Z",
+        "decorations": []
       },
       "chest": {
         "slug": "vaik-mail-s",
@@ -88,13 +103,13 @@
         "updatedAt": "2021-06-05T02:54:43.560Z",
         "decorations": [
           {
-            "slug": "tenderizer-jewel-2",
-            "name": "Tenderizer Jewel 2",
-            "skill": "Weakness Exploit",
-            "skillSlug": "weakness-exploit",
-            "level": 2,
+            "slug": "forceshot-jewel-3",
+            "name": "Forceshot Jewel 3",
+            "skill": "Normal/Rapid Up",
+            "skillSlug": "normal-rapid-up",
+            "level": 3,
             "dir": "/decorations",
-            "path": "/decorations/tenderizer-jewel-2",
+            "path": "/decorations/forceshot-jewel-3",
             "extension": ".json",
             "createdAt": "2021-05-09T14:21:43.000Z",
             "updatedAt": "2021-05-09T14:21:43.000Z"
@@ -116,7 +131,12 @@
             "name": "Blaze Jewel 1",
             "skill": "Fire Attack",
             "skillSlug": "fire-attack",
-            "level": 1
+            "level": 1,
+            "dir": "/decorations",
+            "path": "/decorations/blaze-jewel-1",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
           }
         ]
       },
@@ -171,7 +191,12 @@
             "name": "Blaze Jewel 1",
             "skill": "Fire Attack",
             "skillSlug": "fire-attack",
-            "level": 1
+            "level": 1,
+            "dir": "/decorations",
+            "path": "/decorations/blaze-jewel-1",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
           }
         ]
       },
@@ -210,18 +235,28 @@
             "updatedAt": "2021-05-09T14:21:43.000Z"
           },
           {
-            "slug": "blaze-jewel-1",
-            "name": "Blaze Jewel 1",
-            "skill": "Fire Attack",
-            "skillSlug": "fire-attack",
-            "level": 1
+            "slug": "tenderizer-jewel-2",
+            "name": "Tenderizer Jewel 2",
+            "skill": "Weakness Exploit",
+            "skillSlug": "weakness-exploit",
+            "level": 2,
+            "dir": "/decorations",
+            "path": "/decorations/tenderizer-jewel-2",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
           },
           {
             "slug": "blaze-jewel-1",
             "name": "Blaze Jewel 1",
             "skill": "Fire Attack",
             "skillSlug": "fire-attack",
-            "level": 1
+            "level": 1,
+            "dir": "/decorations",
+            "path": "/decorations/blaze-jewel-1",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
           }
         ]
       },
@@ -254,14 +289,19 @@
         "path": "/legs-armors/rakna-greaves",
         "extension": ".json",
         "createdAt": "2021-06-05T02:54:43.563Z",
-        "updatedAt": "2021-06-05T02:54:43.563Z",
+        "updatedAt": "2021-06-18T01:14:27.312Z",
         "decorations": [
           {
             "slug": "blaze-jewel-1",
             "name": "Blaze Jewel 1",
             "skill": "Fire Attack",
             "skillSlug": "fire-attack",
-            "level": 1
+            "level": 1,
+            "dir": "/decorations",
+            "path": "/decorations/blaze-jewel-1",
+            "extension": ".json",
+            "createdAt": "2021-05-09T14:21:43.000Z",
+            "updatedAt": "2021-05-09T14:21:43.000Z"
           }
         ]
       }

@@ -1,5 +1,5 @@
 <template>
-  <div class="h-12 flex items-center px-2 py-1 space-x-2">
+  <div class="flex items-center px-2 py-1 space-x-2">
     <slot name="navigation" />
     <NuxtLink to="/">
       <Logo class="inline-block h-6 w-auto" />

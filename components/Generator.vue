@@ -35,8 +35,10 @@
         v-if="step === 3"
         :unique="unique"
         :decorate="decorate"
+        :allow-empty-pieces="allowEmptyPieces"
         @update:unique="updateUnique"
         @update:decorate="updateDecorate"
+        @update:allowEmptyPieces="updateAllowEmptyPieces"
       />
       <div v-if="step === 4" class="flex flex-col justify-center items-center h-full text-sm">
         <div v-if="isGenerating">
@@ -135,10 +137,12 @@ export default {
       weapon: null,
       unique: true,
       decorate: true,
+      allowEmptyPieces: true,
       decorations: [],
-      skillsWeight: 0.5,
+      skillsWeight: 0.4,
       slotsWeight: 0.3,
-      defenseWeight: 0.2
+      freeSlotsWeight: 0.2,
+      defenseWeight: 0.1
     }
   },
   computed: {
@@ -181,6 +185,7 @@ export default {
 
       this.unique = params.unique
       this.decorate = params.decorate
+      this.allowEmptyPieces = params.allowEmptyPieces
     }
   },
   methods: {
@@ -247,6 +252,9 @@ export default {
     updateDecorate (value) {
       this.decorate = value
     },
+    updateAllowEmptyPieces (value) {
+      this.allowEmptyPieces = value
+    },
     back () {
       if (this.step > 0) {
         this.step--
@@ -270,11 +278,20 @@ export default {
       const sets = []
       this.clearSets()
 
-      const headArmors = await this.loadArmors('head')
-      const chestArmors = await this.loadArmors('chest')
-      const armsArmors = await this.loadArmors('arms')
-      const waistArmors = await this.loadArmors('waist')
-      const legsArmors = await this.loadArmors('legs')
+      const promises = []
+      promises.push(this.loadArmors('head'))
+      promises.push(this.loadArmors('chest'))
+      promises.push(this.loadArmors('arms'))
+      promises.push(this.loadArmors('waist'))
+      promises.push(this.loadArmors('legs'))
+
+      const result = await Promise.all(promises)
+      const headArmors = result[0]
+      const chestArmors = result[1]
+      const armsArmors = result[2]
+      const waistArmors = result[3]
+      const legsArmors = result[4]
+
       const talisman = this.generateTalisman()
 
       if (this.decorate) {
@@ -303,6 +320,7 @@ export default {
                 if (this.isSetValid(set)) {
                   set._score = (this.calculateSkillsPoints(set) * this.skillsWeight) +
                     (this.calculateSlotsPoints(set) * this.slotsWeight) +
+                    (this.calculateFreeSlotsPoints(set) * this.freeSlotsWeight) +
                     (this.calculateDefensePoints(set) * this.defenseWeight)
                   sets.push(set)
                 }
@@ -357,7 +375,8 @@ export default {
         },
         weapon: this.weapon,
         unique: this.unique,
-        decorate: this.decorate
+        decorate: this.decorate,
+        allowEmptyPieces: this.allowEmptyPieces
       })
     },
     generateTalisman () {
@@ -405,18 +424,24 @@ export default {
         const defense = set[type].baseDefense ?? set[type].defense ?? 0
         total += defense
       }
-      return total / 600 // Equipments that has defense (weapon, head, chest, arms, waist, legs).
+      return total / 600 // Equipments that have defense (weapon, head, chest, arms, waist, legs).
     },
-    calculateSlotsPoints (set) {
+    calculateFreeSlotsPoints (set) {
       let total = 0
+
       for (const type of this.equipmentTypes) {
         if (set[type] && set[type].slots !== undefined) {
-          for (const slot of set[type].slots) {
-            total += slot
+          const decorations = set[type].decorations ?? []
+          for (let i = 0; i < set[type].slots.length; i++) {
+            if (decorations[i] === undefined) {
+              total += set[type].slots[i]
+            }
           }
         }
       }
-      return total / (this.equipmentTypes.length * 9)
+
+      // Sets with free slots gain points for flexibility.
+      return total / (this.equipmentTypes.length * 9) // Max. slot level in a piece.
     },
     calculateSkillsPoints (set) {
       const baseModifier = 0.1
@@ -426,7 +451,35 @@ export default {
       const skillPoints = []
 
       for (const skill of this.skills.filter(this.filterSkills)) {
-        const totalLevel = this.getSkillTotal(set, skill.slug)
+        const totalLevel = this.getSkillTotal(set, skill.slug, false)
+        let points = 0
+
+        if (totalLevel > 0) {
+          points = (totalLevel / skill.level) * modifier
+        }
+
+        skillPoints.push(points)
+        modifier -= baseModifier
+        skillCount++
+      }
+
+      for (const points of skillPoints) {
+        total += points / skillCount
+      }
+
+      return total
+    },
+    // Exactly the same as calculateSkillPoints but skills are
+    // taken from the decorations.
+    calculateSlotsPoints (set) {
+      const baseModifier = 0.1
+      let modifier = 1
+      let total = 0
+      let skillCount = 0
+      const skillPoints = []
+
+      for (const skill of this.skills.filter(this.filterSkills)) {
+        const totalLevel = this.getSkillTotalFromDecorations(set, skill.slug)
         let points = 0
 
         if (totalLevel > 0) {
@@ -453,32 +506,43 @@ export default {
 
       for (const skill of this.skills.filter(this.filterSkills)) {
         let total = setSkills[skill.slug]
+
+        // Skip to next skill if this skill has already reached
+        // its required level.
+        if (total > skill.level) {
+          continue
+        }
+
         const decoration = this.getDecoration(skill.slug)
 
-        // Check that we have a decoration to use and that the
-        // skill's total level has not exceeded the required level.
-        if (total < skill.level && decoration) {
+        // Skip if no decoration found for the skill.
+        if (!decoration) {
+          continue
+        }
+
+        // Start looking for slots with the same level
+        // as the decoration.
+        let slotLevel = decoration.level
+
+        while (slotLevel <= 3) {
           for (const type of this.equipmentTypes) {
             if (!set[type]) {
               continue
             }
 
+            // Get the piece's slots and any existing decorations.
             const slots = set[type].slots ?? []
             const decorations = set[type].decorations ?? slots.map(() => null)
 
-            // Collect empty slots that can fit the decoration.
+            // Collect the empty slots that can fit the decoration.
             const emptySlots = []
             for (let i = 0; i < decorations.length; i++) {
-              if (!decorations[i] && slots[i] >= decoration.level) {
+              if (!decorations[i] && slots[i] === slotLevel) {
                 emptySlots.push(i)
               }
             }
 
-            // The slots are ordered from highest to lowest so we start from
-            // the end so that the smallest slot can be filled-in first.
-            for (let i = emptySlots.length - 1; i >= 0; i--) {
-              const emptySlot = emptySlots[i]
-
+            for (const emptySlot of emptySlots) {
               decorations[emptySlot] = decoration
               set[type].decorations = decorations
               total++
@@ -492,10 +556,17 @@ export default {
               break
             }
           }
+
+          if (total >= skill.level) {
+            break
+          }
+
+          // If it reaches here, try a higher slot level.
+          slotLevel++
         }
       }
     },
-    getSkillTotal (set, slug) {
+    getSkillTotal (set, slug, includeDecorations = true) {
       let count = 0
       for (const type of this.equipmentTypes) {
         if (!set[type]) {
@@ -507,6 +578,20 @@ export default {
               count += skill.level
             }
           }
+        }
+      }
+
+      if (includeDecorations) {
+        count += this.getSkillTotalFromDecorations(set, slug)
+      }
+
+      return count
+    },
+    getSkillTotalFromDecorations (set, slug) {
+      let count = 0
+      for (const type of this.equipmentTypes) {
+        if (!set[type]) {
+          continue
         }
         if (set[type].decorations !== undefined) {
           for (const decoration of set[type].decorations.filter(element => element)) {
@@ -553,16 +638,18 @@ export default {
       promises.push(promise1)
 
       // All slot-able skill-less armors.
-      const promise2 = this.$content(`${type}-armors`)
-        .where({
-          skills: {
-            $size: 0
-          },
-          slots: {
-            $containsAny: [1, 2, 3]
-          }
-        }).fetch()
-      promises.push(promise2)
+      if (this.allowEmptyPieces) {
+        const promise2 = this.$content(`${type}-armors`)
+          .where({
+            skills: {
+              $size: 0
+            },
+            slots: {
+              $containsAny: [1, 2, 3]
+            }
+          }).fetch()
+        promises.push(promise2)
+      }
 
       const results = await Promise.all(promises)
 

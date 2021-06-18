@@ -1,7 +1,7 @@
 <template>
   <Scaffold>
     <Builder
-      class="builder px-4 py-2"
+      class="h-full px-4 py-2"
       :value="sets"
       :read-only="false"
     >
@@ -187,7 +187,4 @@ export default {
 </script>
 
 <style scoped>
-.builder {
-  height: calc(100vh - 3rem);
-}
 </style>
