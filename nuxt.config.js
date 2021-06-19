@@ -49,7 +49,9 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     // https://github.com/LinusBorg/portal-vue
-    'portal-vue/nuxt'
+    'portal-vue/nuxt',
+    // https://sitemap.nuxtjs.org/
+    '@nuxtjs/sitemap'
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
@@ -66,6 +68,18 @@ export default {
   content: {
     fullTextSearchFields: ['name', 'skill'],
     nestedProperties: ['skills.name', 'skills.slug', 'elements.type']
+  },
+
+  // Sitemap module configuration: https://sitemap.nuxtjs.org/guide/configuration
+  sitemap: {
+    hostname: 'https://mhr-builder.com',
+    routes () {
+      const { $content } = require('@nuxt/content')
+      return $content('sets')
+        .only(['path'])
+        .fetch()
+        .then(files => files.map(file => file.path))
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
