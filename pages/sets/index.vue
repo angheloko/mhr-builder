@@ -6,7 +6,7 @@
           Community sets
         </h1>
         <div>
-          A showcase of fun and creative sets from the community.
+          A showcase of fun and creative builds from the community.
         </div>
       </div>
       <div
@@ -24,9 +24,9 @@
           <a v-if="doc.authorUrl" :href="doc.authorUrl" class="text-blue-600 cursor-pointer">
             {{ doc.author }}
           </a>
-          <template v-else>
+          <span v-else class="font-medium">
             {{ doc.author }}
-          </template>
+          </span>
         </div>
         <div class="text-sm my-2">
           {{ doc.description }}
@@ -46,6 +46,30 @@ export default {
     const result = await $content('sets').sortBy('createdAt', 'desc').fetch()
     return {
       result
+    }
+  },
+  head () {
+    return {
+      title: 'Community sets',
+      meta: [
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          property: 'og:title',
+          content: 'Community sets - Monster Hunter Rise Set Builder'
+        },
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'A showcase of fun and creative builds from the community.'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          property: 'og:description',
+          content: 'A showcase of fun and creative builds from the community.'
+        }
+      ]
     }
   }
 }

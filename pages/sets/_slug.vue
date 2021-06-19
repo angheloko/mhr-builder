@@ -15,9 +15,9 @@
           <a v-if="content.authorUrl" :href="content.authorUrl" class="text-blue-600 cursor-pointer">
             {{ content.author }}
           </a>
-          <template v-else>
+          <span v-else class="font-medium">
             {{ content.author }}
-          </template>
+          </span>
         </div>
         <div class="my-4 text-sm">
           {{ content.description }}
@@ -53,23 +53,9 @@ export default {
     }
   },
   head () {
-    const url = `https://donlalicon.dev/blog/${this.content.slug}`
-
     return {
       title: this.content.title,
-      link: [
-        {
-          rel: 'canonical',
-          href: url
-        }
-      ],
       meta: [
-        {
-          hid: 'og:url',
-          name: 'og:url',
-          property: 'og:url',
-          content: url
-        },
         {
           hid: 'og:title',
           name: 'og:title',
@@ -79,13 +65,13 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: this.content.description ?? `${this.content.title} - Monster Hunter Rise Set Builder`
+          content: this.content.description
         },
         {
           hid: 'og:description',
           name: 'og:description',
           property: 'og:description',
-          content: this.content.description ?? `${this.content.title} - Monster Hunter Rise Set Builder`
+          content: this.content.description
         }
       ]
     }
