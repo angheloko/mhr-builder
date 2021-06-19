@@ -1,13 +1,16 @@
 <template>
   <div class="flex flex-col h-full w-60 flex-none rounded bg-gray-300 pb-4">
-    <div class="p-2 flex justify-between">
-      <div>
+    <div class="p-2 w-full flex justify-between">
+      <div class="w-5 flex-none">
         <BookmarkIcon
           v-if="!readOnly && isPinned"
           class="h-5 w-5 text-yellow-600"
         />
       </div>
-      <div class="relative">
+      <div class="flex-grow text-center text-sm font-medium whitespace-nowrap overflow-hidden overflow-ellipsis">
+        {{ setLabel }}
+      </div>
+      <div class="relative w-5 flex-none">
         <button
           class="focus:outline-none"
           @click.stop="showMenu = !showMenu"
@@ -51,7 +54,7 @@
             <span>Copy link</span>
           </button>
           <button
-            v-if="false"
+            v-if="true"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2"
             @click="menuClickHandler('export')"
           >
@@ -225,6 +228,9 @@ export default {
     },
     isPinned () {
       return this.value._meta?.pin ?? false
+    },
+    setLabel () {
+      return this.value._meta?.label
     }
   },
   methods: {

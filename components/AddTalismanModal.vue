@@ -91,7 +91,7 @@ export default {
       }
     },
     updateSkill ({ index, value }) {
-      this.$set(this.skills[index], 'level', value)
+      this.$set(this.skills[index], 'level', parseInt(value))
     },
     addTalisman () {
       let talisman = null

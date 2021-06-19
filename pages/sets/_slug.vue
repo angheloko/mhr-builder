@@ -7,10 +7,19 @@
             Community sets
           </NuxtLink>
         </div>
-        <h1 class="text-lg mb-2 whitespace-nowrap overflow-hidden overflow-ellipsis">
+        <h1 class="text-lg whitespace-nowrap overflow-hidden overflow-ellipsis">
           {{ content.title }}
         </h1>
-        <div class="text-sm overflow-hidden overflow-ellipsis">
+        <div v-if="content.author" class="text-xs">
+          by
+          <a v-if="content.authorUrl" :href="content.authorUrl" class="text-blue-600 cursor-pointer">
+            {{ content.author }}
+          </a>
+          <template v-else>
+            {{ content.author }}
+          </template>
+        </div>
+        <div class="my-4 text-sm">
           {{ content.description }}
         </div>
       </div>
@@ -70,13 +79,13 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: this.content.description
+          content: this.content.description ?? `${this.content.title} - Monster Hunter Rise Set Builder`
         },
         {
           hid: 'og:description',
           name: 'og:description',
           property: 'og:description',
-          content: this.content.description
+          content: this.content.description ?? `${this.content.title} - Monster Hunter Rise Set Builder`
         }
       ]
     }
