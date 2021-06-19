@@ -9,7 +9,7 @@
           A showcase of different sets from the community.
         </div>
       </div>
-      <template v-if="result.length > 1">
+      <template v-if="result.length > 10">
         <div
           v-for="doc of result"
           :key="doc.slug"
