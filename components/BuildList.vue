@@ -343,7 +343,13 @@ export default {
       this.removeSet(this.index)
     },
     exportHandler () {
-      const json = JSON.stringify(this.value)
+      const value = {
+        ...this.value
+      }
+
+      delete value._meta
+
+      const json = JSON.stringify(value)
       navigator.clipboard.writeText(json)
         .then(() => {
           this.showSnackbar = this.snackbarTypes.export
