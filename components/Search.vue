@@ -1,15 +1,15 @@
 <template>
   <div class="flex flex-col h-full">
-    <div class="p-2 border-b">
+    <div class="px-4 py-2 border-b shadow">
       <input
         id="search"
         v-model="keywords"
         type="text"
         placeholder="Search"
-        class="w-full rounded border-gray-300 text-sm p-2"
+        class="w-full rounded border-gray-300 text-sm p-2 mb-2"
         @input="search"
       >
-      <div class="pt-1 sm:flex sm:justify-start">
+      <div class="sm:flex sm:justify-start">
         <Dropdown
           v-for="filter of filterGroup"
           :key="filter.type"
@@ -17,7 +17,7 @@
           :required="filter.required || false"
           :options="filter.options"
           :value="activeFilters[filter.type]"
-          class="sm:mr-2 last:mr-0 w-full sm:w-52"
+          class="mb-2 w-full sm:mr-2 last:mr-0 sm:w-52 sm:mb-0"
           @update="selectFilter(filter.type, $event)"
         />
       </div>

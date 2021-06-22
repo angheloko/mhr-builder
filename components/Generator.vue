@@ -3,7 +3,7 @@
     <div>
       <h1
         v-if="step < steps.length"
-        class="text-sm font-medium p-2"
+        class="text-sm font-medium px-4 py-2"
       >
         Step {{ step + 1 }} of {{ steps.length }}: {{ steps[step].name }}
       </h1>
@@ -26,7 +26,7 @@
         v-if="step === 2"
         :slots="talisman.slots"
         :skills="talisman.skills"
-        class="p-2"
+        class="px-4 py-2"
         @select="selectTalismanSkill"
         @update:skill="updateTalismanSkill"
         @update:slot="setTalismanSlot"
@@ -76,7 +76,7 @@
       </div>
     </div>
     <div>
-      <div v-if="step < steps.length" class="text-right p-2 border-t">
+      <div v-if="step < steps.length" class="text-right px-4 py-2 border-t">
         <button
           v-if="step > 0"
           class="border border-blue-600 text-blue-600 font-medium text-sm px-4 rounded h-8 mr-2"

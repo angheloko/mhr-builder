@@ -29,6 +29,11 @@ import Builder from '~/components/Builder'
 
 export default {
   components: { Builder, Scaffold, SetPreviewModal },
+  head () {
+    return {
+      title: 'Home'
+    }
+  },
   data () {
     return {
       preview: {},

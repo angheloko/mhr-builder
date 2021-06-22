@@ -1,8 +1,9 @@
 <template>
   <Modal
+    title="Set talisman"
     @close="$emit('close')"
   >
-    <div class="p-2 h-full">
+    <div class="px-4 py-2 h-full">
       <TalismanSettings
         :slots="slots"
         :skills="skills"
@@ -10,7 +11,7 @@
         @update:skill="updateSkill"
         @update:slot="updateSlot"
       />
-      <div class="text-right">
+      <div class="text-right mt-4">
         <button
           class="text-white bg-blue-600 font-medium text-sm px-4 rounded h-8"
           @click="addTalisman"

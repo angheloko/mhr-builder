@@ -21,7 +21,7 @@
         No weapons found.
       </template>
     </div>
-    <div v-else class="grid grid-cols-2 gap-2 p-2 sm:grid-cols-3">
+    <div v-else class="grid grid-cols-2 gap-2 p-4 sm:grid-cols-3 sm:gap-4">
       <div v-for="item of results" :key="item.slug" @click="selectItem(item)">
         <WeaponCard
           :value="item"

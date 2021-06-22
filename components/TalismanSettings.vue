@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="border rounded p-2 mb-2">
+    <div class="border rounded p-2 mb-4">
       <h3 class="text-sm font-medium mb-2">
         Slots
       </h3>

@@ -1,5 +1,6 @@
 <template>
   <Modal
+    title="Select weapon"
     @close="$emit('close')"
   >
     <WeaponSearch

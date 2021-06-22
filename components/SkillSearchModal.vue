@@ -1,5 +1,6 @@
 <template>
   <Modal
+    title="Skills"
     @close="$emit('close')"
   >
     <Search
@@ -23,7 +24,7 @@
           No skills found.
         </template>
       </div>
-      <div v-else class="p-2 space-y-2">
+      <div v-else class="px-4 py-2 space-y-4">
         <div v-for="item of results" :key="item.slug" class="rounded border shadow">
           <div class="p-2 border-b font-medium">
             {{ item.name }}
@@ -37,10 +38,10 @@
               :key="index"
               class="flex mb-1 border-b last:border-none p-2 items-center"
             >
-              <div class="pr-2 flex-none font-light text-sm">
+              <div class="pr-2 flex-none font-light text-xs uppercase">
                 Lv {{ index + 1 }}:
               </div>
-              <div class="flex-auto">
+              <div class="flex-auto text-sm">
                 {{ description }}
               </div>
             </li>

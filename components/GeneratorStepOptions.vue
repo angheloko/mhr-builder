@@ -1,5 +1,5 @@
 <template>
-  <div class="p-2">
+  <div class="px-4 py-2">
     <div class="border rounded p-2 mb-2">
       <label class="flex items-center space-x-2">
         <input
