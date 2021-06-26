@@ -76,7 +76,7 @@
           </div>
           <div class="flex justify-between items-center p-4">
             <div>
-              🛠 with ❤️ by <a href="https://donlalicon.dev" class="text-blue-600 font-bold">Don</a>
+              🛠&nbsp;&nbsp;with&nbsp;❤️&nbsp;&nbsp;by <a href="https://donlalicon.dev" class="text-blue-600 font-bold">Don</a>
             </div>
             <a href="https://github.com/angheloko/mhr-builder" class="ml-3">
               <GithubIcon />
