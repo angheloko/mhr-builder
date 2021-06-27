@@ -73,6 +73,7 @@ export default {
   // Sitemap module configuration: https://sitemap.nuxtjs.org/guide/configuration
   sitemap: {
     hostname: 'https://mhr-builder.com',
+    trailingSlash: true,
     routes () {
       const { $content } = require('@nuxt/content')
       return $content('sets')

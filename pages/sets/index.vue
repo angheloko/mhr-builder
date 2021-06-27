@@ -54,7 +54,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://mhr-builder.com/sets'
+          href: 'https://mhr-builder.com/sets/'
         }
       ],
       meta: [
