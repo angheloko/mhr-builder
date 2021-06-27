@@ -37,12 +37,6 @@ export default {
   },
   head () {
     return {
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://mhr-builder.com'
-        }
-      ],
       title: 'Home'
     }
   },
