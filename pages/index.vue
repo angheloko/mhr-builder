@@ -29,6 +29,12 @@ import Builder from '~/components/Builder'
 
 export default {
   components: { Builder, Scaffold, SetPreviewModal },
+  data () {
+    return {
+      preview: {},
+      showPreviewModal: false
+    }
+  },
   head () {
     return {
       link: [
@@ -38,12 +44,6 @@ export default {
         }
       ],
       title: 'Home'
-    }
-  },
-  data () {
-    return {
-      preview: {},
-      showPreviewModal: false
     }
   },
   computed: {
