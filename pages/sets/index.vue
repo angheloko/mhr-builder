@@ -51,6 +51,12 @@ export default {
   head () {
     return {
       title: 'Community sets',
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://mhr-builder.com/sets'
+        }
+      ],
       meta: [
         {
           hid: 'og:title',

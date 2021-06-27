@@ -55,6 +55,12 @@ export default {
   head () {
     return {
       title: this.content.title,
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://mhr-builder.com/sets/${this.content.slug}`
+        }
+      ],
       meta: [
         {
           hid: 'og:title',

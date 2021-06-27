@@ -31,6 +31,12 @@ export default {
   components: { Builder, Scaffold, SetPreviewModal },
   head () {
     return {
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://mhr-builder.com'
+        }
+      ],
       title: 'Home'
     }
   },
