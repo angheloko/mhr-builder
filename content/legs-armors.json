@@ -323,7 +323,18 @@
     "name": "Wroggi Greaves S",
     "type": "legs",
     "slug": "wroggi-greaves-s",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Ammo Up",
+        "slug": "ammo-up",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
     "slots": [
       1,
       1

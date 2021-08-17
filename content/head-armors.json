@@ -295,7 +295,18 @@
     "name": "Wroggi Helm S",
     "type": "head",
     "slug": "wroggi-helm-s",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Rapid Fire Up",
+        "slug": "rapid-fire-up",
+        "level": 1
+      },
+      {
+        "name": "Evade Extender",
+        "slug": "evade-extender",
+        "level": 1
+      }
+    ],
     "slots": [
       1
     ],
@@ -1684,7 +1695,9 @@
         "level": 2
       }
     ],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "baseDefense": 32,
     "fireResistance": 3,
     "waterResistance": 0,

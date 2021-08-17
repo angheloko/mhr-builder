@@ -12,7 +12,7 @@
       {
         "name": "Defense Boost",
         "slug": "defense-boost",
-        "level": 1
+        "level": 2
       }
     ],
     "slots": [
@@ -101,8 +101,8 @@
     "slug": "bnahabra-gloves-s",
     "skills": [
       {
-        "name": "Poison Attacl",
-        "slug": "poison-attacl",
+        "name": "Poison Attack",
+        "slug": "poison-attack",
         "level": 2
       },
       {
@@ -159,8 +159,8 @@
         "level": 2
       },
       {
-        "name": "Ice Atttack",
-        "slug": "ice-atttack",
+        "name": "Ice Attack",
+        "slug": "ice-attack",
         "level": 1
       }
     ],
@@ -215,7 +215,7 @@
       {
         "name": "Critical Eye",
         "slug": "critical-eye",
-        "level": 1
+        "level": 2
       }
     ],
     "slots": [
@@ -263,7 +263,7 @@
       {
         "name": "Attack Boost",
         "slug": "attack-boost",
-        "level": 1
+        "level": 2
       }
     ],
     "slots": [
@@ -307,7 +307,13 @@
     "name": "Wroggi Vambraces S",
     "type": "arms",
     "slug": "wroggi-vambraces-s",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Ammo Up",
+        "slug": "ammo-up",
+        "level": 1
+      }
+    ],
     "slots": [
       3
     ],

@@ -5,8 +5,8 @@
     "slug": "chainmail-belt-s",
     "skills": [
       {
-        "name": "Defense Boost",
-        "slug": "defense-boost",
+        "name": "Botanist",
+        "slug": "botanist",
         "level": 1
       },
       {
@@ -295,7 +295,18 @@
     "name": "Wroggi Coil S",
     "type": "waist",
     "slug": "wroggi-coil-s",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Ammo Up",
+        "slug": "ammo-up",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
     "slots": [
       1
     ],
@@ -319,7 +330,7 @@
       {
         "name": "Peak Performance",
         "slug": "peak-performance",
-        "level": 1
+        "level": 2
       }
     ],
     "slots": [

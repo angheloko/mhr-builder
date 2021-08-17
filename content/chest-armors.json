@@ -322,7 +322,18 @@
     "name": "Wroggi Mail S",
     "type": "chest",
     "slug": "wroggi-mail-s",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Rapid Fire Up",
+        "slug": "rapid-fire-up",
+        "level": 1
+      },
+      {
+        "name": "Poison Attack",
+        "slug": "poison-attack",
+        "level": 2
+      }
+    ],
     "slots": [
       1
     ],
@@ -1684,12 +1695,14 @@
     "slug": "skalda-thorax-s",
     "skills": [
       {
-        "name": "Poison Attack",
-        "slug": "poison-attack",
-        "level": 2
+        "name": "Latent Power",
+        "slug": "latent-power",
+        "level": 1
       }
     ],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "baseDefense": 32,
     "fireResistance": 3,
     "waterResistance": 0,
