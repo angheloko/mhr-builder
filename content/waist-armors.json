@@ -1179,7 +1179,10 @@
         "level": 1
       }
     ],
-    "slots": [],
+    "slots": [
+      1,
+      1
+    ],
     "baseDefense": 48,
     "fireResistance": 0,
     "waterResistance": 2,
@@ -1522,7 +1525,9 @@
         "level": 1
       }
     ],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "baseDefense": 52,
     "fireResistance": 0,
     "waterResistance": 3,

@@ -1026,7 +1026,7 @@
     "dragonResistance": 0
   },
   {
-    "name": "Pukei-Pukei Greaves S",
+    "name": "Pukei Greaves S",
     "type": "legs",
     "slug": "pukei-pukei-greaves-s",
     "skills": [
@@ -1042,7 +1042,8 @@
       }
     ],
     "slots": [
-      2,
+      1,
+      1,
       1
     ],
     "baseDefense": 50,
@@ -1586,6 +1587,7 @@
       }
     ],
     "slots": [
+      3,
       1
     ],
     "baseDefense": 52,

@@ -331,7 +331,7 @@
       {
         "name": "Poison Attack",
         "slug": "poison-attack",
-        "level": 2
+        "level": 1
       }
     ],
     "slots": [
@@ -1322,6 +1322,11 @@
       {
         "name": "Power Prolonger",
         "slug": "power-prolonger",
+        "level": 1
+      },
+      {
+        "name": "Heroics",
+        "slug": "heroics",
         "level": 1
       }
     ],

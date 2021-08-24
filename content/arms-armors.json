@@ -716,7 +716,7 @@
     "dragonResistance": 0
   },
   {
-    "name": "Tobi-Kadachi Braces S",
+    "name": "Kadachi Braces S",
     "type": "arms",
     "slug": "tobi-kadachi-braces-s",
     "skills": [
@@ -727,7 +727,7 @@
       }
     ],
     "slots": [
-      3
+      2
     ],
     "baseDefense": 58,
     "fireResistance": 0,

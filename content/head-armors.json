@@ -902,7 +902,9 @@
         "level": 1
       }
     ],
-    "slots": [],
+    "slots": [
+      1
+    ],
     "baseDefense": 52,
     "fireResistance": 3,
     "waterResistance": 0,
@@ -1656,6 +1658,7 @@
       }
     ],
     "slots": [
+      2,
       1
     ],
     "baseDefense": 52,
