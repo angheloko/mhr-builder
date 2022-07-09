@@ -2,7 +2,9 @@
   <div class="rounded border shadow flex flex-col w-full bg-white text-sm py-2">
     <div class="pb-2 px-1 border-b grid place-items-center">
       <h4 class="font-medium text-center">
-        {{ value.name }}
+        <a class="text-blue-600" :href="`https://monsterhunterrise.wiki.fextralife.com${value.url}`" rel="nofollow" target="_blank">
+          {{ value.name }}
+        </a>
       </h4>
     </div>
     <div class="text-center border-b p-1">
@@ -64,6 +66,7 @@
       :slots="value.slots"
       :decorations="value.decorations"
       :read-only="readOnly"
+      :equipment-type="value.type"
       @add="$emit('decorate', $event)"
       @remove="$emit('undecorate', $event)"
     />

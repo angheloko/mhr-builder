@@ -2,7 +2,9 @@
   <div class="rounded border shadow flex flex-col w-full bg-white text-sm py-2">
     <div class="pb-2 px-1 border-b grid place-items-center">
       <h4 class="font-medium text-center">
-        {{ value.name }}
+        <a class="text-blue-600" :href="`https://monsterhunterrise.wiki.fextralife.com${value.url}`" rel="nofollow" target="_blank">
+          {{ value.name }}
+        </a>
       </h4>
     </div>
     <div class="text-center border-b p-1 grid grid-cols-3">
@@ -53,19 +55,12 @@
         None
       </div>
     </div>
-    <CardDecorations
-      :slots="value.slots"
-      :decorations="value.decorations"
-      :read-only="readOnly"
-      @add="$emit('decorate', $event)"
-      @remove="$emit('undecorate', $event)"
-    />
-    <div class="text-center p-1 flex-grow">
+    <div class="text-center border-b p-1 flex-1">
       <div class="font-light text-xs pb-1">
         Rampage skills
       </div>
       <div>
-        <ul v-if="value.rampSkills">
+        <ul v-if="hasRampSkills">
           <li v-for="(skill, skillIndex) of value.rampSkills" :key="skillIndex">
             {{ skill }}
           </li>
@@ -75,6 +70,16 @@
         </div>
       </div>
     </div>
+    <CardDecorations
+      :slots="value.slots"
+      :ramp-slots="value.rampSlots"
+      :decorations="value.decorations"
+      :ramp-decorations="value.rampDecorations"
+      :read-only="readOnly"
+      :equipment-type="'weapon'"
+      @add="$emit('decorate', $event)"
+      @remove="$emit('undecorate', $event)"
+    />
   </div>
 </template>
 
@@ -92,6 +97,11 @@ export default {
     readOnly: {
       type: Boolean,
       default: true
+    }
+  },
+  computed: {
+    hasRampSkills () {
+      return this.value.rampSkills && this.value.rampSkills.length > 0
     }
   }
 }

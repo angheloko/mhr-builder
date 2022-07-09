@@ -9,6 +9,7 @@
       :slots="value.slots"
       :decorations="value.decorations"
       :read-only="readOnly"
+      :equipment-type="'talisman'"
       @add="$emit('decorate', $event)"
       @remove="$emit('undecorate', $event)"
     />

@@ -134,15 +134,26 @@ export default {
         slots: [0, 0, 0],
         skills: []
       },
+      maxSlotLevel: 4,
       weapon: null,
       unique: true,
       decorate: true,
       allowEmptyPieces: true,
       decorations: [],
       skillsWeight: 0.4,
-      slotsWeight: 0.3,
+      decorationsWeight: 0.3,
       freeSlotsWeight: 0.2,
-      defenseWeight: 0.1
+      defenseWeight: 0.1,
+      armorSkillsWeight: 0.5,
+      armorFreeSlotsWeight: 0.3,
+      armorDefenseWeight: 0.2,
+      armorTypes: [
+        'head',
+        'chest',
+        'arms',
+        'waist',
+        'legs'
+      ]
     }
   },
   computed: {
@@ -318,8 +329,14 @@ export default {
                 }
 
                 if (this.isSetValid(set)) {
+                  set._scores = [
+                    this.calculateSkillsPoints(set) * this.skillsWeight,
+                    this.calculateDecorationsPoints(set) * this.decorationsWeight,
+                    this.calculateFreeSlotsPoints(set) * this.freeSlotsWeight,
+                    this.calculateDefensePoints(set) * this.defenseWeight
+                  ]
                   set._score = (this.calculateSkillsPoints(set) * this.skillsWeight) +
-                    (this.calculateSlotsPoints(set) * this.slotsWeight) +
+                    (this.calculateDecorationsPoints(set) * this.decorationsWeight) +
                     (this.calculateFreeSlotsPoints(set) * this.freeSlotsWeight) +
                     (this.calculateDefensePoints(set) * this.defenseWeight)
                   sets.push(set)
@@ -344,7 +361,7 @@ export default {
         for (const set of sorted) {
           let exists = false
 
-          for (const type of ['head', 'chest', 'arms', 'waist', 'legs']) {
+          for (const type of this.armorTypes) {
             if (equipments[type][set[type].slug]) {
               exists = true
               break
@@ -352,7 +369,7 @@ export default {
           }
 
           if (!exists) {
-            for (const type of ['head', 'chest', 'arms', 'waist', 'legs']) {
+            for (const type of this.armorTypes) {
               equipments[type][set[type].slug] = true
             }
             unique.push(set)
@@ -408,94 +425,94 @@ export default {
     },
     isSetValid (set) {
       for (const skill of this.skills) {
-        const total = this.getSkillTotal(set, skill.slug)
+        const total = this.getSkillTotal(set, skill.slug, true)
         if (total > skill.level) {
           return false
         }
       }
       return true
     },
+    calculateArmorDefensePoints (armor) {
+      return (armor.baseDefense ?? 0) / 150 // Currently, the highest possible defense is 128.
+    },
     calculateDefensePoints (set) {
       let total = 0
-      for (const type of this.equipmentTypes) {
+      for (const type of this.armorTypes) {
         if (!set[type]) {
           continue
         }
-        const defense = set[type].baseDefense ?? set[type].defense ?? 0
-        total += defense
+        total += this.calculateArmorDefensePoints(set[type])
       }
-      return total / 600 // Equipments that have defense (weapon, head, chest, arms, waist, legs).
+      return total / this.armorTypes.length
+    },
+    calculateArmorFreeSlotsPoints (armor) {
+      let total = 0
+      const decorations = armor.decorations ?? []
+
+      for (let i = 0; i < armor.slots.length; i++) {
+        if (decorations[i] === undefined) {
+          total += armor.slots[i]
+        }
+      }
+
+      return total / 12 // Max. free slots possible (4 x 3)
     },
     calculateFreeSlotsPoints (set) {
       let total = 0
 
-      for (const type of this.equipmentTypes) {
+      for (const type of this.armorTypes) {
         if (set[type] && set[type].slots !== undefined) {
-          const decorations = set[type].decorations ?? []
-          for (let i = 0; i < set[type].slots.length; i++) {
-            if (decorations[i] === undefined) {
-              total += set[type].slots[i]
-            }
-          }
+          total += this.calculateArmorFreeSlotsPoints(set[type])
         }
       }
 
-      // Sets with free slots gain points for flexibility.
-      return total / (this.equipmentTypes.length * 9) // Max. slot level in a piece.
+      return total / this.armorTypes.length
+    },
+    calculateArmorSkillsPoints (armor, fromDecorations = false) {
+      const baseModifier = 0.1
+      let modifier = 1
+      let total = 0
+      let totalSkills = 0
+
+      for (const skill of this.skills.filter(this.filterSkills)) {
+        let totalLevel = 0
+
+        if (fromDecorations) {
+          totalLevel = this.getArmorSkillTotalFromDecorations(armor, skill.slug)
+        } else {
+          totalLevel = this.getArmorSkillTotal(armor, skill.slug)
+        }
+
+        total += totalLevel * modifier
+        totalSkills += skill.level * modifier
+        modifier -= baseModifier
+      }
+
+      return total / totalSkills
     },
     calculateSkillsPoints (set) {
-      const baseModifier = 0.1
-      let modifier = 1
       let total = 0
-      let skillCount = 0
-      const skillPoints = []
 
-      for (const skill of this.skills.filter(this.filterSkills)) {
-        const totalLevel = this.getSkillTotal(set, skill.slug, false)
-        let points = 0
-
-        if (totalLevel > 0) {
-          points = (totalLevel / skill.level) * modifier
+      for (const type of this.armorTypes) {
+        if (!set[type]) {
+          continue
         }
-
-        skillPoints.push(points)
-        modifier -= baseModifier
-        skillCount++
+        total += this.calculateArmorSkillsPoints(set[type])
       }
 
-      for (const points of skillPoints) {
-        total += points / skillCount
-      }
-
-      return total
+      return total / this.armorTypes.length
     },
-    // Exactly the same as calculateSkillPoints but skills are
-    // taken from the decorations.
-    calculateSlotsPoints (set) {
-      const baseModifier = 0.1
-      let modifier = 1
+    calculateDecorationsPoints (set) {
       let total = 0
-      let skillCount = 0
-      const skillPoints = []
 
-      for (const skill of this.skills.filter(this.filterSkills)) {
-        const totalLevel = this.getSkillTotalFromDecorations(set, skill.slug)
-        let points = 0
-
-        if (totalLevel > 0) {
-          points = (totalLevel / skill.level) * modifier
+      for (const type of this.armorTypes) {
+        if (!set[type]) {
+          continue
         }
-
-        skillPoints.push(points)
-        modifier -= baseModifier
-        skillCount++
+        total += this.calculateArmorSkillsPoints(set[type], true)
       }
 
-      for (const points of skillPoints) {
-        total += points / skillCount
-      }
-
-      return total
+      return total / this.armorTypes.length
     },
     decorateSet (set) {
       const setSkills = {}
@@ -524,7 +541,7 @@ export default {
         // as the decoration.
         let slotLevel = decoration.level
 
-        while (slotLevel <= 3) {
+        while (slotLevel <= this.maxSlotLevel) {
           for (const type of this.equipmentTypes) {
             if (!set[type]) {
               continue
@@ -566,42 +583,47 @@ export default {
         }
       }
     },
-    getSkillTotal (set, slug, includeDecorations = true) {
-      let count = 0
-      for (const type of this.equipmentTypes) {
-        if (!set[type]) {
-          continue
-        }
-        if (set[type].skills !== undefined) {
-          for (const skill of set[type].skills) {
-            if (skill.slug === slug) {
-              count += skill.level
-            }
+    getArmorSkillTotal (armor, slug) {
+      let total = 0
+
+      if (armor.skills !== undefined) {
+        for (const skill of armor.skills) {
+          if (skill.slug === slug) {
+            total += skill.level
           }
         }
       }
 
-      if (includeDecorations) {
-        count += this.getSkillTotalFromDecorations(set, slug)
-      }
-
-      return count
+      return total
     },
-    getSkillTotalFromDecorations (set, slug) {
-      let count = 0
+    getArmorSkillTotalFromDecorations (armor, slug) {
+      let total = 0
+
+      if (armor.decorations !== undefined) {
+        for (const decoration of armor.decorations.filter(element => element)) {
+          if (decoration.skillSlug === slug) {
+            total++
+          }
+        }
+      }
+
+      return total
+    },
+    getSkillTotal (set, slug, includeDecorations = false) {
+      let total = 0
+
       for (const type of this.equipmentTypes) {
         if (!set[type]) {
           continue
         }
-        if (set[type].decorations !== undefined) {
-          for (const decoration of set[type].decorations.filter(element => element)) {
-            if (decoration.skillSlug === slug) {
-              count++
-            }
-          }
+        total += this.getArmorSkillTotal(set[type], slug)
+
+        if (includeDecorations) {
+          total += this.getArmorSkillTotalFromDecorations(set[type], slug)
         }
       }
-      return count
+
+      return total
     },
     async loadDecorations () {
       const decorations = {}
@@ -610,7 +632,8 @@ export default {
         .where({
           skillSlug: {
             $in: slugs
-          }
+          },
+          isRampage: false
         })
         .fetch()
 
@@ -633,6 +656,9 @@ export default {
         .where({
           'skills.slug': {
             $containsAny: slugs
+          },
+          rank: {
+            $gt: 0
           }
         }).fetch()
       promises.push(promise1)
@@ -645,7 +671,10 @@ export default {
               $size: 0
             },
             slots: {
-              $containsAny: [1, 2, 3]
+              $containsAny: [1, 2, 3, 4]
+            },
+            rank: {
+              $gt: 0
             }
           }).fetch()
         promises.push(promise2)
@@ -659,11 +688,21 @@ export default {
           if (hasExcludedSkill) {
             continue
           }
-          armors.push(armor)
+
+          const existing = armors.find((item) => {
+            return item.slug === armor.slug
+          })
+
+          if (!existing) {
+            armor._score = (this.calculateArmorSkillsPoints(armor) * this.armorSkillsWeight) +
+              (this.calculateArmorFreeSlotsPoints(armor) * this.armorFreeSlotsWeight) +
+              (this.calculateArmorDefensePoints(armor) * this.armorDefenseWeight)
+            armors.push(armor)
+          }
         }
       }
 
-      return armors
+      return armors.sort((a, b) => b._score - a._score).slice(0, 10)
     },
     filterSkills (skill) {
       return skill.slug && skill.level > 0

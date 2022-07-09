@@ -128,6 +128,10 @@ export default {
             {
               value: '3',
               label: 'Decoration 3'
+            },
+            {
+              value: '4',
+              label: 'Decoration 4'
             }
           ]
         },

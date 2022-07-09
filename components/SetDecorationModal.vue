@@ -61,6 +61,10 @@ export default {
     selected: {
       type: String,
       default: ''
+    },
+    isRampage: {
+      type: Boolean,
+      default: false
     }
   },
   data () {
@@ -116,15 +120,19 @@ export default {
         queryBuilder = queryBuilder.search(keywords)
       }
 
+      const isRampage = this.isRampage
+
       if (level) {
         queryBuilder.where({
-          level
+          level,
+          isRampage
         })
       } else {
         queryBuilder.where({
           level: {
             $lte: this.level
-          }
+          },
+          isRampage
         })
       }
 
