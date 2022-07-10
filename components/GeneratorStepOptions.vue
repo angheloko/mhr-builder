@@ -11,7 +11,7 @@
         <span class="font-medium text-sm">Add decorations</span>
       </label>
       <div class="text-xs text-gray-500 mt-1">
-        If selected, decorations will be added in order to reach required skill levels.
+        If selected, decorations will automatically be added in order to reach required skill levels.
       </div>
     </div>
     <div class="border rounded p-2 mb-2">
@@ -44,10 +44,15 @@
       </div>
     </div>
     <div class="text-sm my-4">
-      <span class="font-bold">Important:</span> Any unpinned sets from your collection will be
-      removed. You can pin a set by clicking the menu icon <DotsVerticalIcon class="w-4 h-4 inline-block" />
-      of the set and selecting <BookmarkIcon class="w-4 h-4 inline-block" />
-      <span class="font-bold">Pin</span>.
+      <p class="mb-2">
+        <span class="font-bold">Important:</span> Any unpinned sets from your collection will be
+        removed. You can pin a set by clicking the menu icon <DotsVerticalIcon class="w-4 h-4 inline-block" />
+        of the set and selecting <BookmarkIcon class="w-4 h-4 inline-block" />
+        <span class="font-bold">Pin</span>.
+      </p>
+      <p>
+        Only high and master rank armors are included when generating.
+      </p>
     </div>
   </div>
 </template>

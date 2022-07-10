@@ -5,7 +5,7 @@
         Slots
       </h3>
       <div class="text-xs text-gray-500 mb-2">
-        Select the slots that your talisman has.
+        Select the slots that your talisman have.
       </div>
       <div class="grid grid-cols-3 gap-3">
         <Dropdown
@@ -30,7 +30,7 @@
       </div>
       <div class="text-xs text-gray-500 mb-2">
         <p class="mb-2">
-          Select the skills that your talisman has.
+          Select the skills that your talisman have.
         </p>
       </div>
       <div v-for="(skill, index) in skills" :key="index" class="flex">
@@ -89,6 +89,10 @@ export default {
         {
           value: 3,
           label: '3'
+        },
+        {
+          value: 4,
+          label: '4'
         }
       ]
     }

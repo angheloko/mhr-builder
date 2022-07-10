@@ -56,6 +56,10 @@ export default {
         {
           value: 3,
           label: '3'
+        },
+        {
+          value: 4,
+          label: '4'
         }
       ]
     }

@@ -55,20 +55,26 @@ export const mutations = {
       localStorage.sets = JSON.stringify(state.sets)
     }
   },
-  decorate (state, { index, type, slot, decoration }) {
-    if (state.sets[index][type].decorations) {
-      Vue.set(state.sets[index][type].decorations, slot, decoration)
+  decorate (state, { index, type, slot, decoration, isRampage }) {
+    const decorationProp = isRampage ? 'rampDecorations' : 'decorations'
+    const slotProp = isRampage ? 'rampSlots' : 'slots'
+
+    if (state.sets[index][type][decorationProp]) {
+      Vue.set(state.sets[index][type][decorationProp], slot, decoration)
     } else {
-      const decorations = state.sets[index][type].slots.map(() => null)
+      const decorations = state.sets[index][type][slotProp].map(() => null)
       decorations[slot] = decoration
-      Vue.set(state.sets[index][type], 'decorations', decorations)
+      Vue.set(state.sets[index][type], decorationProp, decorations)
     }
     if (state.persist) {
       localStorage.sets = JSON.stringify(state.sets)
     }
   },
-  undecorate (state, { index, type, slot }) {
-    Vue.set(state.sets[index][type].decorations, slot, null)
+  undecorate (state, { index, type, slot, isRampage }) {
+    const prop = isRampage ? 'rampDecorations' : 'decorations'
+
+    Vue.set(state.sets[index][type][prop], slot, null)
+
     if (state.persist) {
       localStorage.sets = JSON.stringify(state.sets)
     }

@@ -4,16 +4,26 @@
     <NuxtLink to="/">
       <Logo class="inline-block h-6 w-auto" />
     </NuxtLink>
-    <h1 class="text-lg inline-block flex-grow hidden md:block">
-      <NuxtLink to="/">
-        Monster Hunter Rise Set Builder
-      </NuxtLink>
-    </h1>
-    <h1 class="text-lg inline-block flex-grow md:hidden">
-      <NuxtLink to="/">
-        MHRise Builder
-      </NuxtLink>
-    </h1>
+    <div class="flex-grow hidden md:flex items-center gap-3">
+      <h1 class="text-lg">
+        <NuxtLink to="/">
+          Monster Hunter Rise Set Builder
+        </NuxtLink>
+      </h1>
+      <div class="text-xs tracking-wider bg-yellow-500 text-white font-bold px-2 py-1 rounded-full">
+        Sunbreak
+      </div>
+    </div>
+    <div class="flex-grow md:hidden flex items-center gap-2">
+      <h1 class="text-lg">
+        <NuxtLink to="/">
+          MHRise Builder
+        </NuxtLink>
+      </h1>
+      <div class="text-xs tracking-wider bg-yellow-500 text-white font-bold px-2 py-1 rounded-full">
+        Sunbreak
+      </div>
+    </div>
     <slot />
   </div>
 </template>

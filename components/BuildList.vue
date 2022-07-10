@@ -261,19 +261,21 @@ export default {
         type
       })
     },
-    addDecoration (type, { slot, decoration }) {
+    addDecoration (type, { slot, decoration, isRampage }) {
       this.decorate({
         index: this.index,
         type,
         slot,
-        decoration
+        decoration,
+        isRampage
       })
     },
-    removeDecoration (type, slot) {
+    removeDecoration (type, { slot, isRampage }) {
       this.undecorate({
         index: this.index,
         type,
-        slot
+        slot,
+        isRampage
       })
     },
     showEquipmentModal (type) {
