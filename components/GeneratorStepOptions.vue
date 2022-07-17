@@ -1,6 +1,36 @@
 <template>
   <div class="px-4 py-2">
     <div class="border rounded p-2 mb-2">
+      <div class="text-sm text-gray-700 font-bold mb-1">
+        Armor rank
+      </div>
+      <label class="flex items-center space-x-2 mb-2">
+        <input
+          type="radio"
+          name="armorRank"
+          class="h-4 w-4 rounded-full"
+          value="2"
+          :checked="armorRank === 2"
+          @change="$emit('update:armorRank', $event.target.value)"
+        >
+        <span class="font-medium text-sm">Master rank only</span>
+      </label>
+      <label class="flex items-center space-x-2">
+        <input
+          type="radio"
+          name="armorRank"
+          class="h-4 w-4 rounded rounded-full"
+          value="1"
+          :checked="armorRank === 1"
+          @change="$emit('update:armorRank', $event.target.value)"
+        >
+        <span class="font-medium text-sm">High rank only</span>
+      </label>
+      <div class="text-xs text-gray-500 mt-1">
+        Only armors from the selected rank will be included.
+      </div>
+    </div>
+    <div class="border rounded p-2 mb-2">
       <label class="flex items-center space-x-2">
         <input
           type="checkbox"
@@ -76,6 +106,10 @@ export default {
     allowEmptyPieces: {
       type: Boolean,
       default: false
+    },
+    armorRank: {
+      type: Number,
+      default: 2
     }
   }
 }

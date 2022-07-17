@@ -36,9 +36,11 @@
         :unique="unique"
         :decorate="decorate"
         :allow-empty-pieces="allowEmptyPieces"
+        :armor-rank="armorRank"
         @update:unique="updateUnique"
         @update:decorate="updateDecorate"
         @update:allowEmptyPieces="updateAllowEmptyPieces"
+        @update:armorRank="updateArmorRank"
       />
       <div v-if="step === 4" class="flex flex-col justify-center items-center h-full text-sm">
         <div v-if="isGenerating">
@@ -139,6 +141,7 @@ export default {
       unique: true,
       decorate: true,
       allowEmptyPieces: true,
+      armorRank: 2,
       decorations: [],
       skillsWeight: 0.4,
       decorationsWeight: 0.3,
@@ -265,6 +268,9 @@ export default {
     },
     updateAllowEmptyPieces (value) {
       this.allowEmptyPieces = value
+    },
+    updateArmorRank (value) {
+      this.armorRank = parseInt(value)
     },
     back () {
       if (this.step > 0) {
@@ -657,9 +663,7 @@ export default {
           'skills.slug': {
             $containsAny: slugs
           },
-          rank: {
-            $gt: 0
-          }
+          rank: this.armorRank
         }).fetch()
       promises.push(promise1)
 
@@ -673,9 +677,7 @@ export default {
             slots: {
               $containsAny: [1, 2, 3, 4]
             },
-            rank: {
-              $gt: 0
-            }
+            rank: this.armorRank
           }).fetch()
         promises.push(promise2)
       }
