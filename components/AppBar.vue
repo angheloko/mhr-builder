@@ -15,11 +15,6 @@
       </div>
     </div>
     <div class="flex-grow md:hidden flex items-center gap-2">
-      <h1 class="text-lg">
-        <NuxtLink to="/">
-          MHRise Builder
-        </NuxtLink>
-      </h1>
       <div class="text-xs tracking-wider bg-yellow-500 text-white font-bold px-2 py-1 rounded-full">
         Sunbreak
       </div>
