@@ -75,11 +75,7 @@ export default {
     hostname: 'https://mhr-builder.com',
     trailingSlash: true,
     routes () {
-      const { $content } = require('@nuxt/content')
-      return $content('sets')
-        .only(['path'])
-        .fetch()
-        .then(files => files.map(file => file.path))
+      return []
     }
   },
 
