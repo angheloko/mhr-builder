@@ -200,6 +200,7 @@ export default {
       this.unique = params.unique
       this.decorate = params.decorate
       this.allowEmptyPieces = params.allowEmptyPieces
+      this.armorRank = params.armorRank
     }
   },
   methods: {
@@ -399,7 +400,8 @@ export default {
         weapon: this.weapon,
         unique: this.unique,
         decorate: this.decorate,
-        allowEmptyPieces: this.allowEmptyPieces
+        allowEmptyPieces: this.allowEmptyPieces,
+        armorRank: this.armorRank
       })
     },
     generateTalisman () {
@@ -532,43 +534,49 @@ export default {
 
         // Skip to next skill if this skill has already reached
         // its required level.
-        if (total > skill.level) {
+        if (total >= skill.level) {
           continue
         }
 
-        const decoration = this.getDecoration(skill.slug)
+        const decorations = this.getDecoration(skill.slug)
 
         // Skip if no decoration found for the skill.
-        if (!decoration) {
+        if (!decorations.length) {
           continue
         }
 
-        // Start looking for slots with the same level
-        // as the decoration.
-        let slotLevel = decoration.level
+        for (const decoration of decorations) {
+          // Start looking for slots with the same level
+          // as the decoration.
+          let slotLevel = decoration.level
 
-        while (slotLevel <= this.maxSlotLevel) {
-          for (const type of this.equipmentTypes) {
-            if (!set[type]) {
-              continue
-            }
-
-            // Get the piece's slots and any existing decorations.
-            const slots = set[type].slots ?? []
-            const decorations = set[type].decorations ?? slots.map(() => null)
-
-            // Collect the empty slots that can fit the decoration.
-            const emptySlots = []
-            for (let i = 0; i < decorations.length; i++) {
-              if (!decorations[i] && slots[i] === slotLevel) {
-                emptySlots.push(i)
+          while (slotLevel <= this.maxSlotLevel) {
+            for (const type of this.equipmentTypes) {
+              if (!set[type]) {
+                continue
               }
-            }
 
-            for (const emptySlot of emptySlots) {
-              decorations[emptySlot] = decoration
-              set[type].decorations = decorations
-              total++
+              // Get the piece's slots and any existing decorations.
+              const slots = set[type].slots ?? []
+              const existingDecorations = set[type].decorations ?? slots.map(() => null)
+
+              // Collect the empty slots that can fit the decoration.
+              const emptySlots = []
+              for (let i = 0; i < existingDecorations.length; i++) {
+                if (!existingDecorations[i] && slots[i] === slotLevel) {
+                  emptySlots.push(i)
+                }
+              }
+
+              for (const emptySlot of emptySlots) {
+                existingDecorations[emptySlot] = decoration
+                set[type].decorations = existingDecorations
+                total++
+
+                if (total >= skill.level) {
+                  break
+                }
+              }
 
               if (total >= skill.level) {
                 break
@@ -578,14 +586,10 @@ export default {
             if (total >= skill.level) {
               break
             }
-          }
 
-          if (total >= skill.level) {
-            break
+            // If it reaches here, try a higher slot level.
+            slotLevel++
           }
-
-          // If it reaches here, try a higher slot level.
-          slotLevel++
         }
       }
     },
@@ -632,7 +636,7 @@ export default {
       return total
     },
     async loadDecorations () {
-      const decorations = {}
+      const decorations = []
       const slugs = this.skills.map(skill => skill.slug)
       const results = await this.$content('decorations')
         .where({
@@ -644,13 +648,13 @@ export default {
         .fetch()
 
       for (const decoration of results) {
-        decorations[decoration.skillSlug] = decoration
+        decorations.push(decoration)
       }
 
       return decorations
     },
     getDecoration (slug) {
-      return this.decorations[slug]
+      return this.decorations.filter(decoration => decoration.skillSlug === slug)
     },
     async loadArmors (type) {
       const promises = []
