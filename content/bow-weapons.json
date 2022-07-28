@@ -1,1 +1,6021 @@
-[{"name":"Kamura Iron Bow I","slug":"Kamura-Iron-Bow-I","url":"/Kamura+Iron+Bow+I","type":"bow","attack":60,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Iron Bow II","slug":"Kamura-Iron-Bow-II","url":"/Kamura+Iron+Bow+II","type":"bow","attack":70,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Iron Bow III","slug":"Kamura-Iron-Bow-III","url":"/Kamura+Iron+Bow+III","type":"bow","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Iron Bow IV","slug":"Kamura-Iron-Bow-IV","url":"/Kamura+Iron+Bow+IV","type":"bow","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Iron Bow V","slug":"Kamura-Iron-Bow-V","url":"/Kamura+Iron+Bow+V","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Defense Boost II","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Kamura Ninja Bow","slug":"Kamura-Ninja-Bow","url":"/Kamura+Ninja+Bow","type":"bow","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost IV","Defense Boost II","Master Rider"],"slots":[1,2],"rampSlots":[]},{"name":"Weaver of Flame I","slug":"Weaver-of-Flame-I","url":"/Weaver+of+Flame+I","type":"bow","attack":150,"element":[{"type":"Fire","attack":25}],"affinity":20,"defense":0,"rampSkills":["Attack Boost III","Fire Boost I","Silkbind Boost"],"slots":[1,1,2],"rampSlots":[]},{"name":"Weaver of Flame II","slug":"Weaver-of-Flame-II","url":"/Weaver+of++Flame+II","type":"bow","attack":160,"element":[{"type":"Fire","attack":29}],"affinity":25,"defense":0,"rampSkills":["Attack Boost III","Fire Boost II","Silkbind Boost"],"slots":[1,1,2],"rampSlots":[]},{"name":"Araknatorch","slug":"Araknatorch","url":"/Araknatorch","type":"bow","attack":170,"element":[{"type":"Fire","attack":33}],"affinity":30,"defense":0,"rampSkills":["Attack Boost IV","Fire Boost II","Silkbind Boost"],"slots":[1,1,2],"rampSlots":[]},{"name":"Blessed Rain I","slug":"Blessed-Rain-I","url":"/Blessed+Rain+I","type":"bow","attack":120,"element":[{"type":"Water","attack":11}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Water Boost I"],"slots":[],"rampSlots":[]},{"name":"Blessed Rain II","slug":"Blessed-Rain-II","url":"/Blessed+Rain+II","type":"bow","attack":190,"element":[{"type":"Water","attack":13}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Water Boost I"],"slots":[1],"rampSlots":[]},{"name":"Dawn Ray Bow I","slug":"Dawn-Ray-Bow-I","url":"/Dawn+Ray+Bow+I","type":"bow","attack":110,"element":[],"affinity":0,"defense":5,"rampSkills":["Attack Boost I","Lasting Arc Shot","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Dawn Ray Bow II","slug":"Dawn-Ray-Bow-II","url":"/Dawn+Ray+Bow+II","type":"bow","attack":170,"element":[],"affinity":0,"defense":10,"rampSkills":["Attack Boost II","Lasting Arc Shot","Silkbind Boost"],"slots":[3],"rampSlots":[]},{"name":"Summit's Grand Glow","slug":"Summit's-Grand-Glow","url":"/Summit's+Grand+Glow","type":"bow","attack":180,"element":[],"affinity":0,"defense":10,"rampSkills":["Attack Boost","Lasting Arc Shot","Silkbind Boost"],"slots":[3],"rampSlots":[]},{"name":"Hidden Bow I","slug":"Hidden-Bow-I","url":"/Hidden+Bow+I","type":"bow","attack":130,"element":[],"affinity":30,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Lasting Arc Shot"],"slots":[],"rampSlots":[]},{"name":"Hidden Bow II","slug":"Hidden-Bow-II","url":"/Hidden+Bow+II","type":"bow","attack":190,"element":[],"affinity":35,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost I","Lasting Arc Shot"],"slots":[2],"rampSlots":[]},{"name":"Night Flight","slug":"Night-Flight","url":"/Night+Flight","type":"bow","attack":210,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Lasting Arc Shot"],"slots":[2],"rampSlots":[]},{"name":"Kadachi Strikebow I","slug":"Kadachi-Strikebow-I","url":"/Kadachi+Strikebow+I","type":"bow","attack":100,"element":[{"type":"Thunder","attack":16}],"affinity":10,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Thunder Boost II"],"slots":[],"rampSlots":[]},{"name":"Kadachi Strikebow II","slug":"Kadachi-Strikebow-II","url":"/Kadachi+Strikebow+II","type":"bow","attack":150,"element":[{"type":"Thunder","attack":18}],"affinity":15,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Thunder Boost II"],"slots":[],"rampSlots":[]},{"name":"Kadachi Strikebow III","slug":"Kadachi-Strikebow-III","url":"/Kadachi+Strikebow+III","type":"bow","attack":180,"element":[{"type":"Thunder","attack":21}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Thunder Boost II"],"slots":[],"rampSlots":[]},{"name":"Flying Kadachi Striker","slug":"Flying-Kadachi-Striker","url":"/Flying+Kadachi+Striker","type":"bow","attack":190,"element":[{"type":"Thunder","attack":23}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost III","Thunder Boost III"],"slots":[],"rampSlots":[]},{"name":"Ice Crest I","slug":"Ice-Crest-I","url":"/Ice+Crest+I","type":"bow","attack":100,"element":[{"type":"Ice","attack":14}],"affinity":20,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Ice Crest II","slug":"Ice-Crest-II","url":"/Ice+Crest+II","type":"bow","attack":120,"element":[{"type":"Ice","attack":15}],"affinity":25,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Ice Crest III","slug":"Ice-Crest-III","url":"/Ice+Crest+III","type":"bow","attack":180,"element":[{"type":"Ice","attack":17}],"affinity":25,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Iceblight Exploit"],"slots":[1,1],"rampSlots":[]},{"name":"Edelweiss","slug":"Edelweiss","url":"/Edelweiss","type":"bow","attack":200,"element":[{"type":"Ice","attack":19}],"affinity":30,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Wroggi Revolver I","slug":"Wroggi-Revolver-I","url":"/Wroggi+Revolver+I","type":"bow","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Lasting Arc Shot","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Wroggi Revolver II","slug":"Wroggi-Revolver-II","url":"/Wroggi+Revolver+II","type":"bow","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Lasting Arc Shot","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Hoodwinker's Revolver","slug":"Hoodwinker's-Revolver","url":"/Hoodwinker's+Revolver","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Lasting Arc Shot","Buddy Rally"],"slots":[1,1],"rampSlots":[]},{"name":"Arzuros Bow I","slug":"Arzuros-Bow-I","url":"/Arzuros+Bow+I","type":"bow","attack":110,"element":[],"affinity":0,"defense":15,"rampSkills":["Attack Boost I","Defense Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Arzuros Bow II","slug":"Arzuros-Bow-II","url":"/Arzuros+Bow+II","type":"bow","attack":140,"element":[],"affinity":0,"defense":15,"rampSkills":["Attack Boost II","Defense Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Arzuros' Honeypot","slug":"Arzuros'-Honeypot","url":"/Arzuros'+Honeypot","type":"bow","attack":190,"element":[],"affinity":0,"defense":15,"rampSkills":["Attack Boost III","Defense Boost II","Lasting Arc Shot"],"slots":[1],"rampSlots":[]},{"name":"Iron Bow I","slug":"Iron-Bow-I","url":"/Iron+Bow+I","type":"bow","attack":80,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Iron Bow II","slug":"Iron-Bow-II","url":"/Iron+Bow+II","type":"bow","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Steel Bow","slug":"Steel-Bow","url":"/Steel+Bow","type":"bow","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Hunter's Stoutbow I","slug":"Hunter's-Stoutbow-I","url":"/Hunter's+Stoutbow+I","type":"bow","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Hunter's Stoutbow II","slug":"Hunter's-Stoutbow-II","url":"/Hunter's+Stoutbow++II","type":"bow","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"Hunter's Prodbow","slug":"Hunter's-Prodbow","url":"/Hunter's+Prodbow","type":"bow","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"Yekla Arc I","slug":"Yekla-Arc-I","url":"/Yekla+Arc+I","type":"bow","attack":180,"element":[],"affinity":0,"defense":5,"rampSkills":["Attack Boost II","Affinity Boost II","Master Rider"],"slots":[1],"rampSlots":[]},{"name":"Yekla Arc II","slug":"Yekla-Arc-II","url":"/Yekla+Arc+II","type":"bow","attack":200,"element":[],"affinity":0,"defense":8,"rampSkills":["Attack Boost II","Affinity Boost II","Master Rider"],"slots":[1],"rampSlots":[]},{"name":"Herald's Battlebow","slug":"Herald's-Battlebow","url":"/Herald's+Battlebow","type":"bow","attack":220,"element":[],"affinity":0,"defense":10,"rampSkills":["Attack Boost II","Affinity Boost III","Master Rider"],"slots":[1],"rampSlots":[]},{"name":"Crystalline Flower I","slug":"Crystalline-Flower-I","url":"/Crystalline+Flower+I","type":"bow","attack":140,"element":[{"type":"Ice","attack":40}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Ice Boost I","Element Exploit"],"slots":[3],"rampSlots":[]},{"name":"Crystalline Flower II","slug":"Crystalline-Flower-II","url":"/Crystalline+Flower+II","type":"bow","attack":150,"element":[{"type":"Ice","attack":45}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Ice Boost I","Element Exploit"],"slots":[3],"rampSlots":[]},{"name":"Heaven's Glaze","slug":"Heaven's-Glaze","url":"/Heaven's+Glaze","type":"bow","attack":190,"element":[{"type":"Ice","attack":50}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Ice Boost II","Element Exploit"],"slots":[3],"rampSlots":[]},{"name":"Mud Shot I","slug":"Mud-Shot-I","url":"/Mud+Shot+I","type":"bow","attack":140,"element":[{"type":"Water","attack":27}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Element Exploit"],"slots":[],"rampSlots":[]},{"name":"Mud Shot II","slug":"Mud-Shot-II","url":"/Mud+Shot+II","type":"bow","attack":150,"element":[{"type":"Water","attack":29}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost I","Element Exploit"],"slots":[1,2],"rampSlots":[]},{"name":"Hail of Mud","slug":"Hail-of-Mud","url":"/Hail+of+Mud","type":"bow","attack":170,"element":[{"type":"Water","attack":34}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost II","Element Exploit"],"slots":[1,2],"rampSlots":[]},{"name":"Queen Blaster I","slug":"Queen-Blaster-I","url":"/Queen+Blaster+I","type":"bow","attack":110,"element":[{"type":"Fire","attack":null}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Fire Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Queen Blaster II","slug":"Queen-Blaster-II","url":"/Queen+Blaster+II","type":"bow","attack":150,"element":[{"type":"Fire","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Queen's Melody","slug":"Queen's-Melody","url":"/Queen's+Melody","type":"bow","attack":180,"element":[{"type":"Fire","attack":16}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Small Monster Exploit"],"slots":[1],"rampSlots":[]},{"name":"Prominence Bow I","slug":"Prominence-Bow-I","url":"/Prominence+Bow+I","type":"bow","attack":190,"element":[{"type":"Fire","attack":17}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Prominence Bow II","slug":"Prominence-Bow-II","url":"/Prominence+Bow+II","type":"bow","attack":200,"element":[{"type":"Fire","attack":21}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Dark Filament","slug":"Dark-Filament","url":"/Dark+Filament","type":"bow","attack":210,"element":[{"type":"Fire","attack":21}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Kulu's Flight I","slug":"Kulu's-Flight-I","url":"/Kulu's+Flight+I","type":"bow","attack":110,"element":[],"affinity":10,"defense":0,"rampSkills":["Attack Boost I","Sleep Coating Boost","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu's Flight II","slug":"Kulu's-Flight-II","url":"/Kulu's+Flight+II","type":"bow","attack":130,"element":[],"affinity":20,"defense":0,"rampSkills":["Attack Boost II","Sleep Coating Boost","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu Piercer","slug":"Kulu-Piercer","url":"/Kulu+Piercer","type":"bow","attack":160,"element":[],"affinity":30,"defense":0,"rampSkills":["Attack Boost II","Sleep Coating Boost","Spiribird Doubled"],"slots":[1,1,1],"rampSlots":[]},{"name":"Khezu Bow I","slug":"Khezu-Bow-I","url":"/Khezu+Bow+I","type":"bow","attack":90,"element":[{"type":"Thunder","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Khezu Bow II","slug":"Khezu-Bow-II","url":"/Khezu+Bow+II","type":"bow","attack":100,"element":[{"type":"Thunder","attack":21}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Thunder Boost I","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Galvanized Core","slug":"Galvanized-Core","url":"/Galvanized+Core","type":"bow","attack":150,"element":[{"type":"Thunder","attack":24}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Thunder Boost II","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Bone Gun I","slug":"Bone-Gun-I","url":"/Bone+Gun+I","type":"bow","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Bone Gun II","slug":"Bone-Gun-II","url":"/Bone+Gun+II","type":"bow","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Hyper Bone Gun","slug":"Hyper-Bone-Gun","url":"/Hyper+Bone+Gun","type":"bow","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Hunter's Bow I","slug":"Hunter's-Bow-I","url":"/Hunter's+Bow+I","type":"bow","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Poison Coating Boost"],"slots":[],"rampSlots":[]},{"name":"Hunter's Bow II","slug":"Hunter's-Bow-II","url":"/Hunter's+Bow+II","type":"bow","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Poison Coating Boost"],"slots":[],"rampSlots":[]},{"name":"Master Hunter's Bow","slug":"Master-Hunter's-Bow","url":"/Master+Hunter's+Bow","type":"bow","attack":200,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Poison Coating Boost"],"slots":[],"rampSlots":[]},{"name":"Tigrex Archer I-","slug":"Tigrex-Archer-I","url":"/Tigrex+Archer+I","type":"bow","attack":160,"element":[],"affinity":-25,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Tigrex Archer II","slug":"Tigrex-Archer-II","url":"/Tigrex+Archer+II","type":"bow","attack":240,"element":[],"affinity":-25,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Tigrex Whisker","slug":"Tigrex-Whisker","url":"/Tigrex+Whisker","type":"bow","attack":250,"element":[],"affinity":-25,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Diablos Coilbender I","slug":"Diablos-Coilbender-I","url":"/Diablos+Coilbender+I","type":"bow","attack":230,"element":[],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Defense Boost I","Lasting Arc Shot"],"slots":[1],"rampSlots":[]},{"name":"Diablos Coilbender II","slug":"Diablos-Coilbender-II","url":"/Diablos+Coilbender+II","type":"bow","attack":240,"element":[],"affinity":-20,"defense":10,"rampSkills":["Affinity Boost II","Defense Boost I","Lasting Arc Shot"],"slots":[1],"rampSlots":[]},{"name":"Usurper's Rumble I","slug":"Usurper's-Rumble-I","url":"/Usurper's+Rumble+I","type":"bow","attack":120,"element":[{"type":"Thunder","attack":14}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Thunder Boost I","Anti-Aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Usurper's Rumble II","slug":"Usurper's-Rumble-II","url":"/Usurper's+Rumble+II","type":"bow","attack":190,"element":[{"type":"Thunder","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Anti-Aquatic Species"],"slots":[1],"rampSlots":[]},{"name":"Despot's Earlybolt","slug":"Despot's-Earlybolt","url":"/Despot's+Earlybolt","type":"bow","attack":210,"element":[{"type":"Thunder","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Pukei Bow I","slug":"Pukei-Bow-I","url":"/Pukei+Bow+I","type":"bow","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost I","Paralysis Coating Boost"],"slots":[],"rampSlots":[]},{"name":"Pukei Bow II","slug":"Pukei-Bow-II","url":"/Pukei+Bow+II","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost I","Paralysis Coating Boost"],"slots":[1,1],"rampSlots":[]},{"name":"Venomtongue Strike","slug":"Venomtongue-Strike","url":"/Venomtongue+Strike","type":"bow","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Paralysis Coating Boost"],"slots":[1,1],"rampSlots":[]},{"name":"Flammenbogen I","slug":"Flammenbogen-I","url":"/Flammenbogen+I","type":"bow","attack":140,"element":[{"type":"Fire","attack":5}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Flammenbongen II","slug":"Flammenbongen-II","url":"/Flammenbongen+II","type":"bow","attack":220,"element":[{"type":"Fire","attack":7}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost II","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Flaming Rage Bow","slug":"Flaming-Rage-Bow","url":"/Flaming+Rage+Bow","type":"bow","attack":240,"element":[{"type":"Fire","attack":9}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost II","Fire Boost III","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Spongia Bow I","slug":"Spongia-Bow-I","url":"/Spongia+Bow+I","type":"bow","attack":90,"element":[{"type":"Water","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Spongia Bow II","slug":"Spongia-Bow-II","url":"/Spongia+Bow+II","type":"bow","attack":140,"element":[{"type":"Water","attack":22}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Spongia Bow III","slug":"Spongia-Bow-III","url":"/Spongia+Bow+III","type":"bow","attack":170,"element":[{"type":"Water","attack":24}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost II","Waterblight Exploit"],"slots":[3],"rampSlots":[]},{"name":"Porifero Bow","slug":"Porifero-Bow","url":"/Porifero+Bow","type":"bow","attack":200,"element":[{"type":"Water","attack":26}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost II","Waterblight Exploit"],"slots":[3],"rampSlots":[]},{"name":"Baggi Bow I","slug":"Baggi-Bow-I","url":"/Baggi+Bow+I","type":"bow","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Poison Coating Boost","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Baggi Bow II","slug":"Baggi-Bow-II","url":"/Baggi+Bow+II","type":"bow","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Poison Coating Boost","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Hypnoshot","slug":"Hypnoshot","url":"/Hypnoshot","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Poison Coating Boost","Buddy Rally"],"slots":[2],"rampSlots":[]},{"name":"Arko Nulo I","slug":"Arko-Nulo-I","url":"/Arko+Nulo+I","type":"bow","attack":80,"element":[],"affinity":5,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Arko Nulo II","slug":"Arko-Nulo-II","url":"/Arko+Nulo+II","type":"bow","attack":110,"element":[],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Arko Unu","slug":"Arko-Unu","url":"/Arko+Unu","type":"bow","attack":140,"element":[],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Arko Nulo Black I","slug":"Arko-Nulo-Black-I","url":"/Arko+Nulo+Black+I","type":"bow","attack":160,"element":[{"type":" Dragon","attack":19}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Dragon Boost I","Dragon Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Arko Nulo Black II","slug":"Arko-Nulo-Black-II","url":"/Arko+Nulo+Black+II","type":"bow","attack":170,"element":[{"type":"Dragon","attack":21}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Dragon Boost II","Dragon Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Arko Nulu Black","slug":"Arko-Nulu-Black","url":"/Arko+Nulu+Black","type":"bow","attack":200,"element":[{"type":"Dragon","attack":24}],"affinity":20,"defense":0,"rampSkills":["Attack Boost III","Dragon Boost II","Dragon Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Arko Nulo Yellow I","slug":"Arko-Nulo-Yellow-I","url":"/Arko+Nulo+Yellow+I","type":"bow","attack":140,"element":[{"type":"Thunder","attack":23}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Nulo Yellow II","slug":"Arko-Nulo-Yellow-II","url":"/Arko+Nulo+Yellow+II","type":"bow","attack":160,"element":[{"type":"Thunder","attack":27}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost II","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Unu Yellow","slug":"Arko-Unu-Yellow","url":"/Arko+Unu+Yellow","type":"bow","attack":180,"element":[{"type":"Thunder","attack":29}],"affinity":15,"defense":0,"rampSkills":["Attack Boost III","Thunder Boost II","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Arko Nulo Red I","slug":"Arko-Nulo-Red-I","url":"/Arko+Nulo+Red+I","type":"bow","attack":90,"element":[{"type":"Fire","attack":22}],"affinity":10,"defense":0,"rampSkills":["Attack Boost I","Fire Boost I","Fireblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Nulo Red II","slug":"Arko-Nulo-Red-II","url":"/Arko+Nulo+Red+II","type":"bow","attack":130,"element":[{"type":"Fire","attack":26}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Fireblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Unu Red","slug":"Arko-Unu-Red","url":"/Arko+Unu+Red","type":"bow","attack":140,"element":[{"type":"Fire","attack":28}],"affinity":20,"defense":0,"rampSkills":["Attack Boost II","Fire Boost II","Fireblight Exploit"],"slots":[1,2],"rampSlots":[]},{"name":"Arko Nulo White I","slug":"Arko-Nulo-White-I","url":"/Arko+Nulo+White+I","type":"bow","attack":80,"element":[{"type":"","attack":20}],"affinity":5,"defense":0,"rampSkills":["Attack Boost I","Ice Boost I","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Nulo White II","slug":"Arko-Nulo-White-II","url":"/Arko+Nulo+White+II","type":"bow","attack":140,"element":[{"type":"","attack":24}],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Ice Boost I","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Arko Unu White","slug":"Arko-Unu-White","url":"/Arko+Unu+White","type":"bow","attack":160,"element":[{"type":"","attack":26}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Ice Boost II","Iceblight Exploit"],"slots":[1,1],"rampSlots":[]},{"name":"Sinister Bow I","slug":"Sinister-Bow-I","url":"/Sinister+Bow+I","type":"bow","attack":130,"element":[{"type":"Blast","attack":14}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Bow II","slug":"Sinister-Bow-II","url":"/Sinister+Bow+II","type":"bow","attack":140,"element":[{"type":"Blast","attack":16}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Soulpiercer","slug":"Sinister-Soulpiercer","url":"/Sinister+Soulpiercer","type":"bow","attack":200,"element":[{"type":"Blast","attack":19}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost II","Magnamalo Soul"],"slots":[1,2],"rampSlots":[]},{"name":"Kelbi Stingshot I","slug":"Kelbi-Stingshot-I","url":"/Kelbi+Stingshot+I","type":"bow","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Lasting Arc Shot","Paralysis Coating Boost"],"slots":[],"rampSlots":[]},{"name":"Kelbi Stingshot II","slug":"Kelbi-Stingshot-II","url":"/Kelbi+Stingshot+II","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Lasting Arc Shot","Paralysis Coating Boost"],"slots":[2,2],"rampSlots":[]},{"name":"Kelbi Strongshot","slug":"Kelbi-Strongshot","url":"/Kelbi+Strongshot","type":"bow","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Lasting Arc Shot","Paralysis Coating Boost"],"slots":[2,2],"rampSlots":[]},{"name":"Beast Thunderbow I","slug":"Beast-Thunderbow-I","url":"/Beast+Thunderbow+I","type":"bow","attack":190,"element":[{"type":"Thunder","attack":9}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost I","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Beast Thunderbow II","slug":"Beast-Thunderbow-II","url":"/Beast+Thunderbow+II","type":"bow","attack":210,"element":[{"type":"Thunder","attack":10}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost I","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Azure Elder Bow I","slug":"Azure-Elder-Bow-I","url":"/Azure+Elder+Bow+I","type":"bow","attack":200,"element":[{"type":"Dragon","attack":10}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Azure Elder Bow II","slug":"Azure-Elder-Bow-II","url":"/Azure+Elder+Bow+II","type":"bow","attack":210,"element":[{"type":"Dragon","attack":13}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Thunderbolt Bow I","slug":"Thunderbolt-Bow-I","url":"/Thunderbolt+Bow+I","type":"bow","attack":180,"element":[{"type":"Thunder","attack":30}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Icesteel Bow I","slug":"Icesteel-Bow-I","url":"/Icesteel+Bow+I","type":"bow","attack":170,"element":[{"type":"","attack":30}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Bow of Hope & Valor I","slug":"Bow-of-Hope-and-Valor-I","url":"/Bow+of+Hope+&+Valor+I","type":"bow","attack":180,"element":[{"type":"Blast","attack":27}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fireblight Exploit","Teostra Soul"],"slots":[],"rampSlots":[]},{"name":"Genie's Grimoire I","slug":"Genie's-Grimoire-I","url":"/Genie's+Grimoire+I","type":"bow","attack":220,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost III","Chameleos Soul"],"slots":[3],"rampSlots":[]},{"name":"Morsel Bowfish I","slug":"Morsel-Bowfish-I","url":"/Morsel+Bowfish+I","type":"bow","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Master Rider","Anti-aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Morsel Bowfish II","slug":"Morsel-Bowfish-II","url":"/Morsel+Bowfish+II","type":"bow","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Master Rider","Anti-aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Ample Bowfish","slug":"Ample-Bowfish","url":"/Ample+Bowfish","type":"bow","attack":200,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Master Rider","Anti-Aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Felyne Bow I","slug":"Felyne-Bow-I","url":"/Felyne+Bow+I","type":"bow","attack":110,"element":[],"affinity":-15,"defense":2,"rampSkills":["Attack Boost I","Brutal Strike","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Felyne Bow II","slug":"Felyne-Bow-II","url":"/Felyne+Bow+II","type":"bow","attack":140,"element":[],"affinity":-15,"defense":9,"rampSkills":["Attack Boost II","Brutal Strike","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Felyne Trickbow","slug":"Felyne-Trickbow","url":"/Felyne+Trickbow","type":"bow","attack":190,"element":[],"affinity":-15,"defense":18,"rampSkills":["Attack Boost III","Brutal Strike","Buddy Rally"],"slots":[1,3],"rampSlots":[]},{"name":"Chaos Bow I","slug":"Chaos-Bow-I","url":"/Chaos+Bow+I","type":"bow","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Lasting Arc Shot","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Chaos Bow II","slug":"Chaos-Bow-II","url":"/Chaos+Bow+II","type":"bow","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Lasting Arc Shot","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Chaotic Rapture","slug":"Chaotic-Rapture","url":"/Chaotic+Rapture","type":"bow","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Lasting Arc Shot","Spiribird Doubled"],"slots":[1,1,1],"rampSlots":[]},{"name":"Ivory Bow I","slug":"Ivory-Bow-I","url":"/Ivory+Bow+I","type":"bow","attack":90,"element":[],"affinity":30,"defense":0,"rampSkills":["Affinity Boost I","Defense Boost I","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Ivory Bow II","slug":"Ivory-Bow-II","url":"/Ivory+Bow+II","type":"bow","attack":140,"element":[],"affinity":30,"defense":0,"rampSkills":["Affinity Boost I","Defense Boost I","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Frozen Bow","slug":"Frozen-Bow","url":"/Frozen+Bow","type":"bow","attack":170,"element":[],"affinity":30,"defense":0,"rampSkills":["Affinity Boost I","Defense Boost I","Spiribird Doubled"],"slots":[2],"rampSlots":[]},{"name":"Arachnid Bow I","slug":"Arachnid-Bow-I","url":"/Arachnid+Bow+I","type":"bow","attack":90,"element":[],"affinity":20,"defense":25,"rampSkills":["Defense Boost I","Poison Coating Boost","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Arachnid Bow II","slug":"Arachnid-Bow-II","url":"/Arachnid+Bow+II","type":"bow","attack":150,"element":[],"affinity":20,"defense":25,"rampSkills":["Defense Boost II","Poison Coating Boost","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Arachnid Silversting","slug":"Arachnid-Silversting","url":"/Arachnid+Silversting","type":"bow","attack":190,"element":[],"affinity":20,"defense":25,"rampSkills":["Defense Boost III","Poison Coating Boost","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Rampage Bow I","slug":"Rampage-Bow-I","url":"/Rampage+Bow+I","type":"bow","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Bow II","slug":"Rampage-Bow-II","url":"/Rampage+Bow+II","type":"bow","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Bow III","slug":"Rampage-Bow-III","url":"/Rampage+Bow+III","type":"bow","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Bow IV","slug":"Rampage-Bow-IV","url":"/Rampage+Bow+IV","type":"bow","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Bow V","slug":"Rampage-Bow-V","url":"/Rampage+Bow+V","type":"bow","attack":200,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Abyssal Gale Bow","slug":"Abyssal-Gale-Bow","url":"/Abyssal+Gale+Bow","type":"bow","attack":220,"element":[{"type":"Dragon","attack":15}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost IV","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Abyssal Storm Bow","slug":"Abyssal-Storm-Bow","url":"/Abyssal+Storm+Bow","type":"bow","attack":190,"element":[{"type":"Thunder","attack":35}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Beastking Thunderbow","slug":"Beastking-Thunderbow","url":"/Beastking+Thunderbow","type":"bow","attack":220,"element":[{"type":"Thunder","attack":11}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Thunder Boost II","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Bow of Light & Courage","slug":"Bow-of-Light-and-Courage","url":"/Bow+of+Light+&+Courage","type":"bow","attack":190,"element":[{"type":"Blast","attack":31}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Fireblight Exploit","Teostra Soul"],"slots":[],"rampSlots":[]},{"name":"Daora's Sagittarii","slug":"Daora's-Sagittarii","url":"/Daora's+Sagittarii","type":"bow","attack":180,"element":[{"type":"","attack":37}],"affinity":15,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost III","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Demon's Guidance","slug":"Demon's-Guidance","url":"/Demon's+Guidance","type":"bow","attack":230,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Chameleos Soul"],"slots":[3],"rampSlots":[]},{"name":"Rampage Bow S","slug":"Rampage-Bow-S","url":"/Rampage+Bow+S","type":"bow","attack":210,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Reddnaught Dragon Arc","slug":"Reddnaught-Dragon-Arc","url":"/Reddnaught+Dragon+Arc","type":"bow","attack":180,"element":[{"type":"Dragon","attack":39}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Tyrant Bow","slug":"Tyrant-Bow","url":"/Tyrant+Bow","type":"bow","attack":250,"element":[],"affinity":-20,"defense":15,"rampSkills":["Affinity Boost III","Defense Boost II","Lasting Arc Shot"],"slots":[1],"rampSlots":[]},{"name":"Heaven's Manna","slug":"Heaven's-Manna","url":"/Heaven's+Manna","type":"bow","attack":210,"element":[{"type":"Water","attack":15}],"affinity":10,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Water Boost II"],"slots":[1],"rampSlots":[]},{"name":"Redwing Bow I","slug":"Redwing-Bow-I","url":"/Redwing+Bow+I","type":"bow","attack":170,"element":[{"type":"Dragon","attack":36}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Defender Bow I","slug":"Defender-Bow-I","url":"/Defender+Bow+I","type":"bow","attack":110,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Bow","slug":"Champion-Bow","url":"/Champion+Bow","type":"bow","attack":150,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Bow II","slug":"Champion-Bow-II","url":"/Champion+Bow+II","type":"bow","attack":190,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Bow III","slug":"Champion-Bow-III","url":"/Champion+Bow+III","type":"bow","attack":210,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Guardian Bow","slug":"Guardian-Bow","url":"/Guardian+Bow","type":"bow","attack":230,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Warrior Bow","slug":"Kamura-Warrior-Bow","url":"/Kamura+Warrior+Bow","type":"bow","attack":270,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Kamura Warrior Bow +","slug":"Kamura-Warrior-Bow-+","url":"/Kamura+Warrior+Bow++","type":"bow","attack":320,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Fine Kamura Bow","slug":"Fine-Kamura-Bow","url":"/Fine+Kamura+Bow","type":"bow","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,4],"rampSlots":[2]},{"name":"Duke's Bloodwings","slug":"Duke's-Bloodwings","url":"/Duke's+Bloodwings","type":"bow","attack":330,"element":[{"type":"Dragon","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Araknabuster","slug":"Araknabuster","url":"/Araknabuster","type":"bow","attack":260,"element":[{"type":"Fire","attack":36}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Araknabuster +","slug":"Araknabuster-+","url":"/Araknabuster++","type":"bow","attack":290,"element":[{"type":"Fire","attack":40}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Creeping Darkness","slug":"Creeping-Darkness","url":"/Creeping+Darkness","type":"bow","attack":300,"element":[{"type":"Fire","attack":45}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Koraeil Mesmerbow","slug":"Koraeil-Mesmerbow","url":"/Koraeil+Mesmerbow","type":"bow","attack":290,"element":[{"type":"Blast","attack":30}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Koraeil Mesmerbow +","slug":"Koraeil-Mesmerbow-+","url":"/Koraeil+Mesmerbow++","type":"bow","attack":300,"element":[{"type":"Blast","attack":31}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Cuore Da Lavaater","slug":"Cuore-Da-Lavaater","url":"/Cuore+Da+Lavaater","type":"bow","attack":320,"element":[{"type":"Blast","attack":33}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Heaven's Manna +","slug":"Heaven's-Manna-+","url":"/Heaven's+Manna++","type":"bow","attack":300,"element":[{"type":"Water","attack":19}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Elysian Manna","slug":"Elysian-Manna","url":"/Elysian+Manna","type":"bow","attack":310,"element":[{"type":"Water","attack":23}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Elysian Manna +","slug":"Elysian-Manna-+","url":"/Elysian+Manna++","type":"bow","attack":330,"element":[{"type":"Water","attack":28}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Grand Glowing Oath","slug":"Grand-Glowing-Oath","url":"/Grand+Glowing+Oath","type":"bow","attack":300,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Grand Glowing Oath +","slug":"Grand-Glowing-Oath-+","url":"/Grand+Glowing+Oath++","type":"bow","attack":330,"element":[],"affinity":0,"defense":10,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Exalted Vow","slug":"Exalted-Vow","url":"/Exalted+Vow","type":"bow","attack":350,"element":[],"affinity":0,"defense":10,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Summit's Glory Glow","slug":"Summit's-Glory-Glow","url":"/Summit's+Glory+Glow","type":"bow","attack":290,"element":[{"type":"Blast","attack":12}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Summit's Glory Glow +","slug":"Summit's-Glory-Glow-+","url":"/Summit's+Glory+Glow++","type":"bow","attack":320,"element":[{"type":"Blast","attack":14}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Six Glowing Oaths","slug":"Six-Glowing-Oaths","url":"/Six+Glowing+Oaths","type":"bow","attack":340,"element":[{"type":"Blast","attack":16}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Shade Raid","slug":"Shade-Raid","url":"/Shade+Raid","type":"bow","attack":300,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Shade Raid +","slug":"Shade-Raid-+","url":"/Shade+Raid++","type":"bow","attack":320,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Avidya Bow","slug":"Avidya-Bow","url":"/Avidya+Bow","type":"bow","attack":330,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Flying Kadachi Striker +","slug":"Flying-Kadachi-Striker-+","url":"/Flying+Kadachi+Striker++","type":"bow","attack":250,"element":[{"type":"Thunder","attack":25}],"affinity":15,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Thundering Strikebow","slug":"Thundering-Strikebow","url":"/Thundering+Strikebow","type":"bow","attack":280,"element":[{"type":"Thunder","attack":27}],"affinity":15,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Thundering Strikebow +","slug":"Thundering-Strikebow-+","url":"/Thundering+Strikebow++","type":"bow","attack":330,"element":[{"type":"Thunder","attack":27}],"affinity":15,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Edelmorden","slug":"Edelmorden","url":"/Edelmorden","type":"bow","attack":270,"element":[{"type":"Ice","attack":22}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Edelmorden +","slug":"Edelmorden-+","url":"/Edelmorden++","type":"bow","attack":290,"element":[{"type":"Ice","attack":25}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Amber Arc Valanga","slug":"Amber-Arc-Valanga","url":"/Amber+Arc+Valanga","type":"bow","attack":310,"element":[{"type":"Ice","attack":28}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Hooodwinker's Revolver +","slug":"Hooodwinker's-Revolver-+","url":"/Hooodwinker's+Revolver++","type":"bow","attack":280,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Spith & Venom","slug":"Spith-and-Venom","url":"/Spith+&+Venom","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Arzuros' Honeypot +","slug":"Arzuros'-Honeypot-+","url":"/Arzuros'+Honeypot++","type":"bow","attack":300,"element":[],"affinity":0,"defense":20,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Arzuros' Sweetscent","slug":"Arzuros'-Sweetscent","url":"/Arzuros'+Sweetscent","type":"bow","attack":370,"element":[],"affinity":0,"defense":20,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Hunter's Proudbow +","slug":"Hunter's-Proudbow-+","url":"/Hunter's+Proudbow++","type":"bow","attack":290,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Hunter's Bravebow","slug":"Hunter's-Bravebow","url":"/Hunter's+Bravebow","type":"bow","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Hunter's Bravebow +","slug":"Hunter's-Bravebow-+","url":"/Hunter's+Bravebow++","type":"bow","attack":370,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Thunderstroke Tonnerre","slug":"Thunderstroke-Tonnerre","url":"/Thunderstroke+Tonnerre","type":"bow","attack":280,"element":[{"type":"Thunder","attack":14}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Thunderstroke Tonnerre +","slug":"Thunderstroke-Tonnerre-+","url":"/Thunderstroke+Tonnerre++","type":"bow","attack":310,"element":[{"type":"Thunder","attack":16}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Perkunas","slug":"Perkunas","url":"/Perkunas","type":"bow","attack":340,"element":[{"type":"Thunder","attack":18}],"affinity":30,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Herald's Battlebow +","slug":"Herald's-Battlebow-+","url":"/Herald's+Battlebow++","type":"bow","attack":310,"element":[],"affinity":0,"defense":10,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Harbinger's Battlebow","slug":"Harbinger's-Battlebow","url":"/Harbinger's+Battlebow","type":"bow","attack":350,"element":[],"affinity":0,"defense":10,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Harbinger's Battlebow +","slug":"Harbinger's-Battlebow-+","url":"/Harbinger's+Battlebow++","type":"bow","attack":360,"element":[],"affinity":0,"defense":10,"rampSkills":[],"slots":[1,1],"rampSlots":[3]},{"name":"Sonic Bow","slug":"Sonic-Bow","url":"/Sonic+Bow","type":"bow","attack":240,"element":[{"type":"Thunder","attack":24}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Sonic Bow +","slug":"Sonic-Bow-+","url":"/Sonic+Bow++","type":"bow","attack":290,"element":[{"type":"Thunder","attack":29}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Sonic Resonator","slug":"Sonic-Resonator","url":"/Sonic+Resonator","type":"bow","attack":310,"element":[{"type":"Thunder","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Diamond Dust Bow","slug":"Diamond-Dust-Bow","url":"/Diamond+Dust+Bow","type":"bow","attack":230,"element":[{"type":"Ice","attack":51}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Diamond Dust Bow +","slug":"Diamond-Dust-Bow-+","url":"/Diamond+Dust+Bow++","type":"bow","attack":280,"element":[{"type":"Ice","attack":52}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Heaven's Breath","slug":"Heaven's-Breath","url":"/Heaven's+Breath","type":"bow","attack":300,"element":[{"type":"Ice","attack":53}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Frostmoon Crescentbow","slug":"Frostmoon-Crescentbow","url":"/Frostmoon+Crescentbow","type":"bow","attack":320,"element":[{"type":"Ice","attack":19}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Frostmoon Crescentbow +","slug":"Frostmoon-Crescentbow-+","url":"/Frostmoon+Crescentbow++","type":"bow","attack":330,"element":[{"type":"Ice","attack":20}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Lunoloony Frostbow","slug":"Lunoloony-Frostbow","url":"/Lunoloony+Frostbow","type":"bow","attack":340,"element":[{"type":"Ice","attack":22}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Storm of Mud","slug":"Storm-of-Mud","url":"/Storm+of+Mud","type":"bow","attack":260,"element":[{"type":"Water","attack":40}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Storm of Mud +","slug":"Storm-of-Mud-+","url":"/Storm+of+Mud++","type":"bow","attack":290,"element":[{"type":"Water","attack":46}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Tornado of Mud","slug":"Tornado-of-Mud","url":"/Tornado+of+Mud","type":"bow","attack":310,"element":[{"type":"Water","attack":52}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Welding Rust","slug":"Welding-Rust","url":"/Welding+Rust","type":"bow","attack":280,"element":[{"type":"Fire","attack":45}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Welding Rust +","slug":"Welding-Rust-+","url":"/Welding+Rust++","type":"bow","attack":290,"element":[{"type":"Fire","attack":49}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Welded Trinity","slug":"Welded-Trinity","url":"/Welded+Trinity","type":"bow","attack":310,"element":[{"type":"Fire","attack":54}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Queen's Melody +","slug":"Queen's-Melody-+","url":"/Queen's+Melody++","type":"bow","attack":260,"element":[{"type":"Fire","attack":24}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Queen's Rhapsody","slug":"Queen's-Rhapsody","url":"/Queen's+Rhapsody","type":"bow","attack":310,"element":[{"type":"Fire","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Queen's Rhapsody +","slug":"Queen's-Rhapsody-+","url":"/Queen's+Rhapsody++","type":"bow","attack":330,"element":[{"type":"Fire","attack":41}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[3]},{"name":"Rosenbogen","slug":"Rosenbogen","url":"/Rosenbogen","type":"bow","attack":310,"element":[{"type":"Fire","attack":11}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Rosenbogen +","slug":"Rosenbogen-+","url":"/Rosenbogen++","type":"bow","attack":320,"element":[{"type":"Fire","attack":13}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Rosenzichel","slug":"Rosenzichel","url":"/Rosenzichel","type":"bow","attack":330,"element":[{"type":"Fire","attack":15}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Dark Filament +","slug":"Dark-Filament-+","url":"/Dark+Filament++","type":"bow","attack":330,"element":[{"type":"Fire","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Flamestroke Flam","slug":"Flamestroke-Flam","url":"/Flamestroke+Flam","type":"bow","attack":350,"element":[{"type":"Fire","attack":34}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Kulu Piercer +","slug":"Kulu-Piercer-+","url":"/Kulu+Piercer++","type":"bow","attack":260,"element":[],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Kulu Katolos Piercer","slug":"Kulu-Katolos-Piercer","url":"/Kulu+Katolos+Piercer","type":"bow","attack":340,"element":[],"affinity":30,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Galvanized Core +","slug":"Galvanized-Core-+","url":"/Galvanized+Core++","type":"bow","attack":260,"element":[{"type":"Thunder","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Khezu Que C'est","slug":"Khezu-Que-C'est","url":"/Khezu+Que+C'est","type":"bow","attack":290,"element":[{"type":"Thunder","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Khezu Que C'est +","slug":"Khezu-Que-C'est-+","url":"/Khezu+Que+C'est++","type":"bow","attack":330,"element":[{"type":"Thunder","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Master Hunter's Bow +--","slug":"Master-Hunter's-Bow-+","url":"/Master+Hunter's+Bow++","type":"bow","attack":290,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Sharpshooter--","slug":"Sharpshooter","url":"/Sharpshooter","type":"bow","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Sharpshooter +--","slug":"Sharpshooter-+","url":"/Sharpshooter++","type":"bow","attack":380,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Shalya Bow","slug":"Shalya-Bow","url":"/Shalya+Bow","type":"bow","attack":340,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Shalya Bow +","slug":"Shalya-Bow-+","url":"/Shalya+Bow++","type":"bow","attack":360,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Insurgent Bow","slug":"Insurgent-Bow","url":"/Insurgent+Bow","type":"bow","attack":380,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Daimyo's Warbow","slug":"Daimyo's-Warbow","url":"/Daimyo's+Warbow","type":"bow","attack":240,"element":[{"type":"Water","attack":16}],"affinity":0,"defense":30,"rampSkills":[],"slots":[4],"rampSlots":[3]},{"name":"Daimyo's Warbow +","slug":"Daimyo's-Warbow-+","url":"/Daimyo's+Warbow++","type":"bow","attack":290,"element":[{"type":"Water","attack":19}],"affinity":0,"defense":30,"rampSkills":[],"slots":[4],"rampSlots":[3]},{"name":"Chelae Warbow","slug":"Chelae-Warbow","url":"/Chelae+Warbow","type":"bow","attack":340,"element":[{"type":"Water","attack":23}],"affinity":0,"defense":30,"rampSkills":[],"slots":[1,2,4],"rampSlots":[3]},{"name":"Blue Blade Bow","slug":"Blue-Blade-Bow","url":"/Blue+Blade+Bow","type":"bow","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Blue Blade Bow +","slug":"Blue-Blade-Bow-+","url":"/Blue+Blade+Bow++","type":"bow","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Showroom Model","slug":"Showroom-Model","url":"/Showroom+Model","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Tigrex Whisker +--","slug":"Tigrex-Whisker-+","url":"/Tigrex+Whisker++","type":"bow","attack":360,"element":[],"affinity":-25,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Tigrex Vibrissa--","slug":"Tigrex-Vibrissa","url":"/Tigrex+Vibrissa","type":"bow","attack":380,"element":[],"affinity":-25,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Tigrex Vibrissa +--","slug":"Tigrex-Vibrissa-+","url":"/Tigrex+Vibrissa++","type":"bow","attack":400,"element":[],"affinity":-25,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Tyrant Bow +","slug":"Tyrant-Bow-+","url":"/Tyrant+Bow++","type":"bow","attack":360,"element":[],"affinity":-20,"defense":15,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"The Terrible","slug":"The-Terrible","url":"/The+Terrible","type":"bow","attack":370,"element":[],"affinity":-20,"defense":15,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"The Terrible +","slug":"The-Terrible-+","url":"/The+Terrible++","type":"bow","attack":null,"element":[],"affinity":-15,"defense":15,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Despot's Earlybolt +","slug":"Despot's-Earlybolt-+","url":"/Despot's+Earlybolt++","type":"bow","attack":320,"element":[{"type":"Thunder","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Oppressor's Answer","slug":"Oppressor's-Answer","url":"/Oppressor's+Answer","type":"bow","attack":340,"element":[{"type":"Thunder","attack":35}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Venomtongue Strike +","slug":"Venomtongue-Strike-+","url":"/Venomtongue+Strike++","type":"bow","attack":310,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Venomtongue Absolute","slug":"Venomtongue-Absolute","url":"/Venomtongue+Absolute","type":"bow","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Venomtongue Absolute +","slug":"Venomtongue-Absolute-+","url":"/Venomtongue+Absolute++","type":"bow","attack":380,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Flaming Rage Bow +","slug":"Flaming-Rage-Bow-+","url":"/Flaming+Rage+Bow++","type":"bow","attack":290,"element":[{"type":"Fire","attack":13}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Lohenbogen","slug":"Lohenbogen","url":"/Lohenbogen","type":"bow","attack":340,"element":[{"type":"Fire","attack":17}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Lohenbogen +","slug":"Lohenbogen-+","url":"/Lohenbogen++","type":"bow","attack":360,"element":[{"type":"Fire","attack":20}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Porifera Bow +","slug":"Porifera-Bow-+","url":"/Porifera+Bow++","type":"bow","attack":220,"element":[{"type":"Water","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Drothdymion","slug":"Drothdymion","url":"/Drothdymion","type":"bow","attack":290,"element":[{"type":"Water","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Drothdymion +","slug":"Drothdymion-+","url":"/Drothdymion++","type":"bow","attack":330,"element":[{"type":"Water","attack":37}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Golm Bone Bow","slug":"Golm-Bone-Bow","url":"/Golm+Bone+Bow","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Golm Bone Bow +","slug":"Golm-Bone-Bow-+","url":"/Golm+Bone+Bow++","type":"bow","attack":380,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,3],"rampSlots":[3]},{"name":"Gorboza Bow","slug":"Gorboza-Bow","url":"/Gorboza+Bow","type":"bow","attack":410,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,4],"rampSlots":[3]},{"name":"Hypnoshot +","slug":"Hypnoshot-+","url":"/Hypnoshot++","type":"bow","attack":290,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Grand Deepdraw","slug":"Grand-Deepdraw","url":"/Grand+Deepdraw","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Arko Du Black","slug":"Arko-Du-Black","url":"/Arko+Du+Black","type":"bow","attack":270,"element":[{"type":"Dragon","attack":30}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Arko Tre Black","slug":"Arko-Tre-Black","url":"/Arko+Tre+Black","type":"bow","attack":310,"element":[{"type":"Dragon","attack":35}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Arko Du Yellow","slug":"Arko-Du-Yellow","url":"/Arko+Du+Yellow","type":"bow","attack":240,"element":[{"type":"Thunder","attack":33}],"affinity":15,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Arko Tre Yellow","slug":"Arko-Tre-Yellow","url":"/Arko+Tre+Yellow","type":"bow","attack":310,"element":[{"type":"Thunder","attack":37}],"affinity":15,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Arko Du Red","slug":"Arko-Du-Red","url":"/Arko+Du+Red","type":"bow","attack":230,"element":[{"type":"Fire","attack":29}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Arko Tre Red","slug":"Arko-Tre-Red","url":"/Arko+Tre+Red","type":"bow","attack":240,"element":[{"type":"Fire","attack":32}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Arko Kvar Red","slug":"Arko-Kvar-Red","url":"/Arko+Kvar+Red","type":"bow","attack":310,"element":[{"type":"Fire","attack":34}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Arko Du White","slug":"Arko-Du-White","url":"/Arko+Du+White","type":"bow","attack":240,"element":[{"type":"Ice","attack":30}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Arko Tre White","slug":"Arko-Tre-White","url":"/Arko+Tre+White","type":"bow","attack":250,"element":[{"type":"Ice","attack":33}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Arko Kvar White","slug":"Arko-Kvar-White","url":"/Arko+Kvar+White","type":"bow","attack":320,"element":[{"type":"Ice","attack":39}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Sinister Soulpiercer +","slug":"Sinister-Soulpiercer-+","url":"/Sinister+Soulpiercer++","type":"bow","attack":300,"element":[{"type":"Blast","attack":21}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Mighty Soulpiercer","slug":"Mighty-Soulpiercer","url":"/Mighty+Soulpiercer","type":"bow","attack":330,"element":[{"type":"Blast","attack":23}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Entbehrung","slug":"Entbehrung","url":"/Entbehrung","type":"bow","attack":310,"element":[{"type":"Dragon","attack":12}],"affinity":25,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Entbehrung +","slug":"Entbehrung-+","url":"/Entbehrung++","type":"bow","attack":320,"element":[{"type":"Dragon","attack":13}],"affinity":25,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Untergang","slug":"Untergang","url":"/Untergang","type":"bow","attack":330,"element":[{"type":"Dragon","attack":23}],"affinity":25,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Le Ravisseur--","slug":"Le-Ravisseur","url":"/Le+Ravisseur","type":"bow","attack":300,"element":[{"type":"Dragon","attack":19}],"affinity":40,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"L'Innocence--","slug":"L'Innocence","url":"/L'Innocence","type":"bow","attack":310,"element":[{"type":"Dragon","attack":30}],"affinity":40,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Kelbi Deershot","slug":"Kelbi-Deershot","url":"/Kelbi+Deershot","type":"bow","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[2]},{"name":"Great Kelbi Deershot","slug":"Great-Kelbi-Deershot","url":"/Great+Kelbi+Deershot","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[2]},{"name":"Beastking Thunderbow +","slug":"Beastking-Thunderbow-+","url":"/Beastking+Thunderbow++","type":"bow","attack":350,"element":[{"type":"Thunder","attack":14}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[1]},{"name":"Beastczar Thunderbow","slug":"Beastczar-Thunderbow","url":"/Beastczar+Thunderbow","type":"bow","attack":360,"element":[{"type":"Thunder","attack":16}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[1]},{"name":"Archbeast Avatar--","slug":"Archbeast-Avatar","url":"/Archbeast+Avatar","type":"bow","attack":350,"element":[{"type":"Thunder","attack":11}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Skyriven Nightfall--","slug":"Skyriven-Nightfall","url":"/Skyriven+Nightfall","type":"bow","attack":350,"element":[{"type":"Dragon","attack":16}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Skyriven Dawn","slug":"Skyriven-Dawn","url":"/Skyriven+Dawn","type":"bow","attack":310,"element":[{"type":"Thunder","attack":48}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Daora's Sagittarii +","slug":"Daora's-Sagittarii-+","url":"/Daora's+Sagittarii++","type":"bow","attack":300,"element":[{"type":"Ice","attack":40}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Daora's Toxotes","slug":"Daora's-Toxotes","url":"/Daora's+Toxotes","type":"bow","attack":310,"element":[{"type":"Ice","attack":43}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Bow of Light & Courage +","slug":"Bow-of-Light-and-Courage-+","url":"/Bow+of+Light+&+Courage++","type":"bow","attack":310,"element":[{"type":"Blast","attack":40}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Bow of Want & Blood","slug":"Bow-of-Want-and-Blood","url":"/Bow+of+Want+and+Blood","type":"bow","attack":330,"element":[{"type":"Blast","attack":49}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Demon's Guidance +","slug":"Demon's-Guidance-+","url":"/Demon's+Guidance++","type":"bow","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Devil's Counsel","slug":"Devil's-Counsel","url":"/Devil's+Counsel","type":"bow","attack":370,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Crimson Plume","slug":"Crimson-Plume","url":"/Crimson+Plume","type":"bow","attack":310,"element":[{"type":"Dragon","attack":48}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Abyssal Void--","slug":"Abyssal-Void","url":"/Abyssal+Void","type":"bow","attack":360,"element":[{"type":"Dragon","attack":12}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Felyne Trickbow +","slug":"Felyne-Trickbow-+","url":"/Felyne+Trickbow++","type":"bow","attack":350,"element":[],"affinity":-15,"defense":25,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Hoodwynk","slug":"Hoodwynk","url":"/Hoodwynk","type":"bow","attack":360,"element":[],"affinity":-15,"defense":29,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Chaotic Rapture +","slug":"Chaotic-Rapture-+","url":"/Chaotic+Rapture++","type":"bow","attack":290,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Chaotic Thrall","slug":"Chaotic-Thrall","url":"/Chaotic+Thrall","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Frozen Bow +","slug":"Frozen-Bow-+","url":"/Frozen+Bow++","type":"bow","attack":270,"element":[],"affinity":30,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Frozen Solstice","slug":"Frozen-Solstice","url":"/Frozen+Solstice","type":"bow","attack":340,"element":[],"affinity":30,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Arachnid Sheerstrike--","slug":"Arachnid-Sheerstrike","url":"/Arachnid+Sheerstrike","type":"bow","attack":310,"element":[],"affinity":20,"defense":25,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Arachnid Silksong","slug":"Arachnid-Silksong","url":"/Arachnid+Silksong","type":"bow","attack":350,"element":[],"affinity":20,"defense":25,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Royal Order's Bow","slug":"Royal-Order's-Bow","url":"/Royal+Order's+Bow","type":"bow","attack":330,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Royal Order's Bow +","slug":"Royal-Order's-Bow-+","url":"/Royal+Order's+Bow++","type":"bow","attack":350,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Antique Machina B","slug":"Antique-Machina-B","url":"/Antique+Machina+B","type":"bow","attack":340,"element":[{"type":"Water","attack":12}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Ample Bowfish +","slug":"Ample-Bowfish-+","url":"/Ample+Bowfish++","type":"bow","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Viand Bowfish","slug":"Viand-Bowfish","url":"/Viand+Bowfish","type":"bow","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]}]
+[
+  {
+    "name": "Kamura Iron Bow I",
+    "slug": "Kamura-Iron-Bow-I",
+    "url": "/Kamura+Iron+Bow+I",
+    "type": "bow",
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Iron Bow II",
+    "slug": "Kamura-Iron-Bow-II",
+    "url": "/Kamura+Iron+Bow+II",
+    "type": "bow",
+    "attack": 70,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Iron Bow III",
+    "slug": "Kamura-Iron-Bow-III",
+    "url": "/Kamura+Iron+Bow+III",
+    "type": "bow",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Iron Bow IV",
+    "slug": "Kamura-Iron-Bow-IV",
+    "url": "/Kamura+Iron+Bow+IV",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Iron Bow V",
+    "slug": "Kamura-Iron-Bow-V",
+    "url": "/Kamura+Iron+Bow+V",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Ninja Bow",
+    "slug": "Kamura-Ninja-Bow",
+    "url": "/Kamura+Ninja+Bow",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Weaver of Flame I",
+    "slug": "Weaver-of-Flame-I",
+    "url": "/Weaver+of+Flame+I",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Weaver of Flame II",
+    "slug": "Weaver-of-Flame-II",
+    "url": "/Weaver+of++Flame+II",
+    "type": "bow",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Araknatorch",
+    "slug": "Araknatorch",
+    "url": "/Araknatorch",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 33
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Blessed Rain I",
+    "slug": "Blessed-Rain-I",
+    "url": "/Blessed+Rain+I",
+    "type": "bow",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 11
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Water Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Blessed Rain II",
+    "slug": "Blessed-Rain-II",
+    "url": "/Blessed+Rain+II",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Water Boost I"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Dawn Ray Bow I",
+    "slug": "Dawn-Ray-Bow-I",
+    "url": "/Dawn+Ray+Bow+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Lasting Arc Shot",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Dawn Ray Bow II",
+    "slug": "Dawn-Ray-Bow-II",
+    "url": "/Dawn+Ray+Bow+II",
+    "type": "bow",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost II",
+      "Lasting Arc Shot",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Summit's Grand Glow",
+    "slug": "Summit's-Grand-Glow",
+    "url": "/Summit's+Grand+Glow",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost",
+      "Lasting Arc Shot",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Bow I",
+    "slug": "Hidden-Bow-I",
+    "url": "/Hidden+Bow+I",
+    "type": "bow",
+    "attack": 130,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Lasting Arc Shot"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Bow II",
+    "slug": "Hidden-Bow-II",
+    "url": "/Hidden+Bow+II",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Night Flight",
+    "slug": "Night-Flight",
+    "url": "/Night+Flight",
+    "type": "bow",
+    "attack": 210,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Strikebow I",
+    "slug": "Kadachi-Strikebow-I",
+    "url": "/Kadachi+Strikebow+I",
+    "type": "bow",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Strikebow II",
+    "slug": "Kadachi-Strikebow-II",
+    "url": "/Kadachi+Strikebow+II",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Strikebow III",
+    "slug": "Kadachi-Strikebow-III",
+    "url": "/Kadachi+Strikebow+III",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flying Kadachi Striker",
+    "slug": "Flying-Kadachi-Striker",
+    "url": "/Flying+Kadachi+Striker",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Thunder Boost III"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ice Crest I",
+    "slug": "Ice-Crest-I",
+    "url": "/Ice+Crest+I",
+    "type": "bow",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 14
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ice Crest II",
+    "slug": "Ice-Crest-II",
+    "url": "/Ice+Crest+II",
+    "type": "bow",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ice Crest III",
+    "slug": "Ice-Crest-III",
+    "url": "/Ice+Crest+III",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Edelweiss",
+    "slug": "Edelweiss",
+    "url": "/Edelweiss",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 19
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wroggi Revolver I",
+    "slug": "Wroggi-Revolver-I",
+    "url": "/Wroggi+Revolver+I",
+    "type": "bow",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Lasting Arc Shot",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wroggi Revolver II",
+    "slug": "Wroggi-Revolver-II",
+    "url": "/Wroggi+Revolver+II",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Lasting Arc Shot",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hoodwinker's Revolver",
+    "slug": "Hoodwinker's-Revolver",
+    "url": "/Hoodwinker's+Revolver",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Lasting Arc Shot",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arzuros Bow I",
+    "slug": "Arzuros-Bow-I",
+    "url": "/Arzuros+Bow+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost I",
+      "Defense Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arzuros Bow II",
+    "slug": "Arzuros-Bow-II",
+    "url": "/Arzuros+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arzuros' Honeypot",
+    "slug": "Arzuros'-Honeypot",
+    "url": "/Arzuros'+Honeypot",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Bow I",
+    "slug": "Iron-Bow-I",
+    "url": "/Iron+Bow+I",
+    "type": "bow",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Bow II",
+    "slug": "Iron-Bow-II",
+    "url": "/Iron+Bow+II",
+    "type": "bow",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Steel Bow",
+    "slug": "Steel-Bow",
+    "url": "/Steel+Bow",
+    "type": "bow",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Stoutbow I",
+    "slug": "Hunter's-Stoutbow-I",
+    "url": "/Hunter's+Stoutbow+I",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Stoutbow II",
+    "slug": "Hunter's-Stoutbow-II",
+    "url": "/Hunter's+Stoutbow++II",
+    "type": "bow",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Prodbow",
+    "slug": "Hunter's-Prodbow",
+    "url": "/Hunter's+Prodbow",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Yekla Arc I",
+    "slug": "Yekla-Arc-I",
+    "url": "/Yekla+Arc+I",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Yekla Arc II",
+    "slug": "Yekla-Arc-II",
+    "url": "/Yekla+Arc+II",
+    "type": "bow",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 8,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Herald's Battlebow",
+    "slug": "Herald's-Battlebow",
+    "url": "/Herald's+Battlebow",
+    "type": "bow",
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Master Rider"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Crystalline Flower I",
+    "slug": "Crystalline-Flower-I",
+    "url": "/Crystalline+Flower+I",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Crystalline Flower II",
+    "slug": "Crystalline-Flower-II",
+    "url": "/Crystalline+Flower+II",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Heaven's Glaze",
+    "slug": "Heaven's-Glaze",
+    "url": "/Heaven's+Glaze",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mud Shot I",
+    "slug": "Mud-Shot-I",
+    "url": "/Mud+Shot+I",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Mud Shot II",
+    "slug": "Mud-Shot-II",
+    "url": "/Mud+Shot+II",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hail of Mud",
+    "slug": "Hail-of-Mud",
+    "url": "/Hail+of+Mud",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Queen Blaster I",
+    "slug": "Queen-Blaster-I",
+    "url": "/Queen+Blaster+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": null
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Queen Blaster II",
+    "slug": "Queen-Blaster-II",
+    "url": "/Queen+Blaster+II",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Queen's Melody",
+    "slug": "Queen's-Melody",
+    "url": "/Queen's+Melody",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Prominence Bow I",
+    "slug": "Prominence-Bow-I",
+    "url": "/Prominence+Bow+I",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Prominence Bow II",
+    "slug": "Prominence-Bow-II",
+    "url": "/Prominence+Bow+II",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Dark Filament",
+    "slug": "Dark-Filament",
+    "url": "/Dark+Filament",
+    "type": "bow",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu's Flight I",
+    "slug": "Kulu's-Flight-I",
+    "url": "/Kulu's+Flight+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Coating Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu's Flight II",
+    "slug": "Kulu's-Flight-II",
+    "url": "/Kulu's+Flight+II",
+    "type": "bow",
+    "attack": 130,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Coating Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Piercer",
+    "slug": "Kulu-Piercer",
+    "url": "/Kulu+Piercer",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Coating Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Khezu Bow I",
+    "slug": "Khezu-Bow-I",
+    "url": "/Khezu+Bow+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Khezu Bow II",
+    "slug": "Khezu-Bow-II",
+    "url": "/Khezu+Bow+II",
+    "type": "bow",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Galvanized Core",
+    "slug": "Galvanized-Core",
+    "url": "/Galvanized+Core",
+    "type": "bow",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Gun I",
+    "slug": "Bone-Gun-I",
+    "url": "/Bone+Gun+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Gun II",
+    "slug": "Bone-Gun-II",
+    "url": "/Bone+Gun+II",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hyper Bone Gun",
+    "slug": "Hyper-Bone-Gun",
+    "url": "/Hyper+Bone+Gun",
+    "type": "bow",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Bow I",
+    "slug": "Hunter's-Bow-I",
+    "url": "/Hunter's+Bow+I",
+    "type": "bow",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Poison Coating Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Bow II",
+    "slug": "Hunter's-Bow-II",
+    "url": "/Hunter's+Bow+II",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Poison Coating Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Master Hunter's Bow",
+    "slug": "Master-Hunter's-Bow",
+    "url": "/Master+Hunter's+Bow",
+    "type": "bow",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Poison Coating Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Archer I-",
+    "slug": "Tigrex-Archer-I",
+    "url": "/Tigrex+Archer+I",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Archer II",
+    "slug": "Tigrex-Archer-II",
+    "url": "/Tigrex+Archer+II",
+    "type": "bow",
+    "attack": 240,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Whisker",
+    "slug": "Tigrex-Whisker",
+    "url": "/Tigrex+Whisker",
+    "type": "bow",
+    "attack": 250,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Coilbender I",
+    "slug": "Diablos-Coilbender-I",
+    "url": "/Diablos+Coilbender+I",
+    "type": "bow",
+    "attack": 230,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Coilbender II",
+    "slug": "Diablos-Coilbender-II",
+    "url": "/Diablos+Coilbender+II",
+    "type": "bow",
+    "attack": 240,
+    "element": [],
+    "affinity": -20,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Rumble I",
+    "slug": "Usurper's-Rumble-I",
+    "url": "/Usurper's+Rumble+I",
+    "type": "bow",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Rumble II",
+    "slug": "Usurper's-Rumble-II",
+    "url": "/Usurper's+Rumble+II",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Despot's Earlybolt",
+    "slug": "Despot's-Earlybolt",
+    "url": "/Despot's+Earlybolt",
+    "type": "bow",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Bow I",
+    "slug": "Pukei-Bow-I",
+    "url": "/Pukei+Bow+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Bow II",
+    "slug": "Pukei-Bow-II",
+    "url": "/Pukei+Bow+II",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Venomtongue Strike",
+    "slug": "Venomtongue-Strike",
+    "url": "/Venomtongue+Strike",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenbogen I",
+    "slug": "Flammenbogen-I",
+    "url": "/Flammenbogen+I",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 5
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenbongen II",
+    "slug": "Flammenbongen-II",
+    "url": "/Flammenbongen+II",
+    "type": "bow",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 7
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Flaming Rage Bow",
+    "slug": "Flaming-Rage-Bow",
+    "url": "/Flaming+Rage+Bow",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 9
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Spongia Bow I",
+    "slug": "Spongia-Bow-I",
+    "url": "/Spongia+Bow+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Spongia Bow II",
+    "slug": "Spongia-Bow-II",
+    "url": "/Spongia+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Spongia Bow III",
+    "slug": "Spongia-Bow-III",
+    "url": "/Spongia+Bow+III",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Porifero Bow",
+    "slug": "Porifero-Bow",
+    "url": "/Porifero+Bow",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Baggi Bow I",
+    "slug": "Baggi-Bow-I",
+    "url": "/Baggi+Bow+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Poison Coating Boost",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Baggi Bow II",
+    "slug": "Baggi-Bow-II",
+    "url": "/Baggi+Bow+II",
+    "type": "bow",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Coating Boost",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hypnoshot",
+    "slug": "Hypnoshot",
+    "url": "/Hypnoshot",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Coating Boost",
+      "Buddy Rally"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo I",
+    "slug": "Arko-Nulo-I",
+    "url": "/Arko+Nulo+I",
+    "type": "bow",
+    "attack": 80,
+    "element": [],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo II",
+    "slug": "Arko-Nulo-II",
+    "url": "/Arko+Nulo+II",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Unu",
+    "slug": "Arko-Unu",
+    "url": "/Arko+Unu",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Black I",
+    "slug": "Arko-Nulo-Black-I",
+    "url": "/Arko+Nulo+Black+I",
+    "type": "bow",
+    "attack": 160,
+    "element": [
+      {
+        "type": " Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Black II",
+    "slug": "Arko-Nulo-Black-II",
+    "url": "/Arko+Nulo+Black+II",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 21
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulu Black",
+    "slug": "Arko-Nulu-Black",
+    "url": "/Arko+Nulu+Black",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Yellow I",
+    "slug": "Arko-Nulo-Yellow-I",
+    "url": "/Arko+Nulo+Yellow+I",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Yellow II",
+    "slug": "Arko-Nulo-Yellow-II",
+    "url": "/Arko+Nulo+Yellow+II",
+    "type": "bow",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Unu Yellow",
+    "slug": "Arko-Unu-Yellow",
+    "url": "/Arko+Unu+Yellow",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Red I",
+    "slug": "Arko-Nulo-Red-I",
+    "url": "/Arko+Nulo+Red+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo Red II",
+    "slug": "Arko-Nulo-Red-II",
+    "url": "/Arko+Nulo+Red+II",
+    "type": "bow",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 26
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Unu Red",
+    "slug": "Arko-Unu-Red",
+    "url": "/Arko+Unu+Red",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 28
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo White I",
+    "slug": "Arko-Nulo-White-I",
+    "url": "/Arko+Nulo+White+I",
+    "type": "bow",
+    "attack": 80,
+    "element": [
+      {
+        "type": "",
+        "attack": 20
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost I",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Nulo White II",
+    "slug": "Arko-Nulo-White-II",
+    "url": "/Arko+Nulo+White+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "",
+        "attack": 24
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost I",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arko Unu White",
+    "slug": "Arko-Unu-White",
+    "url": "/Arko+Unu+White",
+    "type": "bow",
+    "attack": 160,
+    "element": [
+      {
+        "type": "",
+        "attack": 26
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Bow I",
+    "slug": "Sinister-Bow-I",
+    "url": "/Sinister+Bow+I",
+    "type": "bow",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Bow II",
+    "slug": "Sinister-Bow-II",
+    "url": "/Sinister+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Soulpiercer",
+    "slug": "Sinister-Soulpiercer",
+    "url": "/Sinister+Soulpiercer",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kelbi Stingshot I",
+    "slug": "Kelbi-Stingshot-I",
+    "url": "/Kelbi+Stingshot+I",
+    "type": "bow",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Lasting Arc Shot",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kelbi Stingshot II",
+    "slug": "Kelbi-Stingshot-II",
+    "url": "/Kelbi+Stingshot+II",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Lasting Arc Shot",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kelbi Strongshot",
+    "slug": "Kelbi-Strongshot",
+    "url": "/Kelbi+Strongshot",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Lasting Arc Shot",
+      "Paralysis Coating Boost"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Beast Thunderbow I",
+    "slug": "Beast-Thunderbow-I",
+    "url": "/Beast+Thunderbow+I",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Beast Thunderbow II",
+    "slug": "Beast-Thunderbow-II",
+    "url": "/Beast+Thunderbow+II",
+    "type": "bow",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Bow I",
+    "slug": "Azure-Elder-Bow-I",
+    "url": "/Azure+Elder+Bow+I",
+    "type": "bow",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Bow II",
+    "slug": "Azure-Elder-Bow-II",
+    "url": "/Azure+Elder+Bow+II",
+    "type": "bow",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Thunderbolt Bow I",
+    "slug": "Thunderbolt-Bow-I",
+    "url": "/Thunderbolt+Bow+I",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Icesteel Bow I",
+    "slug": "Icesteel-Bow-I",
+    "url": "/Icesteel+Bow+I",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "",
+        "attack": 30
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bow of Hope & Valor I",
+    "slug": "Bow-of-Hope-and-Valor-I",
+    "url": "/Bow+of+Hope+&+Valor+I",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Genie's Grimoire I",
+    "slug": "Genie's-Grimoire-I",
+    "url": "/Genie's+Grimoire+I",
+    "type": "bow",
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Morsel Bowfish I",
+    "slug": "Morsel-Bowfish-I",
+    "url": "/Morsel+Bowfish+I",
+    "type": "bow",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Master Rider",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Morsel Bowfish II",
+    "slug": "Morsel-Bowfish-II",
+    "url": "/Morsel+Bowfish+II",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Master Rider",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ample Bowfish",
+    "slug": "Ample-Bowfish",
+    "url": "/Ample+Bowfish",
+    "type": "bow",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Master Rider",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Felyne Bow I",
+    "slug": "Felyne-Bow-I",
+    "url": "/Felyne+Bow+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": -15,
+    "defense": 2,
+    "rampSkills": [
+      "Attack Boost I",
+      "Brutal Strike",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Felyne Bow II",
+    "slug": "Felyne-Bow-II",
+    "url": "/Felyne+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": -15,
+    "defense": 9,
+    "rampSkills": [
+      "Attack Boost II",
+      "Brutal Strike",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Felyne Trickbow",
+    "slug": "Felyne-Trickbow",
+    "url": "/Felyne+Trickbow",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": -15,
+    "defense": 18,
+    "rampSkills": [
+      "Attack Boost III",
+      "Brutal Strike",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Chaos Bow I",
+    "slug": "Chaos-Bow-I",
+    "url": "/Chaos+Bow+I",
+    "type": "bow",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Lasting Arc Shot",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Chaos Bow II",
+    "slug": "Chaos-Bow-II",
+    "url": "/Chaos+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Lasting Arc Shot",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Chaotic Rapture",
+    "slug": "Chaotic-Rapture",
+    "url": "/Chaotic+Rapture",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Lasting Arc Shot",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Ivory Bow I",
+    "slug": "Ivory-Bow-I",
+    "url": "/Ivory+Bow+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ivory Bow II",
+    "slug": "Ivory-Bow-II",
+    "url": "/Ivory+Bow+II",
+    "type": "bow",
+    "attack": 140,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frozen Bow",
+    "slug": "Frozen-Bow",
+    "url": "/Frozen+Bow",
+    "type": "bow",
+    "attack": 170,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Arachnid Bow I",
+    "slug": "Arachnid-Bow-I",
+    "url": "/Arachnid+Bow+I",
+    "type": "bow",
+    "attack": 90,
+    "element": [],
+    "affinity": 20,
+    "defense": 25,
+    "rampSkills": [
+      "Defense Boost I",
+      "Poison Coating Boost",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arachnid Bow II",
+    "slug": "Arachnid-Bow-II",
+    "url": "/Arachnid+Bow+II",
+    "type": "bow",
+    "attack": 150,
+    "element": [],
+    "affinity": 20,
+    "defense": 25,
+    "rampSkills": [
+      "Defense Boost II",
+      "Poison Coating Boost",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Arachnid Silversting",
+    "slug": "Arachnid-Silversting",
+    "url": "/Arachnid+Silversting",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 20,
+    "defense": 25,
+    "rampSkills": [
+      "Defense Boost III",
+      "Poison Coating Boost",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow I",
+    "slug": "Rampage-Bow-I",
+    "url": "/Rampage+Bow+I",
+    "type": "bow",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow II",
+    "slug": "Rampage-Bow-II",
+    "url": "/Rampage+Bow+II",
+    "type": "bow",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow III",
+    "slug": "Rampage-Bow-III",
+    "url": "/Rampage+Bow+III",
+    "type": "bow",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow IV",
+    "slug": "Rampage-Bow-IV",
+    "url": "/Rampage+Bow+IV",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow V",
+    "slug": "Rampage-Bow-V",
+    "url": "/Rampage+Bow+V",
+    "type": "bow",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Bow",
+    "slug": "Abyssal-Gale-Bow",
+    "url": "/Abyssal+Gale+Bow",
+    "type": "bow",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Bow",
+    "slug": "Abyssal-Storm-Bow",
+    "url": "/Abyssal+Storm+Bow",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Beastking Thunderbow",
+    "slug": "Beastking-Thunderbow",
+    "url": "/Beastking+Thunderbow",
+    "type": "bow",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bow of Light & Courage",
+    "slug": "Bow-of-Light-and-Courage",
+    "url": "/Bow+of+Light+&+Courage",
+    "type": "bow",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Sagittarii",
+    "slug": "Daora's-Sagittarii",
+    "url": "/Daora's+Sagittarii",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "",
+        "attack": 37
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Demon's Guidance",
+    "slug": "Demon's-Guidance",
+    "url": "/Demon's+Guidance",
+    "type": "bow",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Bow S",
+    "slug": "Rampage-Bow-S",
+    "url": "/Rampage+Bow+S",
+    "type": "bow",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Dragon Arc",
+    "slug": "Reddnaught-Dragon-Arc",
+    "url": "/Reddnaught+Dragon+Arc",
+    "type": "bow",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Tyrant Bow",
+    "slug": "Tyrant-Bow",
+    "url": "/Tyrant+Bow",
+    "type": "bow",
+    "attack": 250,
+    "element": [],
+    "affinity": -20,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Lasting Arc Shot"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Heaven's Manna",
+    "slug": "Heaven's-Manna",
+    "url": "/Heaven's+Manna",
+    "type": "bow",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Redwing Bow I",
+    "slug": "Redwing-Bow-I",
+    "url": "/Redwing+Bow+I",
+    "type": "bow",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Defender Bow I",
+    "slug": "Defender-Bow-I",
+    "url": "/Defender+Bow+I",
+    "type": "bow",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Bow",
+    "slug": "Champion-Bow",
+    "url": "/Champion+Bow",
+    "type": "bow",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Bow II",
+    "slug": "Champion-Bow-II",
+    "url": "/Champion+Bow+II",
+    "type": "bow",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Bow III",
+    "slug": "Champion-Bow-III",
+    "url": "/Champion+Bow+III",
+    "type": "bow",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Bow",
+    "slug": "Guardian-Bow",
+    "url": "/Guardian+Bow",
+    "type": "bow",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Warrior Bow",
+    "slug": "Kamura-Warrior-Bow",
+    "url": "/Kamura+Warrior+Bow",
+    "type": "bow",
+    "attack": 270,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Bow +",
+    "slug": "Kamura-Warrior-Bow-+",
+    "url": "/Kamura+Warrior+Bow++",
+    "type": "bow",
+    "attack": 320,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Bow",
+    "slug": "Fine-Kamura-Bow",
+    "url": "/Fine+Kamura+Bow",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke's Bloodwings",
+    "slug": "Duke's-Bloodwings",
+    "url": "/Duke's+Bloodwings",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Araknabuster",
+    "slug": "Araknabuster",
+    "url": "/Araknabuster",
+    "type": "bow",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 36
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Araknabuster +",
+    "slug": "Araknabuster-+",
+    "url": "/Araknabuster++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 40
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Creeping Darkness",
+    "slug": "Creeping-Darkness",
+    "url": "/Creeping+Darkness",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 45
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Koraeil Mesmerbow",
+    "slug": "Koraeil-Mesmerbow",
+    "url": "/Koraeil+Mesmerbow",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 30
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Koraeil Mesmerbow +",
+    "slug": "Koraeil-Mesmerbow-+",
+    "url": "/Koraeil+Mesmerbow++",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 31
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Cuore Da Lavaater",
+    "slug": "Cuore-Da-Lavaater",
+    "url": "/Cuore+Da+Lavaater",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 33
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Heaven's Manna +",
+    "slug": "Heaven's-Manna-+",
+    "url": "/Heaven's+Manna++",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 19
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Elysian Manna",
+    "slug": "Elysian-Manna",
+    "url": "/Elysian+Manna",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 23
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Elysian Manna +",
+    "slug": "Elysian-Manna-+",
+    "url": "/Elysian+Manna++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Grand Glowing Oath",
+    "slug": "Grand-Glowing-Oath",
+    "url": "/Grand+Glowing+Oath",
+    "type": "bow",
+    "attack": 300,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Grand Glowing Oath +",
+    "slug": "Grand-Glowing-Oath-+",
+    "url": "/Grand+Glowing+Oath++",
+    "type": "bow",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Exalted Vow",
+    "slug": "Exalted-Vow",
+    "url": "/Exalted+Vow",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Summit's Glory Glow",
+    "slug": "Summit's-Glory-Glow",
+    "url": "/Summit's+Glory+Glow",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Summit's Glory Glow +",
+    "slug": "Summit's-Glory-Glow-+",
+    "url": "/Summit's+Glory+Glow++",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Six Glowing Oaths",
+    "slug": "Six-Glowing-Oaths",
+    "url": "/Six+Glowing+Oaths",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Shade Raid",
+    "slug": "Shade-Raid",
+    "url": "/Shade+Raid",
+    "type": "bow",
+    "attack": 300,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Shade Raid +",
+    "slug": "Shade-Raid-+",
+    "url": "/Shade+Raid++",
+    "type": "bow",
+    "attack": 320,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Avidya Bow",
+    "slug": "Avidya-Bow",
+    "url": "/Avidya+Bow",
+    "type": "bow",
+    "attack": 330,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Flying Kadachi Striker +",
+    "slug": "Flying-Kadachi-Striker-+",
+    "url": "/Flying+Kadachi+Striker++",
+    "type": "bow",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Thundering Strikebow",
+    "slug": "Thundering-Strikebow",
+    "url": "/Thundering+Strikebow",
+    "type": "bow",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Thundering Strikebow +",
+    "slug": "Thundering-Strikebow-+",
+    "url": "/Thundering+Strikebow++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Edelmorden",
+    "slug": "Edelmorden",
+    "url": "/Edelmorden",
+    "type": "bow",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Edelmorden +",
+    "slug": "Edelmorden-+",
+    "url": "/Edelmorden++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Amber Arc Valanga",
+    "slug": "Amber-Arc-Valanga",
+    "url": "/Amber+Arc+Valanga",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 28
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hooodwinker's Revolver +",
+    "slug": "Hooodwinker's-Revolver-+",
+    "url": "/Hooodwinker's+Revolver++",
+    "type": "bow",
+    "attack": 280,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Spith & Venom",
+    "slug": "Spith-and-Venom",
+    "url": "/Spith+&+Venom",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Arzuros' Honeypot +",
+    "slug": "Arzuros'-Honeypot-+",
+    "url": "/Arzuros'+Honeypot++",
+    "type": "bow",
+    "attack": 300,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arzuros' Sweetscent",
+    "slug": "Arzuros'-Sweetscent",
+    "url": "/Arzuros'+Sweetscent",
+    "type": "bow",
+    "attack": 370,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hunter's Proudbow +",
+    "slug": "Hunter's-Proudbow-+",
+    "url": "/Hunter's+Proudbow++",
+    "type": "bow",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hunter's Bravebow",
+    "slug": "Hunter's-Bravebow",
+    "url": "/Hunter's+Bravebow",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hunter's Bravebow +",
+    "slug": "Hunter's-Bravebow-+",
+    "url": "/Hunter's+Bravebow++",
+    "type": "bow",
+    "attack": 370,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thunderstroke Tonnerre",
+    "slug": "Thunderstroke-Tonnerre",
+    "url": "/Thunderstroke+Tonnerre",
+    "type": "bow",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 14
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thunderstroke Tonnerre +",
+    "slug": "Thunderstroke-Tonnerre-+",
+    "url": "/Thunderstroke+Tonnerre++",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Perkunas",
+    "slug": "Perkunas",
+    "url": "/Perkunas",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Herald's Battlebow +",
+    "slug": "Herald's-Battlebow-+",
+    "url": "/Herald's+Battlebow++",
+    "type": "bow",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Harbinger's Battlebow",
+    "slug": "Harbinger's-Battlebow",
+    "url": "/Harbinger's+Battlebow",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Harbinger's Battlebow +",
+    "slug": "Harbinger's-Battlebow-+",
+    "url": "/Harbinger's+Battlebow++",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sonic Bow",
+    "slug": "Sonic-Bow",
+    "url": "/Sonic+Bow",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Sonic Bow +",
+    "slug": "Sonic-Bow-+",
+    "url": "/Sonic+Bow++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Sonic Resonator",
+    "slug": "Sonic-Resonator",
+    "url": "/Sonic+Resonator",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Diamond Dust Bow",
+    "slug": "Diamond-Dust-Bow",
+    "url": "/Diamond+Dust+Bow",
+    "type": "bow",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 51
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Diamond Dust Bow +",
+    "slug": "Diamond-Dust-Bow-+",
+    "url": "/Diamond+Dust+Bow++",
+    "type": "bow",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Heaven's Breath",
+    "slug": "Heaven's-Breath",
+    "url": "/Heaven's+Breath",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 53
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Frostmoon Crescentbow",
+    "slug": "Frostmoon-Crescentbow",
+    "url": "/Frostmoon+Crescentbow",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Frostmoon Crescentbow +",
+    "slug": "Frostmoon-Crescentbow-+",
+    "url": "/Frostmoon+Crescentbow++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lunoloony Frostbow",
+    "slug": "Lunoloony-Frostbow",
+    "url": "/Lunoloony+Frostbow",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Storm of Mud",
+    "slug": "Storm-of-Mud",
+    "url": "/Storm+of+Mud",
+    "type": "bow",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Storm of Mud +",
+    "slug": "Storm-of-Mud-+",
+    "url": "/Storm+of+Mud++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Tornado of Mud",
+    "slug": "Tornado-of-Mud",
+    "url": "/Tornado+of+Mud",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Welding Rust",
+    "slug": "Welding-Rust",
+    "url": "/Welding+Rust",
+    "type": "bow",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Welding Rust +",
+    "slug": "Welding-Rust-+",
+    "url": "/Welding+Rust++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Welded Trinity",
+    "slug": "Welded-Trinity",
+    "url": "/Welded+Trinity",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 54
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Queen's Melody +",
+    "slug": "Queen's-Melody-+",
+    "url": "/Queen's+Melody++",
+    "type": "bow",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Queen's Rhapsody",
+    "slug": "Queen's-Rhapsody",
+    "url": "/Queen's+Rhapsody",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Queen's Rhapsody +",
+    "slug": "Queen's-Rhapsody-+",
+    "url": "/Queen's+Rhapsody++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Rosenbogen",
+    "slug": "Rosenbogen",
+    "url": "/Rosenbogen",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 11
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rosenbogen +",
+    "slug": "Rosenbogen-+",
+    "url": "/Rosenbogen++",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 13
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rosenzichel",
+    "slug": "Rosenzichel",
+    "url": "/Rosenzichel",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Dark Filament +",
+    "slug": "Dark-Filament-+",
+    "url": "/Dark+Filament++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Flamestroke Flam",
+    "slug": "Flamestroke-Flam",
+    "url": "/Flamestroke+Flam",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kulu Piercer +",
+    "slug": "Kulu-Piercer-+",
+    "url": "/Kulu+Piercer++",
+    "type": "bow",
+    "attack": 260,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kulu Katolos Piercer",
+    "slug": "Kulu-Katolos-Piercer",
+    "url": "/Kulu+Katolos+Piercer",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Galvanized Core +",
+    "slug": "Galvanized-Core-+",
+    "url": "/Galvanized+Core++",
+    "type": "bow",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Khezu Que C'est",
+    "slug": "Khezu-Que-C'est",
+    "url": "/Khezu+Que+C'est",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Khezu Que C'est +",
+    "slug": "Khezu-Que-C'est-+",
+    "url": "/Khezu+Que+C'est++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Master Hunter's Bow +",
+    "slug": "Master-Hunter's-Bow-+",
+    "url": "/Master+Hunter's+Bow++",
+    "type": "bow",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sharpshooter",
+    "slug": "Sharpshooter",
+    "url": "/Sharpshooter",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sharpshooter +",
+    "slug": "Sharpshooter-+",
+    "url": "/Sharpshooter++",
+    "type": "bow",
+    "attack": 380,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Shalya Bow",
+    "slug": "Shalya-Bow",
+    "url": "/Shalya+Bow",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Shalya Bow +",
+    "slug": "Shalya-Bow-+",
+    "url": "/Shalya+Bow++",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Insurgent Bow",
+    "slug": "Insurgent-Bow",
+    "url": "/Insurgent+Bow",
+    "type": "bow",
+    "attack": 380,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daimyo's Warbow",
+    "slug": "Daimyo's-Warbow",
+    "url": "/Daimyo's+Warbow",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Daimyo's Warbow +",
+    "slug": "Daimyo's-Warbow-+",
+    "url": "/Daimyo's+Warbow++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Chelae Warbow",
+    "slug": "Chelae-Warbow",
+    "url": "/Chelae+Warbow",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Blue Blade Bow",
+    "slug": "Blue-Blade-Bow",
+    "url": "/Blue+Blade+Bow",
+    "type": "bow",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Blue Blade Bow +",
+    "slug": "Blue-Blade-Bow-+",
+    "url": "/Blue+Blade+Bow++",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Showroom Model",
+    "slug": "Showroom-Model",
+    "url": "/Showroom+Model",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tigrex Whisker +",
+    "slug": "Tigrex-Whisker-+",
+    "url": "/Tigrex+Whisker++",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tigrex Vibrissa",
+    "slug": "Tigrex-Vibrissa",
+    "url": "/Tigrex+Vibrissa",
+    "type": "bow",
+    "attack": 380,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tigrex Vibrissa +",
+    "slug": "Tigrex-Vibrissa-+",
+    "url": "/Tigrex+Vibrissa++",
+    "type": "bow",
+    "attack": 400,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tyrant Bow +",
+    "slug": "Tyrant-Bow-+",
+    "url": "/Tyrant+Bow++",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": -20,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "The Terrible",
+    "slug": "The-Terrible",
+    "url": "/The+Terrible",
+    "type": "bow",
+    "attack": 370,
+    "element": [],
+    "affinity": -20,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "The Terrible +",
+    "slug": "The-Terrible-+",
+    "url": "/The+Terrible++",
+    "type": "bow",
+    "attack": null,
+    "element": [],
+    "affinity": -15,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Despot's Earlybolt +",
+    "slug": "Despot's-Earlybolt-+",
+    "url": "/Despot's+Earlybolt++",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Oppressor's Answer",
+    "slug": "Oppressor's-Answer",
+    "url": "/Oppressor's+Answer",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Venomtongue Strike +",
+    "slug": "Venomtongue-Strike-+",
+    "url": "/Venomtongue+Strike++",
+    "type": "bow",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Venomtongue Absolute",
+    "slug": "Venomtongue-Absolute",
+    "url": "/Venomtongue+Absolute",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Venomtongue Absolute +",
+    "slug": "Venomtongue-Absolute-+",
+    "url": "/Venomtongue+Absolute++",
+    "type": "bow",
+    "attack": 380,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Flaming Rage Bow +",
+    "slug": "Flaming-Rage-Bow-+",
+    "url": "/Flaming+Rage+Bow++",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 13
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lohenbogen",
+    "slug": "Lohenbogen",
+    "url": "/Lohenbogen",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lohenbogen +",
+    "slug": "Lohenbogen-+",
+    "url": "/Lohenbogen++",
+    "type": "bow",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Porifera Bow +",
+    "slug": "Porifera-Bow-+",
+    "url": "/Porifera+Bow++",
+    "type": "bow",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Drothdymion",
+    "slug": "Drothdymion",
+    "url": "/Drothdymion",
+    "type": "bow",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Drothdymion +",
+    "slug": "Drothdymion-+",
+    "url": "/Drothdymion++",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Bone Bow",
+    "slug": "Golm-Bone-Bow",
+    "url": "/Golm+Bone+Bow",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Bone Bow +",
+    "slug": "Golm-Bone-Bow-+",
+    "url": "/Golm+Bone+Bow++",
+    "type": "bow",
+    "attack": 380,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Gorboza Bow",
+    "slug": "Gorboza-Bow",
+    "url": "/Gorboza+Bow",
+    "type": "bow",
+    "attack": 410,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hypnoshot +",
+    "slug": "Hypnoshot-+",
+    "url": "/Hypnoshot++",
+    "type": "bow",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Grand Deepdraw",
+    "slug": "Grand-Deepdraw",
+    "url": "/Grand+Deepdraw",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Du Black",
+    "slug": "Arko-Du-Black",
+    "url": "/Arko+Du+Black",
+    "type": "bow",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Arko Tre Black",
+    "slug": "Arko-Tre-Black",
+    "url": "/Arko+Tre+Black",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 35
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Arko Du Yellow",
+    "slug": "Arko-Du-Yellow",
+    "url": "/Arko+Du+Yellow",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Tre Yellow",
+    "slug": "Arko-Tre-Yellow",
+    "url": "/Arko+Tre+Yellow",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 37
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Du Red",
+    "slug": "Arko-Du-Red",
+    "url": "/Arko+Du+Red",
+    "type": "bow",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Tre Red",
+    "slug": "Arko-Tre-Red",
+    "url": "/Arko+Tre+Red",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 32
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Kvar Red",
+    "slug": "Arko-Kvar-Red",
+    "url": "/Arko+Kvar+Red",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Du White",
+    "slug": "Arko-Du-White",
+    "url": "/Arko+Du+White",
+    "type": "bow",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Tre White",
+    "slug": "Arko-Tre-White",
+    "url": "/Arko+Tre+White",
+    "type": "bow",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 33
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arko Kvar White",
+    "slug": "Arko-Kvar-White",
+    "url": "/Arko+Kvar+White",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 39
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Sinister Soulpiercer +",
+    "slug": "Sinister-Soulpiercer-+",
+    "url": "/Sinister+Soulpiercer++",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Mighty Soulpiercer",
+    "slug": "Mighty-Soulpiercer",
+    "url": "/Mighty+Soulpiercer",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Entbehrung",
+    "slug": "Entbehrung",
+    "url": "/Entbehrung",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Entbehrung +",
+    "slug": "Entbehrung-+",
+    "url": "/Entbehrung++",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 13
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Untergang",
+    "slug": "Untergang",
+    "url": "/Untergang",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 23
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Le Ravisseur",
+    "slug": "Le-Ravisseur",
+    "url": "/Le+Ravisseur",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "L'Innocence",
+    "slug": "L'Innocence",
+    "url": "/L'Innocence",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kelbi Deershot",
+    "slug": "Kelbi-Deershot",
+    "url": "/Kelbi+Deershot",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Great Kelbi Deershot",
+    "slug": "Great-Kelbi-Deershot",
+    "url": "/Great+Kelbi+Deershot",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Beastking Thunderbow +",
+    "slug": "Beastking-Thunderbow-+",
+    "url": "/Beastking+Thunderbow++",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Beastczar Thunderbow",
+    "slug": "Beastczar-Thunderbow",
+    "url": "/Beastczar+Thunderbow",
+    "type": "bow",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Archbeast Avatar",
+    "slug": "Archbeast-Avatar",
+    "url": "/Archbeast+Avatar",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Skyriven Nightfall",
+    "slug": "Skyriven-Nightfall",
+    "url": "/Skyriven+Nightfall",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Skyriven Dawn",
+    "slug": "Skyriven-Dawn",
+    "url": "/Skyriven+Dawn",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daora's Sagittarii +",
+    "slug": "Daora's-Sagittarii-+",
+    "url": "/Daora's+Sagittarii++",
+    "type": "bow",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 40
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Daora's Toxotes",
+    "slug": "Daora's-Toxotes",
+    "url": "/Daora's+Toxotes",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 43
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Bow of Light & Courage +",
+    "slug": "Bow-of-Light-and-Courage-+",
+    "url": "/Bow+of+Light+&+Courage++",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bow of Want & Blood",
+    "slug": "Bow-of-Want-and-Blood",
+    "url": "/Bow+of+Want+and+Blood",
+    "type": "bow",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Demon's Guidance +",
+    "slug": "Demon's-Guidance-+",
+    "url": "/Demon's+Guidance++",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Devil's Counsel",
+    "slug": "Devil's-Counsel",
+    "url": "/Devil's+Counsel",
+    "type": "bow",
+    "attack": 370,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Crimson Plume",
+    "slug": "Crimson-Plume",
+    "url": "/Crimson+Plume",
+    "type": "bow",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abyssal Void",
+    "slug": "Abyssal-Void",
+    "url": "/Abyssal+Void",
+    "type": "bow",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Felyne Trickbow +",
+    "slug": "Felyne-Trickbow-+",
+    "url": "/Felyne+Trickbow++",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": -15,
+    "defense": 25,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hoodwynk",
+    "slug": "Hoodwynk",
+    "url": "/Hoodwynk",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": -15,
+    "defense": 29,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Chaotic Rapture +",
+    "slug": "Chaotic-Rapture-+",
+    "url": "/Chaotic+Rapture++",
+    "type": "bow",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Chaotic Thrall",
+    "slug": "Chaotic-Thrall",
+    "url": "/Chaotic+Thrall",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Frozen Bow +",
+    "slug": "Frozen-Bow-+",
+    "url": "/Frozen+Bow++",
+    "type": "bow",
+    "attack": 270,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Frozen Solstice",
+    "slug": "Frozen-Solstice",
+    "url": "/Frozen+Solstice",
+    "type": "bow",
+    "attack": 340,
+    "element": [],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arachnid Sheerstrike",
+    "slug": "Arachnid-Sheerstrike",
+    "url": "/Arachnid+Sheerstrike",
+    "type": "bow",
+    "attack": 310,
+    "element": [],
+    "affinity": 20,
+    "defense": 25,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Arachnid Silksong",
+    "slug": "Arachnid-Silksong",
+    "url": "/Arachnid+Silksong",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 20,
+    "defense": 25,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Royal Order's Bow",
+    "slug": "Royal-Order's-Bow",
+    "url": "/Royal+Order's+Bow",
+    "type": "bow",
+    "attack": 330,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Royal Order's Bow +",
+    "slug": "Royal-Order's-Bow-+",
+    "url": "/Royal+Order's+Bow++",
+    "type": "bow",
+    "attack": 350,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Antique Machina B",
+    "slug": "Antique-Machina-B",
+    "url": "/Antique+Machina+B",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Ample Bowfish +",
+    "slug": "Ample-Bowfish-+",
+    "url": "/Ample+Bowfish++",
+    "type": "bow",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Viand Bowfish",
+    "slug": "Viand-Bowfish",
+    "url": "/Viand+Bowfish",
+    "type": "bow",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  }
+]
