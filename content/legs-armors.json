@@ -1684,9 +1684,9 @@
     "slug": "Remobra-Feet-S",
     "skills": [
       {
-        "name": "Weakness Exploitx1",
-        "level": null,
-        "slug": "Weakness-Exploitx1"
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
       }
     ],
     "slots": [],
@@ -2413,9 +2413,9 @@
         "slug": "Dragon-Attack"
       },
       {
-        "name": "Focusx1",
-        "level": null,
-        "slug": "Focusx1"
+        "name": "Focus",
+        "level": 1,
+        "slug": "Focus"
       },
       {
         "name": "Heroics",
@@ -2595,9 +2595,9 @@
         "slug": "Critical-Boost"
       },
       {
-        "name": "Latent Powerx1",
-        "level": null,
-        "slug": "Latent-Powerx1"
+        "name": "Latent Power",
+        "level": 1,
+        "slug": "Latent-Power"
       }
     ],
     "slots": [],
@@ -3315,9 +3315,9 @@
         "slug": "Charge-Master"
       },
       {
-        "name": "Sluggerx2",
-        "level": null,
-        "slug": "Sluggerx2"
+        "name": "Slugger",
+        "level": 2,
+        "slug": "Slugger"
       },
       {
         "name": "Stamina Thief",

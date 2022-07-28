@@ -1057,9 +1057,9 @@
     "slug": "Diablos-Vambraces",
     "skills": [
       {
-        "name": "Offensive Guardx1",
-        "level": null,
-        "slug": "Offensive-Guardx1"
+        "name": "Offensive Guard",
+        "level": 1,
+        "slug": "Offensive-Guard"
       }
     ],
     "slots": [],
@@ -2079,9 +2079,9 @@
         "slug": "Resuscitate"
       },
       {
-        "name": "Free Mealx1",
-        "level": null,
-        "slug": "Free-Mealx1"
+        "name": "Free Meal",
+        "level": 1,
+        "slug": "Free-Meal"
       }
     ],
     "slots": [],
