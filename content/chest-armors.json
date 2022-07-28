@@ -1538,9 +1538,9 @@
     "slug": "Kulu-Ya-Ku-Mail-S",
     "skills": [
       {
-        "name": "Sluggerx2",
-        "level": null,
-        "slug": "Sluggerx2"
+        "name": "Slugger",
+        "level": 2,
+        "slug": "Slugger"
       },
       {
         "name": "Horn Maestro",
@@ -1958,9 +1958,9 @@
         "slug": "Recovery-Up"
       },
       {
-        "name": "Botanistx1",
-        "level": null,
-        "slug": "Botanistx1"
+        "name": "Botanist",
+        "level": 1,
+        "slug": "Botanist"
       }
     ],
     "slots": [],
@@ -2690,9 +2690,9 @@
     "slug": "Golden-Haori",
     "skills": [
       {
-        "name": "Heroicsx1",
-        "level": null,
-        "slug": "Heroicsx1"
+        "name": "Heroics",
+        "level": 1,
+        "slug": "Heroics"
       },
       {
         "name": "Maximum Might",
@@ -2726,14 +2726,14 @@
         "slug": "Thunder-Alignment"
       },
       {
-        "name": "Constitutionx1",
-        "level": null,
-        "slug": "Constitutionx1"
+        "name": "Constitution",
+        "level": 1,
+        "slug": "Constitution"
       },
       {
-        "name": "Critical Drawx1",
-        "level": null,
-        "slug": "Critical-Drawx1"
+        "name": "Critical Draw",
+        "level": 1,
+        "slug": "Critical-Draw"
       }
     ],
     "slots": [],
@@ -2757,9 +2757,9 @@
         "slug": "Guard"
       },
       {
-        "name": "Offensive Guardx1",
-        "level": null,
-        "slug": "Offensive-Guardx1"
+        "name": "Offensive Guard",
+        "level": 1,
+        "slug": "Offensive-Guard"
       }
     ],
     "slots": [],
@@ -6285,9 +6285,9 @@
     "slug": "Archfiend-Armor-Baulo",
     "skills": [
       {
-        "name": "Weakness Exploitx1",
-        "level": null,
-        "slug": "Weakness-Exploitx1"
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
       },
       {
         "name": "Resentment",

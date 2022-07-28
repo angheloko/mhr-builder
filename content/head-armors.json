@@ -1148,9 +1148,9 @@
         "slug": "Guard"
       },
       {
-        "name": "Stamina Surgex1",
-        "level": null,
-        "slug": "Stamina-Surgex1"
+        "name": "Stamina Surge",
+        "level": 1,
+        "slug": "Stamina-Surge"
       }
     ],
     "slots": [],
@@ -1597,9 +1597,9 @@
         "slug": "Marathon-Runner"
       },
       {
-        "name": "Peak Performancex1",
-        "level": null,
-        "slug": "Peak-Performancex1"
+        "name": "Peak Performance",
+        "level": 1,
+        "slug": "Peak-Performance"
       }
     ],
     "slots": [],
@@ -2760,9 +2760,9 @@
         "slug": "Guard"
       },
       {
-        "name": "Stamina Surgex1",
-        "level": null,
-        "slug": "Stamina-Surgex1"
+        "name": "Stamina Surge",
+        "level": 1,
+        "slug": "Stamina-Surge"
       }
     ],
     "slots": [],
@@ -6423,9 +6423,9 @@
     "slug": "Archfiend-Armor-Cerato",
     "skills": [
       {
-        "name": "Weakness Exploitx1",
-        "level": null,
-        "slug": "Weakness-Exploitx1"
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
       },
       {
         "name": "Resentment",

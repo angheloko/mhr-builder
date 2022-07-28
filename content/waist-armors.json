@@ -6028,9 +6028,9 @@
     "slug": "Archfiend-Armor-Ura",
     "skills": [
       {
-        "name": "Weakness Exploitx1",
-        "level": null,
-        "slug": "Weakness-Exploitx1"
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
       },
       {
         "name": "Chain Crit",
