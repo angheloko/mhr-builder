@@ -871,14 +871,9 @@
     "slug": "Anjanath-Coil",
     "skills": [
       {
-        "name": "?",
-        "level": null,
-        "slug": ""
-      },
-      {
-        "name": "?",
-        "level": null,
-        "slug": ""
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
       }
     ],
     "slots": [],
@@ -2492,13 +2487,7 @@
     "url": "/Chrome+Metal+Coil",
     "type": "waist",
     "slug": "Chrome-Metal-Coil",
-    "skills": [
-      {
-        "name": "None",
-        "level": null,
-        "slug": "None"
-      }
-    ],
+    "skills": [],
     "slots": [],
     "baseDefense": 46,
     "fireResistance": -2,
@@ -3111,9 +3100,9 @@
         "slug": "Handicraft"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -3236,7 +3225,7 @@
     "slug": "Golm-Faulds",
     "skills": [
       {
-        "name": "Spiribird's Call",
+        "name": "Spiribird's Call",
         "level": 1,
         "slug": "Spiribird's-Call"
       },
@@ -3355,9 +3344,9 @@
     "slug": "Vespoid-Tassets",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Paralysis Resistance",
@@ -3686,9 +3675,9 @@
     "slug": "Aknosom-Coil-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Critical Element",
@@ -3767,9 +3756,9 @@
     "slug": "Velociprey-Tassets",
     "skills": [
       {
-        "name": "Attack Boos",
+        "name": "Attack Boost",
         "level": 1,
-        "slug": "Attack-Boos"
+        "slug": "Attack-Boost"
       },
       {
         "name": "Capture Master",
@@ -3863,9 +3852,9 @@
         "slug": "Resentment"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -4894,9 +4883,9 @@
     "slug": "Ceanataur-Coil",
     "skills": [
       {
-        "name": "Grinde (S)",
+        "name": "Grinder (S)",
         "level": 1,
-        "slug": "Grinde-(S)"
+        "slug": "Grinder-(S)"
       },
       {
         "name": "Handicraft",
@@ -5123,9 +5112,9 @@
     "slug": "Scholarly-Sash",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 3,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Free Meal",
@@ -5473,9 +5462,9 @@
         "slug": "Guard"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Offensive Guard",
@@ -5600,9 +5589,9 @@
         "slug": "Punishing-Draw"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [

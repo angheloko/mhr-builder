@@ -74,9 +74,9 @@
     "slug": "Hunter's-Helm",
     "skills": [
       {
-        "name": "Item Prolonger x 1",
-        "level": null,
-        "slug": "Item-Prolonger-x-1"
+        "name": "Item Prolonger",
+        "level": 1,
+        "slug": "Item-Prolonger"
       }
     ],
     "slots": [],
@@ -688,9 +688,9 @@
     "slug": "Rathian-Helm",
     "skills": [
       {
-        "name": "Blight Resistances",
+        "name": "Blight Resistance",
         "level": 1,
-        "slug": "Blight-Resistances"
+        "slug": "Blight-Resistance"
       }
     ],
     "slots": [],
@@ -944,14 +944,14 @@
     "slug": "Anjanath-Helm",
     "skills": [
       {
-        "name": "?",
-        "level": null,
-        "slug": ""
+        "name": "Focus",
+        "level": 1,
+        "slug": "Focus"
       },
       {
-        "name": "?",
-        "level": null,
-        "slug": ""
+        "name": "Slugger",
+        "level": 1,
+        "slug": "Slugger"
       }
     ],
     "slots": [],
@@ -1983,9 +1983,9 @@
     "slug": "Rathian-Helm-S",
     "skills": [
       {
-        "name": "Blight Resistances",
+        "name": "Blight Resistance",
         "level": 1,
-        "slug": "Blight-Resistances"
+        "slug": "Blight-Resistance"
       }
     ],
     "slots": [],
@@ -3368,9 +3368,9 @@
     "slug": "Hermitaur-Helm",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 2,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Tremor Resistance",
@@ -4020,9 +4020,9 @@
     "slug": "Aknosom-Helm-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Fire Attack",
@@ -4088,9 +4088,9 @@
         "slug": "Maximum-Might"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Stun Resistance",
@@ -4117,9 +4117,9 @@
     "slug": "Velociprey-Helm",
     "skills": [
       {
-        "name": "Attack Boos",
+        "name": "Attack Boost",
         "level": 1,
-        "slug": "Attack-Boos"
+        "slug": "Attack-Boost"
       },
       {
         "name": "Stun Resistance",
@@ -4299,9 +4299,9 @@
         "slug": "Agitator"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -5497,7 +5497,7 @@
     "slug": "Sailor-Hat",
     "skills": [
       {
-        "name": "Spiribird’s Call",
+        "name": "Spiribird's Call",
         "level": 1,
         "slug": "Spiribird's-Call"
       }

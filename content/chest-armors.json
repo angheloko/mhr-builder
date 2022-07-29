@@ -922,14 +922,14 @@
     "slug": "Anjanath-Mail",
     "skills": [
       {
-        "name": "?",
-        "level": null,
-        "slug": ""
+        "name": "Focus",
+        "level": 1,
+        "slug": "Focus"
       },
       {
-        "name": "?",
-        "level": null,
-        "slug": ""
+        "name": "Marathon Runner",
+        "level": 1,
+        "slug": "Marathon-Runner"
       }
     ],
     "slots": [],
@@ -2994,7 +2994,7 @@
       {
         "name": "Chamaleos Blessing",
         "level": 1,
-        "slug": "Chamaleos-Blessing"
+        "slug": "Chameleos-Blessing"
       },
       {
         "name": "Poison Attack",
@@ -3534,9 +3534,9 @@
     "slug": "Vespoid-Mail",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Paralysis Resistance",
@@ -3788,9 +3788,9 @@
     "slug": "Orangaten-Mail",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Fire Resistance",
@@ -3915,9 +3915,9 @@
     "slug": "Aknosom-Mail-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Peak Performance",
@@ -3987,9 +3987,9 @@
         "slug": "Slugger"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -4011,9 +4011,9 @@
     "slug": "Velociprey-Mail",
     "skills": [
       {
-        "name": "Attack Boos",
+        "name": "Attack Boost",
         "level": 1,
-        "slug": "Attack-Boos"
+        "slug": "Attack-Boost"
       },
       {
         "name": "Windproof",
@@ -4188,9 +4188,9 @@
     "slug": "Barioth-Mail-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Maximum Might",
@@ -5079,9 +5079,9 @@
         "slug": "Constitution"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Good Luck",
@@ -5108,9 +5108,9 @@
     "slug": "Ceanataur-Mail",
     "skills": [
       {
-        "name": "Grinde (S)",
+        "name": "Grinder (S)",
         "level": 1,
-        "slug": "Grinde-(S)"
+        "slug": "Grinder-(S)"
       },
       {
         "name": "Marathon Runner",
@@ -6588,9 +6588,9 @@
         "slug": "Constitution"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Good Luck",
