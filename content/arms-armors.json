@@ -623,9 +623,9 @@
     "slug": "Rathian-Braces",
     "skills": [
       {
-        "name": "Blight Resistances",
+        "name": "Blight Resistance",
         "level": 1,
-        "slug": "Blight-Resistances"
+        "slug": "Blight-Resistance"
       }
     ],
     "slots": [],
@@ -1277,9 +1277,9 @@
     "slug": "Bnahabra-Gloves-S",
     "skills": [
       {
-        "name": "Poison Attacl",
+        "name": "Poison Attack",
         "level": 2,
-        "slug": "Poison-Attacl"
+        "slug": "Poison-Attack"
       },
       {
         "name": "Evade Window",
@@ -1334,9 +1334,9 @@
         "slug": "Sleep-Resistance"
       },
       {
-        "name": "Ice Atttack",
+        "name": "Ice Attack",
         "level": 1,
-        "slug": "Ice-Atttack"
+        "slug": "Ice-Attack"
       }
     ],
     "slots": [],
@@ -1824,9 +1824,9 @@
     "slug": "Rathian-Braces-S",
     "skills": [
       {
-        "name": "Blight Resistances",
+        "name": "Blight Resistance",
         "level": 1,
-        "slug": "Blight-Resistances"
+        "slug": "Blight-Resistance"
       },
       {
         "name": "Wide-Range",
@@ -2317,13 +2317,7 @@
     "url": "/Jyuratodus+Vambraces",
     "type": "arms",
     "slug": "Jyuratodus-Vambraces",
-    "skills": [
-      {
-        "name": "None",
-        "level": null,
-        "slug": "None"
-      }
-    ],
+    "skills": [],
     "slots": [],
     "baseDefense": 48,
     "fireResistance": -1,
@@ -2763,9 +2757,9 @@
         "slug": "Load-Shells"
       },
       {
-        "name": "Guard Up x",
-        "level": null,
-        "slug": "Guard-Up-x"
+        "name": "Guard Up",
+        "level": 1,
+        "slug": "Guard-Up"
       }
     ],
     "slots": [
@@ -2789,7 +2783,7 @@
       {
         "name": "Chamaleos Blessing",
         "level": 1,
-        "slug": "Chamaleos-Blessing"
+        "slug": "Chameleos-Blessing"
       },
       {
         "name": "Poison Attack",
@@ -3029,9 +3023,9 @@
     "slug": "Hunter's-Vambraces-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Handicraft",
@@ -3591,9 +3585,9 @@
         "slug": "Latent-Power"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -3763,9 +3757,9 @@
         "slug": "Stamina-Thief"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -3787,9 +3781,9 @@
     "slug": "Velociprey-Braces",
     "skills": [
       {
-        "name": "Attack Boos",
+        "name": "Attack Boost",
         "level": 2,
-        "slug": "Attack-Boos"
+        "slug": "Attack-Boost"
       }
     ],
     "slots": [
@@ -3811,9 +3805,9 @@
     "slug": "Jaggi-Gauntles-X",
     "skills": [
       {
-        "name": "Attack Boos",
+        "name": "Attack Boost",
         "level": 3,
-        "slug": "Attack-Boos"
+        "slug": "Attack-Boost"
       }
     ],
     "slots": [
@@ -3907,9 +3901,9 @@
         "slug": "Punishing-Draw"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -3986,9 +3980,9 @@
     "slug": "Barioth-Vambraces-X",
     "skills": [
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Maximum Might",
@@ -4864,9 +4858,9 @@
         "slug": "Speed-Eating"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 2,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Weakness Exploit",
@@ -4892,9 +4886,9 @@
     "slug": "Ceanataur-Braces",
     "skills": [
       {
-        "name": "Grinde (S)",
+        "name": "Grinder (S)",
         "level": 1,
-        "slug": "Grinde-(S)"
+        "slug": "Grinder-(S)"
       },
       {
         "name": "Peak Performance",
@@ -5565,9 +5559,9 @@
         "slug": "Charge-Master"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 1,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       }
     ],
     "slots": [
@@ -6095,9 +6089,9 @@
         "slug": "Geologist"
       },
       {
-        "name": "Spiribird' Call",
+        "name": "Spiribird's Call",
         "level": 1,
-        "slug": "Spiribird'-Call"
+        "slug": "Spiribird's-Call"
       },
       {
         "name": "Divine Blessing",
@@ -6282,9 +6276,9 @@
         "slug": "Speed-Eating"
       },
       {
-        "name": "Quick Sheathe",
+        "name": "Quick Sheath",
         "level": 2,
-        "slug": "Quick-Sheathe"
+        "slug": "Quick-Sheath"
       },
       {
         "name": "Weakness Exploit",
