@@ -93,20 +93,22 @@ export default {
           }
         }
 
-        if (this.set[type].decorations) {
-          for (const decoration of this.set[type].decorations) {
-            if (decoration) {
-              const found = skills.findIndex((element) => {
-                return element.slug === decoration.skillSlug
-              })
-              if (found >= 0) {
-                skills[found].level++
-              } else {
-                skills.push({
-                  name: decoration.skill,
-                  slug: decoration.skillSlug,
-                  level: 1
+        for (const decorationType of ['decorations', 'rampDecorations']) {
+          if (this.set[type][decorationType] || this.set[type][decorationType]) {
+            for (const decoration of this.set[type][decorationType]) {
+              if (decoration) {
+                const found = skills.findIndex((element) => {
+                  return element.slug === decoration.skillSlug
                 })
+                if (found >= 0) {
+                  skills[found].level += decoration.skillLevel
+                } else {
+                  skills.push({
+                    name: decoration.skill,
+                    slug: decoration.skillSlug,
+                    level: decoration.skillLevel
+                  })
+                }
               }
             }
           }

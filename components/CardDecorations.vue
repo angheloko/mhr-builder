@@ -64,7 +64,9 @@
         <div v-if="decorations[decorationIndex]" :key="decorationIndex" class="flex border-b last:border-none p-1 last:p-0">
           <div class="flex-grow text-sm text-left">
             <div>
-              {{ decorations[decorationIndex].name }}
+              <a class="text-blue-600" :href="`https://monsterhunterrise.wiki.fextralife.com${decorations[decorationIndex].url}`" rel="nofollow" target="_blank">
+                {{ decorations[decorationIndex].name }}
+              </a>
             </div>
             <div
               class="text-xs text-gray-500 font-bold"
@@ -92,7 +94,9 @@
         <div v-if="rampDecorations[decorationIndex]" :key="decorationIndex" class="flex border-b last:border-none p-1 last:p-0">
           <div class="flex-grow text-sm text-left">
             <div>
-              {{ rampDecorations[decorationIndex].name }}
+              <a class="text-blue-600" :href="`https://monsterhunterrise.wiki.fextralife.com${rampDecorations[decorationIndex].url}`" rel="nofollow" target="_blank">
+                {{ rampDecorations[decorationIndex].name }}
+              </a>
             </div>
             <div
               class="text-xs text-gray-500 font-bold"
