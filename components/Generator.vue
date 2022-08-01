@@ -127,7 +127,7 @@ export default {
         }
       ],
       isGenerating: false,
-      maxSkills: 5,
+      maxSkills: 8,
       maxExcluded: 3,
       skills: [],
       excluded: [],
@@ -148,8 +148,8 @@ export default {
       freeSlotsWeight: 0.2,
       defenseWeight: 0.1,
       armorSkillsWeight: 0.5,
-      armorFreeSlotsWeight: 0.3,
-      armorDefenseWeight: 0.2,
+      armorFreeSlotsWeight: 0.4,
+      armorDefenseWeight: 0.1,
       armorTypes: [
         'head',
         'chest',
@@ -385,7 +385,7 @@ export default {
         sorted = unique
       }
 
-      const shortlist = sorted.slice(0, 5)
+      const shortlist = sorted.slice(0, 10)
       for (const set of shortlist) {
         this.addSet(set)
       }
