@@ -1005,7 +1005,7 @@
     "url": "/Critical+Jewel+2",
     "skill": "Critical Boost",
     "skillSlug": "Critical-Boost",
-    "skillLevel": null,
+    "skillLevel": 1,
     "level": 2,
     "isRampage": false
   },

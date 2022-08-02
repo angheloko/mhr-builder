@@ -612,7 +612,7 @@ export default {
       if (armor.decorations !== undefined) {
         for (const decoration of armor.decorations.filter(element => element)) {
           if (decoration.skillSlug === slug) {
-            total++
+            total += decoration.skillLevel
           }
         }
       }
