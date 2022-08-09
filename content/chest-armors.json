@@ -1621,7 +1621,9 @@
         "slug": "Defense-Boost"
       }
     ],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "baseDefense": 50,
     "fireResistance": -3,
     "waterResistance": -1,
