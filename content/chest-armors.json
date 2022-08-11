@@ -1991,7 +1991,11 @@
         "slug": "Maximum-Might"
       }
     ],
-    "slots": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
     "baseDefense": 58,
     "fireResistance": -3,
     "waterResistance": 0,

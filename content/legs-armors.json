@@ -1657,7 +1657,9 @@
         "slug": "Critical-Eye"
       }
     ],
-    "slots": [],
+    "slots": [
+      1
+    ],
     "baseDefense": 40,
     "fireResistance": -1,
     "waterResistance": -1,

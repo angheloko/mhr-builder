@@ -2254,7 +2254,9 @@
         "slug": "Windproof"
       }
     ],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "baseDefense": 62,
     "fireResistance": 3,
     "waterResistance": 1,
