@@ -1,1 +1,5517 @@
-[{"name":"Kamura Glaive I","slug":"Kamura-Glaive-I","url":"/Kamura+Glaive+I","type":"insect_glaive","attack":50,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Glaive II","slug":"Kamura-Glaive-II","url":"/Kamura+Glaive+II","type":"insect_glaive","attack":60,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Glaive III","slug":"Kamura-Glaive-III","url":"/Kamura+Glaive+III","type":"insect_glaive","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Glaive IV","slug":"Kamura-Glaive-IV","url":"/Kamura+Glaive+IV","type":"insect_glaive","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Glaive V","slug":"Kamura-Glaive-V","url":"/Kamura+Glaive+V","type":"insect_glaive","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Defense Boost II","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Kamura Ninja Glaive","slug":"Kamura-Ninja-Glaive","url":"/Kamura+Ninja+Glaive","type":"insect_glaive","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost IV","Defense Boost II","Master Rider"],"slots":[1,2],"rampSlots":[]},{"name":"Hidden Scythe I","slug":"Hidden-Scythe-I","url":"/Hidden+Scythe+I","type":"insect_glaive","attack":100,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Master Rider"],"slots":[],"rampSlots":[]},{"name":"Hidden Scythe II","slug":"Hidden-Scythe-II","url":"/Hidden+Scythe+II","type":"insect_glaive","attack":170,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost I","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Evening Calm","slug":"Evening-Calm","url":"/Evening+Calm","type":"insect_glaive","attack":190,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Fox Halberd I","slug":"Fox-Halberd-I","url":"/Fox+Halberd+I","type":"insect_glaive","attack":120,"element":[{"type":"Water","attack":12}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity I","Water Boost I"],"slots":[],"rampSlots":[]},{"name":"Fox Halberd II","slug":"Fox-Halberd-II","url":"/Fox+Halberd+II","type":"insect_glaive","attack":170,"element":[{"type":"Water","attack":16}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity II","Water Boost II"],"slots":[1],"rampSlots":[]},{"name":"Frilled Jab I","slug":"Frilled-Jab-I","url":"/Frilled+Jab+I","type":"insect_glaive","attack":110,"element":[{"type":"Sleep","attack":10}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Sleep Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Frilled Jab II","slug":"Frilled-Jab-II","url":"/Frilled+Jab+II","type":"insect_glaive","attack":120,"element":[{"type":"Sleep","attack":12}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Sleep Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Illusory Frilled Jab","slug":"Illusory-Frilled-Jab","url":"/Illusory+Frilled+Jab","type":"insect_glaive","attack":190,"element":[{"type":"Sleep","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Sleep Boost I","Dulling Strike"],"slots":[1,1],"rampSlots":[]},{"name":"Tigrex Kaina I","slug":"Tigrex-Kaina-I","url":"/Tigrex+Kaina+I","type":"insect_glaive","attack":160,"element":[],"affinity":-15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Tigrex Kaina II","slug":"Tigrex-Kaina-II","url":"/Tigrex+Kaina+II","type":"insect_glaive","attack":210,"element":[],"affinity":-15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Tigerclaw Glaive","slug":"Tigerclaw-Glaive","url":"/Tigerclaw+Glaive","type":"insect_glaive","attack":220,"element":[],"affinity":-10,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Brutal Strike"],"slots":[1],"rampSlots":[]},{"name":"Leaping Glaive I","slug":"Leaping-Glaive-I","url":"/Leaping+Glaive+I","type":"insect_glaive","attack":100,"element":[{"type":"Water","attack":10}],"affinity":0,"defense":10,"rampSkills":["Defense Boost I","Water Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Leaping Glaive II","slug":"Leaping-Glaive-II","url":"/Leaping+Glaive+II","type":"insect_glaive","attack":160,"element":[{"type":"Water","attack":12}],"affinity":0,"defense":20,"rampSkills":["Defense Boost I","Water Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Leapfrog","slug":"Leapfrog","url":"/Leapfrog","type":"insect_glaive","attack":210,"element":[{"type":"Water","attack":14}],"affinity":0,"defense":20,"rampSkills":["Defense Boost I","Water Boost III","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Iron Blade I","slug":"Iron-Blade-I","url":"/Iron+Blade+I","type":"insect_glaive","attack":80,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Iron Blade II","slug":"Iron-Blade-II","url":"/Iron+Blade+II","type":"insect_glaive","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Steel Blade","slug":"Steel-Blade","url":"/Steel+Blade","type":"insect_glaive","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Iron Bayonet I","slug":"Iron-Bayonet-I","url":"/Iron+Bayonet+I","type":"insect_glaive","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Iron Bayonet II","slug":"Iron-Bayonet-II","url":"/Iron+Bayonet+II","type":"insect_glaive","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"Hiten Blade","slug":"Hiten-Blade","url":"/Hiten+Blade","type":"insect_glaive","attack":210,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"Rathmaul I","slug":"Rathmaul-I","url":"/Rathmaul+I","type":"insect_glaive","attack":180,"element":[{"type":"Fire","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Rathmaul II","slug":"Rathmaul-II","url":"/Rathmaul+II","type":"insect_glaive","attack":180,"element":[{"type":"Fire","attack":27}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Firedance Rathmaul","slug":"Firedance-Rathmaul","url":"/Firedance+Rathmaul","type":"insect_glaive","attack":190,"element":[{"type":"Fire","attack":30}],"affinity":0,"defense":null,"rampSkills":["Attack Boost III","Fire Boost I","Element Exploit"],"slots":[1],"rampSlots":[]},{"name":"Bolt Chamber I","slug":"Bolt-Chamber-I","url":"/Bolt+Chamber+I","type":"insect_glaive","attack":150,"element":[{"type":"Thunder","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Bolt Chamber II","slug":"Bolt-Chamber-II","url":"/Bolt+Chamber+II","type":"insect_glaive","attack":160,"element":[{"type":"Thunder","attack":29}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Thunder Boost I","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Full Bolt Chamber","slug":"Full-Bolt-Chamber","url":"/Full+Bolt+Chamber","type":"insect_glaive","attack":180,"element":[{"type":"Thunder","attack":33}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Thunder Boost II","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Princess Regalia I","slug":"Princess-Regalia-I","url":"/Princess+Regalia+I","type":"insect_glaive","attack":110,"element":[{"type":"Poison","attack":19}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Poison Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Princess Regalia II","slug":"Princess-Regalia-II","url":"/Princess+Regalia+II","type":"insect_glaive","attack":180,"element":[{"type":"Poison","attack":23}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Poison Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Queen Regalia","slug":"Queen-Regalia","url":"/Queen+Regalia","type":"insect_glaive","attack":210,"element":[{"type":"Poison","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Poison Boost I","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Aknosom Pike I","slug":"Aknosom-Pike-I","url":"/Aknosom+Pike+I","type":"insect_glaive","attack":100,"element":[{"type":"Fire","attack":12}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Fire Boost I","Fireblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Aknosom Pike II","slug":"Aknosom-Pike-II","url":"/Aknosom+Pike+II","type":"insect_glaive","attack":110,"element":[{"type":"Fire","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Fireblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Daybreak Glaive","slug":"Daybreak-Glaive","url":"/Daybreak+Glaive","type":"insect_glaive","attack":150,"element":[{"type":"Fire","attack":22}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Fire Boost II","Fireblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Kulu Glaive I","slug":"Kulu-Glaive-I","url":"/Kulu+Glaive+I","type":"insect_glaive","attack":100,"element":[],"affinity":10,"defense":0,"rampSkills":["Affinity Boost II","Kinsect Level Boost","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu Glaive II","slug":"Kulu-Glaive-II","url":"/Kulu+Glaive+II","type":"insect_glaive","attack":140,"element":[],"affinity":10,"defense":0,"rampSkills":["Affinity Boost II","Kinsect Level Boost","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu Pike","slug":"Kulu-Pike","url":"/Kulu+Pike","type":"insect_glaive","attack":150,"element":[],"affinity":10,"defense":0,"rampSkills":["Affinity Boost III","Kinsect Level Boost","Spiribird Doubled"],"slots":[1,1,1],"rampSlots":[]},{"name":"Kadachi Glaive I","slug":"Kadachi-Glaive-I","url":"/Kadachi+Glaive+I","type":"insect_glaive","attack":100,"element":[{"type":"Thunder","attack":12}],"affinity":10,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Thunder Boost II"],"slots":[],"rampSlots":[]},{"name":"Kadachi Glaive II","slug":"Kadachi-Glaive-II","url":"/Kadachi+Glaive+II","type":"insect_glaive","attack":140,"element":[{"type":"Thunder","attack":15}],"affinity":10,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Thunder Boost II"],"slots":[],"rampSlots":[]},{"name":"Shocking Pike","slug":"Shocking-Pike","url":"/Shocking+Pike","type":"insect_glaive","attack":170,"element":[{"type":"Thunder","attack":22}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Thunder Boost III"],"slots":[1],"rampSlots":[]},{"name":"Lagombaglaive I","slug":"Lagombaglaive-I","url":"/Lagombaglaive+I","type":"insect_glaive","attack":80,"element":[{"type":"Ice","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Ice Boost II","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Lagombaglaive II","slug":"Lagombaglaive-II","url":"/Lagombaglaive+II","type":"insect_glaive","attack":150,"element":[{"type":"Ice","attack":23}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Ice Boost II","Dulling Strike"],"slots":[1,1],"rampSlots":[]},{"name":"Lagombavarice","slug":"Lagombavarice","url":"/Lagombavarice","type":"insect_glaive","attack":170,"element":[{"type":"Ice","attack":26}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Ice Boost II","Dulling Strike"],"slots":[1,1],"rampSlots":[]},{"name":"Bone Staff I","slug":"Bone-Staff-I","url":"/Bone+Staff+I","type":"insect_glaive","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Bone Staff II","slug":"Bone-Staff-II","url":"/Bone+Staff+II","type":"insect_glaive","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Aerial Glaive","slug":"Aerial-Glaive","url":"/Aerial+Glaive","type":"insect_glaive","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Sturdy Glaive I","slug":"Sturdy-Glaive-I","url":"/Sturdy+Glaive+I","type":"insect_glaive","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Sturdy Glaive II","slug":"Sturdy-Glaive-II","url":"/Sturdy+Glaive+II","type":"insect_glaive","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Sturdy Glaive Redux","slug":"Sturdy-Glaive-Redux","url":"/Sturdy+Glaive+Redux","type":"insect_glaive","attack":220,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Sky-High Glaive I","slug":"Sky-High-Glaive-I","url":"/Sky-High+Glaive+I","type":"insect_glaive","attack":130,"element":[{"type":"Paralysis","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Silkbind Boost","Anti-Aerial Species"],"slots":[2],"rampSlots":[]},{"name":"Sky-High Glaive II","slug":"Sky-High-Glaive-II","url":"/Sky-High+Glaive+II","type":"insect_glaive","attack":150,"element":[{"type":"Paralysis","attack":22}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Silkbind Boost","Anti-Aerial Species"],"slots":[3],"rampSlots":[]},{"name":"Highest of Glaives","slug":"Highest-of-Glaives","url":"/Highest+of+Glaives","type":"insect_glaive","attack":170,"element":[{"type":"Paralysis","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Silkbind Boost","Anti-Aerial Species"],"slots":[3],"rampSlots":[]},{"name":"Diablos Rod I","slug":"Diablos-Rod-I","url":"/Diablos+Rod+I","type":"insect_glaive","attack":200,"element":[],"affinity":-10,"defense":0,"rampSkills":["Attack Boost II","Defense Boost I","Kinsect Level Boost"],"slots":[],"rampSlots":[]},{"name":"Diablos Rod II","slug":"Diablos-Rod-II","url":"/Diablos+Rod+II","type":"insect_glaive","attack":210,"element":[],"affinity":-10,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Kinsect Level Boost"],"slots":[],"rampSlots":[]},{"name":"Flammenkaefer I","slug":"Flammenkaefer-I","url":"/Flammenkaefer+I","type":"insect_glaive","attack":140,"element":[{"type":"Fire","attack":12}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Flammenkaefer II","slug":"Flammenkaefer-II","url":"/Flammenkaefer+II","type":"insect_glaive","attack":210,"element":[{"type":"Fire","attack":15}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost II","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Gnashing Flammenkaefer","slug":"Gnashing-Flammenkaefer","url":"/Gnashing+Flammenkaefer","type":"insect_glaive","attack":220,"element":[{"type":"Fire","attack":18}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost II","Fire Boost III","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Gossglaive I","slug":"Gossglaive-I","url":"/Gossglaive+I","type":"insect_glaive","attack":160,"element":[{"type":"Ice","attack":10}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Gossglaive II","slug":"Gossglaive-II","url":"/Gossglaive+II","type":"insect_glaive","attack":210,"element":[{"type":"Ice","attack":12}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost II","Brutal Strike"],"slots":[2],"rampSlots":[]},{"name":"Abominable Glaive","slug":"Abominable-Glaive","url":"/Abominable+Glaive","type":"insect_glaive","attack":230,"element":[{"type":"Ice","attack":15}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost II","Ice Boost III","Brutal Strike"],"slots":[2],"rampSlots":[]},{"name":"Pukei Rod I","slug":"Pukei-Rod-I","url":"/Pukei+Rod+I","type":"insect_glaive","attack":100,"element":[{"type":"Poison","attack":24}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Dulling Strike","Poison Boost I"],"slots":[],"rampSlots":[]},{"name":"Pukei Rod II","slug":"Pukei-Rod-II","url":"/Pukei+Rod+II","type":"insect_glaive","attack":150,"element":[{"type":"Poison","attack":27}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Dulling Strike","Poison Boost I"],"slots":[1,2],"rampSlots":[]},{"name":"Datura Pike","slug":"Datura-Pike","url":"/Datura+Pike","type":"insect_glaive","attack":170,"element":[{"type":"Poison","attack":30}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Dulling Strike","Poison Boost II"],"slots":[1,2],"rampSlots":[]},{"name":"Amber Piton I","slug":"Amber-Piton-I","url":"/Amber+Piton+I","type":"insect_glaive","attack":90,"element":[{"type":"Ice","attack":16}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Amber Piton II","slug":"Amber-Piton-II","url":"/Amber+Piton+II","type":"insect_glaive","attack":160,"element":[{"type":"Ice","attack":22}],"affinity":15,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Iceblight Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Fenrir Storm","slug":"Fenrir-Storm","url":"/Fenrir+Storm","type":"insect_glaive","attack":190,"element":[{"type":"Ice","attack":25}],"affinity":15,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Iceblight Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Royal Bloom I","slug":"Royal-Bloom-I","url":"/Royal+Bloom+I","type":"insect_glaive","attack":80,"element":[{"type":"Water","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Royal Bloom II","slug":"Royal-Bloom-II","url":"/Royal+Bloom+II","type":"insect_glaive","attack":130,"element":[{"type":"Water","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Bloom Royale","slug":"Bloom-Royale","url":"/Bloom+Royale","type":"insect_glaive","attack":160,"element":[{"type":"Water","attack":33}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost II","Waterblight Exploit"],"slots":[1,1,2],"rampSlots":[]},{"name":"Royal Bolt Scepter I","slug":"Royal-Bolt-Scepter-I","url":"/Royal+Bolt+Scepter+I","type":"insect_glaive","attack":120,"element":[{"type":"Thunder","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Thunder Boost I","Anti-Aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Royal Bolt Scepter II","slug":"Royal-Bolt-Scepter-II","url":"/Royal+Bolt+Scepter+II","type":"insect_glaive","attack":190,"element":[{"type":"Thunder","attack":23}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Despot's Twinbolt","slug":"Despot's-Twinbolt","url":"/Despot's+Twinbolt","type":"insect_glaive","attack":200,"element":[{"type":"Thunder","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Hortadent I","slug":"Hortadent-I","url":"/Hortadent+I","type":"insect_glaive","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Kinsect Level Boost","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Hortadent II","slug":"Hortadent-II","url":"/Hortadent+II","type":"insect_glaive","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Kinsect Level Boost","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Hortadent Brada","slug":"Hortadent-Brada","url":"/Hortadent+Brada","type":"insect_glaive","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Kinsect Level Boost","Small Monster Exploit"],"slots":[1,1,2],"rampSlots":[]},{"name":"Rielle Nulo I","slug":"Rielle-Nulo-I","url":"/Rielle+Nulo+I","type":"insect_glaive","attack":80,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Rielle Nulo II","slug":"Rielle-Nulo-II","url":"/Rielle+Nulo+II","type":"insect_glaive","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Rielle Unu","slug":"Rielle-Unu","url":"/Rielle+Unu","type":"insect_glaive","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Rielle Nulo Red I","slug":"Rielle-Nulo-Red-I","url":"/Rielle+Nulo+Red+I","type":"insect_glaive","attack":150,"element":[{"type":"Fire","attack":14}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Fire Boost II","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nulo Red II","slug":"Rielle-Nulo-Red-II","url":"/Rielle+Nulo+Red+II","type":"insect_glaive","attack":160,"element":[{"type":"Fire","attack":16}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Fire Boost II","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Vermiglio","slug":"Rielle-Vermiglio","url":"/Rielle+Vermiglio","type":"insect_glaive","attack":180,"element":[{"type":"Fire","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Fire Boost III","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nulo Black I","slug":"Rielle-Nulo-Black-I","url":"/Rielle+Nulo+Black+I","type":"insect_glaive","attack":140,"element":[{"type":"Dragon","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Dragon Boost II","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nulo Black II","slug":"Rielle-Nulo-Black-II","url":"/Rielle+Nulo+Black+II","type":"insect_glaive","attack":160,"element":[{"type":"Dragon","attack":17}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Dragon Boost II","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nerissimo","slug":"Rielle-Nerissimo","url":"/Rielle+Nerissimo","type":"insect_glaive","attack":180,"element":[{"type":"Dragon","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Dragon Boost III","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nulo White I","slug":"Rielle-Nulo-White-I","url":"/Rielle+Nulo+White+I","type":"insect_glaive","attack":120,"element":[{"type":"Ice","attack":12}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Ice Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Rielle Nulo White II","slug":"Rielle-Nulo-White-II","url":"/Rielle+Nulo+White+II","type":"insect_glaive","attack":160,"element":[{"type":"Ice","attack":16}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Ice Boost II","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Unu White","slug":"Rielle-Unu-White","url":"/Rielle+Unu+White","type":"insect_glaive","attack":170,"element":[{"type":"Ice","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Ice Boost III","Silkbind Boost"],"slots":[1,3],"rampSlots":[]},{"name":"Rielle Nulo Green I","slug":"Rielle-Nulo-Green-I","url":"/Rielle+Nulo+Green+I","type":"insect_glaive","attack":100,"element":[{"type":"Paralysis","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Paralysis Boost I","SilkBind Boost"],"slots":[],"rampSlots":[]},{"name":"Rielle Nulo Green II","slug":"Rielle-Nulo-Green-II","url":"/Rielle+Nulo+Green+II","type":"insect_glaive","attack":130,"element":[{"type":"Paralysis","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Paralysis Boost I","SilkBind Boost"],"slots":[1,1,1],"rampSlots":[]},{"name":"Rielle Unu Green","slug":"Rielle-Unu-Green","url":"/Rielle+Unu+Green","type":"insect_glaive","attack":170,"element":[{"type":"Paralysis","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Paralysis Boost I","SilkBind Boost"],"slots":[1,1,1],"rampSlots":[]},{"name":"Sinister Staff I","slug":"Sinister-Staff-I","url":"/Sinister+Staff+I","type":"insect_glaive","attack":130,"element":[{"type":"Blast","attack":13}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Staff II","slug":"Sinister-Staff-II","url":"/Sinister+Staff+II","type":"insect_glaive","attack":140,"element":[{"type":"Blast","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Shadowstaff","slug":"Sinister-Shadowstaff","url":"/Sinister+Shadowstaff","type":"insect_glaive","attack":200,"element":[{"type":"Blast","attack":20}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost II","Magnamalo Soul"],"slots":[1,2],"rampSlots":[]},{"name":"Metal Mauler I","slug":"Metal-Mauler-I","url":"/Metal+Mauler+I","type":"insect_glaive","attack":180,"element":[{"type":"Thunder","attack":18}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Metal Mauler II","slug":"Metal-Mauler-II","url":"/Metal+Mauler+II","type":"insect_glaive","attack":200,"element":[{"type":"Thunder","attack":20}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost II","Dulling Strike"],"slots":[3],"rampSlots":[]},{"name":"Azure Elder Glaive I","slug":"Azure-Elder-Glaive-I","url":"/Azure+Elder+Glaive+I","type":"insect_glaive","attack":180,"element":[{"type":"Dragon","attack":10}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Azure Elder Glaive II","slug":"Azure-Elder-Glaive-II","url":"/Azure+Elder+Glaive+II","type":"insect_glaive","attack":200,"element":[{"type":"Dragon","attack":12}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Thunderbolt Glaive I","slug":"Thunderbolt-Glaive-I","url":"/Thunderbolt+Glaive+I","type":"insect_glaive","attack":170,"element":[{"type":"Thunder","attack":36}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Daora's Entom I","slug":"Daora's-Entom-I","url":"/Daora's+Entom+I","type":"insect_glaive","attack":170,"element":[{"type":"Ice","attack":34}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Ice Boost I","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Caster's Rod I","slug":"Caster's-Rod-I","url":"/Caster's+Rod+I","type":"insect_glaive","attack":180,"element":[{"type":"Poison","attack":35}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost III","Chameleos Soul"],"slots":[1,1,2],"rampSlots":[]},{"name":"Deathport Staff I","slug":"Deathport-Staff-I","url":"/Deathport+Staff+I","type":"insect_glaive","attack":100,"element":[{"type":"Dragon","attack":16}],"affinity":0,"defense":15,"rampSkills":["Attack Boost II","Dragon Boost I","Dragon Exploit"],"slots":[],"rampSlots":[]},{"name":"Deathport Staff II","slug":"Deathport-Staff-II","url":"/Deathport+Staff+II","type":"insect_glaive","attack":160,"element":[{"type":"Dragon","attack":20}],"affinity":0,"defense":15,"rampSkills":["Attack Boost II","Dragon Boost II","Dragon Exploit"],"slots":[2,2],"rampSlots":[]},{"name":"Garamorse","slug":"Garamorse","url":"/Garamorse","type":"insect_glaive","attack":210,"element":[{"type":"Dragon","attack":24}],"affinity":0,"defense":20,"rampSkills":["Attack Boost III","Dragon Boost II","Dragon Exploit"],"slots":[2,2],"rampSlots":[]},{"name":"Magia Pitareen I","slug":"Magia-Pitareen-I","url":"/Magia+Pitareen+I","type":"insect_glaive","attack":70,"element":[{"type":"Blast","attack":20}],"affinity":0,"defense":5,"rampSkills":["Attack Boost II","Defense Boost I","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Magia Pitareen II","slug":"Magia-Pitareen-II","url":"/Magia+Pitareen+II","type":"insect_glaive","attack":100,"element":[{"type":"Blast","attack":25}],"affinity":0,"defense":5,"rampSkills":["Attack Boost III","Defense Boost I","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Magia Pitareen III","slug":"Magia-Pitareen-III","url":"/Magia+Pitareen+III","type":"insect_glaive","attack":150,"element":[{"type":"Blast","attack":29}],"affinity":0,"defense":5,"rampSkills":["Attack Boost IV","Defense Boost II","Silkbind Boost"],"slots":[1,1,1],"rampSlots":[]},{"name":"Magia Crescent","slug":"Magia-Crescent","url":"/Magia+Crescent","type":"insect_glaive","attack":190,"element":[{"type":"Blast","attack":33}],"affinity":0,"defense":5,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[1,1,1],"rampSlots":[]},{"name":"Brush Glaive I","slug":"Brush-Glaive-I","url":"/Brush+Glaive+I","type":"insect_glaive","attack":200,"element":[{"type":"Water","attack":8}],"affinity":-10,"defense":0,"rampSkills":["Water Boost II","Dulling Strike","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Brush Glaive II","slug":"Brush-Glaive-II","url":"/Brush+Glaive+II","type":"insect_glaive","attack":210,"element":[{"type":"Water","attack":9}],"affinity":-10,"defense":0,"rampSkills":["Water Boost III","Dulling Strike","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Watercolor Glaive","slug":"Watercolor-Glaive","url":"/Watercolor+Glaive","type":"insect_glaive","attack":220,"element":[{"type":"Water","attack":10}],"affinity":-10,"defense":0,"rampSkills":["Water Boost IV","Dulling Strike","Master Rider"],"slots":[3],"rampSlots":[]},{"name":"Rampage Glaive I","slug":"Rampage-Glaive-I","url":"/Rampage+Glaive+I","type":"insect_glaive","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Glaive II","slug":"Rampage-Glaive-II","url":"/Rampage+Glaive+II","type":"insect_glaive","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Glaive III","slug":"Rampage-Glaive-III","url":"/Rampage+Glaive+III","type":"insect_glaive","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Glaive IV","slug":"Rampage-Glaive-IV","url":"/Rampage+Glaive+IV","type":"insect_glaive","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Glaive V","slug":"Rampage-Glaive-V","url":"/Rampage+Glaive+V","type":"insect_glaive","attack":200,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Curved Naganagi","slug":"Curved-Naganagi","url":"/Curved+Naganagi","type":"insect_glaive","attack":190,"element":[{"type":"Water","attack":20}],"affinity":15,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Water Boost II"],"slots":[1,2],"rampSlots":[]},{"name":"Redwing Glaive","slug":"Redwing-Glaive","url":"/Redwing+Glaive","type":"insect_glaive","attack":160,"element":[{"type":"Dragon ","attack":35}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Abyssal Gale Glaive","slug":"Abyssal-Gale-Glaive","url":"/Abyssal+Gale+Glaive","type":"insect_glaive","attack":210,"element":[{"type":"Dragon ","attack":14}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost IV","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Abyssal Storm Glaive","slug":"Abyssal-Storm-Glaive","url":"/Abyssal+Storm+Glaive","type":"insect_glaive","attack":180,"element":[{"type":"Thunder","attack":38}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Daora's Tethidine","slug":"Daora's-Tethidine","url":"/Daora's+Tethidine","type":"insect_glaive","attack":180,"element":[{"type":"Ice","attack":36}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Ice Boost II","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Hazy Caster","slug":"Hazy-Caster","url":"/Hazy+Caster","type":"insect_glaive","attack":190,"element":[{"type":"Poison","attack":38}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Chameleos Soul"],"slots":[1,1,2],"rampSlots":[]},{"name":"Metalmangler","slug":"Metalmangler","url":"/Metalmangler","type":"insect_glaive","attack":220,"element":[{"type":"Thunder","attack":22}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost II","Thunder Boost II","Dulling Strike"],"slots":[3],"rampSlots":[]},{"name":"Tyrant Rod","slug":"Tyrant-Rod","url":"/Tyrant+Rod","type":"insect_glaive","attack":230,"element":[],"affinity":-10,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Kinsect Level Boost"],"slots":[],"rampSlots":[]},{"name":"Reddnaught Shuma","slug":"Reddnaught-Shuma","url":"/Reddnaught+Shuma","type":"insect_glaive","attack":170,"element":[{"type":"Dragon ","attack":38}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Rampage Glaive S","slug":"Rampage-Glaive-S","url":"/Rampage+Glaive+S","type":"insect_glaive","attack":210,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Defender Glaive I","slug":"Defender-Glaive-I","url":"/Defender+Glaive+I","type":"insect_glaive","attack":110,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Glaive","slug":"Champion-Glaive","url":"/Champion+Glaive","type":"insect_glaive","attack":150,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Glaive II","slug":"Champion-Glaive-II","url":"/Champion+Glaive+II","type":"insect_glaive","attack":190,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Glaive III","slug":"Champion-Glaive-III","url":"/Champion+Glaive+III","type":"insect_glaive","attack":210,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Guardian Glaive","slug":"Guardian-Glaive","url":"/Guardian+Glaive","type":"insect_glaive","attack":230,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Warrior Glaive","slug":"Kamura-Warrior-Glaive","url":"/Kamura+Warrior+Glaive","type":"insect_glaive","attack":250,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Kamura Warrior Glaive +","slug":"Kamura-Warrior-Glaive-+","url":"/Kamura+Warrior+Glaive++","type":"insect_glaive","attack":300,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Fine Kamura Glaive","slug":"Fine-Kamura-Glaive","url":"/Fine+Kamura+Glaive","type":"insect_glaive","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,4],"rampSlots":[2]},{"name":"Duke's Scepter","slug":"Duke's-Scepter","url":"/Duke's+Scepter","type":"insect_glaive","attack":320,"element":[{"type":"Dragon","attack":20}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Twilight Repose","slug":"Twilight-Repose","url":"/Twilight+Repose","type":"insect_glaive","attack":270,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Twilight Repose +","slug":"Twilight-Repose-+","url":"/Twilight+Repose++","type":"insect_glaive","attack":280,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Avidya Scythe","slug":"Avidya-Scythe","url":"/Avidya+Scythe","type":"insect_glaive","attack":300,"element":[],"affinity":40,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Curved Naganagi +","slug":"Curved-Naganagi-+","url":"/Curved+Naganagi++","type":"insect_glaive","attack":300,"element":[{"type":"Water","attack":26}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Eventide Kazanagi","slug":"Eventide-Kazanagi","url":"/Eventide+Kazanagi","type":"insect_glaive","attack":310,"element":[{"type":"Water","attack":28}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Eventide Kazanagi +","slug":"Eventide-Kazanagi-+","url":"/Eventide+Kazanagi++","type":"insect_glaive","attack":320,"element":[{"type":"Water","attack":31}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Illusory Frilled Jab +","slug":"Illusory-Frilled-Jab-+","url":"/Illusory+Frilled+Jab++","type":"insect_glaive","attack":260,"element":[{"type":"Sleep","attack":19}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Nightmare Frilled Jab","slug":"Nightmare-Frilled-Jab","url":"/Nightmare+Frilled+Jab","type":"insect_glaive","attack":300,"element":[{"type":"Sleep","attack":22}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Nightmare Frilled Jab +","slug":"Nightmare-Frilled-Jab-+","url":"/Nightmare+Frilled+Jab++","type":"insect_glaive","attack":340,"element":[{"type":"Sleep","attack":26}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Bloom Snow Jab","slug":"Bloom-Snow-Jab","url":"/Bloom+Snow+Jab","type":"insect_glaive","attack":280,"element":[{"type":"Ice","attack":47}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Bloom Snow Jab +","slug":"Bloom-Snow-Jab-+","url":"/Bloom+Snow+Jab++","type":"insect_glaive","attack":310,"element":[{"type":"Ice","attack":52}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Flicker Blizzard Jab","slug":"Flicker-Blizzard-Jab","url":"/Flicker+Blizzard+Jab","type":"insect_glaive","attack":320,"element":[{"type":"Ice","attack":57}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Tigerclaw Glaive +","slug":"Tigerclaw-Glaive-+","url":"/Tigerclaw+Glaive++","type":"insect_glaive","attack":320,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Great Tigerclaw Glaive","slug":"Great-Tigerclaw-Glaive","url":"/Great+Tigerclaw+Glaive","type":"insect_glaive","attack":330,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Great Tigerclaw Glaive +","slug":"Great-Tigerclaw-Glaive-+","url":"/Great+Tigerclaw+Glaive++","type":"insect_glaive","attack":340,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Leapfrog +","slug":"Leapfrog-+","url":"/Leapfrog++","type":"insect_glaive","attack":250,"element":[{"type":"Water","attack":18}],"affinity":0,"defense":20,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"True Leapfrog","slug":"True-Leapfrog","url":"/True+Leapfrog","type":"insect_glaive","attack":270,"element":[{"type":"Water","attack":20}],"affinity":0,"defense":20,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"True Leapfrog +","slug":"True-Leapfrog-+","url":"/True+Leapfrog++","type":"insect_glaive","attack":340,"element":[{"type":"Water","attack":22}],"affinity":0,"defense":30,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Dauntless Bayonet","slug":"Dauntless-Bayonet","url":"/Dauntless+Bayonet","type":"insect_glaive","attack":260,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Dauntless Bayonet +","slug":"Dauntless-Bayonet-+","url":"/Dauntless+Bayonet++","type":"insect_glaive","attack":310,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Steel Dauntless Bayonet","slug":"Steel-Dauntless-Bayonet","url":"/Steel+Dauntless+Bayonet","type":"insect_glaive","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Frostmoon Razorglaive","slug":"Frostmoon-Razorglaive","url":"/Frostmoon+Razorglaive","type":"insect_glaive","attack":300,"element":[{"type":"Ice","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Frostmoon Razorglaive +","slug":"Frostmoon-Razorglaive-+","url":"/Frostmoon+Razorglaive++","type":"insect_glaive","attack":310,"element":[{"type":"Ice","attack":20}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Iceberg Tunggul","slug":"Iceberg-Tunggul","url":"/Iceberg+Tunggul","type":"insect_glaive","attack":330,"element":[{"type":"Ice","attack":23}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Thunder Tusk","slug":"Thunder-Tusk","url":"/Thunder+Tusk","type":"insect_glaive","attack":300,"element":[{"type":"Thunder","attack":21}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Thunder Tusk +","slug":"Thunder-Tusk-+","url":"/Thunder+Tusk++","type":"insect_glaive","attack":310,"element":[{"type":"Thunder","attack":23}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Thunder Dragon","slug":"Thunder-Dragon","url":"/Thunder+Dragon","type":"insect_glaive","attack":320,"element":[{"type":"Thunder","attack":25}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Firedance Rathmaul +","slug":"Firedance-Rathmaul-+","url":"/Firedance+Rathmaul++","type":"insect_glaive","attack":310,"element":[{"type":"Fire","attack":44}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Fiery Rath","slug":"Fiery-Rath","url":"/Fiery+Rath","type":"insect_glaive","attack":320,"element":[{"type":"Fire","attack":50}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Full Bolt Chamber +","slug":"Full-Bolt-Chamber-+","url":"/Full+Bolt+Chamber++","type":"insect_glaive","attack":260,"element":[{"type":"Thunder","attack":40}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Surge Chamber","slug":"Surge-Chamber","url":"/Surge+Chamber","type":"insect_glaive","attack":290,"element":[{"type":"Thunder","attack":42}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Surge Chamber +","slug":"Surge-Chamber-+","url":"/Surge+Chamber++","type":"insect_glaive","attack":320,"element":[{"type":"Thunder","attack":48}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Queen Regalia +","slug":"Queen-Regalia-+","url":"/Queen+Regalia++","type":"insect_glaive","attack":270,"element":[{"type":"Poison","attack":26}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Empress Regalia","slug":"Empress-Regalia","url":"/Empress+Regalia","type":"insect_glaive","attack":310,"element":[{"type":"Poison","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Empress Regalia +","slug":"Empress-Regalia-+","url":"/Empress+Regalia++","type":"insect_glaive","attack":340,"element":[{"type":"Poison","attack":29}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Rosenstange","slug":"Rosenstange","url":"/Rosenstange","type":"insect_glaive","attack":300,"element":[{"type":"Fire","attack":14}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Rosenstange +","slug":"Rosenstange-+","url":"/Rosenstange++","type":"insect_glaive","attack":310,"element":[{"type":"Fire","attack":16}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Rosenspringen","slug":"Rosenspringen","url":"/Rosenspringen","type":"insect_glaive","attack":320,"element":[{"type":"Fire","attack":21}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Dawnmoon Glaive","slug":"Dawnmoon-Glaive","url":"/Dawnmoon+Glaive","type":"insect_glaive","attack":240,"element":[{"type":"Fire","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Dawnmoon Glaive +","slug":"Dawnmoon-Glaive-+","url":"/Dawnmoon+Glaive++","type":"insect_glaive","attack":260,"element":[{"type":"Fire","attack":35}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Dawnmoon Beambreak","slug":"Dawnmoon-Beambreak","url":"/Dawnmoon+Beambreak","type":"insect_glaive","attack":330,"element":[{"type":"Fire","attack":43}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Kulu Pike +","slug":"Kulu-Pike-+","url":"/Kulu+Pike++","type":"insect_glaive","attack":250,"element":[],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Kulu Katolos Pike","slug":"Kulu-Katolos-Pike","url":"/Kulu+Katolos+Pike","type":"insect_glaive","attack":330,"element":[],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Shocking Pike +","slug":"Shocking-Pike-+","url":"/Shocking+Pike++","type":"insect_glaive","attack":250,"element":[{"type":"Thunder","attack":28}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Thundering Pike","slug":"Thundering-Pike","url":"/Thundering+Pike","type":"insect_glaive","attack":280,"element":[{"type":"Thunder","attack":30}],"affinity":10,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Thundering Pike +","slug":"Thundering-Pike-+","url":"/Thundering+Pike++","type":"insect_glaive","attack":330,"element":[{"type":"Thunder","attack":32}],"affinity":10,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[2]},{"name":"Lagombavarice +","slug":"Lagombavarice-+","url":"/Lagombavarice++","type":"insect_glaive","attack":240,"element":[{"type":"Ice","attack":33}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[3]},{"name":"Sawtooth","slug":"Sawtooth","url":"/Sawtooth","type":"insect_glaive","attack":330,"element":[{"type":"Ice","attack":44}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Sturdy Glaive Redux +","slug":"Sturdy-Glaive-Redux-+","url":"/Sturdy+Glaive+Redux++","type":"insect_glaive","attack":270,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Stalwart Glaive","slug":"Stalwart-Glaive","url":"/Stalwart+Glaive","type":"insect_glaive","attack":320,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Stalwart Glaive +","slug":"Stalwart-Glaive-+","url":"/Stalwart+Glaive++","type":"insect_glaive","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Altair","slug":"Altair","url":"/Altair","type":"insect_glaive","attack":310,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Altair +","slug":"Altair-+","url":"/Altair++","type":"insect_glaive","attack":320,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Alteal","slug":"Alteal","url":"/Alteal","type":"insect_glaive","attack":330,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Shell Intoner","slug":"Shell-Intoner","url":"/Shell+Intoner","type":"insect_glaive","attack":250,"element":[{"type":"Water","attack":18}],"affinity":0,"defense":30,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Shell Intoner +","slug":"Shell-Intoner-+","url":"/Shell+Intoner++","type":"insect_glaive","attack":300,"element":[{"type":"Water","attack":22}],"affinity":0,"defense":30,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Crab lntoner","slug":"Crab-lntoner","url":"/Crab+lntoner","type":"insect_glaive","attack":330,"element":[{"type":"Water","attack":27}],"affinity":0,"defense":30,"rampSkills":[],"slots":[4],"rampSlots":[3]},{"name":"Highest of Glaives +","slug":"Highest-of-Glaives-+","url":"/Highest+of+Glaives++","type":"insect_glaive","attack":240,"element":[{"type":"Paralysis","attack":26}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Stratosphere Glaive","slug":"Stratosphere-Glaive","url":"/Stratosphere+Glaive","type":"insect_glaive","attack":290,"element":[{"type":"Paralysis","attack":27}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Stratosphere Glaive +","slug":"Stratosphere-Glaive-+","url":"/Stratosphere+Glaive++","type":"insect_glaive","attack":330,"element":[{"type":"Paralysis","attack":30}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Tyrant Rod +","slug":"Tyrant-Rod-+","url":"/Tyrant+Rod++","type":"insect_glaive","attack":340,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Horned Tyrant","slug":"Horned-Tyrant","url":"/Horned+Tyrant","type":"insect_glaive","attack":350,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Horned Tyrant +","slug":"Horned-Tyrant-+","url":"/Horned+Tyrant++","type":"insect_glaive","attack":360,"element":[],"affinity":-10,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Gnashing Flammenkaefer +","slug":"Gnashing-Flammenkaefer-+","url":"/Gnashing+Flammenkaefer++","type":"insect_glaive","attack":280,"element":[{"type":"Fire","attack":23}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Lohenspire","slug":"Lohenspire","url":"/Lohenspire","type":"insect_glaive","attack":330,"element":[{"type":"Fire","attack":25}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Lohenspire +","slug":"Lohenspire-+","url":"/Lohenspire++","type":"insect_glaive","attack":350,"element":[{"type":"Fire","attack":28}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Abominable Snowpole","slug":"Abominable-Snowpole","url":"/Abominable+Snowpole","type":"insect_glaive","attack":310,"element":[{"type":"Ice","attack":18}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Abominable Snowpole +","slug":"Abominable-Snowpole-+","url":"/Abominable+Snowpole++","type":"insect_glaive","attack":330,"element":[{"type":"Ice","attack":19}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Far North Pole","slug":"Far-North-Pole","url":"/Far+North+Pole","type":"insect_glaive","attack":350,"element":[{"type":"Ice","attack":20}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Datura Pike +","slug":"Datura-Pike-+","url":"/Datura+Pike++","type":"insect_glaive","attack":26,"element":[{"type":"Poison","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Datura Plume","slug":"Datura-Plume","url":"/Datura+Plume","type":"insect_glaive","attack":290,"element":[{"type":"Poison","attack":33}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Datura Plume +","slug":"Datura-Plume-+","url":"/Datura+Plume++","type":"insect_glaive","attack":330,"element":[{"type":"Poison","attack":39}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Midgard Storm","slug":"Midgard-Storm","url":"/Midgard+Storm","type":"insect_glaive","attack":280,"element":[{"type":"Ice","attack":30}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[2]},{"name":"Midgard Storm +","slug":"Midgard-Storm-+","url":"/Midgard+Storm++","type":"insect_glaive","attack":300,"element":[{"type":"Ice","attack":32}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[2]},{"name":"Pure Helltone","slug":"Pure-Helltone","url":"/Pure+Helltone","type":"insect_glaive","attack":320,"element":[{"type":"Ice","attack":33}],"affinity":15,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[2]},{"name":"Bloom Royale +","slug":"Bloom-Royale-+","url":"/Bloom+Royale++","type":"insect_glaive","attack":240,"element":[{"type":"Water","attack":34}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Waterspout Bloom","slug":"Waterspout-Bloom","url":"/Waterspout+Bloom","type":"insect_glaive","attack":290,"element":[{"type":"Water","attack":36}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Waterspout Bloom +","slug":"Waterspout-Bloom-+","url":"/Waterspout+Bloom++","type":"insect_glaive","attack":330,"element":[{"type":"Water","attack":45}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Golm Glaive","slug":"Golm-Glaive","url":"/Golm+Glaive","type":"insect_glaive","attack":310,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Golm Glaive +","slug":"Golm-Glaive-+","url":"/Golm+Glaive++","type":"insect_glaive","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,3],"rampSlots":[3]},{"name":"Maneater","slug":"Maneater","url":"/Maneater","type":"insect_glaive","attack":360,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,4],"rampSlots":[3]},{"name":"Despot's Twinbolt +","slug":"Despot's-Twinbolt-+","url":"/Despot's+Twinbolt++","type":"insect_glaive","attack":310,"element":[{"type":"Thunder","attack":30}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Despot's Twindart","slug":"Despot's-Twindart","url":"/Despot's+Twindart","type":"insect_glaive","attack":310,"element":[{"type":"Thunder","attack":39}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Hortadent Brada +","slug":"Hortadent-Brada-+","url":"/Hortadent+Brada++","type":"insect_glaive","attack":240,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Altaroth Trident","slug":"Altaroth-Trident","url":"/Altaroth+Trident","type":"insect_glaive","attack":290,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Altaroth Trident +","slug":"Altaroth-Trident-+","url":"/Altaroth+Trident++","type":"insect_glaive","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,3],"rampSlots":[2]},{"name":"Rielle Du Red","slug":"Rielle-Du-Red","url":"/Rielle+Du+Red","type":"insect_glaive","attack":240,"element":[{"type":"Fire","attack":27}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Rielle Tre Red","slug":"Rielle-Tre-Red","url":"/Rielle+Tre+Red","type":"insect_glaive","attack":280,"element":[{"type":"Fire","attack":30}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Rielle Kvar Red","slug":"Rielle-Kvar-Red","url":"/Rielle+Kvar+Red","type":"insect_glaive","attack":330,"element":[{"type":"Fire","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,4],"rampSlots":[2]},{"name":"Rielle Du Black","slug":"Rielle-Du-Black","url":"/Rielle+Du+Black","type":"insect_glaive","attack":280,"element":[{"type":"Dragon","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Rielle Tre Black","slug":"Rielle-Tre-Black","url":"/Rielle+Tre+Black","type":"insect_glaive","attack":330,"element":[{"type":"Dragon","attack":33}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,4],"rampSlots":[2]},{"name":"Rielle Du White","slug":"Rielle-Du-White","url":"/Rielle+Du+White","type":"insect_glaive","attack":250,"element":[{"type":"Ice","attack":26}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[2]},{"name":"Rielle Tre White","slug":"Rielle-Tre-White","url":"/Rielle+Tre+White","type":"insect_glaive","attack":330,"element":[{"type":"Ice","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,4],"rampSlots":[2]},{"name":"Rielle Du Green","slug":"Rielle-Du-Green","url":"/Rielle+Du+Green","type":"insect_glaive","attack":260,"element":[{"type":"Paralysis","attack":21}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Rielle Tre Green","slug":"Rielle-Tre-Green","url":"/Rielle+Tre+Green","type":"insect_glaive","attack":320,"element":[{"type":"Paralysis","attack":22}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[1]},{"name":"Sinister Shadowstaff +","slug":"Sinister-Shadowstaff-+","url":"/Sinister+Shadowstaff++","type":"insect_glaive","attack":290,"element":[{"type":"Blast","attack":24}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Mighty Soulromancer","slug":"Mighty-Soulromancer","url":"/Mighty+Soulromancer","type":"insect_glaive","attack":320,"element":[{"type":"Blast","attack":26}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Leumundslist","slug":"Leumundslist","url":"/Leumundslist","type":"insect_glaive","attack":290,"element":[{"type":"Dragon","attack":20}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Leumundslist +","slug":"Leumundslist-+","url":"/Leumundslist++","type":"insect_glaive","attack":310,"element":[{"type":"Dragon","attack":25}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Leumundsbruch","slug":"Leumundsbruch","url":"/Leumundsbruch","type":"insect_glaive","attack":320,"element":[{"type":"Dragon","attack":30}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Le Traqueur","slug":"Le-Traqueur","url":"/Le+Traqueur","type":"insect_glaive","attack":290,"element":[{"type":"Dragon","attack":37}],"affinity":35,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Le Miracle","slug":"Le-Miracle","url":"/Le+Miracle","type":"insect_glaive","attack":300,"element":[{"type":"Dragon","attack":45}],"affinity":35,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Metalmangler +","slug":"Metalmangler-+","url":"/Metalmangler++","type":"insect_glaive","attack":350,"element":[{"type":"Thunder","attack":26}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Metal Mutilator","slug":"Metal-Mutilator","url":"/Metal+Mutilator","type":"insect_glaive","attack":360,"element":[{"type":"Thunder","attack":27}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Demonlord Cudgel","slug":"Demonlord-Cudgel","url":"/Demonlord+Cudgel","type":"insect_glaive","attack":330,"element":[{"type":"Thunder","attack":16}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[1]},{"name":"Skysoar Hurricane","slug":"Skysoar-Hurricane","url":"/Skysoar+Hurricane","type":"insect_glaive","attack":340,"element":[{"type":"Dragon","attack":19}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Skysoar Flash","slug":"Skysoar-Flash","url":"/Skysoar+Flash","type":"insect_glaive","attack":310,"element":[{"type":"Thunder","attack":61}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Daora's Tethidine +","slug":"Daora's-Tethidine-+","url":"/Daora's+Tethidine++","type":"insect_glaive","attack":310,"element":[{"type":"Ice","attack":46}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Daora's Samudra","slug":"Daora's-Samudra","url":"/Daora's+Samudra","type":"insect_glaive","attack":320,"element":[{"type":"Ice","attack":52}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Hazy Caster +","slug":"Hazy-Caster-+","url":"/Hazy+Caster++","type":"insect_glaive","attack":310,"element":[{"type":"Poison","attack":43}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[2]},{"name":"Veil Caster","slug":"Veil-Caster","url":"/Veil+Caster","type":"insect_glaive","attack":320,"element":[{"type":"Poison","attack":48}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,2],"rampSlots":[2]},{"name":"Abyssal Insectoid","slug":"Abyssal-Insectoid","url":"/Abyssal+Insectoid","type":"insect_glaive","attack":350,"element":[{"type":"Dragon","attack":12}],"affinity":-25,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Crimson Springwing","slug":"Crimson-Springwing","url":"/Crimson+Springwing","type":"insect_glaive","attack":340,"element":[{"type":"Dragon","attack":50}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Garamorse +","slug":"Garamorse-+","url":"/Garamorse++","type":"insect_glaive","attack":260,"element":[{"type":"Dragon","attack":32}],"affinity":0,"defense":20,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Darkmorse","slug":"Darkmorse","url":"/Darkmorse","type":"insect_glaive","attack":320,"element":[{"type":"Dragon","attack":43}],"affinity":0,"defense":20,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Magia Crescent +","slug":"Magia-Crescent-+","url":"/Magia+Crescent++","type":"insect_glaive","attack":290,"element":[{"type":"Blast","attack":40}],"affinity":0,"defense":5,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Staff of Laertes","slug":"Staff-of-Laertes","url":"/Staff+of+Laertes","type":"insect_glaive","attack":320,"element":[{"type":"Blast","attack":46}],"affinity":0,"defense":30,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"New World Brush Glaive","slug":"New-World-Brush-Glaive","url":"/New+World+Brush+Glaive","type":"insect_glaive","attack":310,"element":[{"type":"Water","attack":13}],"affinity":-10,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Poet's Brush Glaive","slug":"Poet's-Brush-Glaive","url":"/Poet's+Brush+Glaive","type":"insect_glaive","attack":350,"element":[{"type":"Water","attack":14}],"affinity":-10,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Royal Order's Glaive","slug":"Royal-Order's-Glaive","url":"/Royal+Order's+Glaive","type":"insect_glaive","attack":290,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Royal Order's Glaive +","slug":"Royal-Order's-Glaive-+","url":"/Royal+Order's+Glaive++","type":"insect_glaive","attack":320,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[1,2],"rampSlots":[2]}]
+[
+  {
+    "name": "Kamura Glaive I",
+    "slug": "Kamura-Glaive-I",
+    "url": "/Kamura+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Glaive II",
+    "slug": "Kamura-Glaive-II",
+    "url": "/Kamura+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Glaive III",
+    "slug": "Kamura-Glaive-III",
+    "url": "/Kamura+Glaive+III",
+    "type": "insect_glaive",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Glaive IV",
+    "slug": "Kamura-Glaive-IV",
+    "url": "/Kamura+Glaive+IV",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Glaive V",
+    "slug": "Kamura-Glaive-V",
+    "url": "/Kamura+Glaive+V",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Ninja Glaive",
+    "slug": "Kamura-Ninja-Glaive",
+    "url": "/Kamura+Ninja+Glaive",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Scythe I",
+    "slug": "Hidden-Scythe-I",
+    "url": "/Hidden+Scythe+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Scythe II",
+    "slug": "Hidden-Scythe-II",
+    "url": "/Hidden+Scythe+II",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Evening Calm",
+    "slug": "Evening-Calm",
+    "url": "/Evening+Calm",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fox Halberd I",
+    "slug": "Fox-Halberd-I",
+    "url": "/Fox+Halberd+I",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity I",
+      "Water Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fox Halberd II",
+    "slug": "Fox-Halberd-II",
+    "url": "/Fox+Halberd+II",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity II",
+      "Water Boost II"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Frilled Jab I",
+    "slug": "Frilled-Jab-I",
+    "url": "/Frilled+Jab+I",
+    "type": "insect_glaive",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frilled Jab II",
+    "slug": "Frilled-Jab-II",
+    "url": "/Frilled+Jab+II",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Illusory Frilled Jab",
+    "slug": "Illusory-Frilled-Jab",
+    "url": "/Illusory+Frilled+Jab",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Kaina I",
+    "slug": "Tigrex-Kaina-I",
+    "url": "/Tigrex+Kaina+I",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Kaina II",
+    "slug": "Tigrex-Kaina-II",
+    "url": "/Tigrex+Kaina+II",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigerclaw Glaive",
+    "slug": "Tigerclaw-Glaive",
+    "url": "/Tigerclaw+Glaive",
+    "type": "insect_glaive",
+    "attack": 220,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Leaping Glaive I",
+    "slug": "Leaping-Glaive-I",
+    "url": "/Leaping+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Leaping Glaive II",
+    "slug": "Leaping-Glaive-II",
+    "url": "/Leaping+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Leapfrog",
+    "slug": "Leapfrog",
+    "url": "/Leapfrog",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Blade I",
+    "slug": "Iron-Blade-I",
+    "url": "/Iron+Blade+I",
+    "type": "insect_glaive",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Blade II",
+    "slug": "Iron-Blade-II",
+    "url": "/Iron+Blade+II",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Steel Blade",
+    "slug": "Steel-Blade",
+    "url": "/Steel+Blade",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Bayonet I",
+    "slug": "Iron-Bayonet-I",
+    "url": "/Iron+Bayonet+I",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Bayonet II",
+    "slug": "Iron-Bayonet-II",
+    "url": "/Iron+Bayonet+II",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hiten Blade",
+    "slug": "Hiten-Blade",
+    "url": "/Hiten+Blade",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rathmaul I",
+    "slug": "Rathmaul-I",
+    "url": "/Rathmaul+I",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rathmaul II",
+    "slug": "Rathmaul-II",
+    "url": "/Rathmaul+II",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Firedance Rathmaul",
+    "slug": "Firedance-Rathmaul",
+    "url": "/Firedance+Rathmaul",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": null,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bolt Chamber I",
+    "slug": "Bolt-Chamber-I",
+    "url": "/Bolt+Chamber+I",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bolt Chamber II",
+    "slug": "Bolt-Chamber-II",
+    "url": "/Bolt+Chamber+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Full Bolt Chamber",
+    "slug": "Full-Bolt-Chamber",
+    "url": "/Full+Bolt+Chamber",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Princess Regalia I",
+    "slug": "Princess-Regalia-I",
+    "url": "/Princess+Regalia+I",
+    "type": "insect_glaive",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Princess Regalia II",
+    "slug": "Princess-Regalia-II",
+    "url": "/Princess+Regalia+II",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Queen Regalia",
+    "slug": "Queen-Regalia",
+    "url": "/Queen+Regalia",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Aknosom Pike I",
+    "slug": "Aknosom-Pike-I",
+    "url": "/Aknosom+Pike+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Aknosom Pike II",
+    "slug": "Aknosom-Pike-II",
+    "url": "/Aknosom+Pike+II",
+    "type": "insect_glaive",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daybreak Glaive",
+    "slug": "Daybreak-Glaive",
+    "url": "/Daybreak+Glaive",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Glaive I",
+    "slug": "Kulu-Glaive-I",
+    "url": "/Kulu+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Glaive II",
+    "slug": "Kulu-Glaive-II",
+    "url": "/Kulu+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Pike",
+    "slug": "Kulu-Pike",
+    "url": "/Kulu+Pike",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Kinsect Level Boost",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Glaive I",
+    "slug": "Kadachi-Glaive-I",
+    "url": "/Kadachi+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 12
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Glaive II",
+    "slug": "Kadachi-Glaive-II",
+    "url": "/Kadachi+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Shocking Pike",
+    "slug": "Shocking-Pike",
+    "url": "/Shocking+Pike",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Thunder Boost III"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagombaglaive I",
+    "slug": "Lagombaglaive-I",
+    "url": "/Lagombaglaive+I",
+    "type": "insect_glaive",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagombaglaive II",
+    "slug": "Lagombaglaive-II",
+    "url": "/Lagombaglaive+II",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagombavarice",
+    "slug": "Lagombavarice",
+    "url": "/Lagombavarice",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Staff I",
+    "slug": "Bone-Staff-I",
+    "url": "/Bone+Staff+I",
+    "type": "insect_glaive",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Staff II",
+    "slug": "Bone-Staff-II",
+    "url": "/Bone+Staff+II",
+    "type": "insect_glaive",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Aerial Glaive",
+    "slug": "Aerial-Glaive",
+    "url": "/Aerial+Glaive",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sturdy Glaive I",
+    "slug": "Sturdy-Glaive-I",
+    "url": "/Sturdy+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sturdy Glaive II",
+    "slug": "Sturdy-Glaive-II",
+    "url": "/Sturdy+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sturdy Glaive Redux",
+    "slug": "Sturdy-Glaive-Redux",
+    "url": "/Sturdy+Glaive+Redux",
+    "type": "insect_glaive",
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sky-High Glaive I",
+    "slug": "Sky-High-Glaive-I",
+    "url": "/Sky-High+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sky-High Glaive II",
+    "slug": "Sky-High-Glaive-II",
+    "url": "/Sky-High+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Highest of Glaives",
+    "slug": "Highest-of-Glaives",
+    "url": "/Highest+of+Glaives",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Silkbind Boost",
+      "Anti-Aerial Species"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Rod I",
+    "slug": "Diablos-Rod-I",
+    "url": "/Diablos+Rod+I",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Kinsect Level Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Rod II",
+    "slug": "Diablos-Rod-II",
+    "url": "/Diablos+Rod+II",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Kinsect Level Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenkaefer I",
+    "slug": "Flammenkaefer-I",
+    "url": "/Flammenkaefer+I",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenkaefer II",
+    "slug": "Flammenkaefer-II",
+    "url": "/Flammenkaefer+II",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Gnashing Flammenkaefer",
+    "slug": "Gnashing-Flammenkaefer",
+    "url": "/Gnashing+Flammenkaefer",
+    "type": "insect_glaive",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Gossglaive I",
+    "slug": "Gossglaive-I",
+    "url": "/Gossglaive+I",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 10
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Gossglaive II",
+    "slug": "Gossglaive-II",
+    "url": "/Gossglaive+II",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Abominable Glaive",
+    "slug": "Abominable-Glaive",
+    "url": "/Abominable+Glaive",
+    "type": "insect_glaive",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Ice Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Rod I",
+    "slug": "Pukei-Rod-I",
+    "url": "/Pukei+Rod+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dulling Strike",
+      "Poison Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Rod II",
+    "slug": "Pukei-Rod-II",
+    "url": "/Pukei+Rod+II",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Poison Boost I"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Datura Pike",
+    "slug": "Datura-Pike",
+    "url": "/Datura+Pike",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Amber Piton I",
+    "slug": "Amber-Piton-I",
+    "url": "/Amber+Piton+I",
+    "type": "insect_glaive",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 16
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Amber Piton II",
+    "slug": "Amber-Piton-II",
+    "url": "/Amber+Piton+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fenrir Storm",
+    "slug": "Fenrir-Storm",
+    "url": "/Fenrir+Storm",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Royal Bloom I",
+    "slug": "Royal-Bloom-I",
+    "url": "/Royal+Bloom+I",
+    "type": "insect_glaive",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Royal Bloom II",
+    "slug": "Royal-Bloom-II",
+    "url": "/Royal+Bloom+II",
+    "type": "insect_glaive",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bloom Royale",
+    "slug": "Bloom-Royale",
+    "url": "/Bloom+Royale",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Royal Bolt Scepter I",
+    "slug": "Royal-Bolt-Scepter-I",
+    "url": "/Royal+Bolt+Scepter+I",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Royal Bolt Scepter II",
+    "slug": "Royal-Bolt-Scepter-II",
+    "url": "/Royal+Bolt+Scepter+II",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Despot's Twinbolt",
+    "slug": "Despot's-Twinbolt",
+    "url": "/Despot's+Twinbolt",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hortadent I",
+    "slug": "Hortadent-I",
+    "url": "/Hortadent+I",
+    "type": "insect_glaive",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hortadent II",
+    "slug": "Hortadent-II",
+    "url": "/Hortadent+II",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hortadent Brada",
+    "slug": "Hortadent-Brada",
+    "url": "/Hortadent+Brada",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Kinsect Level Boost",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo I",
+    "slug": "Rielle-Nulo-I",
+    "url": "/Rielle+Nulo+I",
+    "type": "insect_glaive",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo II",
+    "slug": "Rielle-Nulo-II",
+    "url": "/Rielle+Nulo+II",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Unu",
+    "slug": "Rielle-Unu",
+    "url": "/Rielle+Unu",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Red I",
+    "slug": "Rielle-Nulo-Red-I",
+    "url": "/Rielle+Nulo+Red+I",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Red II",
+    "slug": "Rielle-Nulo-Red-II",
+    "url": "/Rielle+Nulo+Red+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Vermiglio",
+    "slug": "Rielle-Vermiglio",
+    "url": "/Rielle+Vermiglio",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Fire Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Black I",
+    "slug": "Rielle-Nulo-Black-I",
+    "url": "/Rielle+Nulo+Black+I",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Black II",
+    "slug": "Rielle-Nulo-Black-II",
+    "url": "/Rielle+Nulo+Black+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nerissimo",
+    "slug": "Rielle-Nerissimo",
+    "url": "/Rielle+Nerissimo",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo White I",
+    "slug": "Rielle-Nulo-White-I",
+    "url": "/Rielle+Nulo+White+I",
+    "type": "insect_glaive",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo White II",
+    "slug": "Rielle-Nulo-White-II",
+    "url": "/Rielle+Nulo+White+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Unu White",
+    "slug": "Rielle-Unu-White",
+    "url": "/Rielle+Unu+White",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Ice Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Green I",
+    "slug": "Rielle-Nulo-Green-I",
+    "url": "/Rielle+Nulo+Green+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Nulo Green II",
+    "slug": "Rielle-Nulo-Green-II",
+    "url": "/Rielle+Nulo+Green+II",
+    "type": "insect_glaive",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rielle Unu Green",
+    "slug": "Rielle-Unu-Green",
+    "url": "/Rielle+Unu+Green",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Paralysis Boost I",
+      "SilkBind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Staff I",
+    "slug": "Sinister-Staff-I",
+    "url": "/Sinister+Staff+I",
+    "type": "insect_glaive",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Staff II",
+    "slug": "Sinister-Staff-II",
+    "url": "/Sinister+Staff+II",
+    "type": "insect_glaive",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Shadowstaff",
+    "slug": "Sinister-Shadowstaff",
+    "url": "/Sinister+Shadowstaff",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Metal Mauler I",
+    "slug": "Metal-Mauler-I",
+    "url": "/Metal+Mauler+I",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Metal Mauler II",
+    "slug": "Metal-Mauler-II",
+    "url": "/Metal+Mauler+II",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Glaive I",
+    "slug": "Azure-Elder-Glaive-I",
+    "url": "/Azure+Elder+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Glaive II",
+    "slug": "Azure-Elder-Glaive-II",
+    "url": "/Azure+Elder+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Thunderbolt Glaive I",
+    "slug": "Thunderbolt-Glaive-I",
+    "url": "/Thunderbolt+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Entom I",
+    "slug": "Daora's-Entom-I",
+    "url": "/Daora's+Entom+I",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost I",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Caster's Rod I",
+    "slug": "Caster's-Rod-I",
+    "url": "/Caster's+Rod+I",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Deathport Staff I",
+    "slug": "Deathport-Staff-I",
+    "url": "/Deathport+Staff+I",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Deathport Staff II",
+    "slug": "Deathport-Staff-II",
+    "url": "/Deathport+Staff+II",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Garamorse",
+    "slug": "Garamorse",
+    "url": "/Garamorse",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Pitareen I",
+    "slug": "Magia-Pitareen-I",
+    "url": "/Magia+Pitareen+I",
+    "type": "insect_glaive",
+    "attack": 70,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Pitareen II",
+    "slug": "Magia-Pitareen-II",
+    "url": "/Magia+Pitareen+II",
+    "type": "insect_glaive",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Pitareen III",
+    "slug": "Magia-Pitareen-III",
+    "url": "/Magia+Pitareen+III",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Crescent",
+    "slug": "Magia-Crescent",
+    "url": "/Magia+Crescent",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Brush Glaive I",
+    "slug": "Brush-Glaive-I",
+    "url": "/Brush+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 8
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Water Boost II",
+      "Dulling Strike",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Brush Glaive II",
+    "slug": "Brush-Glaive-II",
+    "url": "/Brush+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 9
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Water Boost III",
+      "Dulling Strike",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Watercolor Glaive",
+    "slug": "Watercolor-Glaive",
+    "url": "/Watercolor+Glaive",
+    "type": "insect_glaive",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 10
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Water Boost IV",
+      "Dulling Strike",
+      "Master Rider"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive I",
+    "slug": "Rampage-Glaive-I",
+    "url": "/Rampage+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive II",
+    "slug": "Rampage-Glaive-II",
+    "url": "/Rampage+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive III",
+    "slug": "Rampage-Glaive-III",
+    "url": "/Rampage+Glaive+III",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive IV",
+    "slug": "Rampage-Glaive-IV",
+    "url": "/Rampage+Glaive+IV",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive V",
+    "slug": "Rampage-Glaive-V",
+    "url": "/Rampage+Glaive+V",
+    "type": "insect_glaive",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Curved Naganagi",
+    "slug": "Curved-Naganagi",
+    "url": "/Curved+Naganagi",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Redwing Glaive",
+    "slug": "Redwing-Glaive",
+    "url": "/Redwing+Glaive",
+    "type": "insect_glaive",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Glaive",
+    "slug": "Abyssal-Gale-Glaive",
+    "url": "/Abyssal+Gale+Glaive",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Glaive",
+    "slug": "Abyssal-Storm-Glaive",
+    "url": "/Abyssal+Storm+Glaive",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Tethidine",
+    "slug": "Daora's-Tethidine",
+    "url": "/Daora's+Tethidine",
+    "type": "insect_glaive",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hazy Caster",
+    "slug": "Hazy-Caster",
+    "url": "/Hazy+Caster",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Metalmangler",
+    "slug": "Metalmangler",
+    "url": "/Metalmangler",
+    "type": "insect_glaive",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Tyrant Rod",
+    "slug": "Tyrant-Rod",
+    "url": "/Tyrant+Rod",
+    "type": "insect_glaive",
+    "attack": 230,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Kinsect Level Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Shuma",
+    "slug": "Reddnaught-Shuma",
+    "url": "/Reddnaught+Shuma",
+    "type": "insect_glaive",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Glaive S",
+    "slug": "Rampage-Glaive-S",
+    "url": "/Rampage+Glaive+S",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Defender Glaive I",
+    "slug": "Defender-Glaive-I",
+    "url": "/Defender+Glaive+I",
+    "type": "insect_glaive",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Glaive",
+    "slug": "Champion-Glaive",
+    "url": "/Champion+Glaive",
+    "type": "insect_glaive",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Glaive II",
+    "slug": "Champion-Glaive-II",
+    "url": "/Champion+Glaive+II",
+    "type": "insect_glaive",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Glaive III",
+    "slug": "Champion-Glaive-III",
+    "url": "/Champion+Glaive+III",
+    "type": "insect_glaive",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Glaive",
+    "slug": "Guardian-Glaive",
+    "url": "/Guardian+Glaive",
+    "type": "insect_glaive",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Warrior Glaive",
+    "slug": "Kamura-Warrior-Glaive",
+    "url": "/Kamura+Warrior+Glaive",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Glaive +",
+    "slug": "Kamura-Warrior-Glaive-+",
+    "url": "/Kamura+Warrior+Glaive++",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Glaive",
+    "slug": "Fine-Kamura-Glaive",
+    "url": "/Fine+Kamura+Glaive",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke's Scepter",
+    "slug": "Duke's-Scepter",
+    "url": "/Duke's+Scepter",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Twilight Repose",
+    "slug": "Twilight-Repose",
+    "url": "/Twilight+Repose",
+    "type": "insect_glaive",
+    "attack": 270,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Twilight Repose +",
+    "slug": "Twilight-Repose-+",
+    "url": "/Twilight+Repose++",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Avidya Scythe",
+    "slug": "Avidya-Scythe",
+    "url": "/Avidya+Scythe",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Curved Naganagi +",
+    "slug": "Curved-Naganagi-+",
+    "url": "/Curved+Naganagi++",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 26
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Eventide Kazanagi",
+    "slug": "Eventide-Kazanagi",
+    "url": "/Eventide+Kazanagi",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Eventide Kazanagi +",
+    "slug": "Eventide-Kazanagi-+",
+    "url": "/Eventide+Kazanagi++",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Illusory Frilled Jab +",
+    "slug": "Illusory-Frilled-Jab-+",
+    "url": "/Illusory+Frilled+Jab++",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Nightmare Frilled Jab",
+    "slug": "Nightmare-Frilled-Jab",
+    "url": "/Nightmare+Frilled+Jab",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Nightmare Frilled Jab +",
+    "slug": "Nightmare-Frilled-Jab-+",
+    "url": "/Nightmare+Frilled+Jab++",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bloom Snow Jab",
+    "slug": "Bloom-Snow-Jab",
+    "url": "/Bloom+Snow+Jab",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bloom Snow Jab +",
+    "slug": "Bloom-Snow-Jab-+",
+    "url": "/Bloom+Snow+Jab++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Flicker Blizzard Jab",
+    "slug": "Flicker-Blizzard-Jab",
+    "url": "/Flicker+Blizzard+Jab",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 57
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tigerclaw Glaive +",
+    "slug": "Tigerclaw-Glaive-+",
+    "url": "/Tigerclaw+Glaive++",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Great Tigerclaw Glaive",
+    "slug": "Great-Tigerclaw-Glaive",
+    "url": "/Great+Tigerclaw+Glaive",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Great Tigerclaw Glaive +",
+    "slug": "Great-Tigerclaw-Glaive-+",
+    "url": "/Great+Tigerclaw+Glaive++",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leapfrog +",
+    "slug": "Leapfrog-+",
+    "url": "/Leapfrog++",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "True Leapfrog",
+    "slug": "True-Leapfrog",
+    "url": "/True+Leapfrog",
+    "type": "insect_glaive",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "True Leapfrog +",
+    "slug": "True-Leapfrog-+",
+    "url": "/True+Leapfrog++",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Dauntless Bayonet",
+    "slug": "Dauntless-Bayonet",
+    "url": "/Dauntless+Bayonet",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Dauntless Bayonet +",
+    "slug": "Dauntless-Bayonet-+",
+    "url": "/Dauntless+Bayonet++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Steel Dauntless Bayonet",
+    "slug": "Steel-Dauntless-Bayonet",
+    "url": "/Steel+Dauntless+Bayonet",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Frostmoon Razorglaive",
+    "slug": "Frostmoon-Razorglaive",
+    "url": "/Frostmoon+Razorglaive",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Frostmoon Razorglaive +",
+    "slug": "Frostmoon-Razorglaive-+",
+    "url": "/Frostmoon+Razorglaive++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Iceberg Tunggul",
+    "slug": "Iceberg-Tunggul",
+    "url": "/Iceberg+Tunggul",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thunder Tusk",
+    "slug": "Thunder-Tusk",
+    "url": "/Thunder+Tusk",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thunder Tusk +",
+    "slug": "Thunder-Tusk-+",
+    "url": "/Thunder+Tusk++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thunder Dragon",
+    "slug": "Thunder-Dragon",
+    "url": "/Thunder+Dragon",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Firedance Rathmaul +",
+    "slug": "Firedance-Rathmaul-+",
+    "url": "/Firedance+Rathmaul++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 44
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Fiery Rath",
+    "slug": "Fiery-Rath",
+    "url": "/Fiery+Rath",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Full Bolt Chamber +",
+    "slug": "Full-Bolt-Chamber-+",
+    "url": "/Full+Bolt+Chamber++",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Surge Chamber",
+    "slug": "Surge-Chamber",
+    "url": "/Surge+Chamber",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Surge Chamber +",
+    "slug": "Surge-Chamber-+",
+    "url": "/Surge+Chamber++",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Queen Regalia +",
+    "slug": "Queen-Regalia-+",
+    "url": "/Queen+Regalia++",
+    "type": "insect_glaive",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Empress Regalia",
+    "slug": "Empress-Regalia",
+    "url": "/Empress+Regalia",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Empress Regalia +",
+    "slug": "Empress-Regalia-+",
+    "url": "/Empress+Regalia++",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rosenstange",
+    "slug": "Rosenstange",
+    "url": "/Rosenstange",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rosenstange +",
+    "slug": "Rosenstange-+",
+    "url": "/Rosenstange++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 16
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rosenspringen",
+    "slug": "Rosenspringen",
+    "url": "/Rosenspringen",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Dawnmoon Glaive",
+    "slug": "Dawnmoon-Glaive",
+    "url": "/Dawnmoon+Glaive",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Dawnmoon Glaive +",
+    "slug": "Dawnmoon-Glaive-+",
+    "url": "/Dawnmoon+Glaive++",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Dawnmoon Beambreak",
+    "slug": "Dawnmoon-Beambreak",
+    "url": "/Dawnmoon+Beambreak",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Kulu Pike +",
+    "slug": "Kulu-Pike-+",
+    "url": "/Kulu+Pike++",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kulu Katolos Pike",
+    "slug": "Kulu-Katolos-Pike",
+    "url": "/Kulu+Katolos+Pike",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Shocking Pike +",
+    "slug": "Shocking-Pike-+",
+    "url": "/Shocking+Pike++",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thundering Pike",
+    "slug": "Thundering-Pike",
+    "url": "/Thundering+Pike",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Thundering Pike +",
+    "slug": "Thundering-Pike-+",
+    "url": "/Thundering+Pike++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lagombavarice +",
+    "slug": "Lagombavarice-+",
+    "url": "/Lagombavarice++",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sawtooth",
+    "slug": "Sawtooth",
+    "url": "/Sawtooth",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 44
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sturdy Glaive Redux +",
+    "slug": "Sturdy-Glaive-Redux-+",
+    "url": "/Sturdy+Glaive+Redux++",
+    "type": "insect_glaive",
+    "attack": 270,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Stalwart Glaive",
+    "slug": "Stalwart-Glaive",
+    "url": "/Stalwart+Glaive",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Stalwart Glaive +",
+    "slug": "Stalwart-Glaive-+",
+    "url": "/Stalwart+Glaive++",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Altair",
+    "slug": "Altair",
+    "url": "/Altair",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Altair +",
+    "slug": "Altair-+",
+    "url": "/Altair++",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Alteal",
+    "slug": "Alteal",
+    "url": "/Alteal",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Shell Intoner",
+    "slug": "Shell-Intoner",
+    "url": "/Shell+Intoner",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Shell Intoner +",
+    "slug": "Shell-Intoner-+",
+    "url": "/Shell+Intoner++",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Crab lntoner",
+    "slug": "Crab-lntoner",
+    "url": "/Crab+lntoner",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Highest of Glaives +",
+    "slug": "Highest-of-Glaives-+",
+    "url": "/Highest+of+Glaives++",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Stratosphere Glaive",
+    "slug": "Stratosphere-Glaive",
+    "url": "/Stratosphere+Glaive",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Stratosphere Glaive +",
+    "slug": "Stratosphere-Glaive-+",
+    "url": "/Stratosphere+Glaive++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Tyrant Rod +",
+    "slug": "Tyrant-Rod-+",
+    "url": "/Tyrant+Rod++",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Horned Tyrant",
+    "slug": "Horned-Tyrant",
+    "url": "/Horned+Tyrant",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Horned Tyrant +",
+    "slug": "Horned-Tyrant-+",
+    "url": "/Horned+Tyrant++",
+    "type": "insect_glaive",
+    "attack": 360,
+    "element": [],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Gnashing Flammenkaefer +",
+    "slug": "Gnashing-Flammenkaefer-+",
+    "url": "/Gnashing+Flammenkaefer++",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lohenspire",
+    "slug": "Lohenspire",
+    "url": "/Lohenspire",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Lohenspire +",
+    "slug": "Lohenspire-+",
+    "url": "/Lohenspire++",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 28
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abominable Snowpole",
+    "slug": "Abominable-Snowpole",
+    "url": "/Abominable+Snowpole",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abominable Snowpole +",
+    "slug": "Abominable-Snowpole-+",
+    "url": "/Abominable+Snowpole++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 19
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Far North Pole",
+    "slug": "Far-North-Pole",
+    "url": "/Far+North+Pole",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Datura Pike +",
+    "slug": "Datura-Pike-+",
+    "url": "/Datura+Pike++",
+    "type": "insect_glaive",
+    "attack": 26,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Datura Plume",
+    "slug": "Datura-Plume",
+    "url": "/Datura+Plume",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Datura Plume +",
+    "slug": "Datura-Plume-+",
+    "url": "/Datura+Plume++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Midgard Storm",
+    "slug": "Midgard-Storm",
+    "url": "/Midgard+Storm",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 30
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Midgard Storm +",
+    "slug": "Midgard-Storm-+",
+    "url": "/Midgard+Storm++",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 32
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Pure Helltone",
+    "slug": "Pure-Helltone",
+    "url": "/Pure+Helltone",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 33
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bloom Royale +",
+    "slug": "Bloom-Royale-+",
+    "url": "/Bloom+Royale++",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Waterspout Bloom",
+    "slug": "Waterspout-Bloom",
+    "url": "/Waterspout+Bloom",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Waterspout Bloom +",
+    "slug": "Waterspout-Bloom-+",
+    "url": "/Waterspout+Bloom++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Glaive",
+    "slug": "Golm-Glaive",
+    "url": "/Golm+Glaive",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Glaive +",
+    "slug": "Golm-Glaive-+",
+    "url": "/Golm+Glaive++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Maneater",
+    "slug": "Maneater",
+    "url": "/Maneater",
+    "type": "insect_glaive",
+    "attack": 360,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Despot's Twinbolt +",
+    "slug": "Despot's-Twinbolt-+",
+    "url": "/Despot's+Twinbolt++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Despot's Twindart",
+    "slug": "Despot's-Twindart",
+    "url": "/Despot's+Twindart",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hortadent Brada +",
+    "slug": "Hortadent-Brada-+",
+    "url": "/Hortadent+Brada++",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Altaroth Trident",
+    "slug": "Altaroth-Trident",
+    "url": "/Altaroth+Trident",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Altaroth Trident +",
+    "slug": "Altaroth-Trident-+",
+    "url": "/Altaroth+Trident++",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Du Red",
+    "slug": "Rielle-Du-Red",
+    "url": "/Rielle+Du+Red",
+    "type": "insect_glaive",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Tre Red",
+    "slug": "Rielle-Tre-Red",
+    "url": "/Rielle+Tre+Red",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Kvar Red",
+    "slug": "Rielle-Kvar-Red",
+    "url": "/Rielle+Kvar+Red",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Du Black",
+    "slug": "Rielle-Du-Black",
+    "url": "/Rielle+Du+Black",
+    "type": "insect_glaive",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Tre Black",
+    "slug": "Rielle-Tre-Black",
+    "url": "/Rielle+Tre+Black",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Du White",
+    "slug": "Rielle-Du-White",
+    "url": "/Rielle+Du+White",
+    "type": "insect_glaive",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Tre White",
+    "slug": "Rielle-Tre-White",
+    "url": "/Rielle+Tre+White",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rielle Du Green",
+    "slug": "Rielle-Du-Green",
+    "url": "/Rielle+Du+Green",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rielle Tre Green",
+    "slug": "Rielle-Tre-Green",
+    "url": "/Rielle+Tre+Green",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Sinister Shadowstaff +",
+    "slug": "Sinister-Shadowstaff-+",
+    "url": "/Sinister+Shadowstaff++",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Mighty Soulromancer",
+    "slug": "Mighty-Soulromancer",
+    "url": "/Mighty+Soulromancer",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leumundslist",
+    "slug": "Leumundslist",
+    "url": "/Leumundslist",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leumundslist +",
+    "slug": "Leumundslist-+",
+    "url": "/Leumundslist++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 25
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leumundsbruch",
+    "slug": "Leumundsbruch",
+    "url": "/Leumundsbruch",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Le Traqueur",
+    "slug": "Le-Traqueur",
+    "url": "/Le+Traqueur",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 37
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Le Miracle",
+    "slug": "Le-Miracle",
+    "url": "/Le+Miracle",
+    "type": "insect_glaive",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 45
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Metalmangler +",
+    "slug": "Metalmangler-+",
+    "url": "/Metalmangler++",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 26
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Metal Mutilator",
+    "slug": "Metal-Mutilator",
+    "url": "/Metal+Mutilator",
+    "type": "insect_glaive",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Demonlord Cudgel",
+    "slug": "Demonlord-Cudgel",
+    "url": "/Demonlord+Cudgel",
+    "type": "insect_glaive",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Skysoar Hurricane",
+    "slug": "Skysoar-Hurricane",
+    "url": "/Skysoar+Hurricane",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Skysoar Flash",
+    "slug": "Skysoar-Flash",
+    "url": "/Skysoar+Flash",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 61
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daora's Tethidine +",
+    "slug": "Daora's-Tethidine-+",
+    "url": "/Daora's+Tethidine++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Daora's Samudra",
+    "slug": "Daora's-Samudra",
+    "url": "/Daora's+Samudra",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hazy Caster +",
+    "slug": "Hazy-Caster-+",
+    "url": "/Hazy+Caster++",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Veil Caster",
+    "slug": "Veil-Caster",
+    "url": "/Veil+Caster",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abyssal Insectoid",
+    "slug": "Abyssal-Insectoid",
+    "url": "/Abyssal+Insectoid",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 12
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Crimson Springwing",
+    "slug": "Crimson-Springwing",
+    "url": "/Crimson+Springwing",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Garamorse +",
+    "slug": "Garamorse-+",
+    "url": "/Garamorse++",
+    "type": "insect_glaive",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Darkmorse",
+    "slug": "Darkmorse",
+    "url": "/Darkmorse",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Magia Crescent +",
+    "slug": "Magia-Crescent-+",
+    "url": "/Magia+Crescent++",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Staff of Laertes",
+    "slug": "Staff-of-Laertes",
+    "url": "/Staff+of+Laertes",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "New World Brush Glaive",
+    "slug": "New-World-Brush-Glaive",
+    "url": "/New+World+Brush+Glaive",
+    "type": "insect_glaive",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 13
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Poet's Brush Glaive",
+    "slug": "Poet's-Brush-Glaive",
+    "url": "/Poet's+Brush+Glaive",
+    "type": "insect_glaive",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 14
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Royal Order's Glaive",
+    "slug": "Royal-Order's-Glaive",
+    "url": "/Royal+Order's+Glaive",
+    "type": "insect_glaive",
+    "attack": 290,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Royal Order's Glaive +",
+    "slug": "Royal-Order's-Glaive-+",
+    "url": "/Royal+Order's+Glaive++",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  }
+]

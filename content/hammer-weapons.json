@@ -1,1 +1,5831 @@
-[{"name":"Kamura Hammer I","slug":"Kamura-Hammer-I","url":"/Kamura+Hammer+I","type":"hammer","attack":50,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Hammer II","slug":"Kamura-Hammer-II","url":"/Kamura+Hammer+II","type":"hammer","attack":60,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Hammer III","slug":"Kamura-Hammer-III","url":"/Kamura+Hammer+III","type":"hammer","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Hammer IV","slug":"Kamura-Hammer-IV","url":"/Kamura+Hammer+IV","type":"hammer","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Kamura Hammer V","slug":"Kamura-Hammer-V","url":"/Kamura+Hammer+V","type":"hammer","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Defense Boost II","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Kamura Ninja Hammer","slug":"Kamura-Ninja-Hammer","url":"/Kamura+Ninja+Hammer","type":"hammer","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost IV","Defense Boost II","Master Rider"],"slots":[1,2],"rampSlots":[]},{"name":"Purity Hammer I","slug":"Purity-Hammer-I","url":"/Purity+Hammer+I","type":"hammer","attack":120,"element":[{"type":"Water","attack":21}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Water Boost I"],"slots":[],"rampSlots":[]},{"name":"Purity Hammer II","slug":"Purity-Hammer-II","url":"/Purity+Hammer+II","type":"hammer","attack":170,"element":[{"type":"Water","attack":26}],"affinity":15,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Water Boost II"],"slots":[1],"rampSlots":[]},{"name":"Sinter Hammer","slug":"Sinter-Hammer","url":"/Sinter+Hammer","type":"hammer","attack":200,"element":[{"type":"Water","attack":31}],"affinity":20,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Water Boost II"],"slots":[1],"rampSlots":[]},{"name":"Binding Bludgeon I","slug":"Binding-Bludgeon-I","url":"/Binding+Bludgeon+I","type":"hammer","attack":90,"element":[{"type":"Paralysis","attack":23}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Binding Bludgeon II","slug":"Binding-Bludgeon-II","url":"/Binding+Bludgeon+II","type":"hammer","attack":160,"element":[{"type":"Paralysis","attack":27}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Dulling Strike"],"slots":[1],"rampSlots":[]},{"name":"Armored Gogue","slug":"Armored-Gogue","url":"/Armored+Gogue","type":"hammer","attack":170,"element":[{"type":"Paralysis","attack":30}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Defense Boost III","Dulling Strike"],"slots":[1],"rampSlots":[]},{"name":"Almudron Hammer I","slug":"Almudron-Hammer-I","url":"/Almudron+Hammer+I","type":"hammer","attack":130,"element":[{"type":"Water","attack":40}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Element Exploit"],"slots":[],"rampSlots":[]},{"name":"Almudron Hammer II","slug":"Almudron-Hammer-II","url":"/Almudron+Hammer+II","type":"hammer","attack":140,"element":[{"type":"Water","attack":48}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Element Exploit"],"slots":[1,2],"rampSlots":[]},{"name":"Doom Bringer Hammer","slug":"Doom-Bringer-Hammer","url":"/Doom+Bringer+Hammer","type":"hammer","attack":190,"element":[{"type":"Water","attack":51}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost II","Element Exploit"],"slots":[1,2],"rampSlots":[]},{"name":"Five-Pronged Hammer I","slug":"Five-Pronged-Hammer-I","url":"/Five-Pronged+Hammer+I","type":"hammer","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Anti-Aerial Species","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Five-Pronged Hammer II","slug":"Five-Pronged-Hammer-II","url":"/Five-Pronged+Hammer+II","type":"hammer","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Anti-Aerial Species","Silkbind Boost"],"slots":[3],"rampSlots":[]},{"name":"Great Pronged Hammer","slug":"Great-Pronged-Hammer","url":"/Great+Pronged+Hammer","type":"hammer","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Anti-Aerial Species","Silkbind Boost"],"slots":[3],"rampSlots":[]},{"name":"Wroggi Hammer I","slug":"Wroggi-Hammer-I","url":"/Wroggi+Hammer+I","type":"hammer","attack":90,"element":[{"type":"Poison","attack":27}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Poison Boost I","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Wroggi Hammer II","slug":"Wroggi-Hammer-II","url":"/Wroggi+Hammer+II","type":"hammer","attack":130,"element":[{"type":"Poison","attack":31}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Poison Boost I","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Dirty Hammer","slug":"Dirty-Hammer","url":"/Dirty+Hammer","type":"hammer","attack":140,"element":[{"type":"Poison","attack":36}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Poison Boost II","Buddy Rally"],"slots":[1,1,1],"rampSlots":[]},{"name":"Gun Hammer I","slug":"Gun-Hammer-I","url":"/Gun+Hammer+I","type":"hammer","attack":90,"element":[{"type":"Fire","attack":37}],"affinity":0,"defense":4,"rampSkills":["Attack Boost II","Fireblight Exploit","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Gun Hammer II","slug":"Gun-Hammer-II","url":"/Gun+Hammer+II","type":"hammer","attack":150,"element":[{"type":"Fire","attack":45}],"affinity":0,"defense":8,"rampSkills":["Attack Boost III","Fireblight Exploit","Small Monster Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Deadeye Revolver","slug":"Deadeye-Revolver","url":"/Deadeye+Revolver","type":"hammer","attack":160,"element":[{"type":"Fire","attack":50}],"affinity":0,"defense":10,"rampSkills":["Attack Boost IV","Fireblight Exploit","Small Monster Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Iron Hammer I","slug":"Iron-Hammer-I","url":"/Iron+Hammer+I","type":"hammer","attack":80,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"Iron Devil","slug":"Iron-Devil","url":"/Iron+Devil","type":"hammer","attack":100,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"War Hammer I","slug":"War-Hammer-I","url":"/War+Hammer+I","type":"hammer","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost II"],"slots":[],"rampSlots":[]},{"name":"War Mace","slug":"War-Mace","url":"/War+Mace","type":"hammer","attack":140,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"War Stamp I","slug":"War-Stamp-I","url":"/War+Stamp+I","type":"hammer","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"War Basher","slug":"War-Basher","url":"/War+Basher","type":"hammer","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Silkbind Boost"],"slots":[1],"rampSlots":[]},{"name":"Great Nova I","slug":"Great-Nova-I","url":"/Great+Nova+I","type":"hammer","attack":160,"element":[{"type":"Thunder","attack":35}],"affinity":0,"defense":5,"rampSkills":["Defense Boost III","Dragon Exploit","Element Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Great Nova II","slug":"Great-Nova-II","url":"/Great+Nova+II","type":"hammer","attack":180,"element":[{"type":"Thunder","attack":37}],"affinity":0,"defense":5,"rampSkills":["Defense Boost III","Dragon Exploit","Element Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Super Nova","slug":"Super-Nova","url":"/Super+Nova","type":"hammer","attack":200,"element":[{"type":"Thunder","attack":37}],"affinity":0,"defense":5,"rampSkills":["Defense Boost III","Dragon Exploit","Element Exploit"],"slots":[1,1,1],"rampSlots":[]},{"name":"Striped Striker I","slug":"Striped-Striker-I","url":"/Striped+Striker+I","type":"hammer","attack":150,"element":[],"affinity":-20,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Striped Striker II","slug":"Striped-Striker-II","url":"/Striped+Striker+II","type":"hammer","attack":210,"element":[],"affinity":-20,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Tigrex Hammer","slug":"Tigrex-Hammer","url":"/Tigrex+Hammer","type":"hammer","attack":220,"element":[],"affinity":-20,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Flaming Fury I","slug":"Flaming-Fury-I","url":"/Flaming+Fury+I","type":"hammer","attack":140,"element":[{"type":"Fire","attack":17}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Flaming Fury II","slug":"Flaming-Fury-II","url":"/Flaming+Fury+II","type":"hammer","attack":210,"element":[{"type":"Fire","attack":20}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Fire Boost II","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Phoenix Fury","slug":"Phoenix-Fury","url":"/Phoenix+Fury","type":"hammer","attack":230,"element":[{"type":"Fire","attack":22}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost II","Fire Boost III","Brutal Strike"],"slots":[1,2],"rampSlots":[]},{"name":"Glacial Bash I","slug":"Glacial-Bash-I","url":"/Glacial+Bash+I","type":"hammer","attack":90,"element":[{"type":"Ice","attack":21}],"affinity":30,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Glacial Bash II","slug":"Glacial-Bash-II","url":"/Glacial+Bash+II","type":"hammer","attack":100,"element":[{"type":"Ice","attack":23}],"affinity":30,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Iceblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Glacial Crunch","slug":"Glacial-Crunch","url":"/Glacial+Crunch","type":"hammer","attack":160,"element":[{"type":"Ice","attack":27}],"affinity":35,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Iceblight Exploit"],"slots":[1,1],"rampSlots":[]},{"name":"Kulu Bludgeon I","slug":"Kulu-Bludgeon-I","url":"/Kulu+Bludgeon+I","type":"hammer","attack":100,"element":[],"affinity":10,"defense":0,"rampSkills":["Affinity Boost II","Small Monster Exploit","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu Bludgeon II","slug":"Kulu-Bludgeon-II","url":"/Kulu+Bludgeon+II","type":"hammer","attack":110,"element":[],"affinity":10,"defense":0,"rampSkills":["Affinity Boost II","Small Monster Exploit","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Kulu Crusher","slug":"Kulu-Crusher","url":"/Kulu+Crusher","type":"hammer","attack":160,"element":[],"affinity":20,"defense":0,"rampSkills":["Affinity Boost III","Small Monster Exploit","Spiribird Doubled"],"slots":[1,1,1],"rampSlots":[]},{"name":"Devil Masher I","slug":"Devil-Masher-I","url":"/Devil+Masher+I","type":"hammer","attack":160,"element":[{"type":"Paralysis","attack":10}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Paralysis Boost I","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Devil Masher II","slug":"Devil-Masher-II","url":"/Devil+Masher+II","type":"hammer","attack":null,"element":[{"type":"Paralysis","attack":14}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Paralysis Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Iron Devil's Soul","slug":"Iron-Devil's-Soul","url":"/Iron+Devil's+Soul","type":"hammer","attack":220,"element":[{"type":"Paralysis","attack":17}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost III","Paralysis Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Unbearable Hammer I","slug":"Unbearable-Hammer-I","url":"/Unbearable+Hammer+I","type":"hammer","attack":120,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Defense Boost II","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Unbearable Hammer II","slug":"Unbearable-Hammer-II","url":"/Unbearable+Hammer+II","type":"hammer","attack":130,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Barbearic Hammer","slug":"Barbearic-Hammer","url":"/Barbearic+Hammer","type":"hammer","attack":180,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Small Monster Exploit"],"slots":[],"rampSlots":[]},{"name":"Frilled Blow I","slug":"Frilled-Blow-I","url":"/Frilled+Blow+I","type":"hammer","attack":90,"element":[{"type":"Sleep","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Sleep Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Frilled Blow II","slug":"Frilled-Blow-II","url":"/Frilled+Blow+II","type":"hammer","attack":120,"element":[{"type":"Sleep","attack":21}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Sleep Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Illusory Frilled Blow","slug":"Illusory-Frilled-Blow","url":"/Illusory+Frilled+Blow","type":"hammer","attack":180,"element":[{"type":"Sleep","attack":26}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Sleep Boost I","Dulling Strike"],"slots":[1,1],"rampSlots":[]},{"name":"Bag o' Horrors I","slug":"Bag-o'-Horrors-I","url":"/Bag+o'+Horrors+I","type":"hammer","attack":80,"element":[{"type":"Thunder","attack":42}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Bag o' Horrors II","slug":"Bag-o'-Horrors-II","url":"/Bag+o'+Horrors+II","type":"hammer","attack":90,"element":[{"type":"Thunder","attack":43}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Thunderblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Bag o' Thunder","slug":"Bag-o'-Thunder","url":"/Bag+o'+Thunder","type":"hammer","attack":140,"element":[{"type":"Thunder","attack":46}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Thunder Boost II","Thunderblight Exploit"],"slots":[2],"rampSlots":[]},{"name":"Frozen Core I","slug":"Frozen-Core-I","url":"/Frozen+Core+I","type":"hammer","attack":90,"element":[{"type":"Ice","attack":20}],"affinity":0,"defense":0,"rampSkills":["Defense Boost II","Ice Boost I","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Frozen Core II","slug":"Frozen-Core-II","url":"/Frozen+Core+II","type":"hammer","attack":100,"element":[{"type":"Ice","attack":22}],"affinity":0,"defense":0,"rampSkills":["Defense Boost II","Ice Boost I","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Cocytus","slug":"Cocytus","url":"/Cocytus","type":"hammer","attack":150,"element":[{"type":"Ice","attack":32}],"affinity":0,"defense":0,"rampSkills":["Defense Boost","Element Exploit","Buddy Rally"],"slots":[1,1,2],"rampSlots":[]},{"name":"Bone Hammer I","slug":"Bone-Hammer-I","url":"/Bone+Hammer+I","type":"hammer","attack":90,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Bone Hammer II","slug":"Bone-Hammer-II","url":"/Bone+Hammer+II","type":"hammer","attack":110,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Hard Bone Hammer","slug":"Hard-Bone-Hammer","url":"/Hard+Bone+Hammer","type":"hammer","attack":130,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Bone Bludgeon I","slug":"Bone-Bludgeon-I","url":"/Bone+Bludgeon+I","type":"hammer","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Bone Bludgeon II","slug":"Bone-Bludgeon-II","url":"/Bone+Bludgeon+II","type":"hammer","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Heavy Bone Bludgeon","slug":"Heavy-Bone-Bludgeon","url":"/Heavy+Bone+Bludgeon","type":"hammer","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Affinity Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Diablos Hammer I","slug":"Diablos-Hammer-I","url":"/Diablos+Hammer+I","type":"hammer","attack":220,"element":[],"affinity":-25,"defense":0,"rampSkills":["Affinity Boost II","Defense Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Diablos Hammer II","slug":"Diablos-Hammer-II","url":"/Diablos+Hammer+II","type":"hammer","attack":230,"element":[],"affinity":-25,"defense":10,"rampSkills":["Affinity Boost II","Defense Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Cyclo-Hammer I","slug":"Cyclo-Hammer-I","url":"/Cyclo-Hammer+I","type":"hammer","attack":160,"element":[],"affinity":0,"defense":0,"rampSkills":["Defense Boost II","Master Rider","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Cyclo-Hammer II","slug":"Cyclo-Hammer-II","url":"/Cyclo-Hammer+II","type":"hammer","attack":220,"element":[],"affinity":0,"defense":0,"rampSkills":["Defense Boost III","Master Rider","Spiribird Doubled"],"slots":[2],"rampSlots":[]},{"name":"Atlas Hammer","slug":"Atlas-Hammer","url":"/Atlas+Hammer","type":"hammer","attack":230,"element":[],"affinity":0,"defense":0,"rampSkills":["Defense Boost III","Master Rider","Spiribird Doubled"],"slots":[2],"rampSlots":[]},{"name":"Pukei Hammer I","slug":"Pukei-Hammer-I","url":"/Pukei+Hammer+I","type":"hammer","attack":160,"element":[{"type":"Poison","attack":40}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Poison Boost II"],"slots":[1],"rampSlots":[]},{"name":"Pukei Hammer II","slug":"Pukei-Hammer-II","url":"/Pukei+Hammer+II","type":"hammer","attack":180,"element":[{"type":"Poison","attack":47}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost II","Poison Boost II"],"slots":[1,2],"rampSlots":[]},{"name":"Datura Club","slug":"Datura-Club","url":"/Datura+Club","type":"hammer","attack":190,"element":[{"type":"Poison","attack":54}],"affinity":0,"defense":0,"rampSkills":["Attack Boost IV","Defense Boost III","Poison Boost II"],"slots":[1,2],"rampSlots":[]},{"name":"Basarios Blow I","slug":"Basarios-Blow-I","url":"/Basarios+Blow+I","type":"hammer","attack":120,"element":[],"affinity":0,"defense":15,"rampSkills":["Defense Boost I","Attack Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Basarios Blow II","slug":"Basarios-Blow-II","url":"/Basarios+Blow+II","type":"hammer","attack":160,"element":[],"affinity":0,"defense":15,"rampSkills":["Defense Boost I","Attack Boost III","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Basarios Bash","slug":"Basarios-Bash","url":"/Basarios+Bash","type":"hammer","attack":190,"element":[],"affinity":0,"defense":20,"rampSkills":["Defense Boost I","Attack Boost III","Dulling Strike"],"slots":[1],"rampSlots":[]},{"name":"Red Bludgeon I","slug":"Red-Bludgeon-I","url":"/Red+Bludgeon+I","type":"hammer","attack":190,"element":[{"type":"Fire","attack":27}],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[],"rampSlots":[]},{"name":"Red Bludgeon II","slug":"Red-Bludgeon-II","url":"/Red+Bludgeon+II","type":"hammer","attack":200,"element":[{"type":"Fire","attack":31}],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Fire Boost I","Element Exploit"],"slots":[],"rampSlots":[]},{"name":"Huracan Hammer","slug":"Huracan-Hammer","url":"/Huracan+Hammer","type":"hammer","attack":210,"element":[{"type":"Fire","attack":34}],"affinity":5,"defense":0,"rampSkills":["Attack Boost III","Fire Boost I","Element Exploit"],"slots":[],"rampSlots":[]},{"name":"Yeti Hammer I","slug":"Yeti-Hammer-I","url":"/Yeti+Hammer+I","type":"hammer","attack":170,"element":[{"type":"Ice","attack":13}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost I","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Yet Hammer II","slug":"Yet-Hammer-II","url":"/Yet+Hammer+II","type":"hammer","attack":190,"element":[{"type":"Ice","attack":15}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost II","Brutal Strike"],"slots":[2],"rampSlots":[]},{"name":"Yeti Hammer III","slug":"Yeti-Hammer-III","url":"/Yeti+Hammer+III","type":"hammer","attack":220,"element":[{"type":"Ice","attack":17}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost II","Brutal Strike"],"slots":[2],"rampSlots":[]},{"name":"Abominable Hammer","slug":"Abominable-Hammer","url":"/Abominable+Hammer","type":"hammer","attack":230,"element":[{"type":"Ice","attack":20}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Ice Boost III","Brutal Strike"],"slots":[2],"rampSlots":[]},{"name":"Usurper's Thunder I","slug":"Usurper's-Thunder-I","url":"/Usurper's+Thunder+I","type":"hammer","attack":120,"element":[{"type":"Thunder","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Thunder Boost I","Anti-Aquatic Species"],"slots":[],"rampSlots":[]},{"name":"Usurper's Thunder II","slug":"Usurper's-Thunder-II","url":"/Usurper's+Thunder+II","type":"hammer","attack":190,"element":[{"type":"Thunder","attack":28}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost I","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Despot's Crackle","slug":"Despot's-Crackle","url":"/Despot's+Crackle","type":"hammer","attack":210,"element":[{"type":"Thunder","attack":33}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Thunder Boost II","Anti-Aquatic Species"],"slots":[1,1],"rampSlots":[]},{"name":"Calamitous Portent I","slug":"Calamitous-Portent-I","url":"/Calamitous+Portent+I","type":"hammer","attack":110,"element":[{"type":"Poison","attack":12}],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Poison Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Calamitous Portent II","slug":"Calamitous-Portent-II","url":"/Calamitous+Portent+II","type":"hammer","attack":120,"element":[{"type":"Poison","attack":14}],"affinity":5,"defense":0,"rampSkills":["Attack Boost III","Poison Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Catastrophic Portent","slug":"Catastrophic-Portent","url":"/Catastrophic+Portent","type":"hammer","attack":170,"element":[{"type":"Poison","attack":16}],"affinity":10,"defense":0,"rampSkills":["Attack Boost III","Poison Boost II","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Droth Splashhammer I","slug":"Droth-Splashhammer-I","url":"/Droth+Splashhammer+I","type":"hammer","attack":100,"element":[{"type":"Water","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Droth Splashhammer II","slug":"Droth-Splashhammer-II","url":"/Droth+Splashhammer+II","type":"hammer","attack":100,"element":[{"type":"Water","attack":31}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Water Boost I","Waterblight Exploit"],"slots":[],"rampSlots":[]},{"name":"Ludroth Dousehammer","slug":"Ludroth-Dousehammer","url":"/Ludroth+Dousehammer","type":"hammer","attack":170,"element":[{"type":"Water","attack":31}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Water Boost II","Waterblight Exploit"],"slots":[1,1,2],"rampSlots":[]},{"name":"Izuchi Hammer I","slug":"Izuchi-Hammer-I","url":"/Izuchi+Hammer+I","type":"hammer","attack":70,"element":[],"affinity":0,"defense":0,"rampSkills":["Affinity Boost I","Small Monster Exploit","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Izuchi Hammer II","slug":"Izuchi-Hammer-II","url":"/Izuchi+Hammer+II","type":"hammer","attack":90,"element":[],"affinity":12,"defense":0,"rampSkills":["Affinity Boost I","Small Monster Exploit","Buddy Rally"],"slots":[],"rampSlots":[]},{"name":"Snapper Hammer","slug":"Snapper-Hammer","url":"/Snapper+Hammer","type":"hammer","attack":160,"element":[],"affinity":15,"defense":0,"rampSkills":["Affinity Boost III","Small Monster Exploit","Buddy Rally"],"slots":[1,2],"rampSlots":[]},{"name":"Hidden Breaker I","slug":"Hidden-Breaker-I","url":"/Hidden+Breaker+I","type":"hammer","attack":130,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost I","Master Rider"],"slots":[],"rampSlots":[]},{"name":"Hidden Breaker II","slug":"Hidden-Breaker-II","url":"/Hidden+Breaker+II","type":"hammer","attack":170,"element":[],"affinity":40,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost I","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Night Eternal","slug":"Night-Eternal","url":"/Night+Eternal","type":"hammer","attack":180,"element":[],"affinity":45,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost I","Master Rider"],"slots":[2],"rampSlots":[]},{"name":"Carapace Hammer I","slug":"Carapace-Hammer-I","url":"/Carapace+Hammer+I","type":"hammer","attack":120,"element":[],"affinity":-10,"defense":5,"rampSkills":["Affinity Boost I","Defense Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Carapace Hammer II","slug":"Carapace-Hammer-II","url":"/Carapace+Hammer+II","type":"hammer","attack":150,"element":[],"affinity":-10,"defense":8,"rampSkills":["Affinity Boost I","Defense Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Barroth Hammer","slug":"Barroth-Hammer","url":"/Barroth+Hammer","type":"hammer","attack":200,"element":[],"affinity":-5,"defense":10,"rampSkills":["Affinity Boost II","Defense Boost II","Dulling Strike"],"slots":[1],"rampSlots":[]},{"name":"Sinister Hammer I","slug":"Sinister-Hammer-I","url":"/Sinister+Hammer+I","type":"hammer","attack":130,"element":[{"type":"Blast","attack":15}],"affinity":0,"defense":0,"rampSkills":["Attack Boost I","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Hammer II","slug":"Sinister-Hammer-II","url":"/Sinister+Hammer+II","type":"hammer","attack":140,"element":[{"type":"Blast","attack":18}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost I","Magnamalo Soul"],"slots":[],"rampSlots":[]},{"name":"Sinister Shade Hammer","slug":"Sinister-Shade-Hammer","url":"/Sinister+Shade+Hammer","type":"hammer","attack":200,"element":[{"type":"Blast","attack":25}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Blast Boost II","Magnamalo Soul"],"slots":[1,2],"rampSlots":[]},{"name":"Egg Hammer I","slug":"Egg-Hammer-I","url":"/Egg++Hammer+I","type":"hammer","attack":200,"element":[],"affinity":-30,"defense":0,"rampSkills":["Dragon Exploit","Anti-Aerial Species","Anti-Aquatic Species"],"slots":[1,1,1],"rampSlots":[]},{"name":"Egg Hammer II","slug":"Egg-Hammer-II","url":"/Egg+Hammer+II","type":"hammer","attack":240,"element":[],"affinity":-30,"defense":0,"rampSkills":["Dragon Exploit","Anti-Aerial Species","Anti-Aquatic Species"],"slots":[1,1,1],"rampSlots":[]},{"name":"Gargwa Hammer","slug":"Gargwa-Hammer","url":"/Gargwa+Hammer","type":"hammer","attack":260,"element":[],"affinity":-30,"defense":0,"rampSkills":["Dragon Exploit","Anti-Aerial Species","Anti-Aquatic Species"],"slots":[1,1,1],"rampSlots":[]},{"name":"Mane Malice I","slug":"Mane-Malice-I","url":"/Mane+Malice+I","type":"hammer","attack":190,"element":[{"type":"Thunder","attack":11}],"affinity":-20,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost I","Dulling Strike"],"slots":[],"rampSlots":[]},{"name":"Mane Malice II","slug":"Mane-Malice-II","url":"/Mane+Malice+II","type":"hammer","attack":220,"element":[{"type":"Thunder","attack":13}],"affinity":-15,"defense":0,"rampSkills":["Affinity Boost I","Thunder Boost II","Dulling Strike"],"slots":[3],"rampSlots":[]},{"name":"Azure Elder Hammer I","slug":"Azure-Elder-Hammer-I","url":"/Azure+Elder+Hammer+I","type":"hammer","attack":180,"element":[{"type":"Dragon","attack":15}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Azure Elder Hammer II","slug":"Azure-Elder-Hammer-II","url":"/Azure+Elder+Hammer+II","type":"hammer","attack":200,"element":[{"type":"Dragon","attack":16}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost III","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Thunderbolt Hammer I","slug":"Thunderbolt-Hammer-I","url":"/Thunderbolt+Hammer+I","type":"hammer","attack":190,"element":[{"type":"Thunder","attack":47}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Icesteel Hammer I","slug":"Icesteel-Hammer-I","url":"/Icesteel+Hammer+I","type":"hammer","attack":180,"element":[{"type":"Ice","attack":36}],"affinity":10,"defense":0,"rampSkills":["Attack Boost II","Affinity Boost II","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Teostra Cratermaker I","slug":"Teostra-Cratermaker-I","url":"/Teostra+Cratermaker+I","type":"hammer","attack":180,"element":[{"type":"Blast","attack":40}],"affinity":5,"defense":0,"rampSkills":["Attack Boost II","Fireblight Exploit","Teostra Soul"],"slots":[1,1],"rampSlots":[]},{"name":"Genie's Expanse I","slug":"Genie's-Expanse-I","url":"/Genie's+Expanse+I","type":"hammer","attack":190,"element":[{"type":"Poison","attack":28}],"affinity":0,"defense":0,"rampSkills":["Attack Boost II","Defense Boost II","Chameleos Soul"],"slots":[1],"rampSlots":[]},{"name":"Teddybear I","slug":"Teddybear-I","url":"/Teddybear+I","type":"hammer","attack":110,"element":[{"type":"Sleep","attack":30}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Defense Boost II","Silkbind Boost"],"slots":[],"rampSlots":[]},{"name":"Teddybear II","slug":"Teddybear-II","url":"/Teddybear+II","type":"hammer","attack":120,"element":[{"type":"Sleep","attack":34}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost II","Defense Boost II","Silkbind Boost"],"slots":[2],"rampSlots":[]},{"name":"Sleepy Bear","slug":"Sleepy-Bear","url":"/Sleepy+Bear","type":"hammer","attack":130,"element":[{"type":"Sleep","attack":38}],"affinity":0,"defense":0,"rampSkills":["Affinity Boost IV","Defense Boost III","Silkbind Boost"],"slots":[2],"rampSlots":[]},{"name":"Graceful Death I","slug":"Graceful-Death-I","url":"/Graceful+Death+I","type":"hammer","attack":110,"element":[{"type":"Dragon","attack":18}],"affinity":0,"defense":3,"rampSkills":["Attack Boost II","Dragon Boost I","Dragon Exploit"],"slots":[],"rampSlots":[]},{"name":"Graceful Death II","slug":"Graceful-Death-II","url":"/Graceful+Death+II","type":"hammer","attack":140,"element":[{"type":"Dragon","attack":18}],"affinity":0,"defense":5,"rampSkills":["Attack Boost III","Dragon Boost I","Dragon Exploit"],"slots":[],"rampSlots":[]},{"name":"Graceful Death III","slug":"Graceful-Death-III","url":"/Graceful+Death+III","type":"hammer","attack":170,"element":[{"type":"Dragon","attack":29}],"affinity":0,"defense":8,"rampSkills":["Attack Boost III","Dragon Boost II","Dragon Exploit"],"slots":[2,2],"rampSlots":[]},{"name":"Yadora Morte","slug":"Yadora-Morte","url":"/Yadora+Morte","type":"hammer","attack":180,"element":[{"type":"Dragon","attack":34}],"affinity":0,"defense":10,"rampSkills":["Attack Boost IV","Dragon Boost II","Dragon Exploit"],"slots":[2,2],"rampSlots":[]},{"name":"Pumpking I","slug":"Pumpking-I","url":"/Pumpking+I","type":"hammer","attack":120,"element":[{"type":"Fire","attack":8}],"affinity":0,"defense":0,"rampSkills":["Defense Boost II","Master Rider","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Pumpking II","slug":"Pumpking-II","url":"/Pumpking+II","type":"hammer","attack":150,"element":[{"type":"Fire","attack":11}],"affinity":0,"defense":0,"rampSkills":["Defense Boost II","Master Rider","Spiribird Doubled"],"slots":[],"rampSlots":[]},{"name":"Jack-'o-lantern King","slug":"Jack-'o-lantern-King","url":"/Jack-'o-lantern+King","type":"hammer","attack":190,"element":[{"type":"Fire","attack":14}],"affinity":0,"defense":0,"rampSkills":["Defense Boost III","Master Rider","Spiribird Doubled"],"slots":[1,2],"rampSlots":[]},{"name":"Rampage Hammer I","slug":"Rampage-Hammer-I","url":"/Rampage+Hammer+I","type":"hammer","attack":150,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Hammer II","slug":"Rampage-Hammer-II","url":"/Rampage+Hammer+II","type":"hammer","attack":170,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Hammer III","slug":"Rampage-Hammer-III","url":"/Rampage+Hammer+III","type":"hammer","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Hammer IV","slug":"Rampage-Hammer-IV","url":"/Rampage+Hammer+IV","type":"hammer","attack":190,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Rampage Hammer V","slug":"Rampage-Hammer-V","url":"/Rampage+Hammer+V","type":"hammer","attack":200,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Redwing Drill I","slug":"Redwing-Drill-I","url":"/Redwing+Drill+I","type":"hammer","attack":170,"element":[{"type":"Dragon","attack":40}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Abyssal Gale Mauler","slug":"Abyssal-Gale-Mauler","url":"/Abyssal+Gale+Mauler","type":"hammer","attack":210,"element":[{"type":"Dragon","attack":17}],"affinity":0,"defense":0,"rampSkills":["Dragon Boost IV","Anti-Aerial Species","Ibushi Soul"],"slots":[],"rampSlots":[]},{"name":"Abyssal Storm Mauler","slug":"Abyssal-Storm-Mauler","url":"/Abyssal+Storm+Mauler","type":"hammer","attack":200,"element":[{"type":"Thunder","attack":49}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Anti-Aerial Species","Narwa Soul"],"slots":[],"rampSlots":[]},{"name":"Daora's Colossus","slug":"Daora's-Colossus","url":"/Daora's+Colossus","type":"hammer","attack":190,"element":[{"type":"Ice","attack":42}],"affinity":10,"defense":0,"rampSkills":["Attack Boost III","Affinity Boost III","Kushala Daora Soul"],"slots":[1],"rampSlots":[]},{"name":"Diablos Tail","slug":"Diablos-Tail","url":"/Diablos+Tail","type":"hammer","attack":240,"element":[],"affinity":-25,"defense":15,"rampSkills":["Affinity Boost III","Defense Boost II","Brutal Strike"],"slots":[],"rampSlots":[]},{"name":"Diamalto's Dream","slug":"Diamalto's-Dream","url":"/Diamalto's+Dream","type":"hammer","attack":200,"element":[{"type":"Poison","attack":32}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Defense Boost III","Chameleos Soul"],"slots":[1],"rampSlots":[]},{"name":"Mane Malice Rajang","slug":"Mane-Malice-Rajang","url":"/Mane+Malice+Rajang","type":"hammer","attack":230,"element":[{"type":"Thunder","attack":16}],"affinity":-10,"defense":0,"rampSkills":["Affinity Boost II","Thunder Boost II","Dulling Strike"],"slots":[3],"rampSlots":[]},{"name":"Teostra Cratergouger","slug":"Teostra-Cratergouger","url":"/Teostra+Cratergouger","type":"hammer","attack":190,"element":[{"type":"Blast","attack":46}],"affinity":5,"defense":0,"rampSkills":["Attack Boost III","Fireblight Exploit","Teostra Soul"],"slots":[1,1],"rampSlots":[]},{"name":"Reddnaught Hammer","slug":"Reddnaught-Hammer","url":"/Reddnaught+Hammer","type":"hammer","attack":180,"element":[{"type":"Dragon","attack":43}],"affinity":0,"defense":0,"rampSkills":["Attack Boost III","Wyvern Exploit","Valstrax Soul"],"slots":[2],"rampSlots":[]},{"name":"Rampage Hammer S","slug":"Rampage-Hammer-S","url":"/Rampage+Hammer+S","type":"hammer","attack":210,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[]},{"name":"Defender Hammer I","slug":"Defender-Hammer-I","url":"/Defender+Hammer+I","type":"hammer","attack":110,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Hammer","slug":"Champion-Hammer","url":"/Champion+Hammer","type":"hammer","attack":150,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Hammer II","slug":"Champion-Hammer-II","url":"/Champion+Hammer+II","type":"hammer","attack":190,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Champion Hammer III","slug":"Champion-Hammer-III","url":"/Champion+Hammer+III","type":"hammer","attack":210,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Guardian Hammer","slug":"Guardian-Hammer","url":"/Guardian+Hammer","type":"hammer","attack":230,"element":[],"affinity":0,"defense":30,"rampSkills":["Attack Boost I","Affinity Boost I","Defense Boost I"],"slots":[],"rampSlots":[]},{"name":"Kamura Warrior Hammer","slug":"Kamura-Warrior-Hammer","url":"/Kamura+Warrior+Hammer","type":"hammer","attack":240,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Kamura Warrior Hammer +","slug":"Kamura-Warrior-Hammer-+","url":"/Kamura+Warrior+Hammer++","type":"hammer","attack":280,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,4],"rampSlots":[2]},{"name":"Fine Kamura Hammer","slug":"Fine-Kamura-Hammer","url":"/Fine+Kamura+Hammer","type":"hammer","attack":320,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,4],"rampSlots":[2]},{"name":"Duke Smiter","slug":"Duke-Smiter","url":"/Duke+Smiter","type":"hammer","attack":310,"element":[{"type":"Dragon","attack":30}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Sinter Hammer +","slug":"Sinter-Hammer-+","url":"/Sinter+Hammer++","type":"hammer","attack":290,"element":[{"type":"Water","attack":33}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Enlightenment Hammer","slug":"Enlightenment-Hammer","url":"/Enlightenment+Hammer","type":"hammer","attack":300,"element":[{"type":"Water","attack":35}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Enlightenment Hammer +","slug":"Enlightenment-Hammer-+","url":"/Enlightenment+Hammer++","type":"hammer","attack":310,"element":[{"type":"Water","attack":38}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Armored Gogue +","slug":"Armored-Gogue-+","url":"/Armored+Gogue++","type":"hammer","attack":230,"element":[{"type":"Paralysis","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Armored Megagogue","slug":"Armored-Megagogue","url":"/Armored+Megagogue","type":"hammer","attack":240,"element":[{"type":"Paralysis","attack":32}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[1]},{"name":"Armored Megagogue +","slug":"Armored-Megagogue-+","url":"/Armored+Megagogue++","type":"hammer","attack":320,"element":[{"type":"Paralysis","attack":34}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Hell Bringer Hammer","slug":"Hell-Bringer-Hammer","url":"/Hell+Bringer+Hammer","type":"hammer","attack":260,"element":[{"type":"Water","attack":64}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Hell Bringer Hammer +","slug":"Hell-Bringer-Hammer-+","url":"/Hell+Bringer+Hammer++","type":"hammer","attack":300,"element":[{"type":"Water","attack":69}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Doomsday Hammer","slug":"Doomsday-Hammer","url":"/Doomsday+Hammer","type":"hammer","attack":310,"element":[{"type":"Water","attack":74}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[3]},{"name":"Magma Masher","slug":"Magma-Masher","url":"/Magma+Masher","type":"hammer","attack":280,"element":[{"type":"Fire","attack":67}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Magma Masher +","slug":"Magma-Masher-+","url":"/Magma+Masher++","type":"hammer","attack":300,"element":[{"type":"Fire","attack":70}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Volcanic Impact","slug":"Volcanic-Impact","url":"/Volcanic+Impact","type":"hammer","attack":null,"element":[{"type":"Fire","attack":75}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Mighty Pronged Hammer","slug":"Mighty-Pronged-Hammer","url":"/Mighty+Pronged+Hammer","type":"hammer","attack":240,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Mighty Pronged Hammer +","slug":"Mighty-Pronged-Hammer-+","url":"/Mighty+Pronged+Hammer++","type":"hammer","attack":280,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Hallowed Pronged Hammer","slug":"Hallowed-Pronged-Hammer","url":"/Hallowed+Pronged+Hammer","type":"hammer","attack":330,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[3]},{"name":"Higher Pronged Hammer","slug":"Higher-Pronged-Hammer","url":"/Higher+Pronged+Hammer","type":"hammer","attack":260,"element":[{"type":"Blast","attack":15}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Higher Pronged Hammer +","slug":"Higher-Pronged-Hammer-+","url":"/Higher+Pronged+Hammer++","type":"hammer","attack":280,"element":[{"type":"Blast","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Peak Pronged Hammer","slug":"Peak-Pronged-Hammer","url":"/Peak+Pronged+Hammer","type":"hammer","attack":320,"element":[{"type":"Blast","attack":24}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Dirty Hammer +","slug":"Dirty-Hammer-+","url":"/Dirty+Hammer++","type":"hammer","attack":230,"element":[{"type":"Poison","attack":37}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,2],"rampSlots":[1]},{"name":"Heavy Hammer","slug":"Heavy-Hammer","url":"/Heavy+Hammer","type":"hammer","attack":320,"element":[{"type":" Poison","attack":38}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,2,2],"rampSlots":[1]},{"name":"Break Revolver","slug":"Break-Revolver","url":"/Break+Revolver","type":"hammer","attack":230,"element":[{"type":"Fire","attack":53}],"affinity":0,"defense":15,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Break Revolver +","slug":"Break-Revolver-+","url":"/Break+Revolver++","type":"hammer","attack":250,"element":[{"type":"Fire","attack":56}],"affinity":0,"defense":20,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Burst Revolver","slug":"Burst-Revolver","url":"/Burst+Revolver","type":"hammer","attack":320,"element":[{"type":"Fire","attack":56}],"affinity":0,"defense":30,"rampSkills":[],"slots":[1,2,2],"rampSlots":[3]},{"name":"Astalos Sparkler","slug":"Astalos-Sparkler","url":"/Astalos+Sparkler","type":"hammer","attack":290,"element":[{"type":"Thunder","attack":28}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Astalos Sparkler +","slug":"Astalos-Sparkler-+","url":"/Astalos+Sparkler++","type":"hammer","attack":300,"element":[{"type":"Thunder","attack":32}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Astalos Striker","slug":"Astalos-Striker","url":"/Astalos+Striker","type":"hammer","attack":310,"element":[{"type":"Thunder","attack":36}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Super Nova +","slug":"Super-Nova-+","url":"/Super+Nova++","type":"hammer","attack":250,"element":[{"type":"Thunder","attack":46}],"affinity":0,"defense":10,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Hyper Nova","slug":"Hyper-Nova","url":"/Hyper+Nova","type":"hammer","attack":280,"element":[{"type":"Thunder","attack":52}],"affinity":0,"defense":15,"rampSkills":[],"slots":[1,1,1],"rampSlots":[3]},{"name":"Hyper Nova +","slug":"Hyper-Nova-+","url":"/Hyper+Nova++","type":"hammer","attack":320,"element":[{"type":" Thunder","attack":59}],"affinity":0,"defense":20,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Tigrex Hammer +","slug":"Tigrex-Hammer-+","url":"/Tigrex+Hammer++","type":"hammer","attack":330,"element":[],"affinity":-20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Huge Tigrex Hammer","slug":"Huge-Tigrex-Hammer","url":"/Huge+Tigrex+Hammer","type":"hammer","attack":340,"element":[],"affinity":-20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Huge Tigrex Hammer +","slug":"Huge-Tigrex-Hammer-+","url":"/Huge+Tigrex+Hammer++","type":"hammer","attack":350,"element":[],"affinity":-20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Phoenix Fury +","slug":"Phoenix-Fury-+","url":"/Phoenix+Fury++","type":"hammer","attack":280,"element":[],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Phoenix Testament","slug":"Phoenix-Testament","url":"/Phoenix+Testament","type":"hammer","attack":320,"element":[{"type":"Fire","attack":29}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Phoenix Testament +","slug":"Phoenix-Testament-+","url":"/Phoenix+Testament++","type":"hammer","attack":350,"element":[{"type":"Fire","attack":32}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Glacial Blanche","slug":"Glacial-Blanche","url":"/Glacial+Blanche","type":"hammer","attack":260,"element":[{"type":"Ice","attack":32}],"affinity":35,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Glacial Blanche +","slug":"Glacial-Blanche-+","url":"/Glacial+Blanche++","type":"hammer","attack":280,"element":[{"type":"Ice","attack":35}],"affinity":35,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Avalanche Ritter","slug":"Avalanche-Ritter","url":"/Avalanche+Ritter","type":"hammer","attack":300,"element":[{"type":"Ice","attack":38}],"affinity":35,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[1]},{"name":"Kulu Crusher +","slug":"Kulu-Crusher-+","url":"/Kulu+Crusher++","type":"hammer","attack":230,"element":[],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[1]},{"name":"Kulu Katolos Stick","slug":"Kulu-Katolos-Stick","url":"/Kulu+Katolos+Stick","type":"hammer","attack":320,"element":[],"affinity":20,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[1]},{"name":"Iron Devil's Respect","slug":"Iron-Devil's-Respect","url":"/Iron+Devil's+Respect","type":"hammer","attack":260,"element":[{"type":"Paralysis","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Iron Devil's Respect +","slug":"Iron-Devil's-Respect-+","url":"/Iron+Devil's+Respect++","type":"hammer","attack":310,"element":[{"type":"Paralysis","attack":19}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Iron Giant's Soul","slug":"Iron-Giant's-Soul","url":"/Iron+Giant's+Soul","type":"hammer","attack":330,"element":[{"type":"Paralysis","attack":22}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Barbearic Hammer +","slug":"Barbearic-Hammer-+","url":"/Barbearic+Hammer++","type":"hammer","attack":250,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Bearly Eyhammer","slug":"Bearly-Eyhammer","url":"/Bearly+Eyhammer","type":"hammer","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[1]},{"name":"Illusory Frilled Blow+","slug":"Illusory-Frilled-Blow+","url":"/Illusory+Frilled+Blow+","type":"hammer","attack":260,"element":[{"type":"Sleep","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Nightmare Frilled Blow","slug":"Nightmare-Frilled-Blow","url":"/Nightmare+Frilled+Blow","type":"hammer","attack":290,"element":[{"type":"Sleep","attack":30}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Bloom Snow Blow","slug":"Bloom-Snow-Blow","url":"/Bloom+Snow+Blow","type":"hammer","attack":270,"element":[{"type":"Ice","attack":67}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Bloom Snow Blow +","slug":"Bloom-Snow-Blow-+","url":"/Bloom+Snow+Blow++","type":"hammer","attack":300,"element":[{"type":"Ice","attack":70}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Flicker Blizzard Blow","slug":"Flicker-Blizzard-Blow","url":"/Flicker+Blizzard+Blow","type":"hammer","attack":310,"element":[{"type":"Ice","attack":76}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Bag o' Thunder +","slug":"Bag-o'-Thunder-+","url":"/Bag+o'+Thunder++","type":"hammer","attack":240,"element":[{"type":"Thunder","attack":47}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Bag o' Booms","slug":"Bag-o'-Booms","url":"/Bag+o'+Booms","type":"hammer","attack":270,"element":[{"type":"Thunder","attack":48}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Bag o' Booms +","slug":"Bag-o'-Booms-+","url":"/Bag+o'+Booms++","type":"hammer","attack":310,"element":[{"type":"Thunder","attack":50}],"affinity":0,"defense":0,"rampSkills":[],"slots":[4],"rampSlots":[1]},{"name":"Niflheim","slug":"Niflheim","url":"/Niflheim","type":"hammer","attack":250,"element":[{"type":"Ice","attack":39}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Niflheim +","slug":"Niflheim-+","url":"/Niflheim++","type":"hammer","attack":290,"element":[{"type":"Ice","attack":46}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Pykrete Punisher","slug":"Pykrete-Punisher","url":"/Pykrete+Punisher","type":"hammer","attack":320,"element":[{"type":"Ice","attack":54}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,2],"rampSlots":[3]},{"name":"Hammer of Winter Moon","slug":"Hammer-of-Winter-Moon","url":"/Hammer+of+Winter+Moon","type":"hammer","attack":290,"element":[{"type":"Ice","attack":22}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Hammer of Winter Moon +","slug":"Hammer-of-Winter-Moon-+","url":"/Hammer+of+Winter+Moon++","type":"hammer","attack":310,"element":[{"type":"Ice","attack":25}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Hammer of Snowfallen","slug":"Hammer-of-Snowfallen","url":"/Hammer+of+Snowfallen","type":"hammer","attack":320,"element":[{"type":"Ice","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Diablos Maul +","slug":"Diablos-Maul-+","url":"/Diablos+Maul++","type":"hammer","attack":340,"element":[],"affinity":-25,"defense":15,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Finishing Hammer","slug":"Finishing-Hammer","url":"/Finishing+Hammer","type":"hammer","attack":350,"element":[],"affinity":-25,"defense":15,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Finishing Hammer +","slug":"Finishing-Hammer-+","url":"/Finishing+Hammer++","type":"hammer","attack":360,"element":[],"affinity":-25,"defense":15,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Atlas Hammer +","slug":"Atlas-Hammer-+","url":"/Atlas+Hammer++","type":"hammer","attack":270,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[1]},{"name":"Atlas Crusher","slug":"Atlas-Crusher","url":"/Atlas+Crusher","type":"hammer","attack":310,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[1]},{"name":"Atlas Crusher +","slug":"Atlas-Crusher-+","url":"/Atlas+Crusher++","type":"hammer","attack":340,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[1]},{"name":"Ceanataur Head Axe","slug":"Ceanataur-Head-Axe","url":"/Ceanataur+Head+Axe","type":"hammer","attack":280,"element":[{"type":"Water","attack":15}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Ceanataur Head Axe +","slug":"Ceanataur-Head-Axe-+","url":"/Ceanataur+Head+Axe++","type":"hammer","attack":300,"element":[{"type":"Water","attack":16}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Big Blue Chopper","slug":"Big-Blue-Chopper","url":"/Big+Blue+Chopper","type":"hammer","attack":320,"element":[{"type":"Water","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Matraca Hammer","slug":"Matraca-Hammer","url":"/Matraca+Hammer","type":"hammer","attack":300,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Matraca Hammer +","slug":"Matraca-Hammer-+","url":"/Matraca+Hammer++","type":"hammer","attack":310,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Argyl Hammer","slug":"Argyl-Hammer","url":"/Argyl+Hammer","type":"hammer","attack":320,"element":[],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Datura Club +","slug":"Datura-Club-+","url":"/Datura+Club++","type":"hammer","attack":240,"element":[{"type":"Poison","attack":56}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Datura Pounder","slug":"Datura-Pounder","url":"/Datura+Pounder","type":"hammer","attack":270,"element":[{"type":"Poison","attack":58}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Datura Pounder +","slug":"Datura-Pounder-+","url":"/Datura+Pounder++","type":"hammer","attack":310,"element":[{"type":"Poison","attack":66}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[3]},{"name":"Huracan Hammer +","slug":"Huracan-Hammer-+","url":"/Huracan+Hammer++","type":"hammer","attack":300,"element":[{"type":"Fire","attack":38}],"affinity":5,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Rathalos Cosh","slug":"Rathalos-Cosh","url":"/Rathalos+Cosh","type":"hammer","attack":310,"element":[{"type":"Fire","attack":45}],"affinity":10,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Rosenhammer","slug":"Rosenhammer","url":"/Rosenhammer","type":"hammer","attack":290,"element":[{"type":"Fire","attack":15}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Rosenhammer +","slug":"Rosenhammer-+","url":"/Rosenhammer++","type":"hammer","attack":300,"element":[{"type":"Fire","attack":19}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Rosenunwetter","slug":"Rosenunwetter","url":"/Rosenunwetter","type":"hammer","attack":310,"element":[{"type":"Fire","attack":23}],"affinity":20,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Abominable Buster","slug":"Abominable-Buster","url":"/Abominable+Buster","type":"hammer","attack":310,"element":[{"type":"Ice","attack":25}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Abominable Buster +","slug":"Abominable-Buster-+","url":"/Abominable+Buster++","type":"hammer","attack":330,"element":[{"type":"Ice","attack":28}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Abominable Avalanche","slug":"Abominable-Avalanche","url":"/Abominable+Avalanche","type":"hammer","attack":350,"element":[{"type":"Ice","attack":31}],"affinity":-15,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Despot's Crackle +","slug":"Despot's-Crackle-+","url":"/Despot's+Crackle++","type":"hammer","attack":300,"element":[{"type":"Thunder","attack":37}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Oppressor's Sway","slug":"Oppressor's-Sway","url":"/Oppressor's+Sway","type":"hammer","attack":320,"element":[{"type":"Thunder","attack":42}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Catastrophic Portent +","slug":"Catastrophic-Portent-+","url":"/Catastrophic+Portent++","type":"hammer","attack":300,"element":[{"type":"Poison","attack":21}],"affinity":10,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Cataclysmic Portent","slug":"Cataclysmic-Portent","url":"/Cataclysmic+Portent","type":"hammer","attack":320,"element":[{"type":"Poison","attack":24}],"affinity":15,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Ludroth Dousehammer +","slug":"Ludroth-Dousehammer-+","url":"/Ludroth+Dousehammer++","type":"hammer","attack":230,"element":[{"type":"Water","attack":40}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Lorelei","slug":"Lorelei","url":"/Lorelei","type":"hammer","attack":280,"element":[{"type":"Water","attack":43}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Lorelei +","slug":"Lorelei-+","url":"/Lorelei++","type":"hammer","attack":320,"element":[{"type":"Water","attack":49}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Golm Gavel","slug":"Golm-Gavel","url":"/Golm+Gavel","type":"hammer","attack":300,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[3]},{"name":"Golm Gavel +","slug":"Golm-Gavel-+","url":"/Golm+Gavel++","type":"hammer","attack":320,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,3],"rampSlots":[3]},{"name":"Gornir","slug":"Gornir","url":"/Gornir","type":"hammer","attack":350,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2,4],"rampSlots":[3]},{"name":"Snapper Hammer +","slug":"Snapper-Hammer-+","url":"/Snapper+Hammer++","type":"hammer","attack":230,"element":[],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Blower's Hammer","slug":"Blower's-Hammer","url":"/Blower's+Hammer","type":"hammer","attack":310,"element":[],"affinity":20,"defense":0,"rampSkills":[],"slots":[2,3],"rampSlots":[2]},{"name":"Endless Eternia","slug":"Endless-Eternia","url":"/Endless+Eternia","type":"hammer","attack":250,"element":[],"affinity":45,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[1]},{"name":"Endless Eternia +","slug":"Endless-Eternia-+","url":"/Endless+Eternia++","type":"hammer","attack":270,"element":[],"affinity":45,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[1]},{"name":"Avidya Breaker","slug":"Avidya-Breaker","url":"/Avidya+Breaker","type":"hammer","attack":290,"element":[],"affinity":45,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[1]},{"name":"Barroth Charger","slug":"Barroth-Charger","url":"/Barroth+Charger","type":"hammer","attack":250,"element":[],"affinity":-5,"defense":20,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Barroth Charger +","slug":"Barroth-Charger-+","url":"/Barroth+Charger++","type":"hammer","attack":260,"element":[],"affinity":-5,"defense":25,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Barroth Momentum","slug":"Barroth-Momentum","url":"/Barroth+Momentum","type":"hammer","attack":340,"element":[],"affinity":-5,"defense":30,"rampSkills":[],"slots":[2],"rampSlots":[1]},{"name":"Sinister Shade Hammer +","slug":"Sinister-Shade-Hammer-+","url":"/Sinister+Shade+Hammer++","type":"hammer","attack":280,"element":[{"type":"Blast","attack":28}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Mighty Souldevourer","slug":"Mighty-Souldevourer","url":"/Mighty+Souldevourer","type":"hammer","attack":310,"element":[{"type":"Blast","attack":31}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Wuchtblick","slug":"Wuchtblick","url":"/Wuchtblick","type":"hammer","attack":290,"element":[{"type":"Dragon","attack":23}],"affinity":20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Wuchtblick +","slug":"Wuchtblick-+","url":"/Wuchtblick++","type":"hammer","attack":300,"element":[{"type":"Dragon","attack":25}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Achtungsblick","slug":"Achtungsblick","url":"/Achtungsblick","type":"hammer","attack":310,"element":[{"type":"Dragon","attack":27}],"affinity":20,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Le Jugement","slug":"Le-Jugement","url":"/Le+Jugement","type":"hammer","attack":280,"element":[{"type":"Dragon","attack":28}],"affinity":40,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"La Terre","slug":"La-Terre","url":"/La+Terre","type":"hammer","attack":290,"element":[{"type":"Dragon","attack":32}],"affinity":40,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[1]},{"name":"Gargwa Hammer +","slug":"Gargwa-Hammer-+","url":"/Gargwa+Hammer++","type":"hammer","attack":360,"element":[],"affinity":-25,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[2]},{"name":"Gargegg Hammer","slug":"Gargegg-Hammer","url":"/Gargegg+Hammer","type":"hammer","attack":380,"element":[],"affinity":-25,"defense":0,"rampSkills":[],"slots":[1,1,1],"rampSlots":[2]},{"name":"Mane Malice Rajang +","slug":"Mane-Malice-Rajang-+","url":"/Mane+Malice+Rajang++","type":"hammer","attack":330,"element":[{"type":"Thunder","attack":21}],"affinity":-10,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Mane Master Rajang","slug":"Mane-Master-Rajang","url":"/Mane+Master+Rajang","type":"hammer","attack":340,"element":[{"type":"Thunder","attack":23}],"affinity":-10,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Demonlord Sledge","slug":"Demonlord-Sledge","url":"/Demonlord+Sledge","type":"hammer","attack":3210,"element":[{"type":"Thunder","attack":18}],"affinity":0,"defense":0,"rampSkills":[],"slots":[2,2],"rampSlots":[1]},{"name":"Skyfold Boldblow","slug":"Skyfold-Boldblow","url":"/Skyfold+Boldblow","type":"hammer","attack":330,"element":[{"type":"Dragon","attack":19}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Skyfold Furyflash","slug":"Skyfold-Furyflash","url":"/Skyfold+Furyflash","type":"hammer","attack":310,"element":[{"type":"Thunder","attack":73}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]},{"name":"Daora's Colossus +","slug":"Daora's-Colossus-+","url":"/Daora's+Colossus++","type":"hammer","attack":300,"element":[{"type":"Ice","attack":47}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[3]},{"name":"Daora's Hyperborea","slug":"Daora's-Hyperborea","url":"/Daora's+Hyperborea","type":"hammer","attack":310,"element":[{"type":"Ice","attack":50}],"affinity":10,"defense":0,"rampSkills":[],"slots":[2],"rampSlots":[3]},{"name":"Teostra Cratergouger +","slug":"Teostra-Cratergouger-+","url":"/Teostra+Cratergouger++","type":"hammer","attack":300,"element":[{"type":"Blast","attack":57}],"affinity":5,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Teostra de la Torre","slug":"Teostra-de-la-Torre","url":"/Teostra+de+la+Torre","type":"hammer","attack":310,"element":[{"type":"Blast","attack":61}],"affinity":10,"defense":0,"rampSkills":[],"slots":[1,1],"rampSlots":[2]},{"name":"Diamalto's Dream +","slug":"Diamalto's-Dream-+","url":"/Diamalto's+Dream++","type":"hammer","attack":310,"element":[{"type":"Poison","attack":37}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Diamgolgo's Phantasm","slug":"Diamgolgo's-Phantasm","url":"/Diamgolgo's+Phantasm","type":"hammer","attack":320,"element":[{"type":"Poison","attack":45}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1],"rampSlots":[2]},{"name":"Crimson Forcewing","slug":"Crimson-Forcewing","url":"/Crimson+Forcewing","type":"hammer","attack":330,"element":[{"type":"Dragon","attack":45}],"affinity":0,"defense":0,"rampSkills":[],"slots":[3],"rampSlots":[2]},{"name":"Abyssal Windstorm","slug":"Abyssal-Windstorm","url":"/Abyssal+Windstorm","type":"hammer","attack":340,"element":[{"type":"Dragon","attack":21}],"affinity":-20,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[3]},{"name":"Yadora Morte +","slug":"Yadora-Morte-+","url":"/Yadora+Morte++","type":"hammer","attack":250,"element":[{"type":"Dragon","attack":39}],"affinity":0,"defense":15,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Dark Morte","slug":"Dark-Morte","url":"/Dark+Morte","type":"hammer","attack":320,"element":[{"type":"Dragon","attack":52}],"affinity":0,"defense":20,"rampSkills":[],"slots":[2,2],"rampSlots":[3]},{"name":"Jack-'o-Lantern King +","slug":"Jack-'o-Lantern-King-+","url":"/Jack-'o-Lantern+King++","type":"hammer","attack":290,"element":[{"type":"Fire","attack":20}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,3],"rampSlots":[1]},{"name":"Magic Pumpking","slug":"Magic-Pumpking","url":"/Magic+Pumpking","type":"hammer","attack":330,"element":[{"type":"Fire","attack":27}],"affinity":0,"defense":0,"rampSkills":[],"slots":[1,1,3],"rampSlots":[1]},{"name":"Royal Order's Bludgeon","slug":"Royal-Order's-Bludgeon","url":"/Royal+Order's+Bludgeon","type":"hammer","attack":280,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[2],"rampSlots":[2]},{"name":"Royal Order's Bludgeon +","slug":"Royal-Order's-Bludgeon-+","url":"/Royal+Order's+Bludgeon++","type":"hammer","attack":310,"element":[],"affinity":10,"defense":50,"rampSkills":[],"slots":[1,2],"rampSlots":[2]},{"name":"Antique Machina H","slug":"Antique-Machina-H","url":"/Antique+Machina+H","type":"hammer","attack":330,"element":[{"type":"Poison","attack":17}],"affinity":0,"defense":0,"rampSkills":[],"slots":[],"rampSlots":[2]}]
+[
+  {
+    "name": "Kamura Hammer I",
+    "slug": "Kamura-Hammer-I",
+    "url": "/Kamura+Hammer+I",
+    "type": "hammer",
+    "attack": 50,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Hammer II",
+    "slug": "Kamura-Hammer-II",
+    "url": "/Kamura+Hammer+II",
+    "type": "hammer",
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Hammer III",
+    "slug": "Kamura-Hammer-III",
+    "url": "/Kamura+Hammer+III",
+    "type": "hammer",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Hammer IV",
+    "slug": "Kamura-Hammer-IV",
+    "url": "/Kamura+Hammer+IV",
+    "type": "hammer",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Hammer V",
+    "slug": "Kamura-Hammer-V",
+    "url": "/Kamura+Hammer+V",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Ninja Hammer",
+    "slug": "Kamura-Ninja-Hammer",
+    "url": "/Kamura+Ninja+Hammer",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Purity Hammer I",
+    "slug": "Purity-Hammer-I",
+    "url": "/Purity+Hammer+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 21
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Purity Hammer II",
+    "slug": "Purity-Hammer-II",
+    "url": "/Purity+Hammer+II",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 26
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Water Boost II"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinter Hammer",
+    "slug": "Sinter-Hammer",
+    "url": "/Sinter+Hammer",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Water Boost II"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Binding Bludgeon I",
+    "slug": "Binding-Bludgeon-I",
+    "url": "/Binding+Bludgeon+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Binding Bludgeon II",
+    "slug": "Binding-Bludgeon-II",
+    "url": "/Binding+Bludgeon+II",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Armored Gogue",
+    "slug": "Armored-Gogue",
+    "url": "/Armored+Gogue",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Almudron Hammer I",
+    "slug": "Almudron-Hammer-I",
+    "url": "/Almudron+Hammer+I",
+    "type": "hammer",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Almudron Hammer II",
+    "slug": "Almudron-Hammer-II",
+    "url": "/Almudron+Hammer+II",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Doom Bringer Hammer",
+    "slug": "Doom-Bringer-Hammer",
+    "url": "/Doom+Bringer+Hammer",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 51
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Five-Pronged Hammer I",
+    "slug": "Five-Pronged-Hammer-I",
+    "url": "/Five-Pronged+Hammer+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Five-Pronged Hammer II",
+    "slug": "Five-Pronged-Hammer-II",
+    "url": "/Five-Pronged+Hammer+II",
+    "type": "hammer",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Great Pronged Hammer",
+    "slug": "Great-Pronged-Hammer",
+    "url": "/Great+Pronged+Hammer",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Wroggi Hammer I",
+    "slug": "Wroggi-Hammer-I",
+    "url": "/Wroggi+Hammer+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Poison Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wroggi Hammer II",
+    "slug": "Wroggi-Hammer-II",
+    "url": "/Wroggi+Hammer+II",
+    "type": "hammer",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Dirty Hammer",
+    "slug": "Dirty-Hammer",
+    "url": "/Dirty+Hammer",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Poison Boost II",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Gun Hammer I",
+    "slug": "Gun-Hammer-I",
+    "url": "/Gun+Hammer+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 4,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Gun Hammer II",
+    "slug": "Gun-Hammer-II",
+    "url": "/Gun+Hammer+II",
+    "type": "hammer",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 8,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Deadeye Revolver",
+    "slug": "Deadeye-Revolver",
+    "url": "/Deadeye+Revolver",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Fireblight Exploit",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Hammer I",
+    "slug": "Iron-Hammer-I",
+    "url": "/Iron+Hammer+I",
+    "type": "hammer",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Devil",
+    "slug": "Iron-Devil",
+    "url": "/Iron+Devil",
+    "type": "hammer",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "War Hammer I",
+    "slug": "War-Hammer-I",
+    "url": "/War+Hammer+I",
+    "type": "hammer",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "War Mace",
+    "slug": "War-Mace",
+    "url": "/War+Mace",
+    "type": "hammer",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "War Stamp I",
+    "slug": "War-Stamp-I",
+    "url": "/War+Stamp+I",
+    "type": "hammer",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "War Basher",
+    "slug": "War-Basher",
+    "url": "/War+Basher",
+    "type": "hammer",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Great Nova I",
+    "slug": "Great-Nova-I",
+    "url": "/Great+Nova+I",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Exploit",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Great Nova II",
+    "slug": "Great-Nova-II",
+    "url": "/Great+Nova+II",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Exploit",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Super Nova",
+    "slug": "Super-Nova",
+    "url": "/Super+Nova",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dragon Exploit",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Striped Striker I",
+    "slug": "Striped-Striker-I",
+    "url": "/Striped+Striker+I",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Striped Striker II",
+    "slug": "Striped-Striker-II",
+    "url": "/Striped+Striker+II",
+    "type": "hammer",
+    "attack": 210,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Hammer",
+    "slug": "Tigrex-Hammer",
+    "url": "/Tigrex+Hammer",
+    "type": "hammer",
+    "attack": 220,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flaming Fury I",
+    "slug": "Flaming-Fury-I",
+    "url": "/Flaming+Fury+I",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flaming Fury II",
+    "slug": "Flaming-Fury-II",
+    "url": "/Flaming+Fury+II",
+    "type": "hammer",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Phoenix Fury",
+    "slug": "Phoenix-Fury",
+    "url": "/Phoenix+Fury",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Glacial Bash I",
+    "slug": "Glacial-Bash-I",
+    "url": "/Glacial+Bash+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 21
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Glacial Bash II",
+    "slug": "Glacial-Bash-II",
+    "url": "/Glacial+Bash+II",
+    "type": "hammer",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Glacial Crunch",
+    "slug": "Glacial-Crunch",
+    "url": "/Glacial+Crunch",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 27
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Bludgeon I",
+    "slug": "Kulu-Bludgeon-I",
+    "url": "/Kulu+Bludgeon+I",
+    "type": "hammer",
+    "attack": 100,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Bludgeon II",
+    "slug": "Kulu-Bludgeon-II",
+    "url": "/Kulu+Bludgeon+II",
+    "type": "hammer",
+    "attack": 110,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Crusher",
+    "slug": "Kulu-Crusher",
+    "url": "/Kulu+Crusher",
+    "type": "hammer",
+    "attack": 160,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Devil Masher I",
+    "slug": "Devil-Masher-I",
+    "url": "/Devil+Masher+I",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Paralysis Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Devil Masher II",
+    "slug": "Devil-Masher-II",
+    "url": "/Devil+Masher+II",
+    "type": "hammer",
+    "attack": null,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Paralysis Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Iron Devil's Soul",
+    "slug": "Iron-Devil's-Soul",
+    "url": "/Iron+Devil's+Soul",
+    "type": "hammer",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Paralysis Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Unbearable Hammer I",
+    "slug": "Unbearable-Hammer-I",
+    "url": "/Unbearable+Hammer+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Unbearable Hammer II",
+    "slug": "Unbearable-Hammer-II",
+    "url": "/Unbearable+Hammer+II",
+    "type": "hammer",
+    "attack": 130,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Barbearic Hammer",
+    "slug": "Barbearic-Hammer",
+    "url": "/Barbearic+Hammer",
+    "type": "hammer",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frilled Blow I",
+    "slug": "Frilled-Blow-I",
+    "url": "/Frilled+Blow+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frilled Blow II",
+    "slug": "Frilled-Blow-II",
+    "url": "/Frilled+Blow+II",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Illusory Frilled Blow",
+    "slug": "Illusory-Frilled-Blow",
+    "url": "/Illusory+Frilled+Blow",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bag o' Horrors I",
+    "slug": "Bag-o'-Horrors-I",
+    "url": "/Bag+o'+Horrors+I",
+    "type": "hammer",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bag o' Horrors II",
+    "slug": "Bag-o'-Horrors-II",
+    "url": "/Bag+o'+Horrors+II",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bag o' Thunder",
+    "slug": "Bag-o'-Thunder",
+    "url": "/Bag+o'+Thunder",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Frozen Core I",
+    "slug": "Frozen-Core-I",
+    "url": "/Frozen+Core+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Ice Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frozen Core II",
+    "slug": "Frozen-Core-II",
+    "url": "/Frozen+Core+II",
+    "type": "hammer",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Ice Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Cocytus",
+    "slug": "Cocytus",
+    "url": "/Cocytus",
+    "type": "hammer",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost",
+      "Element Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Hammer I",
+    "slug": "Bone-Hammer-I",
+    "url": "/Bone+Hammer+I",
+    "type": "hammer",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Hammer II",
+    "slug": "Bone-Hammer-II",
+    "url": "/Bone+Hammer+II",
+    "type": "hammer",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hard Bone Hammer",
+    "slug": "Hard-Bone-Hammer",
+    "url": "/Hard+Bone+Hammer",
+    "type": "hammer",
+    "attack": 130,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Bludgeon I",
+    "slug": "Bone-Bludgeon-I",
+    "url": "/Bone+Bludgeon+I",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Bludgeon II",
+    "slug": "Bone-Bludgeon-II",
+    "url": "/Bone+Bludgeon+II",
+    "type": "hammer",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Heavy Bone Bludgeon",
+    "slug": "Heavy-Bone-Bludgeon",
+    "url": "/Heavy+Bone+Bludgeon",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Hammer I",
+    "slug": "Diablos-Hammer-I",
+    "url": "/Diablos+Hammer+I",
+    "type": "hammer",
+    "attack": 220,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Hammer II",
+    "slug": "Diablos-Hammer-II",
+    "url": "/Diablos+Hammer+II",
+    "type": "hammer",
+    "attack": 230,
+    "element": [],
+    "affinity": -25,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Cyclo-Hammer I",
+    "slug": "Cyclo-Hammer-I",
+    "url": "/Cyclo-Hammer+I",
+    "type": "hammer",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Cyclo-Hammer II",
+    "slug": "Cyclo-Hammer-II",
+    "url": "/Cyclo-Hammer+II",
+    "type": "hammer",
+    "attack": 220,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost III",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Atlas Hammer",
+    "slug": "Atlas-Hammer",
+    "url": "/Atlas+Hammer",
+    "type": "hammer",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost III",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Hammer I",
+    "slug": "Pukei-Hammer-I",
+    "url": "/Pukei+Hammer+I",
+    "type": "hammer",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Hammer II",
+    "slug": "Pukei-Hammer-II",
+    "url": "/Pukei+Hammer+II",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Datura Club",
+    "slug": "Datura-Club",
+    "url": "/Datura+Club",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 54
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost III",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Basarios Blow I",
+    "slug": "Basarios-Blow-I",
+    "url": "/Basarios+Blow+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Attack Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Basarios Blow II",
+    "slug": "Basarios-Blow-II",
+    "url": "/Basarios+Blow+II",
+    "type": "hammer",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Attack Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Basarios Bash",
+    "slug": "Basarios-Bash",
+    "url": "/Basarios+Bash",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost I",
+      "Attack Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Red Bludgeon I",
+    "slug": "Red-Bludgeon-I",
+    "url": "/Red+Bludgeon+I",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Red Bludgeon II",
+    "slug": "Red-Bludgeon-II",
+    "url": "/Red+Bludgeon+II",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 31
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Huracan Hammer",
+    "slug": "Huracan-Hammer",
+    "url": "/Huracan+Hammer",
+    "type": "hammer",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 34
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Yeti Hammer I",
+    "slug": "Yeti-Hammer-I",
+    "url": "/Yeti+Hammer+I",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 13
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Yet Hammer II",
+    "slug": "Yet-Hammer-II",
+    "url": "/Yet+Hammer+II",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Yeti Hammer III",
+    "slug": "Yeti-Hammer-III",
+    "url": "/Yeti+Hammer+III",
+    "type": "hammer",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Abominable Hammer",
+    "slug": "Abominable-Hammer",
+    "url": "/Abominable+Hammer",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Ice Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Thunder I",
+    "slug": "Usurper's-Thunder-I",
+    "url": "/Usurper's+Thunder+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Thunder II",
+    "slug": "Usurper's-Thunder-II",
+    "url": "/Usurper's+Thunder+II",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Despot's Crackle",
+    "slug": "Despot's-Crackle",
+    "url": "/Despot's+Crackle",
+    "type": "hammer",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Calamitous Portent I",
+    "slug": "Calamitous-Portent-I",
+    "url": "/Calamitous+Portent+I",
+    "type": "hammer",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 12
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Calamitous Portent II",
+    "slug": "Calamitous-Portent-II",
+    "url": "/Calamitous+Portent+II",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 14
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Catastrophic Portent",
+    "slug": "Catastrophic-Portent",
+    "url": "/Catastrophic+Portent",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 16
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Droth Splashhammer I",
+    "slug": "Droth-Splashhammer-I",
+    "url": "/Droth+Splashhammer+I",
+    "type": "hammer",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Droth Splashhammer II",
+    "slug": "Droth-Splashhammer-II",
+    "url": "/Droth+Splashhammer+II",
+    "type": "hammer",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ludroth Dousehammer",
+    "slug": "Ludroth-Dousehammer",
+    "url": "/Ludroth+Dousehammer",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Izuchi Hammer I",
+    "slug": "Izuchi-Hammer-I",
+    "url": "/Izuchi+Hammer+I",
+    "type": "hammer",
+    "attack": 70,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Izuchi Hammer II",
+    "slug": "Izuchi-Hammer-II",
+    "url": "/Izuchi+Hammer+II",
+    "type": "hammer",
+    "attack": 90,
+    "element": [],
+    "affinity": 12,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Snapper Hammer",
+    "slug": "Snapper-Hammer",
+    "url": "/Snapper+Hammer",
+    "type": "hammer",
+    "attack": 160,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Breaker I",
+    "slug": "Hidden-Breaker-I",
+    "url": "/Hidden+Breaker+I",
+    "type": "hammer",
+    "attack": 130,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Breaker II",
+    "slug": "Hidden-Breaker-II",
+    "url": "/Hidden+Breaker+II",
+    "type": "hammer",
+    "attack": 170,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Night Eternal",
+    "slug": "Night-Eternal",
+    "url": "/Night+Eternal",
+    "type": "hammer",
+    "attack": 180,
+    "element": [],
+    "affinity": 45,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Carapace Hammer I",
+    "slug": "Carapace-Hammer-I",
+    "url": "/Carapace+Hammer+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [],
+    "affinity": -10,
+    "defense": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Carapace Hammer II",
+    "slug": "Carapace-Hammer-II",
+    "url": "/Carapace+Hammer+II",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": -10,
+    "defense": 8,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Barroth Hammer",
+    "slug": "Barroth-Hammer",
+    "url": "/Barroth+Hammer",
+    "type": "hammer",
+    "attack": 200,
+    "element": [],
+    "affinity": -5,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Hammer I",
+    "slug": "Sinister-Hammer-I",
+    "url": "/Sinister+Hammer+I",
+    "type": "hammer",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Hammer II",
+    "slug": "Sinister-Hammer-II",
+    "url": "/Sinister+Hammer+II",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Shade Hammer",
+    "slug": "Sinister-Shade-Hammer",
+    "url": "/Sinister+Shade+Hammer",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Egg Hammer I",
+    "slug": "Egg-Hammer-I",
+    "url": "/Egg++Hammer+I",
+    "type": "hammer",
+    "attack": 200,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Exploit",
+      "Anti-Aerial Species",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Egg Hammer II",
+    "slug": "Egg-Hammer-II",
+    "url": "/Egg+Hammer+II",
+    "type": "hammer",
+    "attack": 240,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Exploit",
+      "Anti-Aerial Species",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Gargwa Hammer",
+    "slug": "Gargwa-Hammer",
+    "url": "/Gargwa+Hammer",
+    "type": "hammer",
+    "attack": 260,
+    "element": [],
+    "affinity": -30,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Exploit",
+      "Anti-Aerial Species",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mane Malice I",
+    "slug": "Mane-Malice-I",
+    "url": "/Mane+Malice+I",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 11
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Mane Malice II",
+    "slug": "Mane-Malice-II",
+    "url": "/Mane+Malice+II",
+    "type": "hammer",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 13
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Hammer I",
+    "slug": "Azure-Elder-Hammer-I",
+    "url": "/Azure+Elder+Hammer+I",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Hammer II",
+    "slug": "Azure-Elder-Hammer-II",
+    "url": "/Azure+Elder+Hammer+II",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Thunderbolt Hammer I",
+    "slug": "Thunderbolt-Hammer-I",
+    "url": "/Thunderbolt+Hammer+I",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Icesteel Hammer I",
+    "slug": "Icesteel-Hammer-I",
+    "url": "/Icesteel+Hammer+I",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 36
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Teostra Cratermaker I",
+    "slug": "Teostra-Cratermaker-I",
+    "url": "/Teostra+Cratermaker+I",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 40
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Genie's Expanse I",
+    "slug": "Genie's-Expanse-I",
+    "url": "/Genie's+Expanse+I",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Teddybear I",
+    "slug": "Teddybear-I",
+    "url": "/Teddybear+I",
+    "type": "hammer",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Teddybear II",
+    "slug": "Teddybear-II",
+    "url": "/Teddybear+II",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Sleepy Bear",
+    "slug": "Sleepy-Bear",
+    "url": "/Sleepy+Bear",
+    "type": "hammer",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost IV",
+      "Defense Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Graceful Death I",
+    "slug": "Graceful-Death-I",
+    "url": "/Graceful+Death+I",
+    "type": "hammer",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 3,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Graceful Death II",
+    "slug": "Graceful-Death-II",
+    "url": "/Graceful+Death+II",
+    "type": "hammer",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Graceful Death III",
+    "slug": "Graceful-Death-III",
+    "url": "/Graceful+Death+III",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 8,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Yadora Morte",
+    "slug": "Yadora-Morte",
+    "url": "/Yadora+Morte",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pumpking I",
+    "slug": "Pumpking-I",
+    "url": "/Pumpking+I",
+    "type": "hammer",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Pumpking II",
+    "slug": "Pumpking-II",
+    "url": "/Pumpking+II",
+    "type": "hammer",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Jack-'o-lantern King",
+    "slug": "Jack-'o-lantern-King",
+    "url": "/Jack-'o-lantern+King",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost III",
+      "Master Rider",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer I",
+    "slug": "Rampage-Hammer-I",
+    "url": "/Rampage+Hammer+I",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer II",
+    "slug": "Rampage-Hammer-II",
+    "url": "/Rampage+Hammer+II",
+    "type": "hammer",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer III",
+    "slug": "Rampage-Hammer-III",
+    "url": "/Rampage+Hammer+III",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer IV",
+    "slug": "Rampage-Hammer-IV",
+    "url": "/Rampage+Hammer+IV",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer V",
+    "slug": "Rampage-Hammer-V",
+    "url": "/Rampage+Hammer+V",
+    "type": "hammer",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Redwing Drill I",
+    "slug": "Redwing-Drill-I",
+    "url": "/Redwing+Drill+I",
+    "type": "hammer",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Mauler",
+    "slug": "Abyssal-Gale-Mauler",
+    "url": "/Abyssal+Gale+Mauler",
+    "type": "hammer",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Mauler",
+    "slug": "Abyssal-Storm-Mauler",
+    "url": "/Abyssal+Storm+Mauler",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Colossus",
+    "slug": "Daora's-Colossus",
+    "url": "/Daora's+Colossus",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 42
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Tail",
+    "slug": "Diablos-Tail",
+    "url": "/Diablos+Tail",
+    "type": "hammer",
+    "attack": 240,
+    "element": [],
+    "affinity": -25,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diamalto's Dream",
+    "slug": "Diamalto's-Dream",
+    "url": "/Diamalto's+Dream",
+    "type": "hammer",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mane Malice Rajang",
+    "slug": "Mane-Malice-Rajang",
+    "url": "/Mane+Malice+Rajang",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Teostra Cratergouger",
+    "slug": "Teostra-Cratergouger",
+    "url": "/Teostra+Cratergouger",
+    "type": "hammer",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 46
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Hammer",
+    "slug": "Reddnaught-Hammer",
+    "url": "/Reddnaught+Hammer",
+    "type": "hammer",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Hammer S",
+    "slug": "Rampage-Hammer-S",
+    "url": "/Rampage+Hammer+S",
+    "type": "hammer",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Defender Hammer I",
+    "slug": "Defender-Hammer-I",
+    "url": "/Defender+Hammer+I",
+    "type": "hammer",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Hammer",
+    "slug": "Champion-Hammer",
+    "url": "/Champion+Hammer",
+    "type": "hammer",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Hammer II",
+    "slug": "Champion-Hammer-II",
+    "url": "/Champion+Hammer+II",
+    "type": "hammer",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Hammer III",
+    "slug": "Champion-Hammer-III",
+    "url": "/Champion+Hammer+III",
+    "type": "hammer",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Hammer",
+    "slug": "Guardian-Hammer",
+    "url": "/Guardian+Hammer",
+    "type": "hammer",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kamura Warrior Hammer",
+    "slug": "Kamura-Warrior-Hammer",
+    "url": "/Kamura+Warrior+Hammer",
+    "type": "hammer",
+    "attack": 240,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Hammer +",
+    "slug": "Kamura-Warrior-Hammer-+",
+    "url": "/Kamura+Warrior+Hammer++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Hammer",
+    "slug": "Fine-Kamura-Hammer",
+    "url": "/Fine+Kamura+Hammer",
+    "type": "hammer",
+    "attack": 320,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke Smiter",
+    "slug": "Duke-Smiter",
+    "url": "/Duke+Smiter",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Sinter Hammer +",
+    "slug": "Sinter-Hammer-+",
+    "url": "/Sinter+Hammer++",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Enlightenment Hammer",
+    "slug": "Enlightenment-Hammer",
+    "url": "/Enlightenment+Hammer",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 35
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Enlightenment Hammer +",
+    "slug": "Enlightenment-Hammer-+",
+    "url": "/Enlightenment+Hammer++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 38
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Armored Gogue +",
+    "slug": "Armored-Gogue-+",
+    "url": "/Armored+Gogue++",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Armored Megagogue",
+    "slug": "Armored-Megagogue",
+    "url": "/Armored+Megagogue",
+    "type": "hammer",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Armored Megagogue +",
+    "slug": "Armored-Megagogue-+",
+    "url": "/Armored+Megagogue++",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Hell Bringer Hammer",
+    "slug": "Hell-Bringer-Hammer",
+    "url": "/Hell+Bringer+Hammer",
+    "type": "hammer",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 64
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hell Bringer Hammer +",
+    "slug": "Hell-Bringer-Hammer-+",
+    "url": "/Hell+Bringer+Hammer++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 69
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Doomsday Hammer",
+    "slug": "Doomsday-Hammer",
+    "url": "/Doomsday+Hammer",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 74
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Magma Masher",
+    "slug": "Magma-Masher",
+    "url": "/Magma+Masher",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 67
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Magma Masher +",
+    "slug": "Magma-Masher-+",
+    "url": "/Magma+Masher++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 70
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Volcanic Impact",
+    "slug": "Volcanic-Impact",
+    "url": "/Volcanic+Impact",
+    "type": "hammer",
+    "attack": null,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 75
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Mighty Pronged Hammer",
+    "slug": "Mighty-Pronged-Hammer",
+    "url": "/Mighty+Pronged+Hammer",
+    "type": "hammer",
+    "attack": 240,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Mighty Pronged Hammer +",
+    "slug": "Mighty-Pronged-Hammer-+",
+    "url": "/Mighty+Pronged+Hammer++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hallowed Pronged Hammer",
+    "slug": "Hallowed-Pronged-Hammer",
+    "url": "/Hallowed+Pronged+Hammer",
+    "type": "hammer",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Higher Pronged Hammer",
+    "slug": "Higher-Pronged-Hammer",
+    "url": "/Higher+Pronged+Hammer",
+    "type": "hammer",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Higher Pronged Hammer +",
+    "slug": "Higher-Pronged-Hammer-+",
+    "url": "/Higher+Pronged+Hammer++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Peak Pronged Hammer",
+    "slug": "Peak-Pronged-Hammer",
+    "url": "/Peak+Pronged+Hammer",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Dirty Hammer +",
+    "slug": "Dirty-Hammer-+",
+    "url": "/Dirty+Hammer++",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Heavy Hammer",
+    "slug": "Heavy-Hammer",
+    "url": "/Heavy+Hammer",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": " Poison",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Break Revolver",
+    "slug": "Break-Revolver",
+    "url": "/Break+Revolver",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 53
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Break Revolver +",
+    "slug": "Break-Revolver-+",
+    "url": "/Break+Revolver++",
+    "type": "hammer",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 56
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Burst Revolver",
+    "slug": "Burst-Revolver",
+    "url": "/Burst+Revolver",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 56
+      }
+    ],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Astalos Sparkler",
+    "slug": "Astalos-Sparkler",
+    "url": "/Astalos+Sparkler",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Astalos Sparkler +",
+    "slug": "Astalos-Sparkler-+",
+    "url": "/Astalos+Sparkler++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Astalos Striker",
+    "slug": "Astalos-Striker",
+    "url": "/Astalos+Striker",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 36
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Super Nova +",
+    "slug": "Super-Nova-+",
+    "url": "/Super+Nova++",
+    "type": "hammer",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hyper Nova",
+    "slug": "Hyper-Nova",
+    "url": "/Hyper+Nova",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hyper Nova +",
+    "slug": "Hyper-Nova-+",
+    "url": "/Hyper+Nova++",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": " Thunder",
+        "attack": 59
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Tigrex Hammer +",
+    "slug": "Tigrex-Hammer-+",
+    "url": "/Tigrex+Hammer++",
+    "type": "hammer",
+    "attack": 330,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Huge Tigrex Hammer",
+    "slug": "Huge-Tigrex-Hammer",
+    "url": "/Huge+Tigrex+Hammer",
+    "type": "hammer",
+    "attack": 340,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Huge Tigrex Hammer +",
+    "slug": "Huge-Tigrex-Hammer-+",
+    "url": "/Huge+Tigrex+Hammer++",
+    "type": "hammer",
+    "attack": 350,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Phoenix Fury +",
+    "slug": "Phoenix-Fury-+",
+    "url": "/Phoenix+Fury++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Phoenix Testament",
+    "slug": "Phoenix-Testament",
+    "url": "/Phoenix+Testament",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Phoenix Testament +",
+    "slug": "Phoenix-Testament-+",
+    "url": "/Phoenix+Testament++",
+    "type": "hammer",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 32
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Glacial Blanche",
+    "slug": "Glacial-Blanche",
+    "url": "/Glacial+Blanche",
+    "type": "hammer",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 32
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Glacial Blanche +",
+    "slug": "Glacial-Blanche-+",
+    "url": "/Glacial+Blanche++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 35
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Avalanche Ritter",
+    "slug": "Avalanche-Ritter",
+    "url": "/Avalanche+Ritter",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 38
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kulu Crusher +",
+    "slug": "Kulu-Crusher-+",
+    "url": "/Kulu+Crusher++",
+    "type": "hammer",
+    "attack": 230,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kulu Katolos Stick",
+    "slug": "Kulu-Katolos-Stick",
+    "url": "/Kulu+Katolos+Stick",
+    "type": "hammer",
+    "attack": 320,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Iron Devil's Respect",
+    "slug": "Iron-Devil's-Respect",
+    "url": "/Iron+Devil's+Respect",
+    "type": "hammer",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Iron Devil's Respect +",
+    "slug": "Iron-Devil's-Respect-+",
+    "url": "/Iron+Devil's+Respect++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Iron Giant's Soul",
+    "slug": "Iron-Giant's-Soul",
+    "url": "/Iron+Giant's+Soul",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Barbearic Hammer +",
+    "slug": "Barbearic-Hammer-+",
+    "url": "/Barbearic+Hammer++",
+    "type": "hammer",
+    "attack": 250,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Bearly Eyhammer",
+    "slug": "Bearly-Eyhammer",
+    "url": "/Bearly+Eyhammer",
+    "type": "hammer",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Illusory Frilled Blow+",
+    "slug": "Illusory-Frilled-Blow+",
+    "url": "/Illusory+Frilled+Blow+",
+    "type": "hammer",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Nightmare Frilled Blow",
+    "slug": "Nightmare-Frilled-Blow",
+    "url": "/Nightmare+Frilled+Blow",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bloom Snow Blow",
+    "slug": "Bloom-Snow-Blow",
+    "url": "/Bloom+Snow+Blow",
+    "type": "hammer",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 67
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bloom Snow Blow +",
+    "slug": "Bloom-Snow-Blow-+",
+    "url": "/Bloom+Snow+Blow++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 70
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Flicker Blizzard Blow",
+    "slug": "Flicker-Blizzard-Blow",
+    "url": "/Flicker+Blizzard+Blow",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 76
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Bag o' Thunder +",
+    "slug": "Bag-o'-Thunder-+",
+    "url": "/Bag+o'+Thunder++",
+    "type": "hammer",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Bag o' Booms",
+    "slug": "Bag-o'-Booms",
+    "url": "/Bag+o'+Booms",
+    "type": "hammer",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Bag o' Booms +",
+    "slug": "Bag-o'-Booms-+",
+    "url": "/Bag+o'+Booms++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Niflheim",
+    "slug": "Niflheim",
+    "url": "/Niflheim",
+    "type": "hammer",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Niflheim +",
+    "slug": "Niflheim-+",
+    "url": "/Niflheim++",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Pykrete Punisher",
+    "slug": "Pykrete-Punisher",
+    "url": "/Pykrete+Punisher",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 54
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Hammer of Winter Moon",
+    "slug": "Hammer-of-Winter-Moon",
+    "url": "/Hammer+of+Winter+Moon",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hammer of Winter Moon +",
+    "slug": "Hammer-of-Winter-Moon-+",
+    "url": "/Hammer+of+Winter+Moon++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Hammer of Snowfallen",
+    "slug": "Hammer-of-Snowfallen",
+    "url": "/Hammer+of+Snowfallen",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Diablos Maul +",
+    "slug": "Diablos-Maul-+",
+    "url": "/Diablos+Maul++",
+    "type": "hammer",
+    "attack": 340,
+    "element": [],
+    "affinity": -25,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Finishing Hammer",
+    "slug": "Finishing-Hammer",
+    "url": "/Finishing+Hammer",
+    "type": "hammer",
+    "attack": 350,
+    "element": [],
+    "affinity": -25,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Finishing Hammer +",
+    "slug": "Finishing-Hammer-+",
+    "url": "/Finishing+Hammer++",
+    "type": "hammer",
+    "attack": 360,
+    "element": [],
+    "affinity": -25,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Atlas Hammer +",
+    "slug": "Atlas-Hammer-+",
+    "url": "/Atlas+Hammer++",
+    "type": "hammer",
+    "attack": 270,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Atlas Crusher",
+    "slug": "Atlas-Crusher",
+    "url": "/Atlas+Crusher",
+    "type": "hammer",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Atlas Crusher +",
+    "slug": "Atlas-Crusher-+",
+    "url": "/Atlas+Crusher++",
+    "type": "hammer",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Ceanataur Head Axe",
+    "slug": "Ceanataur-Head-Axe",
+    "url": "/Ceanataur+Head+Axe",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Ceanataur Head Axe +",
+    "slug": "Ceanataur-Head-Axe-+",
+    "url": "/Ceanataur+Head+Axe++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Big Blue Chopper",
+    "slug": "Big-Blue-Chopper",
+    "url": "/Big+Blue+Chopper",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Matraca Hammer",
+    "slug": "Matraca-Hammer",
+    "url": "/Matraca+Hammer",
+    "type": "hammer",
+    "attack": 300,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Matraca Hammer +",
+    "slug": "Matraca-Hammer-+",
+    "url": "/Matraca+Hammer++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Argyl Hammer",
+    "slug": "Argyl-Hammer",
+    "url": "/Argyl+Hammer",
+    "type": "hammer",
+    "attack": 320,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Datura Club +",
+    "slug": "Datura-Club-+",
+    "url": "/Datura+Club++",
+    "type": "hammer",
+    "attack": 240,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 56
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Datura Pounder",
+    "slug": "Datura-Pounder",
+    "url": "/Datura+Pounder",
+    "type": "hammer",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 58
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Datura Pounder +",
+    "slug": "Datura-Pounder-+",
+    "url": "/Datura+Pounder++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 66
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Huracan Hammer +",
+    "slug": "Huracan-Hammer-+",
+    "url": "/Huracan+Hammer++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 38
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Rathalos Cosh",
+    "slug": "Rathalos-Cosh",
+    "url": "/Rathalos+Cosh",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 45
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Rosenhammer",
+    "slug": "Rosenhammer",
+    "url": "/Rosenhammer",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rosenhammer +",
+    "slug": "Rosenhammer-+",
+    "url": "/Rosenhammer++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 19
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rosenunwetter",
+    "slug": "Rosenunwetter",
+    "url": "/Rosenunwetter",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abominable Buster",
+    "slug": "Abominable-Buster",
+    "url": "/Abominable+Buster",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abominable Buster +",
+    "slug": "Abominable-Buster-+",
+    "url": "/Abominable+Buster++",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 28
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abominable Avalanche",
+    "slug": "Abominable-Avalanche",
+    "url": "/Abominable+Avalanche",
+    "type": "hammer",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 31
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Despot's Crackle +",
+    "slug": "Despot's-Crackle-+",
+    "url": "/Despot's+Crackle++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Oppressor's Sway",
+    "slug": "Oppressor's-Sway",
+    "url": "/Oppressor's+Sway",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Catastrophic Portent +",
+    "slug": "Catastrophic-Portent-+",
+    "url": "/Catastrophic+Portent++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 21
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Cataclysmic Portent",
+    "slug": "Cataclysmic-Portent",
+    "url": "/Cataclysmic+Portent",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Ludroth Dousehammer +",
+    "slug": "Ludroth-Dousehammer-+",
+    "url": "/Ludroth+Dousehammer++",
+    "type": "hammer",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Lorelei",
+    "slug": "Lorelei",
+    "url": "/Lorelei",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Lorelei +",
+    "slug": "Lorelei-+",
+    "url": "/Lorelei++",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Gavel",
+    "slug": "Golm-Gavel",
+    "url": "/Golm+Gavel",
+    "type": "hammer",
+    "attack": 300,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Golm Gavel +",
+    "slug": "Golm-Gavel-+",
+    "url": "/Golm+Gavel++",
+    "type": "hammer",
+    "attack": 320,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Gornir",
+    "slug": "Gornir",
+    "url": "/Gornir",
+    "type": "hammer",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Snapper Hammer +",
+    "slug": "Snapper-Hammer-+",
+    "url": "/Snapper+Hammer++",
+    "type": "hammer",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Blower's Hammer",
+    "slug": "Blower's-Hammer",
+    "url": "/Blower's+Hammer",
+    "type": "hammer",
+    "attack": 310,
+    "element": [],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Endless Eternia",
+    "slug": "Endless-Eternia",
+    "url": "/Endless+Eternia",
+    "type": "hammer",
+    "attack": 250,
+    "element": [],
+    "affinity": 45,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Endless Eternia +",
+    "slug": "Endless-Eternia-+",
+    "url": "/Endless+Eternia++",
+    "type": "hammer",
+    "attack": 270,
+    "element": [],
+    "affinity": 45,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Avidya Breaker",
+    "slug": "Avidya-Breaker",
+    "url": "/Avidya+Breaker",
+    "type": "hammer",
+    "attack": 290,
+    "element": [],
+    "affinity": 45,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Barroth Charger",
+    "slug": "Barroth-Charger",
+    "url": "/Barroth+Charger",
+    "type": "hammer",
+    "attack": 250,
+    "element": [],
+    "affinity": -5,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Barroth Charger +",
+    "slug": "Barroth-Charger-+",
+    "url": "/Barroth+Charger++",
+    "type": "hammer",
+    "attack": 260,
+    "element": [],
+    "affinity": -5,
+    "defense": 25,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Barroth Momentum",
+    "slug": "Barroth-Momentum",
+    "url": "/Barroth+Momentum",
+    "type": "hammer",
+    "attack": 340,
+    "element": [],
+    "affinity": -5,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Sinister Shade Hammer +",
+    "slug": "Sinister-Shade-Hammer-+",
+    "url": "/Sinister+Shade+Hammer++",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Mighty Souldevourer",
+    "slug": "Mighty-Souldevourer",
+    "url": "/Mighty+Souldevourer",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Wuchtblick",
+    "slug": "Wuchtblick",
+    "url": "/Wuchtblick",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 23
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Wuchtblick +",
+    "slug": "Wuchtblick-+",
+    "url": "/Wuchtblick++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 25
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Achtungsblick",
+    "slug": "Achtungsblick",
+    "url": "/Achtungsblick",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 27
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Le Jugement",
+    "slug": "Le-Jugement",
+    "url": "/Le+Jugement",
+    "type": "hammer",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 28
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "La Terre",
+    "slug": "La-Terre",
+    "url": "/La+Terre",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Gargwa Hammer +",
+    "slug": "Gargwa-Hammer-+",
+    "url": "/Gargwa+Hammer++",
+    "type": "hammer",
+    "attack": 360,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Gargegg Hammer",
+    "slug": "Gargegg-Hammer",
+    "url": "/Gargegg+Hammer",
+    "type": "hammer",
+    "attack": 380,
+    "element": [],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Mane Malice Rajang +",
+    "slug": "Mane-Malice-Rajang-+",
+    "url": "/Mane+Malice+Rajang++",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 21
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Mane Master Rajang",
+    "slug": "Mane-Master-Rajang",
+    "url": "/Mane+Master+Rajang",
+    "type": "hammer",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 23
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Demonlord Sledge",
+    "slug": "Demonlord-Sledge",
+    "url": "/Demonlord+Sledge",
+    "type": "hammer",
+    "attack": 3210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Skyfold Boldblow",
+    "slug": "Skyfold-Boldblow",
+    "url": "/Skyfold+Boldblow",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Skyfold Furyflash",
+    "slug": "Skyfold-Furyflash",
+    "url": "/Skyfold+Furyflash",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 73
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daora's Colossus +",
+    "slug": "Daora's-Colossus-+",
+    "url": "/Daora's+Colossus++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 47
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Daora's Hyperborea",
+    "slug": "Daora's-Hyperborea",
+    "url": "/Daora's+Hyperborea",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 50
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Teostra Cratergouger +",
+    "slug": "Teostra-Cratergouger-+",
+    "url": "/Teostra+Cratergouger++",
+    "type": "hammer",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 57
+      }
+    ],
+    "affinity": 5,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Teostra de la Torre",
+    "slug": "Teostra-de-la-Torre",
+    "url": "/Teostra+de+la+Torre",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 61
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Diamalto's Dream +",
+    "slug": "Diamalto's-Dream-+",
+    "url": "/Diamalto's+Dream++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Diamgolgo's Phantasm",
+    "slug": "Diamgolgo's-Phantasm",
+    "url": "/Diamgolgo's+Phantasm",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Crimson Forcewing",
+    "slug": "Crimson-Forcewing",
+    "url": "/Crimson+Forcewing",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Abyssal Windstorm",
+    "slug": "Abyssal-Windstorm",
+    "url": "/Abyssal+Windstorm",
+    "type": "hammer",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 21
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Yadora Morte +",
+    "slug": "Yadora-Morte-+",
+    "url": "/Yadora+Morte++",
+    "type": "hammer",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Dark Morte",
+    "slug": "Dark-Morte",
+    "url": "/Dark+Morte",
+    "type": "hammer",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 52
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Jack-'o-Lantern King +",
+    "slug": "Jack-'o-Lantern-King-+",
+    "url": "/Jack-'o-Lantern+King++",
+    "type": "hammer",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Magic Pumpking",
+    "slug": "Magic-Pumpking",
+    "url": "/Magic+Pumpking",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Royal Order's Bludgeon",
+    "slug": "Royal-Order's-Bludgeon",
+    "url": "/Royal+Order's+Bludgeon",
+    "type": "hammer",
+    "attack": 280,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Royal Order's Bludgeon +",
+    "slug": "Royal-Order's-Bludgeon-+",
+    "url": "/Royal+Order's+Bludgeon++",
+    "type": "hammer",
+    "attack": 310,
+    "element": [],
+    "affinity": 10,
+    "defense": 50,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Antique Machina H",
+    "slug": "Antique-Machina-H",
+    "url": "/Antique+Machina+H",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  }
+]
