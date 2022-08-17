@@ -1665,7 +1665,7 @@
     "slug": "Tetranadon-Mail-S",
     "skills": [
       {
-        "name": "Normal/Rapíd Up",
+        "name": "Normal/Rapid Up",
         "level": 1,
         "slug": "NormalRapid-Up"
       },
@@ -2998,7 +2998,7 @@
     "slug": "Mizuha-Guards",
     "skills": [
       {
-        "name": "Chamaleos Blessing",
+        "name": "Chameleos Blessing",
         "level": 1,
         "slug": "Chameleos-Blessing"
       },
@@ -3540,9 +3540,9 @@
     "slug": "Vespoid-Mail",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Paralysis Resistance",
@@ -3794,9 +3794,9 @@
     "slug": "Orangaten-Mail",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Fire Resistance",
@@ -3921,9 +3921,9 @@
     "slug": "Aknosom-Mail-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Peak Performance",
@@ -3993,9 +3993,9 @@
         "slug": "Slugger"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -4194,9 +4194,9 @@
     "slug": "Barioth-Mail-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Maximum Might",
@@ -5085,9 +5085,9 @@
         "slug": "Constitution"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Good Luck",
@@ -6594,9 +6594,9 @@
         "slug": "Constitution"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Good Luck",
@@ -6657,13 +6657,13 @@
     "slug": "Guild-Palace-Mail",
     "skills": [
       {
-        "name": " Agitator",
-        "level": null,
+        "name": "Agitator",
+        "level": 2,
         "slug": "Agitator"
       },
       {
         "name": "Heroics",
-        "level": null,
+        "level": 1,
         "slug": "Heroics"
       }
     ],
@@ -6676,6 +6676,142 @@
     "thunderResistance": 1,
     "iceResistance": 2,
     "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Pride Mail",
+    "url": "/Pride+Mail",
+    "type": "chest",
+    "slug": "Pride-Mail",
+    "skills": [
+      {
+        "name": "Guts",
+        "level": 1,
+        "slug": "Guts"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Speed Eating",
+        "level": 2,
+        "slug": "Speed-Eating"
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "baseDefense": 123,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "rank": 2
+  },
+  {
+    "name": "Golden Lunemail",
+    "url": "/Golden+Lunemail",
+    "type": "chest",
+    "slug": "Golden-Lunemail",
+    "skills": [
+      {
+        "name": "Defiance",
+        "level": 2,
+        "slug": "Defiance"
+      },
+      {
+        "name": "Counterstrike",
+        "level": 2,
+        "slug": "Counterstrike"
+      },
+      {
+        "name": "Divine Blessing",
+        "level": 3,
+        "slug": "Divine-Blessing"
+      }
+    ],
+    "slots": [
+      2,
+      3
+    ],
+    "baseDefense": 120,
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -4,
+    "iceResistance": -1,
+    "dragonResistance": 2,
+    "rank": 2
+  },
+  {
+    "name": "Lambent Hauberk",
+    "url": "/Lambent+Hauberk",
+    "type": "chest",
+    "slug": "Lambent-Hauberk",
+    "skills": [
+      {
+        "name": "Sneak Attack",
+        "level": 1,
+        "slug": "Sneak-Attack"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Agitator",
+        "level": 2,
+        "slug": "Agitator"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": 3,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": -5,
+    "dragonResistance": -2,
+    "rank": 2
+  },
+  {
+    "name": "Silver Solmail",
+    "url": "/Silver+Solmail",
+    "type": "chest",
+    "slug": "Silver-Solmail",
+    "skills": [
+      {
+        "name": "Elemental Exploit",
+        "level": 1,
+        "slug": "Elemental-Exploit"
+      },
+      {
+        "name": "Critical Element",
+        "level": 1,
+        "slug": "Critical-Element"
+      },
+      {
+        "name": "Fire Attack",
+        "level": 3,
+        "slug": "Fire-Attack"
+      }
+    ],
+    "slots": [
+      1,
+      3,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": -3,
+    "iceResistance": -2,
+    "dragonResistance": 3,
     "rank": 2
   }
 ]

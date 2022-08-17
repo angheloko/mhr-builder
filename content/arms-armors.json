@@ -174,7 +174,7 @@
     "slug": "Baggi-Vambraces",
     "skills": [
       {
-        "name": " Sleep Resistance",
+        "name": "Sleep Resistance",
         "level": 1,
         "slug": "Sleep-Resistance"
       },
@@ -200,7 +200,7 @@
     "slug": "Lagombi-Vambraces",
     "skills": [
       {
-        "name": " Ice Attack",
+        "name": "Ice Attack",
         "level": 1,
         "slug": "Ice-Attack"
       }
@@ -221,7 +221,7 @@
     "slug": "Alloy-Vambraces",
     "skills": [
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -242,7 +242,7 @@
     "slug": "Bone-Vambraces",
     "skills": [
       {
-        "name": " Stamina Thief",
+        "name": "Stamina Thief",
         "level": 1,
         "slug": "Stamina-Thief"
       }
@@ -263,7 +263,7 @@
     "slug": "Jaggi-Gauntlets",
     "skills": [
       {
-        "name": " Attack Boost",
+        "name": "Attack Boost",
         "level": 1,
         "slug": "Attack-Boost"
       }
@@ -367,7 +367,7 @@
     "slug": "Khezu-Vambraces",
     "skills": [
       {
-        "name": " Wall Runner",
+        "name": "Wall Runner",
         "level": 1,
         "slug": "Wall-Runner"
       },
@@ -1381,7 +1381,7 @@
     "slug": "Alloy-Vambraces-S",
     "skills": [
       {
-        "name": " Water Attack",
+        "name": "Water Attack",
         "level": 1,
         "slug": "Water-Attack"
       },
@@ -1433,7 +1433,7 @@
     "slug": "Jaggi-Gauntlets-S",
     "skills": [
       {
-        "name": " Attack Boost",
+        "name": "Attack Boost",
         "level": 1,
         "slug": "Attack-Boost"
       }
@@ -1548,7 +1548,7 @@
     "slug": "Khezu-Vambraces-S",
     "skills": [
       {
-        "name": " Wall Runner",
+        "name": "Wall Runner",
         "level": 1,
         "slug": "Wall-Runner"
       },
@@ -1579,7 +1579,7 @@
     "slug": "Tetranadon-Braces-S",
     "skills": [
       {
-        "name": " Heroics",
+        "name": "Heroics",
         "level": 1,
         "slug": "Heroics"
       },
@@ -1923,7 +1923,7 @@
     "slug": "Utsushi-Braces-S-(Visible)",
     "skills": [
       {
-        "name": " Wide-Range",
+        "name": "Wide-Range",
         "level": 1,
         "slug": "Wide-Range"
       }
@@ -2781,7 +2781,7 @@
     "slug": "Mizuha-Sleeves",
     "skills": [
       {
-        "name": "Chamaleos Blessing",
+        "name": "Chameleos Blessing",
         "level": 1,
         "slug": "Chameleos-Blessing"
       },
@@ -3023,9 +3023,9 @@
     "slug": "Hunter's-Vambraces-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Handicraft",
@@ -3585,9 +3585,9 @@
         "slug": "Latent-Power"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -3757,9 +3757,9 @@
         "slug": "Stamina-Thief"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -3901,9 +3901,9 @@
         "slug": "Punishing-Draw"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -3980,9 +3980,9 @@
     "slug": "Barioth-Vambraces-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Maximum Might",
@@ -4703,7 +4703,7 @@
       }
     ],
     "slots": [
-      2,
+      1,
       2
     ],
     "baseDefense": 82,
@@ -4858,9 +4858,9 @@
         "slug": "Speed-Eating"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 2,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Weakness Exploit",
@@ -5350,7 +5350,7 @@
       }
     ],
     "slots": [
-      2,
+      1,
       2
     ],
     "baseDefense": 86,
@@ -5559,9 +5559,9 @@
         "slug": "Charge-Master"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -6276,9 +6276,9 @@
         "slug": "Speed-Eating"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 2,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Weakness Exploit",
@@ -6333,17 +6333,17 @@
     "skills": [
       {
         "name": "Agitator",
-        "level": null,
+        "level": 2,
         "slug": "Agitator"
       },
       {
         "name": "Coalescence",
-        "level": null,
+        "level": 1,
         "slug": "Coalescence"
       },
       {
         "name": "Wall Runner (Boost)",
-        "level": null,
+        "level": 1,
         "slug": "Wall-Runner-(Boost)"
       }
     ],
@@ -6356,6 +6356,139 @@
     "thunderResistance": 1,
     "iceResistance": 2,
     "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Pride Vambraces",
+    "url": "/Pride+Vambraces",
+    "type": "arms",
+    "slug": "Pride-Vambraces",
+    "skills": [
+      {
+        "name": "Guts",
+        "level": 1,
+        "slug": "Guts"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Earplugs",
+        "level": 1,
+        "slug": "Earplugs"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 123,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "rank": 2
+  },
+  {
+    "name": "Golden Lunebraces",
+    "url": "/Golden+Lunebraces",
+    "type": "arms",
+    "slug": "Golden-Lunebraces",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1,
+        "slug": "Peak-Performance"
+      },
+      {
+        "name": "Chain Crit",
+        "level": 1,
+        "slug": "Chain-Crit"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "baseDefense": 120,
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -4,
+    "iceResistance": -1,
+    "dragonResistance": 2,
+    "rank": 2
+  },
+  {
+    "name": "Lambent Wristrays",
+    "url": "/Lambent+Wristrays",
+    "type": "arms",
+    "slug": "Lambent-Wristrays",
+    "skills": [
+      {
+        "name": "Adrenaline Rush",
+        "level": 2,
+        "slug": "Adrenaline-Rush"
+      },
+      {
+        "name": "Evade Window",
+        "level": 3,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "baseDefense": 118,
+    "fireResistance": 3,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": -5,
+    "dragonResistance": -2,
+    "rank": 2
+  },
+  {
+    "name": "Silver Solbraces",
+    "url": "/Silver+Solbraces",
+    "type": "arms",
+    "slug": "Silver-Solbraces",
+    "skills": [
+      {
+        "name": "Element Exploit",
+        "level": 1,
+        "slug": "Element-Exploit"
+      },
+      {
+        "name": "Critical Element",
+        "level": 1,
+        "slug": "Critical-Element"
+      },
+      {
+        "name": "Constitution",
+        "level": 2,
+        "slug": "Constitution"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": -3,
+    "iceResistance": -2,
+    "dragonResistance": 3,
     "rank": 2
   }
 ]

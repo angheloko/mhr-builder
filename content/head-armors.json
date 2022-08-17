@@ -3368,9 +3368,9 @@
     "slug": "Hermitaur-Helm",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 2,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Tremor Resistance",
@@ -4020,9 +4020,9 @@
     "slug": "Aknosom-Helm-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Fire Attack",
@@ -4088,9 +4088,9 @@
         "slug": "Maximum-Might"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Stun Resistance",
@@ -4299,9 +4299,9 @@
         "slug": "Agitator"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -6766,12 +6766,12 @@
     "skills": [
       {
         "name": "Agitator",
-        "level": null,
+        "level": 1,
         "slug": "Agitator"
       },
       {
         "name": "Offensive Guard",
-        "level": null,
+        "level": 2,
         "slug": "Offensive-Guard"
       }
     ],
@@ -6784,6 +6784,144 @@
     "thunderResistance": 1,
     "iceResistance": 2,
     "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Pride Helm",
+    "url": "/Pride+Helm",
+    "type": "head",
+    "slug": "Pride-Helm",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 2,
+        "slug": "Latent-Power"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Earplugs",
+        "level": 1,
+        "slug": "Earplugs"
+      }
+    ],
+    "slots": [
+      2,
+      3
+    ],
+    "baseDefense": 123,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "rank": 2
+  },
+  {
+    "name": "Golden Lunehelm",
+    "url": "/Golden+Lunehelm",
+    "type": "head",
+    "slug": "Golden-Lunehelm",
+    "skills": [
+      {
+        "name": "Status Trigger",
+        "level": 2,
+        "slug": "Status-Trigger"
+      },
+      {
+        "name": "Foray",
+        "level": 1,
+        "slug": "Foray"
+      },
+      {
+        "name": "Chain Crit",
+        "level": 2,
+        "slug": "Chain-Crit"
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "baseDefense": 120,
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -4,
+    "iceResistance": -1,
+    "dragonResistance": 2,
+    "rank": 2
+  },
+  {
+    "name": "Lambent Casque",
+    "url": "/Lambent+Casque",
+    "type": "head",
+    "slug": "Lambent-Casque",
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 1,
+        "slug": "Handicraft"
+      },
+      {
+        "name": "Ammo Up",
+        "level": 1,
+        "slug": "Ammo-Up"
+      },
+      {
+        "name": "Agitator",
+        "level": 3,
+        "slug": "Agitator"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": 3,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": -5,
+    "dragonResistance": -2,
+    "rank": 2
+  },
+  {
+    "name": "Silver Solhelm",
+    "url": "/Silver+Solhelm",
+    "type": "head",
+    "slug": "Silver-Solhelm",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Critical Element",
+        "level": 1,
+        "slug": "Critical-Element"
+      },
+      {
+        "name": "Windproof",
+        "level": 3,
+        "slug": "Windproof"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": -3,
+    "iceResistance": -2,
+    "dragonResistance": 3,
     "rank": 2
   }
 ]

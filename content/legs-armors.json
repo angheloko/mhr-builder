@@ -6,7 +6,7 @@
     "slug": "Kamura-Leggins",
     "skills": [
       {
-        "name": " Wall Runner",
+        "name": "Wall Runner",
         "level": 1,
         "slug": "Wall-Runner"
       }
@@ -27,7 +27,7 @@
     "slug": "Leather-Pants",
     "skills": [
       {
-        "name": " Geologist",
+        "name": "Geologist",
         "level": 1,
         "slug": "Geologist"
       }
@@ -48,7 +48,7 @@
     "slug": "Chainmail-Pants",
     "skills": [
       {
-        "name": " Stamina Surge",
+        "name": "Stamina Surge",
         "level": 1,
         "slug": "Stamina-Surge"
       }
@@ -69,7 +69,7 @@
     "slug": "Hunter's-Greaves",
     "skills": [
       {
-        "name": " Stun Resistance",
+        "name": "Stun Resistance",
         "level": 1,
         "slug": "Stun-Resistance"
       },
@@ -95,7 +95,7 @@
     "slug": "Izuchi-Greaves",
     "skills": [
       {
-        "name": " Recovery Speed",
+        "name": "Recovery Speed",
         "level": 1,
         "slug": "Recovery-Speed"
       }
@@ -116,7 +116,7 @@
     "slug": "Arzuros-Greaves",
     "skills": [
       {
-        "name": " Diversion",
+        "name": "Diversion",
         "level": 1,
         "slug": "Diversion"
       }
@@ -137,7 +137,7 @@
     "slug": "Bnahabra-Boots",
     "skills": [
       {
-        "name": " Recoil Down",
+        "name": "Recoil Down",
         "level": 1,
         "slug": "Recoil-Down"
       }
@@ -158,7 +158,7 @@
     "slug": "Aknosom-Greaves",
     "skills": [
       {
-        "name": " Fire Attack",
+        "name": "Fire Attack",
         "level": 1,
         "slug": "Fire-Attack"
       }
@@ -179,7 +179,7 @@
     "slug": "Baggi-Greaves",
     "skills": [
       {
-        "name": " Attack Boost",
+        "name": "Attack Boost",
         "level": 1,
         "slug": "Attack-Boost"
       }
@@ -200,7 +200,7 @@
     "slug": "Lagombi-Greaves",
     "skills": [
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -221,7 +221,7 @@
     "slug": "Alloy-Greaves",
     "skills": [
       {
-        "name": " Speed Sharpening",
+        "name": "Speed Sharpening",
         "level": 1,
         "slug": "Speed-Sharpening"
       }
@@ -242,7 +242,7 @@
     "slug": "Bone-Greaves",
     "skills": [
       {
-        "name": " Muck Resistance",
+        "name": "Muck Resistance",
         "level": 1,
         "slug": "Muck-Resistance"
       }
@@ -263,7 +263,7 @@
     "slug": "Droth-Greaves",
     "skills": [
       {
-        "name": " Water Resistance",
+        "name": "Water Resistance",
         "level": 2,
         "slug": "Water-Resistance"
       }
@@ -284,7 +284,7 @@
     "slug": "Jaggi-Shinguards",
     "skills": [
       {
-        "name": " Master Mounter",
+        "name": "Master Mounter",
         "level": 1,
         "slug": "Master-Mounter"
       }
@@ -305,12 +305,12 @@
     "slug": "Kulu-Ya-Ku-Greaves",
     "skills": [
       {
-        "name": " Stun Resistance",
+        "name": "Stun Resistance",
         "level": 1,
         "slug": "Stun-Resistance"
       },
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -331,7 +331,7 @@
     "slug": "Wroggi-Greaves",
     "skills": [
       {
-        "name": " Evade Extender",
+        "name": "Evade Extender",
         "level": 1,
         "slug": "Evade-Extender"
       }
@@ -352,7 +352,7 @@
     "slug": "Ludroth-Greaves",
     "skills": [
       {
-        "name": " Power Prolonger",
+        "name": "Power Prolonger",
         "level": 1,
         "slug": "Power-Prolonger"
       }
@@ -373,7 +373,7 @@
     "slug": "Barroth-Greaves",
     "skills": [
       {
-        "name": " Guard",
+        "name": "Guard",
         "level": 1,
         "slug": "Guard"
       }
@@ -394,7 +394,7 @@
     "slug": "Khezu-Greaves",
     "skills": [
       {
-        "name": " Recovery Speed",
+        "name": "Recovery Speed",
         "level": 1,
         "slug": "Recovery-Speed"
       }
@@ -415,7 +415,7 @@
     "slug": "Tetranadon-Greaves",
     "skills": [
       {
-        "name": " Hunger Resistance",
+        "name": "Hunger Resistance",
         "level": 1,
         "slug": "Hunger-Resistance"
       }
@@ -436,7 +436,7 @@
     "slug": "Ingot-Greaves",
     "skills": [
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -457,7 +457,7 @@
     "slug": "Remobra-Feet",
     "skills": [
       {
-        "name": " Divine Blessing",
+        "name": "Divine Blessing",
         "level": 1,
         "slug": "Divine-Blessing"
       }
@@ -478,7 +478,7 @@
     "slug": "Bishaten-Greaves",
     "skills": [
       {
-        "name": " Maximum Might",
+        "name": "Maximum Might",
         "level": 1,
         "slug": "Maximum-Might"
       }
@@ -499,12 +499,12 @@
     "slug": "Basarios-Greaves",
     "skills": [
       {
-        "name": " Load Shells",
+        "name": "Load Shells",
         "level": 1,
         "slug": "Load-Shells"
       },
       {
-        "name": " Defense Boost",
+        "name": "Defense Boost",
         "level": 1,
         "slug": "Defense-Boost"
       }
@@ -525,7 +525,7 @@
     "slug": "Volvidon-Greaves",
     "skills": [
       {
-        "name": " Evade Extender",
+        "name": "Evade Extender",
         "level": 1,
         "slug": "Evade-Extender"
       }
@@ -546,7 +546,7 @@
     "slug": "Death-Stench-Heel",
     "skills": [
       {
-        "name": " Rapid Morph",
+        "name": "Rapid Morph",
         "level": 1,
         "slug": "Rapid-Morph"
       }
@@ -567,7 +567,7 @@
     "slug": "Rhenoplos-Greaves",
     "skills": [
       {
-        "name": " Tremor Resistance",
+        "name": "Tremor Resistance",
         "level": 1,
         "slug": "Tremor-Resistance"
       }
@@ -588,7 +588,7 @@
     "slug": "Shelled-Sandals",
     "skills": [
       {
-        "name": " Spread Up",
+        "name": "Spread Up",
         "level": 1,
         "slug": "Spread-Up"
       }
@@ -609,7 +609,7 @@
     "slug": "Somnacanth-Greaves",
     "skills": [
       {
-        "name": " Divine Blessing",
+        "name": "Divine Blessing",
         "level": 1,
         "slug": "Divine-Blessing"
       }
@@ -630,7 +630,7 @@
     "slug": "Rathian-Greaves",
     "skills": [
       {
-        "name": " Free Meal",
+        "name": "Free Meal",
         "level": 1,
         "slug": "Free-Meal"
       }
@@ -651,7 +651,7 @@
     "slug": "Barioth-Greaves",
     "skills": [
       {
-        "name": " Quick Sheath",
+        "name": "Quick Sheath",
         "level": 1,
         "slug": "Quick-Sheath"
       }
@@ -672,12 +672,12 @@
     "slug": "Kadachi-Greaves",
     "skills": [
       {
-        "name": " Constitution",
+        "name": "Constitution",
         "level": 1,
         "slug": "Constitution"
       },
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -698,7 +698,7 @@
     "slug": "Medium's-Hakama",
     "skills": [
       {
-        "name": " Wide-Range",
+        "name": "Wide-Range",
         "level": 1,
         "slug": "Wide-Range"
       }
@@ -719,7 +719,7 @@
     "slug": "Channeler's-Hakama",
     "skills": [
       {
-        "name": " Evade Window",
+        "name": "Evade Window",
         "level": 1,
         "slug": "Evade-Window"
       },
@@ -745,7 +745,7 @@
     "slug": "Utsushi-Greaves-(V)",
     "skills": [
       {
-        "name": " Wide-Range",
+        "name": "Wide-Range",
         "level": 1,
         "slug": "Wide-Range"
       }
@@ -766,7 +766,7 @@
     "slug": "Sinister-Greaves",
     "skills": [
       {
-        "name": " Resentment",
+        "name": "Resentment",
         "level": 1,
         "slug": "Resentment"
       }
@@ -787,7 +787,7 @@
     "slug": "Almudron-Greaves",
     "skills": [
       {
-        "name": " Razor Sharp",
+        "name": "Razor Sharp",
         "level": 1,
         "slug": "Razor-Sharp"
       }
@@ -808,7 +808,7 @@
     "slug": "Zinogre-Greaves",
     "skills": [
       {
-        "name": " Constitution",
+        "name": "Constitution",
         "level": 2,
         "slug": "Constitution"
       }
@@ -829,7 +829,7 @@
     "slug": "Mizutsune-Greaves",
     "skills": [
       {
-        "name": " Bubbly Dance",
+        "name": "Bubbly Dance",
         "level": 1,
         "slug": "Bubbly-Dance"
       }
@@ -850,12 +850,12 @@
     "slug": "Nargacuga-Greaves",
     "skills": [
       {
-        "name": " Evade Window",
+        "name": "Evade Window",
         "level": 1,
         "slug": "Evade-Window"
       },
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 1,
         "slug": "Critical-Eye"
       }
@@ -897,7 +897,7 @@
     "slug": "Pukei-Pukei-Greaves",
     "skills": [
       {
-        "name": " Constitution",
+        "name": "Constitution",
         "level": 1,
         "slug": "Constitution"
       }
@@ -918,7 +918,7 @@
     "slug": "Goss-Harag-Greaves",
     "skills": [
       {
-        "name": " Agitator",
+        "name": "Agitator",
         "level": 1,
         "slug": "Agitator"
       }
@@ -939,12 +939,12 @@
     "slug": "Rathalos-Greaves",
     "skills": [
       {
-        "name": " Attack Boost",
+        "name": "Attack Boost",
         "level": 1,
         "slug": "Attack-Boost"
       },
       {
-        "name": " Fire Attack",
+        "name": "Fire Attack",
         "level": 1,
         "slug": "Fire-Attack"
       }
@@ -965,7 +965,7 @@
     "slug": "Rhopessa-Crura",
     "skills": [
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 2,
         "slug": "Critical-Eye"
       }
@@ -985,7 +985,7 @@
     "slug": "Img-Aelucanth-Crura",
     "skills": [
       {
-        "name": " Critical Eye",
+        "name": "Critical Eye",
         "level": 2,
         "slug": "Critical-Eye"
       }
@@ -1006,7 +1006,7 @@
     "slug": "Makluva-Pants",
     "skills": [
       {
-        "name": " Speed Eating",
+        "name": "Speed Eating",
         "level": 1,
         "slug": "Speed-Eating"
       }
@@ -1027,7 +1027,7 @@
     "slug": "Melahoa-Roots",
     "skills": [
       {
-        "name": " Recovery Speed",
+        "name": "Recovery Speed",
         "level": 2,
         "slug": "Recovery-Speed"
       }
@@ -1048,12 +1048,12 @@
     "slug": "Diablos-Greaves",
     "skills": [
       {
-        "name": " Guard",
+        "name": "Guard",
         "level": 1,
         "slug": "Guard"
       },
       {
-        "name": " Offensive Guard",
+        "name": "Offensive Guard",
         "level": 1,
         "slug": "Offensive-Guard"
       }
@@ -1074,7 +1074,7 @@
     "slug": "Tigrex-Greaves",
     "skills": [
       {
-        "name": " Speed Eating",
+        "name": "Speed Eating",
         "level": 1,
         "slug": "Speed-Eating"
       }
@@ -1095,7 +1095,7 @@
     "slug": "Mosgharl-Roots",
     "skills": [
       {
-        "name": " Recoil Down",
+        "name": "Recoil Down",
         "level": 2,
         "slug": "Recoil-Down"
       }
@@ -1116,7 +1116,7 @@
     "slug": "Utsushi-Greaves-S",
     "skills": [
       {
-        "name": " Wide-Range",
+        "name": "Wide-Range",
         "level": 1,
         "slug": "Wide-Range"
       }
@@ -1137,7 +1137,7 @@
     "slug": "Jelly-Boots",
     "skills": [
       {
-        "name": " Blast Attack ",
+        "name": "Blast Attack",
         "level": 1,
         "slug": "Blast-Attack"
       }
@@ -1252,7 +1252,7 @@
     "slug": "Izuchi-Greaves-S",
     "skills": [
       {
-        "name": " Recovery Speed",
+        "name": "Recovery Speed",
         "level": 1,
         "slug": "Recovery-Speed"
       },
@@ -1465,7 +1465,7 @@
     "slug": "Jaggi-Shinguards-S",
     "skills": [
       {
-        "name": " Master Mounter",
+        "name": "Master Mounter",
         "level": 1,
         "slug": "Master-Mounter"
       }
@@ -3117,9 +3117,9 @@
         "slug": "Attack-Boost"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [],
@@ -3422,9 +3422,9 @@
     "slug": "Vespoid-Greaves",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Wirebug Whisperer",
@@ -3661,9 +3661,9 @@
     "slug": "Orangaten-Greaves",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Protective Polish",
@@ -4063,9 +4063,9 @@
     "slug": "Barioth-Greaves-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Partbreaker",
@@ -5381,11 +5381,6 @@
         "name": "Latent Power",
         "level": 2,
         "slug": "Latent-Power"
-      },
-      {
-        "name": "Reload Speed",
-        "level": 1,
-        "slug": "Reload-Speed"
       }
     ],
     "slots": [
@@ -5565,9 +5560,9 @@
         "slug": "Guard-Up"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 2,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Razor Sharp",
@@ -5685,9 +5680,9 @@
         "slug": "Critical-Draw"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -6491,12 +6486,12 @@
     "skills": [
       {
         "name": "Heroics",
-        "level": null,
+        "level": 2,
         "slug": "Heroics"
       },
       {
         "name": "Coalescence",
-        "level": null,
+        "level": 2,
         "slug": "Coalescence"
       }
     ],
@@ -6509,6 +6504,148 @@
     "thunderResistance": 1,
     "iceResistance": 2,
     "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Pride Greaves",
+    "url": "/Pride+Greaves",
+    "type": "legs",
+    "slug": "Pride-Greaves",
+    "skills": [
+      {
+        "name": "Guts",
+        "level": 1,
+        "slug": "Guts"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2,
+        "slug": "Stamina-Surge"
+      },
+      {
+        "name": "Stamina Thief",
+        "level": 3,
+        "slug": "Stamina-Thief"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "baseDefense": 123,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "rank": 2
+  },
+  {
+    "name": "Golden Lunegraves",
+    "url": "/Golden+Lunegraves",
+    "type": "legs",
+    "slug": "Golden-Lunegraves",
+    "skills": [
+      {
+        "name": "Defiance",
+        "level": 3,
+        "slug": "Defiance"
+      },
+      {
+        "name": "Peak Performance",
+        "level": 2,
+        "slug": "Peak-Performance"
+      },
+      {
+        "name": "Recovery Up",
+        "level": 2,
+        "slug": "Recovery-Up"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 120,
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -4,
+    "iceResistance": -1,
+    "dragonResistance": 2,
+    "rank": 2
+  },
+  {
+    "name": "Lambent Gaiters",
+    "url": "/Lambent+Gaiters",
+    "type": "legs",
+    "slug": "Lambent-Gaiters",
+    "skills": [
+      {
+        "name": "Sneak Attack",
+        "level": 1,
+        "slug": "Sneak-Attack"
+      },
+      {
+        "name": "Adrenaline Rush",
+        "level": 1,
+        "slug": "Adrenaline-Rush"
+      },
+      {
+        "name": "Handicraft",
+        "level": 2,
+        "slug": "Handicraft"
+      },
+      {
+        "name": "Ammo Up",
+        "level": 2,
+        "slug": "Ammo-Up"
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": 3,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": -5,
+    "dragonResistance": -2,
+    "rank": 2
+  },
+  {
+    "name": "Silver Solgreaves",
+    "url": "/Silver+Solgreaves",
+    "type": "legs",
+    "slug": "Silver-Solgreaves",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Redirection",
+        "level": 1,
+        "slug": "Redirection"
+      },
+      {
+        "name": "Maximum Might",
+        "level": 2,
+        "slug": "Maximum-Might"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      2
+    ],
+    "baseDefense": 122,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": -3,
+    "iceResistance": -2,
+    "dragonResistance": 3,
     "rank": 2
   }
 ]

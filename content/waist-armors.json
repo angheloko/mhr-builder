@@ -740,7 +740,7 @@
     "slug": "Utsushi-Tassets-(V)",
     "skills": [
       {
-        "name": " Speed Eating",
+        "name": "Speed Eating",
         "level": 1,
         "slug": "Speed-Eating"
       }
@@ -1117,7 +1117,7 @@
     "slug": "Jelly-Coil",
     "skills": [
       {
-        "name": " Partbreaker",
+        "name": "Partbreaker",
         "level": 1,
         "slug": "Partbreaker"
       }
@@ -1493,7 +1493,7 @@
         "slug": "Marathon-Runner"
       },
       {
-        "name": " Peak Performance",
+        "name": "Peak Performance",
         "level": 1,
         "slug": "Peak-Performance"
       }
@@ -3102,9 +3102,9 @@
         "slug": "Handicraft"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -3346,9 +3346,9 @@
     "slug": "Vespoid-Tassets",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Paralysis Resistance",
@@ -3677,9 +3677,9 @@
     "slug": "Aknosom-Coil-X",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Critical Element",
@@ -3854,9 +3854,9 @@
         "slug": "Resentment"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -5114,9 +5114,9 @@
     "slug": "Scholarly-Sash",
     "skills": [
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 3,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Free Meal",
@@ -5464,9 +5464,9 @@
         "slug": "Guard"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       },
       {
         "name": "Offensive Guard",
@@ -5591,9 +5591,9 @@
         "slug": "Punishing-Draw"
       },
       {
-        "name": "Quick Sheath",
+        "name": "Quick Sheathe",
         "level": 1,
-        "slug": "Quick-Sheath"
+        "slug": "Quick-Sheathe"
       }
     ],
     "slots": [
@@ -6356,12 +6356,12 @@
     "skills": [
       {
         "name": "Heroics",
-        "level": null,
+        "level": 2,
         "slug": "Heroics"
       },
       {
         "name": "Offensive Guard",
-        "level": null,
+        "level": 1,
         "slug": "Offensive-Guard"
       }
     ],
@@ -6375,6 +6375,145 @@
     "thunderResistance": 1,
     "iceResistance": 2,
     "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Pride Coil",
+    "url": "/Pride+Coil",
+    "type": "waist",
+    "slug": "Pride-Coil",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 3,
+        "slug": "Latent-Power"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 1,
+        "slug": "Stamina-Surge"
+      },
+      {
+        "name": "Earplugs",
+        "level": 1,
+        "slug": "Earplugs"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "baseDefense": 123,
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "rank": 2
+  },
+  {
+    "name": "Golden Lunecoil",
+    "url": "/Golden+Lunecoil",
+    "type": "waist",
+    "slug": "Golden-Lunecoil",
+    "skills": [
+      {
+        "name": "Status Trigger",
+        "level": 1,
+        "slug": "Status-Trigger"
+      },
+      {
+        "name": "Foray",
+        "level": 1,
+        "slug": "Foray"
+      },
+      {
+        "name": "Evade Window",
+        "level": 2,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      2,
+      3
+    ],
+    "baseDefense": 120,
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -4,
+    "iceResistance": -1,
+    "dragonResistance": 2,
+    "rank": 2
+  },
+  {
+    "name": "Lambent Sash",
+    "url": "/Lambent+Sash",
+    "type": "waist",
+    "slug": "Lambent-Sash",
+    "skills": [
+      {
+        "name": "Sneak Attack",
+        "level": 1,
+        "slug": "Sneak-Attack"
+      },
+      {
+        "name": "Handicraft",
+        "level": 2,
+        "slug": "Handicraft"
+      },
+      {
+        "name": "Spread Up",
+        "level": 2,
+        "slug": "Spread-Up"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": 3,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": -5,
+    "dragonResistance": -2,
+    "rank": 2
+  },
+  {
+    "name": "Silver Solcoil",
+    "url": "/Silver+Solcoil",
+    "type": "waist",
+    "slug": "Silver-Solcoil",
+    "skills": [
+      {
+        "name": "Element Exploit",
+        "level": 1,
+        "slug": "Element-Exploit"
+      },
+      {
+        "name": "Redirection",
+        "level": 1,
+        "slug": "Redirection"
+      },
+      {
+        "name": "Constitution",
+        "level": 3,
+        "slug": "Constitution"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "baseDefense": 122,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": -3,
+    "iceResistance": -2,
+    "dragonResistance": 3,
     "rank": 2
   }
 ]

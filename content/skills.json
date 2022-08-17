@@ -1543,5 +1543,79 @@
       "Further decreases defense and resistance, while further increasing attack and element.",
       "Greatly decreases defense and resistance, while greatly increasing attack and element."
     ]
+  },
+  {
+    "name": "Guts",
+    "slug": "Guts",
+    "url": "/Guts",
+    "description": "Prevents fainting one time only when damage taken exceeds a certain amount of your remaining health.",
+    "level": 3,
+    "levels": [
+      "Activate effect when vitality is 80 or higher.",
+      "Activate effect when vitality is 72 or higher.",
+      "Activate effect when vitality is 64 or higher."
+    ]
+  },
+  {
+    "name": "Status Trigger",
+    "slug": "Status-Trigger",
+    "url": "/Status+Trigger",
+    "description": "Perform a perfectly-timed evade just as a monster attacks to trigger abnormal status buildup on hit.",
+    "level": 3,
+    "levels": [
+      "While active, effect duration is 5 seconds.",
+      "While active, effect duration is 8 seconds.",
+      "While active, effect duration is 12 seconds."
+    ]
+  },
+  {
+    "name": "Defiance",
+    "slug": "Defiance",
+    "url": "/Defiance",
+    "description": "Increases defense when large monsters become enraged.",
+    "level": 5,
+    "levels": [
+      "While active, nullifles weak roars, wind pressure, and tremors.",
+      "While active, nullifles weak roars, wind pressure, and tremors. Reduces all strong ones, def +5",
+      "While active, nullifles weak and strong roars, wind pressure, and tremors, def +10",
+      "While active, nullifles weak and strong roars, wind, and tremors, reduces powerful roars & d.wind, def +20",
+      "While active, nullifles weak, strong and powerful  roars, wind & dragon wind, and tremors, del +30"
+    ]
+  },
+  {
+    "name": "Sneak Attack",
+    "slug": "Sneak-Attack",
+    "url": "/Sneak+Attack",
+    "description": "Increases damage to large monsters when attacks hit them from behind",
+    "level": 3,
+    "levels": [
+      "While active, increases attack power by 5%.",
+      "While active, increases attack power by 10%.",
+      "While active, increases attack power by 12%."
+    ]
+  },
+  {
+    "name": "Adrenaline Rush",
+    "slug": "Adrenaline-Rush",
+    "url": "/Adrenaline+Rush",
+    "description": "Perform a perfectly-timed evade just as a monster attacks for a temporary attack boost.",
+    "level": 3,
+    "levels": [
+      "While active, temporary attack power +10.",
+      "While active, temporary attack power +15.",
+      "While active, temporary attack power +30."
+    ]
+  },
+  {
+    "name": "Elemental Exploit",
+    "slug": "Elemental-Exploit",
+    "url": "/Elemental+Exploit",
+    "description": "Increases elemental damage when attacking body parts upon which the element are highly effective.",
+    "level": 3,
+    "levels": [
+      "Attacks that hit weak spots do +10% elemental damage.",
+      "Attacks that hit weak spots do +12.5% elemental damage.",
+      "Attacks that hit weak spots do +15% elemental damage."
+    ]
   }
 ]
