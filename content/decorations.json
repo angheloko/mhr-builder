@@ -1366,7 +1366,7 @@
     "skill": "Redirection",
     "skillSlug": "Redirection",
     "skillLevel": 1,
-    "level": 4,
+    "level": 3,
     "isRampage": false
   },
   {
@@ -1656,6 +1656,236 @@
     "skill": "Defense Boost",
     "skillSlug": "Defense-Boost",
     "skillLevel": 5,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Sniper Jewel 4",
+    "slug": "Hard-Sniper-Jewel-4",
+    "url": "/Hard+Sniper+Jewel+4",
+    "skill": "Steadiness",
+    "skillSlug": "Steadiness",
+    "skillLevel": 3,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Quickswitch Jewel+ 4",
+    "slug": "Quickswitch-Jewel+-4",
+    "url": "/Quickswitch+Jewel++4",
+    "skill": "Rapid Morph",
+    "skillSlug": "Rapid-Morph",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Magazine Jewel+ 4",
+    "slug": "Magazine-Jewel+-4",
+    "url": "/Magazine+Jewel++4",
+    "skill": "Load Shells",
+    "skillSlug": "Load-Shells",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Trueshot Jewel+ 4",
+    "slug": "Trueshot-Jewel+-4",
+    "url": "/Trueshot+Jewel++4",
+    "skill": "Special Ammo Boost",
+    "skillSlug": "Special-Ammo-Boost",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Artillery Jewel+ 4",
+    "slug": "Artillery-Jewel+-4",
+    "url": "/Artillery+Jewel++4",
+    "skill": "Artillery",
+    "skillSlug": "Artillery",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Charge Jewel 2",
+    "slug": "Charge-Jewel-2",
+    "url": "/Charge+Jewel+2",
+    "skill": "Charge Master",
+    "skillSlug": "Charge-Master",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": false
+  },
+  {
+    "name": "Sheath Jewel+ 4",
+    "slug": "Sheath-Jewel+-4",
+    "url": "/Sheath+Jewel++4",
+    "skill": "Quick Sheathe",
+    "skillSlug": "Quick-Sheathe",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Crisis Jewel+ 4",
+    "slug": "Crisis-Jewel+-4",
+    "url": "/Crisis+Jewel++4",
+    "skill": "Resuscitate",
+    "skillSlug": "Resuscitate",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Cornerstone Jewel 1",
+    "slug": "Cornerstone-Jewel-1",
+    "url": "/Cornerstone+Jewel+1",
+    "skill": "Defiance",
+    "skillSlug": "Defiance",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": false
+  },
+  {
+    "name": "Destroyer Jewel+ 4",
+    "slug": "Destroyer-Jewel+-4",
+    "url": "/Destroyer+Jewel++4",
+    "skill": "Partbreaker",
+    "skillSlug": "Partbreaker",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Counter Jewel+ 4",
+    "slug": "Counter-Jewel+-4",
+    "url": "/Counter+Jewel++4",
+    "skill": "Counterstrike",
+    "skillSlug": "Counterstrike",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Sharp Jewel+ 4",
+    "slug": "Sharp-Jewel+-4",
+    "url": "/Sharp+Jewel++4",
+    "skill": "Protective Polish",
+    "skillSlug": "Protective-Polish",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Venom Jewel 4",
+    "slug": "Hard-Venom-Jewel-4",
+    "url": "/Hard+Venom+Jewel+4",
+    "skill": "Poison Attack",
+    "skillSlug": "Poison-Attack",
+    "skillLevel": 3,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Razor Jewel+ 4",
+    "slug": "Razor-Jewel+-4",
+    "url": "/Razor+Jewel++4",
+    "skill": "Razor Sharp",
+    "skillSlug": "Razor-Sharp",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Foil Jewel 3",
+    "slug": "Foil-Jewel-3",
+    "url": "/Foil+Jewel+3",
+    "skill": "Tune-Up",
+    "skillSlug": "Tune-Up",
+    "skillLevel": 1,
+    "level": 3,
+    "isRampage": false
+  },
+  {
+    "name": "Phoenix Jewl 2",
+    "slug": "Phoenix-Jewl-2",
+    "url": "/Phoenix+Jewl+2",
+    "skill": "Coalescence",
+    "skillSlug": "Coalescence",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": false
+  },
+  {
+    "name": "Spiribird's Call Jewel 1",
+    "slug": "Spiribird's-Call-Jewel-1",
+    "url": "/Spiribird's+Call+Jewel+1",
+    "skill": "Spiribird's Call",
+    "skillSlug": "Spiribird's-Call",
+    "skillLevel": null,
+    "level": 1,
+    "isRampage": false
+  },
+  {
+    "name": "Polisher Pro Jewel 3",
+    "slug": "Polisher-Pro-Jewel-3",
+    "url": "/Polisher+Pro+Jewel+3",
+    "skill": "Grinder (S)",
+    "skillSlug": "Grinder-(S)",
+    "skillLevel": null,
+    "level": 3,
+    "isRampage": false
+  },
+  {
+    "name": "Mastery Jewel +4",
+    "slug": "Mastery-Jewel-+4",
+    "url": "/Mastery+Jewel++4",
+    "skill": "Master's Touch",
+    "skillSlug": "Master's-Touch",
+    "skillLevel": null,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Pep Jewel 4",
+    "slug": "Hard-Pep-Jewel-4",
+    "url": "/Hard+Pep+Jewel+4",
+    "skill": "Sleep Resistance",
+    "skillSlug": "Sleep-Resistance",
+    "skillLevel": null,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Antiblast Jewel 4",
+    "slug": "Hard-Antiblast-Jewel-4",
+    "url": "/Hard+Antiblast+Jewel+4",
+    "skill": "Blast Resistance",
+    "skillSlug": "Blast-Resistance",
+    "skillLevel": 3,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Antipara Jewel 4",
+    "slug": "Hard-Antipara-Jewel-4",
+    "url": "/Hard+Antipara+Jewel+4",
+    "skill": "Paralysis Resistance",
+    "skillSlug": "Paralysis-Resistance",
+    "skillLevel": 3,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Antidote Jewel 4",
+    "slug": "Hard-Antidote-Jewel-4",
+    "url": "/Hard+Antidote+Jewel+4",
+    "skill": "Poison Resistance",
+    "skillSlug": "Poison-Resistance",
+    "skillLevel": null,
     "level": 4,
     "isRampage": false
   },
