@@ -545,7 +545,7 @@
     "url": "/Stream+Jewel+1",
     "skill": "Water Attack",
     "skillSlug": "Water-Attack",
-    "skillLevel": 2,
+    "skillLevel": 1,
     "level": 1,
     "isRampage": false
   },
@@ -555,7 +555,7 @@
     "url": "/Bolt+Jewel+1",
     "skill": "Thunder Attack",
     "skillSlug": "Thunder-Attack",
-    "skillLevel": 2,
+    "skillLevel": 1,
     "level": 1,
     "isRampage": false
   },
@@ -565,7 +565,7 @@
     "url": "/Frost+Jewel+1",
     "skill": "Ice Attack",
     "skillSlug": "Ice-Attack",
-    "skillLevel": 2,
+    "skillLevel": 1,
     "level": 1,
     "isRampage": false
   },
@@ -1165,7 +1165,7 @@
     "url": "/Stream+Jewel++2",
     "skill": "Water Attack",
     "skillSlug": "Water-Attack",
-    "skillLevel": 1,
+    "skillLevel": 2,
     "level": 2,
     "isRampage": false
   },
@@ -1175,7 +1175,7 @@
     "url": "/Bolt+Jewel++2+",
     "skill": "Thunder Attack",
     "skillSlug": "Thunder-Attack",
-    "skillLevel": 1,
+    "skillLevel": 2,
     "level": 2,
     "isRampage": false
   },
@@ -1185,7 +1185,7 @@
     "url": "/Frost+Jewel++2",
     "skill": "Ice Attack",
     "skillSlug": "Ice-Attack",
-    "skillLevel": 1,
+    "skillLevel": 2,
     "level": 2,
     "isRampage": false
   },
