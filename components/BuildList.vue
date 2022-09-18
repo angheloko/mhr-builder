@@ -39,6 +39,14 @@
             <span>Unpin</span>
           </button>
           <button
+            v-if="!readOnly"
+            class="focus:outline-none flex items-center text-sm p-2 space-x-2"
+            @click="menuClickHandler('duplicate')"
+          >
+            <DocumentDuplicateIcon class="h-5 w-5" />
+            <span>Duplicate</span>
+          </button>
+          <button
             v-if="readOnly"
             class="focus:outline-none flex items-center text-sm p-2 space-x-2"
             @click="menuClickHandler('copy')"
@@ -159,6 +167,9 @@
       <div v-if="showSnackbar === snackbarTypes.export">
         Set data copied to clipboard.
       </div>
+      <div v-if="showSnackbar === snackbarTypes.duplicate">
+        Set duplicated.
+      </div>
     </Snackbar>
   </div>
 </template>
@@ -213,7 +224,8 @@ export default {
         copy: 'copy',
         pin: 'pin',
         unpin: 'unpin',
-        export: 'export'
+        export: 'export',
+        duplicate: 'duplicate'
       },
       modalTypes: {
         weapons: 'weapons',
@@ -316,6 +328,9 @@ export default {
           break
         case 'delete':
           this.deleteHandler()
+          break
+        case 'duplicate':
+          this.duplicateHandler()
       }
 
       this.$emit(`click:${menu}`)
@@ -332,6 +347,11 @@ export default {
       const set = JSON.parse(JSON.stringify(this.value))
       this.addSet(set)
       this.showSnackbar = this.snackbarTypes.copy
+    },
+    duplicateHandler () {
+      const set = JSON.parse(JSON.stringify(this.value))
+      this.addSet(set)
+      this.showSnackbar = this.snackbarTypes.duplicate
     },
     shareHandler () {
       const url = createLink(this.value)
