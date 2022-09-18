@@ -5817,5 +5817,28 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Vengeful Fellcleave",
+    "slug": "Vengeful-Fellcleave",
+    "url": "/Vengeful+Fellcleave",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
   }
 ]

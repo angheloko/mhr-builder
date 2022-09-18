@@ -433,8 +433,8 @@
     "name": "Sheath Jewel 2",
     "slug": "Sheath-Jewel-2",
     "url": "/Sheath+Jewel+2",
-    "skill": "Quick Sheath",
-    "skillSlug": "Quick-Sheath",
+    "skill": "Quick Sheathe",
+    "skillSlug": "Quick-Sheathe",
     "skillLevel": 1,
     "level": 2,
     "isRampage": false

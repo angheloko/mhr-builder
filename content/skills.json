@@ -644,8 +644,8 @@
     ]
   },
   {
-    "name": "Quick Sheath",
-    "slug": "Quick-Sheath",
+    "name": "Quick Sheathe",
+    "slug": "Quick-Sheathe",
     "url": "/Quick+Sheath",
     "description": "Speeds up weapon sheathing.",
     "level": 3,
@@ -1500,12 +1500,12 @@
     "name": "Furious",
     "slug": "Furious",
     "url": "/Furious",
-    "description": "Increases affinity if stamina is kept full for a period of time",
+    "description": "Using the Red Scroll builds your fury while fighting monsters. Swapping to the Blue Scroll when your fury is full gives you infinite stamina temporarily.",
     "level": 3,
     "levels": [
-      "While active, increases affinity by 10%",
-      "While active, increases affinity by 20%",
-      "While active, increases affinity by 30%"
+      "Using Red Scroll: Defense+ 10, all Res+ 5; Swap to Blue Scroll: Temporary Infinite Stamina",
+      "Using Red Scroll: Defense+ 20, all Res+ 10; Swap to Blue Scroll: Infinite Stamina Extended",
+      "Using Red Scroll: Defense+ 30, all Res+ 20; Swap to Blue Scroll: Infinite Stamina Extended"
     ]
   },
   {
