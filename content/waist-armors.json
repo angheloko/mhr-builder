@@ -6515,5 +6515,207 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Flaming Espinas Bowels",
+    "url": "/Flaming+Espinas+Bowels",
+    "type": "waist",
+    "slug": "Flaming-Espinas-Bowels",
+    "skills": [
+      {
+        "name": "Charge Master",
+        "level": 2,
+        "slug": "Charge-Master"
+      },
+      {
+        "name": "Marathon Runner",
+        "level": 1,
+        "slug": "Marathon-Runner"
+      },
+      {
+        "name": "Burst",
+        "level": 1,
+        "slug": "Burst"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 3,
+    "waterResistance": -4,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Onmyo Ateobi",
+    "url": "/Onmyo+Ateobi",
+    "type": "waist",
+    "slug": "Onmyo-Ateobi",
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1,
+        "slug": "Embolden"
+      },
+      {
+        "name": "Agitator",
+        "level": 3,
+        "slug": "Agitator"
+      },
+      {
+        "name": "Adrenaline Rush",
+        "level": 1,
+        "slug": "Adrenaline-Rush"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      2
+    ],
+    "baseDefense": 120,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Risen Mizuha Sash",
+    "url": "/Risen+Mizuha+Sash",
+    "type": "waist",
+    "slug": "Risen-Mizuha-Sash",
+    "skills": [
+      {
+        "name": "Wirebug Whisperer",
+        "level": 2,
+        "slug": "Wirebug-Whisperer"
+      },
+      {
+        "name": "Foray",
+        "level": 1,
+        "slug": "Foray"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -5,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Chaotic Faulds",
+    "url": "/Chaotic+Faulds",
+    "type": "waist",
+    "slug": "Chaotic-Faulds",
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1,
+        "slug": "Strife"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "slug": "Critical-Eye"
+      },
+      {
+        "name": "Resentment",
+        "level": 2,
+        "slug": "Resentment"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kushala Cocoon",
+    "url": "/Risen+Kushala+Cocoon",
+    "type": "waist",
+    "slug": "Risen-Kushala-Cocoon",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 2,
+        "slug": "Kushala-Blessing"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Recovery Up",
+        "level": 3,
+        "slug": "Recovery-Up"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 124,
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kaiser Coil",
+    "url": "/Risen+Kaiser+Coil",
+    "type": "waist",
+    "slug": "Risen-Kaiser-Coil",
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1,
+        "slug": "Powder-Mantle"
+      },
+      {
+        "name": "Master's Touch",
+        "level": 2,
+        "slug": "Master's-Touch"
+      },
+      {
+        "name": "Ballistics",
+        "level": 2,
+        "slug": "Ballistics"
+      }
+    ],
+    "slots": [
+      3,
+      4
+    ],
+    "baseDefense": 124,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": -3,
+    "rank": 2
   }
 ]

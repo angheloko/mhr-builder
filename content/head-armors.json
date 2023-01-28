@@ -6923,5 +6923,196 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Flaming Espinas Brain",
+    "url": "/Flaming+Espinas+Brain",
+    "type": "head",
+    "slug": "Flaming-Espinas-Brain",
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 1,
+        "slug": "Razor-Sharp"
+      },
+      {
+        "name": "Spare Shot",
+        "level": 1,
+        "slug": "Spare-Shot"
+      }
+    ],
+    "slots": [
+      2,
+      3
+    ],
+    "baseDefense": 122,
+    "fireResistance": 3,
+    "waterResistance": -4,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Onmyo Toukan",
+    "url": "/Onmyo+Toukan",
+    "type": "head",
+    "slug": "Onmyo-Toukan",
+    "skills": [
+      {
+        "name": "Adrenaline Rush",
+        "level": 1,
+        "slug": "Adrenaline-Rush"
+      },
+      {
+        "name": "Evade Extender",
+        "level": 3,
+        "slug": "Evade-Extender"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 120,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Risen Mizuha Headdress",
+    "url": "/Risen+Mizuha+Headdress",
+    "type": "head",
+    "slug": "Risen-Mizuha-Headdress",
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 3,
+        "slug": "Peak-Performance"
+      },
+      {
+        "name": "Evade Window",
+        "level": 1,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -5,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Chaotic Helm",
+    "url": "/Chaotic+Helm",
+    "type": "head",
+    "slug": "Chaotic-Helm",
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1,
+        "slug": "Strife"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "slug": "Critical-Eye"
+      },
+      {
+        "name": "Elemental Exploit",
+        "level": 1,
+        "slug": "Elemental-Exploit"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 118,
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kushala Glare",
+    "url": "/Risen+Kushala+Glare",
+    "type": "head",
+    "slug": "Risen-Kushala-Glare",
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1,
+        "slug": "Wind-Mantle"
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 3,
+        "slug": "Wirebug-Whisperer"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "baseDefense": 124,
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kaiser Horns",
+    "url": "/Risen+Kaiser+Horns",
+    "type": "head",
+    "slug": "Risen-Kaiser-Horns",
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1,
+        "slug": "Powder-Mantle"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "slug": "Critical-Eye"
+      }
+    ],
+    "slots": [
+      2,
+      3
+    ],
+    "baseDefense": 124,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": -3,
+    "rank": 2
   }
 ]

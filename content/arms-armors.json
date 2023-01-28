@@ -6490,5 +6490,215 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Flaming Espinas Grip",
+    "url": "/Flaming+Espinas+Grip",
+    "type": "arms",
+    "slug": "Flaming-Espinas-Grip",
+    "skills": [
+      {
+        "name": "Intrepid Heart",
+        "level": 1,
+        "slug": "Intrepid-Heart"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2,
+        "slug": "Razor-Sharp"
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2,
+        "slug": "Spare-Shot"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 3,
+    "waterResistance": -4,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Onmyo Tekkou",
+    "url": "/Onmyo+Tekkou",
+    "type": "arms",
+    "slug": "Onmyo-Tekkou",
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1,
+        "slug": "Embolden"
+      },
+      {
+        "name": "Agitator",
+        "level": 2,
+        "slug": "Agitator"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 1,
+        "slug": "Stamina-Surge"
+      }
+    ],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "baseDefense": 120,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Risen Mizuha Sleeves",
+    "url": "/Risen+Mizuha+Sleeves",
+    "type": "arms",
+    "slug": "Risen-Mizuha-Sleeves",
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1,
+        "slug": "Buildup-Boost"
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 1,
+        "slug": "Chameleos-Blessing"
+      },
+      {
+        "name": "Foray",
+        "level": 1,
+        "slug": "Foray"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -5,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Chaotic Vambraces",
+    "url": "/Chaotic+Vambraces",
+    "type": "arms",
+    "slug": "Chaotic-Vambraces",
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1,
+        "slug": "Berserk"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Resentment",
+        "level": 3,
+        "slug": "Resentment"
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kushala Grande",
+    "url": "/Risen+Kushala+Grande",
+    "type": "arms",
+    "slug": "Risen-Kushala-Grande",
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1,
+        "slug": "Wind-Mantle"
+      },
+      {
+        "name": "Burst",
+        "level": 2,
+        "slug": "Burst"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 124,
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kaiser Braces",
+    "url": "/Risen+Kaiser+Braces",
+    "type": "arms",
+    "slug": "Risen-Kaiser-Braces",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 2,
+        "slug": "Teostra-Blessing"
+      },
+      {
+        "name": "Master's Touch",
+        "level": 1,
+        "slug": "Master's-Touch"
+      },
+      {
+        "name": "Ballistics",
+        "level": 1,
+        "slug": "Ballistics"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 1,
+        "slug": "Critical-Eye"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 124,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": -3,
+    "rank": 2
   }
 ]

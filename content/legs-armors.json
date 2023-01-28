@@ -2689,7 +2689,7 @@
     "skills": [
       {
         "name": "Blast Attack",
-        "level": null,
+        "level": 1,
         "slug": "Blast-Attack"
       }
     ],
@@ -5381,6 +5381,11 @@
         "name": "Latent Power",
         "level": 2,
         "slug": "Latent-Power"
+      },
+      {
+        "name": "Reload Speed",
+        "level": 1,
+        "slug": "Reload-Speed"
       }
     ],
     "slots": [
@@ -6646,6 +6651,210 @@
     "thunderResistance": -3,
     "iceResistance": -2,
     "dragonResistance": 3,
+    "rank": 2
+  },
+  {
+    "name": "Flaming Espinas Heel",
+    "url": "/Flaming+Espinas+Heel",
+    "type": "legs",
+    "slug": "Flaming-Espinas-Heel",
+    "skills": [
+      {
+        "name": "Intrepid Heart",
+        "level": 1,
+        "slug": "Intrepid-Heart"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Burst",
+        "level": 2,
+        "slug": "Burst"
+      }
+    ],
+    "slots": [
+      1,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": 3,
+    "waterResistance": -4,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Onmyo Sashiko",
+    "url": "/Onmyo+Sashiko",
+    "type": "legs",
+    "slug": "Onmyo-Sashiko",
+    "skills": [
+      {
+        "name": "Flinch Free",
+        "level": 3,
+        "slug": "Flinch-Free"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Offensive Guard",
+        "level": 2,
+        "slug": "Offensive-Guard"
+      }
+    ],
+    "slots": [
+      4
+    ],
+    "baseDefense": 120,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Risen Mizuha Gaiters",
+    "url": "/Risen+Mizuha+Gaiters",
+    "type": "legs",
+    "slug": "Risen-Mizuha-Gaiters",
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1,
+        "slug": "Buildup-Boost"
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 1,
+        "slug": "Chameleos-Blessing"
+      },
+      {
+        "name": "Evade Window",
+        "level": 2,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -5,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Chaotic Greaves",
+    "url": "/Chaotic+Greaves",
+    "type": "legs",
+    "slug": "Chaotic-Greaves",
+    "skills": [
+      {
+        "name": "Berserk",
+        "level": 1,
+        "slug": "Berserk"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Coalescence",
+        "level": 3,
+        "slug": "Coalescence"
+      }
+    ],
+    "slots": [
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kushala Crus",
+    "url": "/Risen+Kushala+Crus",
+    "type": "legs",
+    "slug": "Risen-Kushala-Crus",
+    "skills": [
+      {
+        "name": "Wind Mantle",
+        "level": 1,
+        "slug": "Wind-Mantle"
+      },
+      {
+        "name": "Burst",
+        "level": 1,
+        "slug": "Burst"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 124,
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kaiser Cuisse",
+    "url": "/Risen+Kaiser+Cuisse",
+    "type": "legs",
+    "slug": "Risen-Kaiser-Cuisse",
+    "skills": [
+      {
+        "name": "Teostra Blessing",
+        "level": 2,
+        "slug": "Teostra-Blessing"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Critical Element",
+        "level": 2,
+        "slug": "Critical-Element"
+      },
+      {
+        "name": "Fire Attack",
+        "level": 2,
+        "slug": "Fire-Attack"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 124,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": -3,
     "rank": 2
   }
 ]

@@ -6813,5 +6813,215 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Flaming Espinas Muscle",
+    "url": "/Flaming+Espinas+Muscle",
+    "type": "chest",
+    "slug": "Flaming-Espinas-Muscle",
+    "skills": [
+      {
+        "name": "Charge Master",
+        "level": 1,
+        "slug": "Charge-Master"
+      },
+      {
+        "name": "Marathon Runner",
+        "level": 2,
+        "slug": "Marathon-Runner"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "baseDefense": 122,
+    "fireResistance": 3,
+    "waterResistance": -4,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Onmyo Kariginu",
+    "url": "/Onmyo+Kariginu",
+    "type": "chest",
+    "slug": "Onmyo-Kariginu",
+    "skills": [
+      {
+        "name": "Embolden",
+        "level": 1,
+        "slug": "Embolden"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2,
+        "slug": "Stamina-Surge"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "baseDefense": 120,
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "rank": 2
+  },
+  {
+    "name": "Risen Mizuha Robes",
+    "url": "/Risen+Mizuha+Robes",
+    "type": "chest",
+    "slug": "Risen-Mizuha-Robes",
+    "skills": [
+      {
+        "name": "Buildup Boost",
+        "level": 1,
+        "slug": "Buildup-Boost"
+      },
+      {
+        "name": "Chameleos Blessing",
+        "level": 2,
+        "slug": "Chameleos-Blessing"
+      },
+      {
+        "name": "Wirebug Whisperer",
+        "level": 1,
+        "slug": "Wirebug-Whisperer"
+      }
+    ],
+    "slots": [
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -5,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Chaotic Mail",
+    "url": "/Chaotic+Mail",
+    "type": "chest",
+    "slug": "Chaotic-Mail",
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 1,
+        "slug": "Strife"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "slug": "Critical-Eye"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "slug": "Critical-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 118,
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kushala Iram",
+    "url": "/Risen+Kushala+Iram",
+    "type": "chest",
+    "slug": "Risen-Kushala-Iram",
+    "skills": [
+      {
+        "name": "Kushala Blessing",
+        "level": 2,
+        "slug": "Kushala-Blessing"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
+      },
+      {
+        "name": "Razor Sharp",
+        "level": 2,
+        "slug": "Razor-Sharp"
+      },
+      {
+        "name": "Spare Shot",
+        "level": 2,
+        "slug": "Spare-Shot"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "baseDefense": 124,
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 3,
+    "dragonResistance": -3,
+    "rank": 2
+  },
+  {
+    "name": "Risen Kaiser Mail",
+    "url": "/Risen+Kaiser+Mail",
+    "type": "chest",
+    "slug": "Risen-Kaiser-Mail",
+    "skills": [
+      {
+        "name": "Powder Mantle",
+        "level": 1,
+        "slug": "Powder-Mantle"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "slug": "Weakness-Exploit"
+      },
+      {
+        "name": "Critical Eye",
+        "level": 3,
+        "slug": "Critical-Eye"
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "baseDefense": 124,
+    "fireResistance": 4,
+    "waterResistance": -4,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": -3,
+    "rank": 2
   }
 ]
