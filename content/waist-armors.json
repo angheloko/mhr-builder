@@ -2124,7 +2124,11 @@
         "slug": "Attack-Boost"
       }
     ],
-    "slots": [],
+    "slots": [
+      2,
+      1,
+      1
+    ],
     "baseDefense": 60,
     "fireResistance": 3,
     "waterResistance": -3,
