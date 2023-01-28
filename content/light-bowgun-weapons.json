@@ -343,9 +343,7 @@
     "affinity": 40,
     "defense": 0,
     "rampSkills": [],
-    "slots": [
-      2
-    ],
+    "slots": [],
     "rampSlots": [
       1
     ]
@@ -360,7 +358,9 @@
     "affinity": 40,
     "defense": 0,
     "rampSkills": [],
-    "slots": [],
+    "slots": [
+      2
+    ],
     "rampSlots": [
       1
     ]
