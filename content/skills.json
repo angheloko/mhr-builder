@@ -120,7 +120,7 @@
     "levels": [
       "Fire resistance +6",
       "Fire resistance +12",
-      "Fire resistance+20 and Defense +10"
+      "Fire resistance+20 and Defense +10"
     ]
   },
   {
@@ -144,7 +144,7 @@
     "levels": [
       "Dragon resistance +6",
       "Dragon resistance +12",
-      "Dragon resistance +20 and Defense +10"
+      "Dragon resistance +20 and Defense +10"
     ]
   },
   {
@@ -312,9 +312,9 @@
     "description": "Increases thunder elemental attack power. (Elemental attack power has a maximum limit.)",
     "level": 5,
     "levels": [
-      "Thunder attack +2",
-      "Thunder attack +3",
-      "Thunder attack +5%, Bonus: +4",
+      "Thunder attack +2",
+      "Thunder attack +3",
+      "Thunder attack +5%, Bonus: +4",
       "Thunder attack +10%, Bonus +4",
       "Thunder attack +20%, Bonus +4"
     ]
@@ -362,7 +362,7 @@
     "description": "Grants protection against blastblight.",
     "level": 3,
     "levels": [
-      "Delays blastblight and reduces blast damage.",
+      "Delays blastblight and reduces blast damage.",
       "Greatly delays blastblight and greatly reduces blast damage.",
       "Prevents blastblight."
     ]
@@ -481,7 +481,7 @@
       "Affinity +5%",
       "Affinity +10%",
       "Affinity +15%",
-      "Level 4: Affinity + 20%",
+      "Affinity + 20%",
       "Affinity + 25%",
       "Affinity + 30%",
       "Affinity + 40%"
@@ -625,8 +625,8 @@
       "Attack +9",
       "Attack +5% Bonus +7",
       "Attack + 6% Bonus +8",
-      "Attack + 8% Bonus  +9",
-      "Level 7: Attack + 10% Bonus +10"
+      "Attack + 8% Bonus +9",
+      "Attack + 10% Bonus +10"
     ]
   },
   {
@@ -800,7 +800,7 @@
     "levels": [
       "+5% attack power when your weapon sharpness gauge is yellow or lower.",
       "+10% attack power when your sharpness gauge is yellow or lower.",
-      "+10% attack power when your sharpness gauge is green or lower."
+      "+10% attack power when your sharpness gauge is green or lower."
     ]
   },
   {
@@ -860,7 +860,7 @@
     "levels": [
       "Poison buildup +5% and Bonus +1",
       "Poison buildup +10% and Bonus +2",
-      "Poison  buildup +20% and Bonus +5"
+      "Poison buildup +20% and Bonus +5"
     ]
   },
   {
@@ -895,7 +895,7 @@
     "level": 3,
     "levels": [
       "Paralysis buildup +5% and Bonus: +1.",
-      "Level 2: Paralysis buildup +10% and Bonus: +2",
+      "Paralysis buildup +10% and Bonus: +2",
       "Paralysis buildup +20% and Bonus: +1"
     ]
   },
@@ -946,10 +946,10 @@
     "level": 5,
     "levels": [
       "Items affect nearby allies with 33% of their efficacy.",
-      "Items affect nearby allies in a wider radius with 33% of their efficacy.",
+      "Items affect nearby allies in a wider radius with 33% of their efficacy.",
       "Items affect nearby allies in a wider radius with 66% of their efficacy.",
       "Items affect nearby allies in a much wider radius with 66% of their efficacy.",
-      "Items affect nearby allies in a much wider radius with full efficacy."
+      "Items affect nearby allies in a much wider radius with full efficacy."
     ]
   },
   {
@@ -973,7 +973,7 @@
     "levels": [
       "Slightly increases eating speed.",
       "Increases eating speed.",
-      "Greatly increases eating speed."
+      "Greatly increases eating speed."
     ]
   },
   {
@@ -997,7 +997,7 @@
     "levels": [
       "Applies a minor chance to stun. Attack power of draw attacks +3",
       "Applies a chance to stun. Attack power of draw attacks +5",
-      "Applies a great chance to stun. Attack power of draw attacks +7"
+      "Applies a great chance to stun. Attack power of draw attacks +7"
     ]
   },
   {
@@ -1160,8 +1160,8 @@
     "level": 3,
     "levels": [
       "Activates 3% of the time.",
-      "Activates 10% of the time.",
-      "Activates 20% of the time."
+      "Activates 10% of the time.",
+      "Activates 20% of the time."
     ]
   },
   {
@@ -1181,7 +1181,7 @@
     "description": "Increases the attack power of Piercing Ammo and Piercing-type arrows",
     "level": 3,
     "levels": [
-      "Slightly increases the power of Piercing Ammo and Piercing-type arrows. (5%)",
+      "Slightly increases the power of Piercing Ammo and Piercing-type arrows. (5%)",
       "Increases the power of Piercing Ammo and Piercing-type arrows. (10%)",
       "Greatly increases the power of Piercing Ammo and Piercing-type arrows. (20%)"
     ]
@@ -1316,7 +1316,7 @@
       "Sometimes increases the effects of Spiribirds.",
       "Also negates minor and major wind pressure.",
       "Also extends the duration of your poison's effect on monsters",
-      "Also negates all wind pressure."
+      "Also negates all wind pressure."
     ]
   },
   {
@@ -1328,8 +1328,8 @@
     "levels": [
       "Water and Ice attack +5%",
       "Water and Ice attack +10%",
-      "Level 3: Also allows recovery to exceed the red portion of the health gauge.",
-      "Level 4: Also nullifies heat damage."
+      "Also allows recovery to exceed the red portion of the health gauge.",
+      "Also nullifies heat damage."
     ]
   },
   {
@@ -1370,16 +1370,6 @@
       "Activates 50% of the time.",
       "Activates 75% of the time.",
       "Activates 100% of the time."
-    ]
-  },
-  {
-    "name": "Wall Runner (Boost)",
-    "slug": "Wall-Runner-(Boost)",
-    "url": "/Wall+Runner+(Boost)",
-    "description": "Wirebug Gauge recovers faster while wall running.",
-    "level": 1,
-    "levels": [
-      "Activate skill effect."
     ]
   },
   {
@@ -1552,8 +1542,8 @@
     "level": 3,
     "levels": [
       "Activate effect when vitality is 80 or higher.",
-      "Activate effect when vitality is 72 or higher.",
-      "Activate effect when vitality is 64 or higher."
+      "Activate effect when vitality is 72 or higher.",
+      "Activate effect when vitality is 64 or higher."
     ]
   },
   {
@@ -1564,8 +1554,8 @@
     "level": 3,
     "levels": [
       "While active, effect duration is 5 seconds.",
-      "While active, effect duration is 8 seconds.",
-      "While active, effect duration is 12 seconds."
+      "While active, effect duration is 8 seconds.",
+      "While active, effect duration is 12 seconds."
     ]
   },
   {
@@ -1579,7 +1569,7 @@
       "While active, nullifles weak roars, wind pressure, and tremors. Reduces all strong ones, def +5",
       "While active, nullifles weak and strong roars, wind pressure, and tremors, def +10",
       "While active, nullifles weak and strong roars, wind, and tremors, reduces powerful roars & d.wind, def +20",
-      "While active, nullifles weak, strong and powerful  roars, wind & dragon wind, and tremors, del +30"
+      "While active, nullifles weak, strong and powerful  roars, wind & dragon wind, and tremors, del +30"
     ]
   },
   {
@@ -1607,15 +1597,119 @@
     ]
   },
   {
-    "name": "Elemental Exploit",
-    "slug": "Elemental-Exploit",
-    "url": "/Elemental+Exploit",
-    "description": "Increases elemental damage when attacking body parts upon which the element are highly effective.",
+    "name": "Buildup Boost",
+    "slug": "Buildup-Boost",
+    "url": "/Buildup+Boost",
+    "description": "Increases attack power when you land attacks that build poison, paralysis, sleep, blast, or exhaust. (Exhaust - ammo/phials/coatings only)",
+    "level": 3,
+    "levels": [
+      "While active, increases attack power by 10%.",
+      "While active, increases attack power by 15%.",
+      "While active, increases attack power by 20%."
+    ]
+  },
+  {
+    "name": "Burst",
+    "slug": "Burst",
+    "url": "/Burst",
+    "description": "Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)",
+    "level": 3,
+    "levels": [
+      "Upon attack hit, temp attack +5, element +5; hit 5 successive times for an extra stat boost.",
+      "Upon attack hit, temp attack +5, element +5; hit 5 successive times for an even bigger stat boost.",
+      "Upon attack hit, temp attack +5, element +5; hit 5 successive times for a huge stat boost."
+    ]
+  },
+  {
+    "name": "Element Exploit",
+    "slug": "Element-Exploit",
+    "url": "/Element+Exploit",
+    "description": "Increase elemental damage when attacking body parts upon which the element is highly effective.",
     "level": 3,
     "levels": [
       "Attacks that hit weak spots do +10% elemental damage.",
       "Attacks that hit weak spots do +12.5% elemental damage.",
       "Attacks that hit weak spots do +15% elemental damage."
+    ]
+  },
+  {
+    "name": "Embolden",
+    "slug": "Embolden",
+    "url": "/Embolden",
+    "description": "When targeted by a monster, that monster becomes more likely to become enraged but your own defense is increased.",
+    "level": 3,
+    "levels": [
+      "While active, defense +10, slightly prolongs dodging invincibility and slightly lowers impact when guarding. (Equivalent to Lv. 1 in Evade Window and Guard)",
+      "While active, defense +20, slightly prolongs dodging invincibility and slightly lowers impact when guarding. (Equivalent to Lv. 3 in Evade Window and Guard)",
+      "While active, defense +40, slightly prolongs dodging invincibility and slightly lowers impact when guarding. (Equivalent to Lv. 5 in Evade Window and Guard)"
+    ]
+  },
+  {
+    "name": "Intrepid Heart",
+    "slug": "Intrepid-Heart",
+    "url": "/Intrepid+Heart",
+    "description": "After filling the gauge by continuously landing attacks, negates damage reactions and reduces damage taken from a single attack that would knock you back.",
+    "level": 2,
+    "levels": [
+      "Activate effect.",
+      "When activated, damage received is further reduced and will detonate an explosion."
+    ]
+  },
+  {
+    "name": "Wall-Runner (Boost)",
+    "slug": "Wall-Runner-(Boost)",
+    "url": "/Wall-Runner+(Boost)",
+    "description": "Wirebug Gauge recovers faster while wall running.",
+    "level": 1,
+    "levels": [
+      "Activate Effect."
+    ]
+  },
+  {
+    "name": "Powder Mantle",
+    "slug": "Powder-Mantle",
+    "url": "/Powder+Mantle",
+    "description": "Continuously attacking a large monster will cause powder to form around you. The color and effects of the powder will change over time.",
+    "level": 3,
+    "levels": [
+      "Get sent flying when wreathed in red powder and you'll receive explosive damage. Attack when in blue for an explosive finish.",
+      "Reduces required hit count.",
+      "Further reduces required hit count."
+    ]
+  },
+  {
+    "name": "Wind Mantle",
+    "slug": "Wind-Mantle",
+    "url": "/Wind+Mantle",
+    "description": "Using Silkbind attacks boosts Wirebug Gauge recovery. Landing continuous attacks increases the effect. Wears off when you sheathe your weapon.",
+    "level": 3,
+    "levels": [
+      "Activate Effect",
+      "Boosts recovery speed.",
+      "Further boosts recovery speed."
+    ]
+  },
+  {
+    "name": "Strife",
+    "slug": "Strife",
+    "url": "/Strife",
+    "description": "Increases elemental attack and affinity in proportion to the length of your red health gauge.",
+    "level": 3,
+    "levels": [
+      "Lv 1: Increases attack power in accordance to gauge length.",
+      "Lv 2: Further increases attack power in accordance to gauge length.",
+      "Lv 3: Further increases attack power in accordance with gauge length. Max out attack for an infinite stamina effect."
+    ]
+  },
+  {
+    "name": "Berserk",
+    "slug": "Berserk",
+    "url": "/Berserk",
+    "description": "Switch to the Blue Swap Scroll and all vitality will change to red gauge and start decreasing. As long as you have red you cannot faint.",
+    "level": 2,
+    "levels": [
+      "Activate Effect",
+      "Slows the speed at which your red gauge depletes when using the Blue Swap Scroll."
     ]
   }
 ]
