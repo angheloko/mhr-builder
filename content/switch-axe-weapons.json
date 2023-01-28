@@ -1,5 +1,90 @@
 [
   {
+    "name": "Defender Switch Axe I",
+    "slug": "Defender-Switch-Axe-I",
+    "url": "/Defender+Switch+Axe+I",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Switch Axe",
+    "slug": "Champion-Switch-Axe",
+    "url": "/Champion+Switch+Axe",
+    "type": "switch_axe",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Switch Axe II",
+    "slug": "Champion-Switch-Axe-II",
+    "url": "/Champion+Switch+Axe+II",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Switch Axe III",
+    "slug": "Champion-Switch-Axe-III",
+    "url": "/Champion+Switch+Axe+III",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Switch Axe",
+    "slug": "Guardian-Switch-Axe",
+    "url": "/Guardian+Switch+Axe",
+    "type": "switch_axe",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Kamura Iron Axe I",
     "slug": "Kamura-Iron-Axe-I",
     "url": "/Kamura+Iron+Axe+I",
@@ -107,6 +192,104 @@
     "rampSlots": []
   },
   {
+    "name": "Kamura Warrior Battleaxe",
+    "slug": "Kamura-Warrior-Battleaxe",
+    "url": "/Kamura+Warrior+Battleaxe",
+    "type": "switch_axe",
+    "attack": 250,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Battleaxe +",
+    "slug": "Kamura-Warrior-Battleaxe-+",
+    "url": "/Kamura+Warrior+Battleaxe++",
+    "type": "switch_axe",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Battleaxe",
+    "slug": "Fine-Kamura-Battleaxe",
+    "url": "/Fine+Kamura+Battleaxe",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke's Axe",
+    "slug": "Duke's-Axe",
+    "url": "/Duke's+Axe",
+    "type": "switch_axe",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Fracturing Falter",
+    "slug": "Fracturing-Falter",
+    "url": "/Fracturing+Falter",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
     "name": "Fond Farewell I",
     "slug": "Fond-Farewell-I",
     "url": "/Fond+Farewell+I",
@@ -175,6 +358,96 @@
       1
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Parting Slice +",
+    "slug": "Parting-Slice-+",
+    "url": "/Parting+Slice++",
+    "type": "switch_axe",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leave-Taker",
+    "slug": "Leave-Taker",
+    "url": "/Leave-Taker",
+    "type": "switch_axe",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 41
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Leave-Taker +",
+    "slug": "Leave-Taker-+",
+    "url": "/Leave-Taker++",
+    "type": "switch_axe",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 43
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Pure Switch Axe Mikado",
+    "slug": "Pure-Switch-Axe-Mikado",
+    "url": "/Pure+Switch+Axe+Mikado",
+    "type": "switch_axe",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
   },
   {
     "name": "Rath Flamesplitter I",
@@ -271,6 +544,74 @@
     "rampSlots": []
   },
   {
+    "name": "Rath Blaze Splitter +",
+    "slug": "Rath-Blaze-Splitter-+",
+    "url": "/Rath+Blaze+Splitter++",
+    "type": "switch_axe",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "High Rubillion",
+    "slug": "High-Rubillion",
+    "url": "/High+Rubillion",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Rathsplicer",
+    "slug": "Rathsplicer",
+    "url": "/Rathsplicer",
+    "type": "switch_axe",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 62
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Wheel Axe I",
     "slug": "Wheel-Axe-I",
     "url": "/Wheel+Axe+I",
@@ -324,6 +665,132 @@
       3
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Axe of Righteousness",
+    "slug": "Axe-of-Righteousness",
+    "url": "/Axe+of+Righteousness",
+    "type": "switch_axe",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Axe of Righteousness +",
+    "slug": "Axe-of-Righteousness-+",
+    "url": "/Axe+of+Righteousness++",
+    "type": "switch_axe",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Battleaxe of Kings",
+    "slug": "Battleaxe-of-Kings",
+    "url": "/Battleaxe+of+Kings",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Axe of Glory",
+    "slug": "Axe-of-Glory",
+    "url": "/Axe+of+Glory",
+    "type": "switch_axe",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Axe of Glory +",
+    "slug": "Axe-of-Glory-+",
+    "url": "/Axe+of+Glory++",
+    "type": "switch_axe",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Axe of Virtue",
+    "slug": "Axe-of-Virtue",
+    "url": "/Axe+of+Virtue",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
   },
   {
     "name": "Delex Sail I",
@@ -395,6 +862,52 @@
     "rampSlots": []
   },
   {
+    "name": "Delex Cleaver +",
+    "slug": "Delex-Cleaver-+",
+    "url": "/Delex+Cleaver++",
+    "type": "switch_axe",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Delex Hatchet",
+    "slug": "Delex-Hatchet",
+    "url": "/Delex+Hatchet",
+    "type": "switch_axe",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Khezu Axe I",
     "slug": "Khezu-Axe-I",
     "url": "/Khezu+Axe+I",
@@ -464,6 +977,75 @@
     "rampSlots": []
   },
   {
+    "name": "Khezu Cleaver +",
+    "slug": "Khezu-Cleaver-+",
+    "url": "/Khezu+Cleaver++",
+    "type": "switch_axe",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Fullmark",
+    "slug": "Fullmark",
+    "url": "/Fullmark",
+    "type": "switch_axe",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Fullmark +",
+    "slug": "Fullmark-+",
+    "url": "/Fullmark++",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 55
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Arzuros Axe I",
     "slug": "Arzuros-Axe-I",
     "url": "/Arzuros+Axe+I",
@@ -515,6 +1097,40 @@
       2
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Arzuros Revelax +",
+    "slug": "Arzuros-Revelax-+",
+    "url": "/Arzuros+Revelax++",
+    "type": "switch_axe",
+    "attack": 250,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Arzuros Jubilax",
+    "slug": "Arzuros-Jubilax",
+    "url": "/Arzuros+Jubilax",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
   },
   {
     "name": "Amber Slash I",
@@ -607,6 +1223,72 @@
       2
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Amber Snapfrost",
+    "slug": "Amber-Snapfrost",
+    "url": "/Amber+Snapfrost",
+    "type": "switch_axe",
+    "attack": 260,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 39
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Amber Snapfrost +",
+    "slug": "Amber-Snapfrost-+",
+    "url": "/Amber+Snapfrost++",
+    "type": "switch_axe",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 40
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Amber Permafrost",
+    "slug": "Amber-Permafrost",
+    "url": "/Amber+Permafrost",
+    "type": "switch_axe",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 41
+      }
+    ],
+    "affinity": 30,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
   },
   {
     "name": "Proto Iron Axe I",
@@ -715,2851 +1397,12 @@
     "rampSlots": []
   },
   {
-    "name": "Limus Os I",
-    "slug": "Limus-Os-I",
-    "url": "/Limus+Os+I",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 17
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Water Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Limus Os II",
-    "slug": "Limus-Os-II",
-    "url": "/Limus+Os+II",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 21
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Water Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Luto Ascia",
-    "slug": "Luto-Ascia",
-    "url": "/Luto+Ascia",
-    "type": "switch_axe",
-    "attack": 230,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 25
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Water Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Dragonmaiden Axe I",
-    "slug": "Dragonmaiden-Axe-I",
-    "url": "/Dragonmaiden+Axe+I",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 19
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Poison Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Dragonmaiden Axe II",
-    "slug": "Dragonmaiden-Axe-II",
-    "url": "/Dragonmaiden+Axe+II",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 22
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Poison Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Grior's Landmaker",
-    "slug": "Grior's-Landmaker",
-    "url": "/Grior's+Landmaker",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Poison Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "General's Strongaxe I",
-    "slug": "General's-Strongaxe-I",
-    "url": "/General's+Strongaxe+I",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Boost Equipped Coating",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "General's Strongaxe II",
-    "slug": "General's-Strongaxe-II",
-    "url": "/General's+Strongaxe+II",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Boost Equipped Coating",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Conqueress",
-    "slug": "Conqueress",
-    "url": "/Conqueress",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Boost Equipped Coating",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "The Shredder I",
-    "slug": "The-Shredder-I",
-    "url": "/The+Shredder+I",
-    "type": "switch_axe",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Attack Boost I",
-      "Thunder Boost I",
-      "Master Rider"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "The Shredder II",
-    "slug": "The-Shredder-II",
-    "url": "/The+Shredder+II",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Attack Boost I",
-      "Thunder Boost II",
-      "Master Rider"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "The Power Shredder",
-    "slug": "The-Power-Shredder",
-    "url": "/The+Power+Shredder",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost III",
-      "Master Rider"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Ash Drache I",
-    "slug": "Ash-Drache-I",
-    "url": "/Ash+Drache+I",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 19
-      }
-    ],
-    "affinity": 5,
-    "defense": 5,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Dragon Boost I"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Ash Drache II",
-    "slug": "Ash-Drache-II",
-    "url": "/Ash+Drache+II",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 21
-      }
-    ],
-    "affinity": 5,
-    "defense": 5,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Dragon Boost I"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fall Drache",
-    "slug": "Fall-Drache",
-    "url": "/Fall+Drache",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 22
-      }
-    ],
-    "affinity": 5,
-    "defense": 5,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost II",
-      "Dragon Boost II"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Almudron Axe I",
-    "slug": "Almudron-Axe-I",
-    "url": "/Almudron+Axe+I",
-    "type": "switch_axe",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 31
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Water Boost I",
-      "Element Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Almudron Axe II",
-    "slug": "Almudron-Axe-II",
-    "url": "/Almudron+Axe+II",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 36
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost I",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Doom Bringer Axe",
-    "slug": "Doom-Bringer-Axe",
-    "url": "/Doom+Bringer+Axe",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 42
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost II",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Axenosom I",
-    "slug": "Axenosom-I",
-    "url": "/Axenosom+I",
-    "type": "switch_axe",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Fireblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Axenosom II",
-    "slug": "Axenosom-II",
-    "url": "/Axenosom+II",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Fireblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Axenosom III",
-    "slug": "Axenosom-III",
-    "url": "/Axenosom+III",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 21
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost I",
-      "Fireblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Daybreak Silvaris",
-    "slug": "Daybreak-Silvaris",
-    "url": "/Daybreak+Silvaris",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 26
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost II",
-      "Fireblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Assault Axe I",
-    "slug": "Assault-Axe-I",
-    "url": "/Assault+Axe+I",
-    "type": "switch_axe",
-    "attack": 120,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Assault Axe II",
-    "slug": "Assault-Axe-II",
-    "url": "/Assault+Axe+II",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Blitzkrieg",
-    "slug": "Blitzkrieg",
-    "url": "/Blitzkrieg",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Snowfall Axe I",
-    "slug": "Snowfall-Axe-I",
-    "url": "/Snowfall+Axe+I",
-    "type": "switch_axe",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Sleep Boost I",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Snowfall Axe II",
-    "slug": "Snowfall-Axe-II",
-    "url": "/Snowfall+Axe+II",
-    "type": "switch_axe",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Sleep Boost I",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Snowfall Axe III",
-    "slug": "Snowfall-Axe-III",
-    "url": "/Snowfall+Axe+III",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Sleep Boost II",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Dewdrop Dream",
-    "slug": "Dewdrop-Dream",
-    "url": "/Dewdrop+Dream",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 22
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Sleep Boost II",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Axe I",
-    "slug": "Bone-Axe-I",
-    "url": "/Bone+Axe+I",
-    "type": "switch_axe",
-    "attack": 80,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Axe II",
-    "slug": "Bone-Axe-II",
-    "url": "/Bone+Axe+II",
-    "type": "switch_axe",
-    "attack": 100,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Daidalos Axe",
-    "slug": "Daidalos-Axe",
-    "url": "/Daidalos+Axe",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Power Gasher I",
-    "slug": "Power-Gasher-I",
-    "url": "/Power+Gasher+I",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Power Gasher II",
-    "slug": "Power-Gasher-II",
-    "url": "/Power+Gasher+II",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Maximal Gasher",
-    "slug": "Maximal-Gasher",
-    "url": "/Maximal+Gasher",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Flammenbeil I",
-    "slug": "Flammenbeil-I",
-    "url": "/Flammenbeil+I",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 14
-      }
-    ],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Flammenbeil II",
-    "slug": "Flammenbeil-II",
-    "url": "/Flammenbeil+II",
-    "type": "switch_axe",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 17
-      }
-    ],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Gnashing Flammenbeil",
-    "slug": "Gnashing-Flammenbeil",
-    "url": "/Gnashing+Flammenbeil",
-    "type": "switch_axe",
-    "attack": 230,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 20
-      }
-    ],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Fire Boost III",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rex Slasher I",
-    "slug": "Rex-Slasher-I",
-    "url": "/Rex+Slasher+I",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rex Slasher II",
-    "slug": "Rex-Slasher-II",
-    "url": "/Rex+Slasher+II",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rex Gnasher",
-    "slug": "Rex-Gnasher",
-    "url": "/Rex+Gnasher",
-    "type": "switch_axe",
-    "attack": 220,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Axe Semper Tyrannis I",
-    "slug": "Axe-Semper-Tyrannis-I",
-    "url": "/Axe+Semper+Tyrannis+I",
-    "type": "switch_axe",
-    "attack": 220,
-    "element": [],
-    "affinity": -15,
-    "defense": 15,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Axe Semper Tyrannis II",
-    "slug": "Axe-Semper-Tyrannis-II",
-    "url": "/Axe+Semper+Tyrannis+II",
-    "type": "switch_axe",
-    "attack": 230,
-    "element": [],
-    "affinity": -15,
-    "defense": 15,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Grand Chaos",
-    "slug": "Grand-Chaos",
-    "url": "/Grand+Chaos",
-    "type": "switch_axe",
-    "attack": 240,
-    "element": [],
-    "affinity": -15,
-    "defense": 15,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Venom Hatchet I",
-    "slug": "Venom-Hatchet-I",
-    "url": "/Venom+Hatchet+I",
-    "type": "switch_axe",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Poison Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Venom Hatchet II",
-    "slug": "Venom-Hatchet-II",
-    "url": "/Venom+Hatchet+II",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 34
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Poison Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Mortal Serpent",
-    "slug": "Mortal-Serpent",
-    "url": "/Mortal+Serpent",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 40
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Poison Boost I",
-      "Coating Switch Boost"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Axe I",
-    "slug": "Hidden-Axe-I",
-    "url": "/Hidden+Axe+I",
-    "type": "switch_axe",
-    "attack": 100,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Boost Equipped Coating"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Axe II",
-    "slug": "Hidden-Axe-II",
-    "url": "/Hidden+Axe+II",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost I",
-      "Boost Equipped Coating"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Night's Crescent",
-    "slug": "Night's-Crescent",
-    "url": "/Night's+Crescent",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Boost Equipped Coating"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Binding Roller I",
-    "slug": "Binding-Roller-I",
-    "url": "/Binding+Roller+I",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 10
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Binding Roller II",
-    "slug": "Binding-Roller-II",
-    "url": "/Binding+Roller+II",
-    "type": "switch_axe",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 11
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Binding Roller III",
-    "slug": "Binding-Roller-III",
-    "url": "/Binding+Roller+III",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vermilingua",
-    "slug": "Vermilingua",
-    "url": "/Vermilingua",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Defense Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Axe I",
-    "slug": "Ludroth-Axe-I",
-    "url": "/Ludroth+Axe+I",
-    "type": "switch_axe",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Water Boost I",
-      "Waterblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Axe II",
-    "slug": "Ludroth-Axe-II",
-    "url": "/Ludroth+Axe+II",
-    "type": "switch_axe",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 26
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Water Boost I",
-      "Waterblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Splish Splax",
-    "slug": "Splish-Splax",
-    "url": "/Splish+Splax",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 33
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost",
-      "Water Boost II",
-      "Waterblight Exploit"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Usurper's Downpour I",
-    "slug": "Usurper's-Downpour-I",
-    "url": "/Usurper's+Downpour+I",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Thunder Boost I",
-      "Anti-aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Usurper's Downpour II",
-    "slug": "Usurper's-Downpour-II",
-    "url": "/Usurper's+Downpour+II",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 28
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost I",
-      "Anti-aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Despot's Cloudburst",
-    "slug": "Despot's-Cloudburst",
-    "url": "/Despot's+Cloudburst",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost II",
-      "Anti-aquatic Species"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Longear Axe I",
-    "slug": "Longear-Axe-I",
-    "url": "/Longear+Axe+I",
-    "type": "switch_axe",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Ice Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Longear Axe II",
-    "slug": "Longear-Axe-II",
-    "url": "/Longear+Axe+II",
-    "type": "switch_axe",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Ice Boost II",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Longear Axe III",
-    "slug": "Longear-Axe-III",
-    "url": "/Longear+Axe+III",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Ice Boost II",
-      "Small Monster Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Longear Weiss",
-    "slug": "Longear-Weiss",
-    "url": "/Longear+Weiss",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Ice Boost II",
-      "Coating Switch Boost"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Axe I",
-    "slug": "Sinister-Axe-I",
-    "url": "/Sinister+Axe+I",
-    "type": "switch_axe",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Axe II",
-    "slug": "Sinister-Axe-II",
-    "url": "/Sinister+Axe+II",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Shadowslice",
-    "slug": "Sinister-Shadowslice",
-    "url": "/Sinister+Shadowslice",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost II",
-      "Magnamalo Soul"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Undying Axe I",
-    "slug": "Undying-Axe-I",
-    "url": "/Undying+Axe+I",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 16
-      }
-    ],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Thunder Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Undying Axe II",
-    "slug": "Undying-Axe-II",
-    "url": "/Undying+Axe+II",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 20
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Thunder Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Axe I",
-    "slug": "Azure-Elder-Axe-I",
-    "url": "/Azure+Elder+Axe+I",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 9
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Axe II",
-    "slug": "Azure-Elder-Axe-II",
-    "url": "/Azure+Elder+Axe+II",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 11
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Thunderbolt Axe I",
-    "slug": "Thunderbolt-Axe-I",
-    "url": "/Thunderbolt+Axe+I",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rookslayer Axe I",
-    "slug": "Rookslayer-Axe-I",
-    "url": "/Rookslayer+Axe+I",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 13
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rookslayer Axe II",
-    "slug": "Rookslayer-Axe-II",
-    "url": "/Rookslayer+Axe+II",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 15
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Bazelrush Rookslayer",
-    "slug": "Bazelrush-Rookslayer",
-    "url": "/Bazelrush+Rookslayer",
-    "type": "switch_axe",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 17
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Blast Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Daora's Farasa I",
-    "slug": "Daora's-Farasa-I",
-    "url": "/Daora's+Farasa+I",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 39
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Teostra's Arx I",
-    "slug": "Teostra's-Arx-I",
-    "url": "/Teostra's+Arx+I",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 31
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fireblight Exploit",
-      "Teostra Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Waxglare Wand I",
-    "slug": "Waxglare-Wand-I",
-    "url": "/Waxglare+Wand+I",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost II",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Origami Axe I",
-    "slug": "Origami-Axe-I",
-    "url": "/Origami+Axe+I",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Coating Switch Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Origami Axe II",
-    "slug": "Origami-Axe-II",
-    "url": "/Origami+Axe+II",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Coating Switch Boost"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Petal Cloud",
-    "slug": "Petal-Cloud",
-    "url": "/Petal+Cloud",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost IV",
-      "Coating Switch Boost"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Grim Cat I",
-    "slug": "Grim-Cat-I",
-    "url": "/Grim+Cat+I",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Paralysis Boost I"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Grim Cat II",
-    "slug": "Grim-Cat-II",
-    "url": "/Grim+Cat+II",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost II",
-      "Paralysis Boost I"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Grimmige Katze",
-    "slug": "Grimmige-Katze",
-    "url": "/Grimmige+Katze",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Paralysis Boost I"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Infernal Axe I",
-    "slug": "Infernal-Axe-I",
-    "url": "/Infernal+Axe+I",
-    "type": "switch_axe",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Dragon Boost I",
-      "Dragon Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Infernal Axe II",
-    "slug": "Infernal-Axe-II",
-    "url": "/Infernal+Axe+II",
-    "type": "switch_axe",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Dragon Boost I",
-      "Dragon Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Hellish Edge",
-    "slug": "Hellish-Edge",
-    "url": "/Hellish+Edge",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Dragon Boost II",
-      "Dragon Exploit"
-    ],
-    "slots": [
-      2,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sleepy Shellslice I",
-    "slug": "Sleepy-Shellslice-I",
-    "url": "/Sleepy+Shellslice+I",
-    "type": "switch_axe",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 14
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost I",
-      "Sleep Boost I",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sleepy Shellslice II",
-    "slug": "Sleepy-Shellslice-II",
-    "url": "/Sleepy+Shellslice+II",
-    "type": "switch_axe",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost II",
-      "Sleep Boost I",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Schale Batis",
-    "slug": "Schale-Batis",
-    "url": "/Schale+Batis",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": null
-      }
-    ],
-    "affinity": 0,
-    "defense": 20,
-    "rampSkills": [
-      "Defense Boost III",
-      "Sleep Boost II",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer I",
-    "slug": "Rampage-Slicer-I",
-    "url": "/Rampage+Slicer+I",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer II",
-    "slug": "Rampage-Slicer-II",
-    "url": "/Rampage+Slicer+II",
-    "type": "switch_axe",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer III",
-    "slug": "Rampage-Slicer-III",
-    "url": "/Rampage+Slicer+III",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer IV",
-    "slug": "Rampage-Slicer-IV",
-    "url": "/Rampage+Slicer+IV",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer V",
-    "slug": "Rampage-Slicer-V",
-    "url": "/Rampage+Slicer+IV",
-    "type": "switch_axe",
-    "attack": 200,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Redwing Switch Axe I",
-    "slug": "Redwing-Switch-Axe-I",
-    "url": "/Redwing+Switch+Axe+I",
-    "type": "switch_axe",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Gale Axe",
-    "slug": "Abyssal-Gale-Axe",
-    "url": "/Abyssal+Gale+Axe",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 14
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost IV",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Storm Axe",
-    "slug": "Abyssal-Storm-Axe",
-    "url": "/Abyssal+Storm+Axe",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 43
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Balor's Mirage",
-    "slug": "Balor's-Mirage",
-    "url": "/Balor's+Mirage",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 28
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost III",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Daora's Janah",
-    "slug": "Daora's-Janah",
-    "url": "/Daora's+Janah",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 41
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost III",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Undying Light",
-    "slug": "Undying-Light",
-    "url": "/Undying+Light",
-    "type": "switch_axe",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 22
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Thunder Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Teostra's Castle",
-    "slug": "Teostra's-Castle",
-    "url": "/Teostra's+Castle",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 36
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Fireblight Exploit",
-      "Teostra Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Reddnaught Dunat",
-    "slug": "Reddnaught-Dunat",
-    "url": "/Reddnaught+Dunat",
-    "type": "switch_axe",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 37
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Slicer S",
-    "slug": "Rampage-Slicer-S",
-    "url": "/Rampage+Slicer+S",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Defender Switch Axe I",
-    "slug": "Defender-Switch-Axe-I",
-    "url": "/Defender+Switch+Axe+I",
-    "type": "switch_axe",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Switch Axe",
-    "slug": "Champion-Switch-Axe",
-    "url": "/Champion+Switch+Axe",
-    "type": "switch_axe",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Switch Axe II",
-    "slug": "Champion-Switch-Axe-II",
-    "url": "/Champion+Switch+Axe+II",
-    "type": "switch_axe",
-    "attack": 190,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Switch Axe III",
-    "slug": "Champion-Switch-Axe-III",
-    "url": "/Champion+Switch+Axe+III",
-    "type": "switch_axe",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Guardian Switch Axe",
-    "slug": "Guardian-Switch-Axe",
-    "url": "/Guardian+Switch+Axe",
-    "type": "switch_axe",
-    "attack": 230,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kamura Warrior Battleaxe",
-    "slug": "Kamura-Warrior-Battleaxe",
-    "url": "/Kamura+Warrior+Battleaxe",
-    "type": "switch_axe",
-    "attack": 250,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Kamura Warrior Battleaxe +",
-    "slug": "Kamura-Warrior-Battleaxe-+",
-    "url": "/Kamura+Warrior+Battleaxe++",
-    "type": "switch_axe",
-    "attack": 290,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Fine Kamura Battleaxe",
-    "slug": "Fine-Kamura-Battleaxe",
-    "url": "/Fine+Kamura+Battleaxe",
-    "type": "switch_axe",
-    "attack": 330,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Duke's Axe",
-    "slug": "Duke's-Axe",
-    "url": "/Duke's+Axe",
-    "type": "switch_axe",
-    "attack": 320,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      4
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Parting Slice +",
-    "slug": "Parting-Slice-+",
-    "url": "/Parting+Slice++",
-    "type": "switch_axe",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 40
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Leave-Taker",
-    "slug": "Leave-Taker",
-    "url": "/Leave-Taker",
-    "type": "switch_axe",
-    "attack": 310,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 41
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Leave-Taker +",
-    "slug": "Leave-Taker-+",
-    "url": "/Leave-Taker++",
-    "type": "switch_axe",
-    "attack": 320,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 43
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Rath Blaze Splitter +",
-    "slug": "Rath-Blaze-Splitter-+",
-    "url": "/Rath+Blaze+Splitter++",
-    "type": "switch_axe",
-    "attack": 310,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 42
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "High Rubillion",
-    "slug": "High-Rubillion",
-    "url": "/High+Rubillion",
-    "type": "switch_axe",
-    "attack": 330,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 47
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Axe of Righteousness",
-    "slug": "Axe-of-Righteousness",
-    "url": "/Axe+of+Righteousness",
-    "type": "switch_axe",
-    "attack": 260,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      3
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Axe of Righteousness +",
-    "slug": "Axe-of-Righteousness-+",
-    "url": "/Axe+of+Righteousness++",
-    "type": "switch_axe",
-    "attack": 290,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      3
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Battleaxe of Kings",
-    "slug": "Battleaxe-of-Kings",
-    "url": "/Battleaxe+of+Kings",
-    "type": "switch_axe",
-    "attack": 330,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      3
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Axe of Glory",
-    "slug": "Axe-of-Glory",
-    "url": "/Axe+of+Glory",
-    "type": "switch_axe",
-    "attack": 260,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 30
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Axe of Glory +",
-    "slug": "Axe-of-Glory-+",
-    "url": "/Axe+of+Glory++",
-    "type": "switch_axe",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 33
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Axe of Virtue",
-    "slug": "Axe-of-Virtue",
-    "url": "/Axe+of+Virtue",
-    "type": "switch_axe",
-    "attack": 340,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 38
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Delex Cleaver +",
-    "slug": "Delex-Cleaver-+",
-    "url": "/Delex+Cleaver++",
-    "type": "switch_axe",
-    "attack": 250,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Delex Hatchet",
-    "slug": "Delex-Hatchet",
-    "url": "/Delex+Hatchet",
-    "type": "switch_axe",
-    "attack": 350,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Khezu Cleaver +",
-    "slug": "Khezu-Cleaver-+",
-    "url": "/Khezu+Cleaver++",
-    "type": "switch_axe",
-    "attack": 260,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 46
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Fullmark",
-    "slug": "Fullmark",
-    "url": "/Fullmark",
-    "type": "switch_axe",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 48
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Fullmark +",
-    "slug": "Fullmark-+",
-    "url": "/Fullmark++",
-    "type": "switch_axe",
-    "attack": 330,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 55
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Arzuros Revelax +",
-    "slug": "Arzuros-Revelax-+",
-    "url": "/Arzuros+Revelax++",
-    "type": "switch_axe",
-    "attack": 250,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Arzuros Jubilax",
-    "slug": "Arzuros-Jubilax",
-    "url": "/Arzuros+Jubilax",
-    "type": "switch_axe",
-    "attack": 340,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Amber Snapfrost",
-    "slug": "Amber-Snapfrost",
-    "url": "/Amber+Snapfrost",
-    "type": "switch_axe",
-    "attack": 260,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 39
-      }
-    ],
-    "affinity": 30,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Amber Snapfrost +",
-    "slug": "Amber-Snapfrost-+",
-    "url": "/Amber+Snapfrost++",
-    "type": "switch_axe",
-    "attack": 280,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 40
-      }
-    ],
-    "affinity": 30,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Amber Permafrost",
-    "slug": "Amber-Permafrost",
-    "url": "/Amber+Permafrost",
-    "type": "switch_axe",
-    "attack": 310,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 41
-      }
-    ],
-    "affinity": 30,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
     "name": "Czar Switch Axe II",
     "slug": "Czar-Switch-Axe-II",
     "url": "/Czar+Switch+Axe+II",
     "type": "switch_axe",
     "attack": 240,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 23
-      }
-    ],
+    "element": [],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
@@ -3576,12 +1419,7 @@
     "url": "/Czar+Switch+Axe+III",
     "type": "switch_axe",
     "attack": 290,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 24
-      }
-    ],
+    "element": [],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
@@ -3598,12 +1436,7 @@
     "url": "/Valor+Switch+Axe",
     "type": "switch_axe",
     "attack": 330,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 25
-      }
-    ],
+    "element": [],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
@@ -3684,6 +1517,72 @@
     ]
   },
   {
+    "name": "Limus Os I",
+    "slug": "Limus-Os-I",
+    "url": "/Limus+Os+I",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 17
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Limus Os II",
+    "slug": "Limus-Os-II",
+    "url": "/Limus+Os+II",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 21
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Water Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Luto Ascia",
+    "slug": "Luto-Ascia",
+    "url": "/Luto+Ascia",
+    "type": "switch_axe",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 25
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Water Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Luto Ascia +",
     "slug": "Luto-Ascia-+",
     "url": "/Luto+Ascia++",
@@ -3744,6 +1643,72 @@
     ]
   },
   {
+    "name": "Dragonmaiden Axe I",
+    "slug": "Dragonmaiden-Axe-I",
+    "url": "/Dragonmaiden+Axe+I",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Dragonmaiden Axe II",
+    "slug": "Dragonmaiden-Axe-II",
+    "url": "/Dragonmaiden+Axe+II",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Grior's Landmaker",
+    "slug": "Grior's-Landmaker",
+    "url": "/Grior's+Landmaker",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Grior's Landmaker +",
     "slug": "Grior's-Landmaker-+",
     "url": "/Grior's+Landmaker++",
@@ -3792,13 +1757,35 @@
     "element": [
       {
         "type": "Poison",
-        "attack": 45
+        "attack": 41
       }
     ],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
     "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Golden Crescent",
+    "slug": "Golden-Crescent",
+    "url": "/Golden+Crescent",
+    "type": "switch_axe",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
     "rampSlots": [
       2
     ]
@@ -3870,6 +1857,93 @@
     ]
   },
   {
+    "name": "Kaktusprion",
+    "slug": "Kaktusprion",
+    "url": "/Kaktusprion",
+    "type": "switch_axe",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 49
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "General's Strongaxe I",
+    "slug": "General's-Strongaxe-I",
+    "url": "/General's+Strongaxe+I",
+    "type": "switch_axe",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Boost Equipped Coating",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "General's Strongaxe II",
+    "slug": "General's-Strongaxe-II",
+    "url": "/General's+Strongaxe+II",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Boost Equipped Coating",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Conqueress",
+    "slug": "Conqueress",
+    "url": "/Conqueress",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Boost Equipped Coating",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Conqueress II",
     "slug": "Conqueress-II",
     "url": "/Conqueress+II",
@@ -3925,6 +1999,74 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "The Shredder I",
+    "slug": "The-Shredder-I",
+    "url": "/The+Shredder+I",
+    "type": "switch_axe",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "The Shredder II",
+    "slug": "The-Shredder-II",
+    "url": "/The+Shredder+II",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost II",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "The Power Shredder",
+    "slug": "The-Power-Shredder",
+    "url": "/The+Power+Shredder",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost III",
+      "Master Rider"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "The Power Shredder +",
@@ -4059,6 +2201,78 @@
     ]
   },
   {
+    "name": "Ash Drache I",
+    "slug": "Ash-Drache-I",
+    "url": "/Ash+Drache+I",
+    "type": "switch_axe",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 19
+      }
+    ],
+    "affinity": 5,
+    "defense": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dragon Boost I"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Ash Drache II",
+    "slug": "Ash-Drache-II",
+    "url": "/Ash+Drache+II",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 21
+      }
+    ],
+    "affinity": 5,
+    "defense": 5,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dragon Boost I"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fall Drache",
+    "slug": "Fall-Drache",
+    "url": "/Fall+Drache",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 22
+      }
+    ],
+    "affinity": 5,
+    "defense": 5,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Dragon Boost II"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Fall Drache +",
     "slug": "Fall-Drache-+",
     "url": "/Fall+Drache++",
@@ -4124,6 +2338,78 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Almudron Axe I",
+    "slug": "Almudron-Axe-I",
+    "url": "/Almudron+Axe+I",
+    "type": "switch_axe",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Almudron Axe II",
+    "slug": "Almudron-Axe-II",
+    "url": "/Almudron+Axe+II",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Doom Bringer Axe",
+    "slug": "Doom-Bringer-Axe",
+    "url": "/Doom+Bringer+Axe",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Night Bringer Axe",
@@ -4261,6 +2547,98 @@
     ]
   },
   {
+    "name": "Axenosom I",
+    "slug": "Axenosom-I",
+    "url": "/Axenosom+I",
+    "type": "switch_axe",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Axenosom II",
+    "slug": "Axenosom-II",
+    "url": "/Axenosom+II",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Axenosom III",
+    "slug": "Axenosom-III",
+    "url": "/Axenosom+III",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Daybreak Silvaris",
+    "slug": "Daybreak-Silvaris",
+    "url": "/Daybreak+Silvaris",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Lunadawn Sirja",
     "slug": "Lunadawn-Sirja",
     "url": "/Lunadawn+Sirja",
@@ -4330,6 +2708,57 @@
     ]
   },
   {
+    "name": "Assault Axe I",
+    "slug": "Assault-Axe-I",
+    "url": "/Assault+Axe+I",
+    "type": "switch_axe",
+    "attack": 120,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Assault Axe II",
+    "slug": "Assault-Axe-II",
+    "url": "/Assault+Axe+II",
+    "type": "switch_axe",
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Blitzkrieg",
+    "slug": "Blitzkrieg",
+    "url": "/Blitzkrieg",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Battlebuster",
     "slug": "Battlebuster",
     "url": "/Battlebuster",
@@ -4366,13 +2795,107 @@
     "type": "switch_axe",
     "attack": 350,
     "element": [],
-    "affinity": -15,
+    "affinity": -20,
     "defense": 0,
     "rampSkills": [],
     "slots": [],
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Snowfall Axe I",
+    "slug": "Snowfall-Axe-I",
+    "url": "/Snowfall+Axe+I",
+    "type": "switch_axe",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Snowfall Axe II",
+    "slug": "Snowfall-Axe-II",
+    "url": "/Snowfall+Axe+II",
+    "type": "switch_axe",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Snowfall Axe III",
+    "slug": "Snowfall-Axe-III",
+    "url": "/Snowfall+Axe+III",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Dewdrop Dream",
+    "slug": "Dewdrop-Dream",
+    "url": "/Dewdrop+Dream",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Dewdrop Dream +",
@@ -4419,6 +2942,108 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bone Axe I",
+    "slug": "Bone-Axe-I",
+    "url": "/Bone+Axe+I",
+    "type": "switch_axe",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Axe II",
+    "slug": "Bone-Axe-II",
+    "url": "/Bone+Axe+II",
+    "type": "switch_axe",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Daidalos Axe",
+    "slug": "Daidalos-Axe",
+    "url": "/Daidalos+Axe",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Power Gasher I",
+    "slug": "Power-Gasher-I",
+    "url": "/Power+Gasher+I",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Power Gasher II",
+    "slug": "Power-Gasher-II",
+    "url": "/Power+Gasher+II",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Maximal Gasher",
+    "slug": "Maximal-Gasher",
+    "url": "/Maximal+Gasher",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Maximal Gasher +",
@@ -4592,6 +3217,81 @@
     ]
   },
   {
+    "name": "Flammenbeil I",
+    "slug": "Flammenbeil-I",
+    "url": "/Flammenbeil+I",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 14
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenbeil II",
+    "slug": "Flammenbeil-II",
+    "url": "/Flammenbeil+II",
+    "type": "switch_axe",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Gnashing Flammenbeil",
+    "slug": "Gnashing-Flammenbeil",
+    "url": "/Gnashing+Flammenbeil",
+    "type": "switch_axe",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Gnashing Flammenbeil +",
     "slug": "Gnashing-Flammenbeil-+",
     "url": "/Gnashing+Flammenbeil++",
@@ -4661,6 +3361,57 @@
     ]
   },
   {
+    "name": "Rex Slasher I",
+    "slug": "Rex-Slasher-I",
+    "url": "/Rex+Slasher+I",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rex Slasher II",
+    "slug": "Rex-Slasher-II",
+    "url": "/Rex+Slasher+II",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rex Gnasher",
+    "slug": "Rex-Gnasher",
+    "url": "/Rex+Gnasher",
+    "type": "switch_axe",
+    "attack": 220,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Rex Gnasher +",
     "slug": "Rex-Gnasher-+",
     "url": "/Rex+Gnasher++",
@@ -4704,6 +3455,63 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Axe Semper Tyrannis I",
+    "slug": "Axe-Semper-Tyrannis-I",
+    "url": "/Axe+Semper+Tyrannis+I",
+    "type": "switch_axe",
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Axe Semper Tyrannis II",
+    "slug": "Axe-Semper-Tyrannis-II",
+    "url": "/Axe+Semper+Tyrannis+II",
+    "type": "switch_axe",
+    "attack": 230,
+    "element": [],
+    "affinity": -15,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Grand Chaos",
+    "slug": "Grand-Chaos",
+    "url": "/Grand+Chaos",
+    "type": "switch_axe",
+    "attack": 240,
+    "element": [],
+    "affinity": -15,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Grand Chaos +",
@@ -4757,6 +3565,74 @@
     ]
   },
   {
+    "name": "Venom Hatchet I",
+    "slug": "Venom-Hatchet-I",
+    "url": "/Venom+Hatchet+I",
+    "type": "switch_axe",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Poison Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Venom Hatchet II",
+    "slug": "Venom-Hatchet-II",
+    "url": "/Venom+Hatchet+II",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Poison Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Mortal Serpent",
+    "slug": "Mortal-Serpent",
+    "url": "/Mortal+Serpent",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Poison Boost I",
+      "Coating Switch Boost"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Mortal Serpent +",
     "slug": "Mortal-Serpent-+",
     "url": "/Mortal+Serpent++",
@@ -4802,6 +3678,61 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Hidden Axe I",
+    "slug": "Hidden-Axe-I",
+    "url": "/Hidden+Axe+I",
+    "type": "switch_axe",
+    "attack": 100,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Boost Equipped Coating"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Axe II",
+    "slug": "Hidden-Axe-II",
+    "url": "/Hidden+Axe+II",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Boost Equipped Coating"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Night's Crescent",
+    "slug": "Night's-Crescent",
+    "url": "/Night's+Crescent",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Boost Equipped Coating"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Crescent Moon",
@@ -4855,6 +3786,117 @@
     ]
   },
   {
+    "name": "Mizar's Asterism",
+    "slug": "Mizar's-Asterism",
+    "url": "/Mizar's+Asterism",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Binding Roller I",
+    "slug": "Binding-Roller-I",
+    "url": "/Binding+Roller+I",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Binding Roller II",
+    "slug": "Binding-Roller-II",
+    "url": "/Binding+Roller+II",
+    "type": "switch_axe",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Binding Roller III",
+    "slug": "Binding-Roller-III",
+    "url": "/Binding+Roller+III",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vermilingua",
+    "slug": "Vermilingua",
+    "url": "/Vermilingua",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Vermilingua +",
     "slug": "Vermilingua-+",
     "url": "/Vermilingua++",
@@ -4899,7 +3941,7 @@
     "slug": "Vermilion-Bloodaxe-+",
     "url": "/Vermilion+Bloodaxe++",
     "type": "switch_axe",
-    "attack": 330,
+    "attack": 320,
     "element": [
       {
         "type": "Paralysis",
@@ -4913,6 +3955,76 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Ludroth Axe I",
+    "slug": "Ludroth-Axe-I",
+    "url": "/Ludroth+Axe+I",
+    "type": "switch_axe",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ludroth Axe II",
+    "slug": "Ludroth-Axe-II",
+    "url": "/Ludroth+Axe+II",
+    "type": "switch_axe",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Splish Splax",
+    "slug": "Splish-Splax",
+    "url": "/Splish+Splax",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Splish Splax +",
@@ -5044,6 +4156,75 @@
     ]
   },
   {
+    "name": "Usurper's Downpour I",
+    "slug": "Usurper's-Downpour-I",
+    "url": "/Usurper's+Downpour+I",
+    "type": "switch_axe",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Downpour II",
+    "slug": "Usurper's-Downpour-II",
+    "url": "/Usurper's+Downpour+II",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Despot's Cloudburst",
+    "slug": "Despot's-Cloudburst",
+    "url": "/Despot's+Cloudburst",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Despot's Cloudburst +",
     "slug": "Despot's-Cloudburst-+",
     "url": "/Despot's+Cloudburst++",
@@ -5090,6 +4271,100 @@
     ]
   },
   {
+    "name": "Longear Axe I",
+    "slug": "Longear-Axe-I",
+    "url": "/Longear+Axe+I",
+    "type": "switch_axe",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Longear Axe II",
+    "slug": "Longear-Axe-II",
+    "url": "/Longear+Axe+II",
+    "type": "switch_axe",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Longear Axe III",
+    "slug": "Longear-Axe-III",
+    "url": "/Longear+Axe+III",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Longear Weiss",
+    "slug": "Longear-Weiss",
+    "url": "/Longear+Weiss",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Coating Switch Boost"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Longear Weiss +",
     "slug": "Longear-Weiss-+",
     "url": "/Longear+Weiss++",
@@ -5117,7 +4392,7 @@
     "slug": "Splitear-Weiss",
     "url": "/Splitear+Weiss",
     "type": "switch_axe",
-    "attack": 330,
+    "attack": 300,
     "element": [
       {
         "type": "Ice",
@@ -5134,6 +4409,75 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Sinister Axe I",
+    "slug": "Sinister-Axe-I",
+    "url": "/Sinister+Axe+I",
+    "type": "switch_axe",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Axe II",
+    "slug": "Sinister-Axe-II",
+    "url": "/Sinister+Axe+II",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Shadowslice",
+    "slug": "Sinister-Shadowslice",
+    "url": "/Sinister+Shadowslice",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Sinister Shadowslice +",
@@ -5176,6 +4520,29 @@
     "slots": [
       1,
       2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Vengeful Fellcleave",
+    "slug": "Vengeful-Fellcleave",
+    "url": "/Vengeful+Fellcleave",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      3
     ],
     "rampSlots": [
       2
@@ -5288,6 +4655,76 @@
     ]
   },
   {
+    "name": "Undying Axe I",
+    "slug": "Undying-Axe-I",
+    "url": "/Undying+Axe+I",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Undying Axe II",
+    "slug": "Undying-Axe-II",
+    "url": "/Undying+Axe+II",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Undying Light",
+    "slug": "Undying-Light",
+    "url": "/Undying+Light",
+    "type": "switch_axe",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 22
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Undying Light +",
     "slug": "Undying-Light-+",
     "url": "/Undying+Light++",
@@ -5355,6 +4792,72 @@
     ]
   },
   {
+    "name": "Azure Elder Axe I",
+    "slug": "Azure-Elder-Axe-I",
+    "url": "/Azure+Elder+Axe+I",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Axe II",
+    "slug": "Azure-Elder-Axe-II",
+    "url": "/Azure+Elder+Axe+II",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Axe",
+    "slug": "Abyssal-Gale-Axe",
+    "url": "/Abyssal+Gale+Axe",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Skyfall",
     "slug": "Skyfall",
     "url": "/Skyfall",
@@ -5373,6 +4876,50 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Thunderbolt Axe I",
+    "slug": "Thunderbolt-Axe-I",
+    "url": "/Thunderbolt+Axe+I",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Axe",
+    "slug": "Abyssal-Storm-Axe",
+    "url": "/Abyssal+Storm+Axe",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 43
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Thunderclap",
@@ -5395,6 +4942,78 @@
     ]
   },
   {
+    "name": "Rookslayer Axe I",
+    "slug": "Rookslayer-Axe-I",
+    "url": "/Rookslayer+Axe+I",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rookslayer Axe II",
+    "slug": "Rookslayer-Axe-II",
+    "url": "/Rookslayer+Axe+II",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bazelrush Rookslayer",
+    "slug": "Bazelrush-Rookslayer",
+    "url": "/Bazelrush+Rookslayer",
+    "type": "switch_axe",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 17
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Bazelava Rookslayer",
     "slug": "Bazelava-Rookslayer",
     "url": "/Bazelava+Rookslayer",
@@ -5415,6 +5034,76 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bazelheart",
+    "slug": "Bazelheart",
+    "url": "/Bazelheart",
+    "type": "switch_axe",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 23
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daora's Farasa I",
+    "slug": "Daora's-Farasa-I",
+    "url": "/Daora's+Farasa+I",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 39
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Janah",
+    "slug": "Daora's-Janah",
+    "url": "/Daora's+Janah",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Daora's Janah +",
@@ -5461,6 +5150,54 @@
     ]
   },
   {
+    "name": "Teostra's Arx I",
+    "slug": "Teostra's-Arx-I",
+    "url": "/Teostra's+Arx+I",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Teostra's Castle",
+    "slug": "Teostra's-Castle",
+    "url": "/Teostra's+Castle",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Teostra's Castle +",
     "slug": "Teostra's-Castle-+",
     "url": "/Teostra's+Castle++",
@@ -5503,6 +5240,56 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Waxglare Wand I",
+    "slug": "Waxglare-Wand-I",
+    "url": "/Waxglare+Wand+I",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost II",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Balor's Mirage",
+    "slug": "Balor's-Mirage",
+    "url": "/Balor's+Mirage",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Balor's Mirage +",
@@ -5551,6 +5338,54 @@
     ]
   },
   {
+    "name": "Redwing Switch Axe I",
+    "slug": "Redwing-Switch-Axe-I",
+    "url": "/Redwing+Switch+Axe+I",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Dunat",
+    "slug": "Reddnaught-Dunat",
+    "url": "/Reddnaught+Dunat",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Wing of Sanctity",
     "slug": "Wing-of-Sanctity",
     "url": "/Wing+of+Sanctity",
@@ -5593,6 +5428,63 @@
     ]
   },
   {
+    "name": "Origami Axe I",
+    "slug": "Origami-Axe-I",
+    "url": "/Origami+Axe+I",
+    "type": "switch_axe",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Coating Switch Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Origami Axe II",
+    "slug": "Origami-Axe-II",
+    "url": "/Origami+Axe+II",
+    "type": "switch_axe",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Coating Switch Boost"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Petal Cloud",
+    "slug": "Petal-Cloud",
+    "url": "/Petal+Cloud",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost IV",
+      "Coating Switch Boost"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Blossom Fall",
     "slug": "Blossom-Fall",
     "url": "/Blossom+Fall",
@@ -5629,6 +5521,81 @@
     ]
   },
   {
+    "name": "Grim Cat I",
+    "slug": "Grim-Cat-I",
+    "url": "/Grim+Cat+I",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Paralysis Boost I"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Grim Cat II",
+    "slug": "Grim-Cat-II",
+    "url": "/Grim+Cat+II",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Paralysis Boost I"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Grimmige Katze",
+    "slug": "Grimmige-Katze",
+    "url": "/Grimmige+Katze",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Paralysis Boost I"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Grimmige Katze +",
     "slug": "Grimmige-Katze-+",
     "url": "/Grimmige+Katze++",
@@ -5656,7 +5623,7 @@
     "slug": "Felyne-Fatality",
     "url": "/Felyne+Fatality",
     "type": "switch_axe",
-    "attack": null,
+    "attack": 340,
     "element": [
       {
         "type": "Paralysis",
@@ -5673,6 +5640,75 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Infernal Axe I",
+    "slug": "Infernal-Axe-I",
+    "url": "/Infernal+Axe+I",
+    "type": "switch_axe",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Infernal Axe II",
+    "slug": "Infernal-Axe-II",
+    "url": "/Infernal+Axe+II",
+    "type": "switch_axe",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dragon Boost I",
+      "Dragon Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hellish Edge",
+    "slug": "Hellish-Edge",
+    "url": "/Hellish+Edge",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost II",
+      "Dragon Exploit"
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Hellish Edge +",
@@ -5719,6 +5755,74 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Sleepy Shellslice I",
+    "slug": "Sleepy-Shellslice-I",
+    "url": "/Sleepy+Shellslice+I",
+    "type": "switch_axe",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sleepy Shellslice II",
+    "slug": "Sleepy-Shellslice-II",
+    "url": "/Sleepy+Shellslice+II",
+    "type": "switch_axe",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost II",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Schale Batis",
+    "slug": "Schale-Batis",
+    "url": "/Schale+Batis",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": null
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost III",
+      "Sleep Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Schale Batis +",
@@ -5819,26 +5923,81 @@
     ]
   },
   {
-    "name": "Vengeful Fellcleave",
-    "slug": "Vengeful-Fellcleave",
-    "url": "/Vengeful+Fellcleave",
+    "name": "Rampage Slicer I",
+    "slug": "Rampage-Slicer-I",
+    "url": "/Rampage+Slicer+I",
     "type": "switch_axe",
-    "attack": 340,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 27
-      }
-    ],
+    "attack": 150,
+    "element": [],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
-    "slots": [
-      2,
-      3
-    ],
-    "rampSlots": [
-      2
-    ]
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Slicer II",
+    "slug": "Rampage-Slicer-II",
+    "url": "/Rampage+Slicer+II",
+    "type": "switch_axe",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Slicer III",
+    "slug": "Rampage-Slicer-III",
+    "url": "/Rampage+Slicer+III",
+    "type": "switch_axe",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Slicer IV",
+    "slug": "Rampage-Slicer-IV",
+    "url": "/Rampage+Slicer+IV",
+    "type": "switch_axe",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Slicer V",
+    "slug": "Rampage-Slicer-V",
+    "url": "/Rampage+Slicer+IV",
+    "type": "switch_axe",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Slicer S",
+    "slug": "Rampage-Slicer-S",
+    "url": "/Rampage+Slicer+S",
+    "type": "switch_axe",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
   }
 ]

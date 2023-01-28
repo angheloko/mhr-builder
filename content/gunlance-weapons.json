@@ -1,5 +1,90 @@
 [
   {
+    "name": "Defender Gunlance I",
+    "slug": "Defender-Gunlance-I",
+    "url": "/Defender+Gunlance+I",
+    "type": "gunlance",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Gunlance",
+    "slug": "Champion-Gunlance",
+    "url": "/Champion+Gunlance",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Gunlance II",
+    "slug": "Champion-Gunlance-II",
+    "url": "/Champion+Gunlance+II",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Gunlance III",
+    "slug": "Champion-Gunlance-III",
+    "url": "/Champion+Gunlance+III",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Gunlance",
+    "slug": "Guardian-Gunlance",
+    "url": "/Guardian+Gunlance",
+    "type": "gunlance",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Kamura Gunlance I",
     "slug": "Kamura-Gunlance-I",
     "url": "/Kamura+Gunlance+I",
@@ -107,6 +192,104 @@
     "rampSlots": []
   },
   {
+    "name": "Kamura Warrior Gunlance",
+    "slug": "Kamura-Warrior-Gunlance",
+    "url": "/Kamura+Warrior+Gunlance",
+    "type": "gunlance",
+    "attack": 250,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Gunlance +",
+    "slug": "Kamura-Warrior-Gunlance-+",
+    "url": "/Kamura+Warrior+Gunlance++",
+    "type": "gunlance",
+    "attack": 290,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Gunlance",
+    "slug": "Fine-Kamura-Gunlance",
+    "url": "/Fine+Kamura+Gunlance",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke's Bayonet",
+    "slug": "Duke's-Bayonet",
+    "url": "/Duke's+Bayonet",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": " Dragon",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Scorched Schleien",
+    "slug": "Scorched-Schleien",
+    "url": "/Scorched+Schleien",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [
+      {
+        "type": " Dragon",
+        "attack": 36
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
     "name": "Ukiyo no Yamiwo I",
     "slug": "Ukiyo-no-Yamiwo-I",
     "url": "/Ukiyo+no+Yamiwo+I",
@@ -177,6 +360,96 @@
     "rampSlots": []
   },
   {
+    "name": "Mizumori +",
+    "slug": "Mizumori-+",
+    "url": "/Mizumori++",
+    "type": "gunlance",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Harae no Toboshi",
+    "slug": "Harae-no-Toboshi",
+    "url": "/Harae+no+Toboshi",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 37
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Harae no Toboshi +",
+    "slug": "Harae-no-Toboshi-+",
+    "url": "/Harae+no+Toboshi++",
+    "type": "gunlance",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Pure Gunlance Izuna",
+    "slug": "Pure-Gunlance-Izuna",
+    "url": "/Pure+Gunlance+Izuna",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
     "name": "Princess Panoply I",
     "slug": "Princess-Panoply-I",
     "url": "/Princess+Panoply+I",
@@ -241,6 +514,178 @@
     ],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ortlinde +",
+    "slug": "Ortlinde-+",
+    "url": "/Ortlinde++",
+    "type": "gunlance",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Great Ortlinde",
+    "slug": "Great-Ortlinde",
+    "url": "/Great+Ortlinde",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Great Ortlinde +",
+    "slug": "Great-Ortlinde-+",
+    "url": "/Great+Ortlinde++",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Queen's Panoply",
+    "slug": "Queen's-Panoply",
+    "url": "/Queen's+Panoply",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 48
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Rosenkanone",
+    "slug": "Rosenkanone",
+    "url": "/Rosenkanone",
+    "type": "gunlance",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 16
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rosenkanone +",
+    "slug": "Rosenkanone-+",
+    "url": "/Rosenkanone++",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 20
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Rosenherrlich",
+    "slug": "Rosenherrlich",
+    "url": "/Rosenherrlich",
+    "type": "gunlance",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Kaktus Herrlich",
+    "slug": "Kaktus-Herrlich",
+    "url": "/Kaktus+Herrlich",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 51
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   },
   {
     "name": "Red Rook I",
@@ -309,6 +754,68 @@
     "rampSlots": []
   },
   {
+    "name": "Crimson Rook +",
+    "slug": "Crimson-Rook-+",
+    "url": "/Crimson+Rook++",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 44
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Etince Chariot--",
+    "slug": "Etince-Chariot",
+    "url": "/Etince+Chariot",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 47
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Rook",
+    "slug": "Silver-Rook",
+    "url": "/Silver+Rook",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 61
+      }
+    ],
+    "affinity": 35,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Delex Harpoon I",
     "slug": "Delex-Harpoon-I",
     "url": "/Delex+Harpoon+I",
@@ -375,6 +882,50 @@
       3
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Sand Blaster Gunlance +",
+    "slug": "Sand-Blaster-Gunlance-+",
+    "url": "/Sand+Blaster+Gunlance++",
+    "type": "gunlance",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Sandspear",
+    "slug": "Sandspear",
+    "url": "/Sandspear",
+    "type": "gunlance",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
   },
   {
     "name": "Usurper's Roar I",
@@ -449,6 +1000,52 @@
     "rampSlots": []
   },
   {
+    "name": "Despot's Phlogiston +",
+    "slug": "Despot's-Phlogiston-+",
+    "url": "/Despot's+Phlogiston++",
+    "type": "gunlance",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Oppressor's Skyfall",
+    "slug": "Oppressor's-Skyfall",
+    "url": "/Oppressor's+Skyfall",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Twinfang I",
     "slug": "Twinfang-I",
     "url": "/Twinfang+I",
@@ -519,6 +1116,75 @@
       1
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Amberift",
+    "slug": "Amberift",
+    "url": "/Amberift",
+    "type": "gunlance",
+    "attack": 250,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 31
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Amberift +",
+    "slug": "Amberift-+",
+    "url": "/Amberift++",
+    "type": "gunlance",
+    "attack": 270,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 37
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Amber Pike Ne'erthaw",
+    "slug": "Amber-Pike-Ne'erthaw",
+    "url": "/Amber+Pike+Ne'erthaw",
+    "type": "gunlance",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 45
+      }
+    ],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": [
+      2
+    ]
   },
   {
     "name": "Iron Gunlance I",
@@ -625,2823 +1291,6 @@
       1
     ],
     "rampSlots": []
-  },
-  {
-    "name": "General's Arbalance I",
-    "slug": "General's-Arbalance-I",
-    "url": "/General's+Arbalance+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dragon Exploit",
-      "Wyrmstake Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "General's Arbalance II",
-    "slug": "General's-Arbalance-II",
-    "url": "/General's+Arbalance+II",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dragon Exploit",
-      "Wyrmstake Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Admiralls Arbalance",
-    "slug": "Admiralls-Arbalance",
-    "url": "/Admiralls+Arbalance",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Dragon Exploit",
-      "Wyrmstake Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Pukei Gunlance I",
-    "slug": "Pukei-Gunlance-I",
-    "url": "/Pukei+Gunlance+I",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 34
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Poison Boost II"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Pukei Gunlance II",
-    "slug": "Pukei-Gunlance-II",
-    "url": "/Pukei+Gunlance+II",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 30
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost II",
-      "Poison Boost II"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Datura Gunlance",
-    "slug": "Datura-Gunlance",
-    "url": "/Datura+Gunlance",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 45
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Defense Boost III",
-      "Poison Boost III"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Diablos Gunlance I",
-    "slug": "Diablos-Gunlance-I",
-    "url": "/Diablos+Gunlance+I",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [],
-    "affinity": -10,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Diablos Gunlance II",
-    "slug": "Diablos-Gunlance-II",
-    "url": "/Diablos+Gunlance+II",
-    "type": "gunlance",
-    "attack": 240,
-    "element": [],
-    "affinity": -10,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Diablos Cannon",
-    "slug": "Diablos-Cannon",
-    "url": "/Diablos+Cannon",
-    "type": "gunlance",
-    "attack": 250,
-    "element": [],
-    "affinity": -10,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Aknosom Gunlance I",
-    "slug": "Aknosom-Gunlance-I",
-    "url": "/Aknosom+Gunlance+I",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Fireblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Aknosom Gunlance II",
-    "slug": "Aknosom-Gunlance-II",
-    "url": "/Aknosom+Gunlance+II",
-    "type": "gunlance",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Fireblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Aknosom Gunlance III",
-    "slug": "Aknosom-Gunlance-III",
-    "url": "/Aknosom+Gunlance+III",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost II",
-      "Fireblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Dawnbreaker Gunlance",
-    "slug": "Dawnbreaker-Gunlance",
-    "url": "/Dawnbreaker+Gunlance",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 29
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost II",
-      "Fireblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Almudron Gunlance I",
-    "slug": "Almudron-Gunlance-I",
-    "url": "/Almudron+Gunlance+I",
-    "type": "gunlance",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 40
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Water Boost I",
-      "Element Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Almudron Gunlance II",
-    "slug": "Almudron-Gunlance-II",
-    "url": "/Almudron+Gunlance+II",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost I",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Doombringer Gunlance",
-    "slug": "Doombringer-Gunlance",
-    "url": "/Doombringer+Gunlance",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 46
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost II",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Full Voltage I",
-    "slug": "Full-Voltage-I",
-    "url": "/Full+Voltage+I",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 13
-      }
-    ],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Thunder Boost I",
-      "Thunderblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Full Voltage II",
-    "slug": "Full-Voltage-II",
-    "url": "/Full+Voltage+II",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 15
-      }
-    ],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Thunder Boost I",
-      "Thunderblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "High Volt Gunlance",
-    "slug": "High-Volt-Gunlance",
-    "url": "/High+Volt+Gunlance",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Thunder Boost II",
-      "Thunderblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Shattershot I",
-    "slug": "Shattershot-I",
-    "url": "/Shattershot+I",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 24
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Shattershot II",
-    "slug": "Shattershot-II",
-    "url": "/Shattershot+II",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 26
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Defense Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Shatter God",
-    "slug": "Shatter-God",
-    "url": "/Shatter+God",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 28
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Defense Boost III",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Baggi Gunlance I",
-    "slug": "Baggi-Gunlance-I",
-    "url": "/Baggi+Gunlance+I",
-    "type": "gunlance",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Sleep Boost I",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Baggi Gunlance II",
-    "slug": "Baggi-Gunlance-II",
-    "url": "/Baggi+Gunlance+II",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 22
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Sleep Boost I",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Baggi Gunlance III",
-    "slug": "Baggi-Gunlance-III",
-    "url": "/Baggi+Gunlance+III",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Sleep Boost I",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Lullabyte Sleeplance",
-    "slug": "Lullabyte-Sleeplance",
-    "url": "/Lullabyte+Sleeplance",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Sleep Boost II",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Kadachi Striker I",
-    "slug": "Kadachi-Striker-I",
-    "url": "/Kadachi+Striker+I",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 19
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Thunder Boost II"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kadachi Striker II",
-    "slug": "Kadachi-Striker-II",
-    "url": "/Kadachi+Striker+II",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 24
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost III",
-      "Thunder Boost III"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Mythic Kadachi Striker",
-    "slug": "Mythic-Kadachi-Striker",
-    "url": "/Mythic+Kadachi+Striker",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 27
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost III",
-      "Thunder Boost III"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Gunlance I",
-    "slug": "Bone-Gunlance-I",
-    "url": "/Bone+Gunlance+I",
-    "type": "gunlance",
-    "attack": 90,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Gunlance II",
-    "slug": "Bone-Gunlance-II",
-    "url": "/Bone+Gunlance+II",
-    "type": "gunlance",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Wyvern Bone Gunlance",
-    "slug": "Wyvern-Bone-Gunlance",
-    "url": "/Wyvern+Bone+Gunlance",
-    "type": "gunlance",
-    "attack": 120,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Golem Gunlance I",
-    "slug": "Golem-Gunlance-I",
-    "url": "/Golem+Gunlance+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Golem Gunlance II",
-    "slug": "Golem-Gunlance-II",
-    "url": "/Golem+Gunlance+II",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Behemoth Gunlance",
-    "slug": "Behemoth-Gunlance",
-    "url": "/Behemoth+Gunlance",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Gunlance I",
-    "slug": "Hidden-Gunlance-I",
-    "url": "/Hidden+Gunlance+I",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost I",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Gunlance II",
-    "slug": "Hidden-Gunlance-II",
-    "url": "/Hidden+Gunlance+II",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost I",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fading Night",
-    "slug": "Fading-Night",
-    "url": "/Fading+Night",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Flaming Gunlance I",
-    "slug": "Flaming-Gunlance-I",
-    "url": "/Flaming+Gunlance+I",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 15
-      }
-    ],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Flaming Gunlance II",
-    "slug": "Flaming-Gunlance-II",
-    "url": "/Flaming+Gunlance+II",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 17
-      }
-    ],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Flaming Gunlance III",
-    "slug": "Flaming-Gunlance-III",
-    "url": "/Flaming+Gunlance+III",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 21
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Barbarous Firelance",
-    "slug": "Barbarous-Firelance",
-    "url": "/Barbarous+Firelance",
-    "type": "gunlance",
-    "attack": 230,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 24
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Fire Boost III",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Barroth Loader I",
-    "slug": "Barroth-Loader-I",
-    "url": "/Barroth+Loader+I",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [],
-    "affinity": -20,
-    "defense": 15,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Barroth Loader II",
-    "slug": "Barroth-Loader-II",
-    "url": "/Barroth+Loader+II",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [],
-    "affinity": -20,
-    "defense": 15,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rugged Loader",
-    "slug": "Rugged-Loader",
-    "url": "/Rugged+Loader",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [],
-    "affinity": -20,
-    "defense": 20,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Tiger Blast I",
-    "slug": "Tiger-Blast-I",
-    "url": "/Tiger+Blast+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Tiger Blast II",
-    "slug": "Tiger-Blast-II",
-    "url": "/Tiger+Blast+II",
-    "type": "gunlance",
-    "attack": 220,
-    "element": [],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Tigrex Gunlance",
-    "slug": "Tigrex-Gunlance",
-    "url": "/Tigrex+Gunlance",
-    "type": "gunlance",
-    "attack": 230,
-    "element": [],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Lagomberator I",
-    "slug": "Lagomberator-I",
-    "url": "/Lagomberator+I",
-    "type": "gunlance",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Ice Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Lagomberator II",
-    "slug": "Lagomberator-II",
-    "url": "/Lagomberator+II",
-    "type": "gunlance",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Ice Boost II",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Lagomberator III",
-    "slug": "Lagomberator-III",
-    "url": "/Lagomberator+III",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Ice Boost II",
-      "Small Monster Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Lagomberatrix",
-    "slug": "Lagomberatrix",
-    "url": "/Lagomberatrix",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 29
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Ice Boost III",
-      "Small Monster Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Harpoon I",
-    "slug": "Ludroth-Harpoon-I",
-    "url": "/Ludroth+Harpoon+I",
-    "type": "gunlance",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Attack Boost I",
-      "Water Boost I",
-      "Waterblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Harpoon II",
-    "slug": "Ludroth-Harpoon-II",
-    "url": "/Ludroth+Harpoon+II",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 33
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Attack Boost II",
-      "Water Boost II",
-      "Waterblight Exploit"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Harpoon III",
-    "slug": "Ludroth-Harpoon-III",
-    "url": "/Ludroth+Harpoon+III",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost II",
-      "Waterblight Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Ludroth Shellbreaker",
-    "slug": "Ludroth-Shellbreaker",
-    "url": "/Ludroth+Shellbreaker",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 37
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost III",
-      "Waterblight Exploit"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo I",
-    "slug": "Fiore-Nulo-I",
-    "url": "/Fiore+Nulo+I",
-    "type": "gunlance",
-    "attack": 80,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Master Rider"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo II",
-    "slug": "Fiore-Nulo-II",
-    "url": "/Fiore+Nulo+II",
-    "type": "gunlance",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost I",
-      "Master Rider"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Unu",
-    "slug": "Fiore-Unu",
-    "url": "/Fiore+Unu",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dragon Exploit",
-      "Master Rider"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rakna Gunlance I",
-    "slug": "Rakna-Gunlance-I",
-    "url": "/Rakna+Gunlance+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 22
-      }
-    ],
-    "affinity": 25,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Fire Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rakna Gunlance II",
-    "slug": "Rakna-Gunlance-II",
-    "url": "/Rakna+Gunlance+II",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 25
-      }
-    ],
-    "affinity": 25,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Fire Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Araknalance",
-    "slug": "Araknalance",
-    "url": "/Arknalance",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 27
-      }
-    ],
-    "affinity": 25,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Fire Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo Black I",
-    "slug": "Fiore-Nulo-Black-I",
-    "url": "/Fiore+Nulo+Black+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 21
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost II",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo Black II",
-    "slug": "Fiore-Nulo-Black-II",
-    "url": "/Fiore+Nulo+Black+II",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost III",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Unu Black",
-    "slug": "Fiore-Unu-Black",
-    "url": "/Fiore+Unu+Black",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 26
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost III",
-      "Element Exploit"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo White I",
-    "slug": "Fiore-Nulo-White-I",
-    "url": "/Fiore+Nulo+White+I",
-    "type": "gunlance",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Element Exploit",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo White II",
-    "slug": "Fiore-Nulo-White-II",
-    "url": "/Fiore+Nulo+White+II",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Element Exploit",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Unu White",
-    "slug": "Fiore-Unu-White",
-    "url": "/Fiore+Unu+White",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost III",
-      "Element Exploit",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo Green I",
-    "slug": "Fiore-Nulo-Green-I",
-    "url": "/Fiore+Nulo+Green+I",
-    "type": "gunlance",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Paralysis Boost I",
-      "Anti-Aerial Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Nulo Green II",
-    "slug": "Fiore-Nulo-Green-II",
-    "url": "/Fiore+Nulo+Green+II",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Paralysis Boost I",
-      "Anti-Aerial Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Fiore Unu Green",
-    "slug": "Fiore-Unu-Green",
-    "url": "/Fiore+Unu+Green",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 19
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Paralysis Boost II",
-      "Anti-Aerial Species"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Gunlance I",
-    "slug": "Sinister-Gunlance-I",
-    "url": "/Sinister+Gunlance+I",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Gunlance II",
-    "slug": "Sinister-Gunlance-II",
-    "url": "/Sinister+Gunlance+II",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 29
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Shadowshot",
-    "slug": "Sinister-Shadowshot",
-    "url": "/Sinister+Shadowshot",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 33
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost II",
-      "Magnamalo Soul"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Demon Gunlance I",
-    "slug": "Demon-Gunlance-I",
-    "url": "/Demon+Gunlance+I",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 16
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Thunder Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Demon Gunlance II",
-    "slug": "Demon-Gunlance-II",
-    "url": "/Demon+Gunlance+II",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 18
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Thunder Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Gunlance I",
-    "slug": "Azure-Elder-Gunlance-I",
-    "url": "/Azure+Elder+Gunlance+I",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 11
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Gunlance II",
-    "slug": "Azure-Elder-Gunlance-II",
-    "url": "/Azure+Elder+Gunlance+II",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Thunderbolt Gunlance I",
-    "slug": "Thunderbolt-Gunlance-I",
-    "url": "/Thunderbolt+Gunlance+I",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bazel Buster I",
-    "slug": "Bazel-Buster-I",
-    "url": "/Bazel+Buster+I",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 12
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Wyrmstake Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bazel Buster II",
-    "slug": "Bazel-Buster-II",
-    "url": "/Bazel+Buster+II",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 14
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Wyrmstake Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bazel Destroyer",
-    "slug": "Bazel-Destroyer",
-    "url": "/Bazel+Destroyer",
-    "type": "gunlance",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 15
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Blast Boost III",
-      "Wyrmstake Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Icesteel Gunlance I",
-    "slug": "Icesteel-Gunlance-I",
-    "url": "/Icesteel+Gunlance+I",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 42
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Venomous Cologne I",
-    "slug": "Venomous-Cologne-I",
-    "url": "/Venomous+Cologne+I",
-    "type": "gunlance",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost III",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Canyne Cannon I",
-    "slug": "Canyne-Cannon-I",
-    "url": "/Canyne+Cannon+I",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [],
-    "affinity": 0,
-    "defense": 5,
-    "rampSkills": [
-      "Defense Boost II",
-      "Wyrmstake Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Canyne Cannon II",
-    "slug": "Canyne-Cannon-II",
-    "url": "/Canyne+Cannon+II",
-    "type": "gunlance",
-    "attack": 140,
-    "element": [],
-    "affinity": 0,
-    "defense": 5,
-    "rampSkills": [
-      "Defense Boost III",
-      "Wyrmstake Boost",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Howlitzer",
-    "slug": "Howlitzer",
-    "url": "/Howlitzer",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost III",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Cornpopper I",
-    "slug": "Cornpopper-I",
-    "url": "/Cornpopper+I",
-    "type": "gunlance",
-    "attack": 160,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Wyrmstake Boost",
-      "Anti-Aquatic Species",
-      "Spiribird Doubled"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Cornpopper II",
-    "slug": "Cornpopper-II",
-    "url": "/Cornpopper+II",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Wyrmstake Boost",
-      "Anti-Aquatic Species",
-      "Spiribird Doubled"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Mighty Cornpopper",
-    "slug": "Mighty-Cornpopper",
-    "url": "/Mighty+Cornpopper",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Anti-Aquatic Species",
-      "Spiribird Doubled"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sleepy Shellgun I",
-    "slug": "Sleepy-Shellgun-I",
-    "url": "/Sleepy+Shellgun+I",
-    "type": "gunlance",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost I",
-      "Sleep Boost I",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sleepy Shellgun II",
-    "slug": "Sleepy-Shellgun-II",
-    "url": "/Sleepy+Shellgun+II",
-    "type": "gunlance",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost II",
-      "Sleep Boost I",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Soporific Shellgun",
-    "slug": "Soporific-Shellgun",
-    "url": "/Soporific+Shellgun",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 20,
-    "rampSkills": [
-      "Defense Boost III",
-      "Sleep Boost II",
-      "Anti-Aquatic Species"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance I",
-    "slug": "Rampage-Gunlance-I",
-    "url": "/Rampage+Gunlance+I",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance II",
-    "slug": "Rampage-Gunlance-II",
-    "url": "/Rampage+Gunlance+II",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance III",
-    "slug": "Rampage-Gunlance-III",
-    "url": "/Rampage+Gunlance+III",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance IV",
-    "slug": "Rampage-Gunlance-IV",
-    "url": "/Rampage+Gunlance+IV",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance V",
-    "slug": "Rampage-Gunlance-V",
-    "url": "/Rampage+Gunlance+V",
-    "type": "gunlance",
-    "attack": 200,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Great Demon Gunlance",
-    "slug": "Great-Demon-Gunlance",
-    "url": "/Great+Demon+Gunlance",
-    "type": "gunlance",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 20
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Thunder Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Gale Gunlance",
-    "slug": "Abyssal-Gale-Gunlance",
-    "url": "/Abyssal+Gale+Gunlance",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost IV",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Storm Gunlance",
-    "slug": "Abyssal-Storm-Gunlance",
-    "url": "/Abyssal+Storm+Gunlance",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 41
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Daora's Brigia",
-    "slug": "Daora's-Brigia",
-    "url": "/Daora's+Brigia",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 44
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost III",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Venomous Attar",
-    "slug": "Venomous-Attar",
-    "url": "/Venomous+Attar",
-    "type": "gunlance",
-    "attack": 230,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 31
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost III",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Redwing Gunlance I",
-    "slug": "Redwing-Gunlance-I",
-    "url": "/Redwing+Gunlance+I",
-    "type": "gunlance",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Reddnaught Gunlance",
-    "slug": "Reddnaught-Gunlance",
-    "url": "/Reddnaught+Gunlance",
-    "type": "gunlance",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 38
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Gunlance S",
-    "slug": "Rampage-Gunlance-S",
-    "url": "/Rampage+Gunlance+S",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Defender Gunlance I",
-    "slug": "Defender-Gunlance-I",
-    "url": "/Defender+Gunlance+I",
-    "type": "gunlance",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Gunlance",
-    "slug": "Champion-Gunlance",
-    "url": "/Champion+Gunlance",
-    "type": "gunlance",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Gunlance II",
-    "slug": "Champion-Gunlance-II",
-    "url": "/Champion+Gunlance+II",
-    "type": "gunlance",
-    "attack": 190,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Gunlance III",
-    "slug": "Champion-Gunlance-III",
-    "url": "/Champion+Gunlance+III",
-    "type": "gunlance",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Guardian Gunlance",
-    "slug": "Guardian-Gunlance",
-    "url": "/Guardian+Gunlance",
-    "type": "gunlance",
-    "attack": 230,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kamura Warrior Gunlance",
-    "slug": "Kamura-Warrior-Gunlance",
-    "url": "/Kamura+Warrior+Gunlance",
-    "type": "gunlance",
-    "attack": 250,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Kamura Warrior Gunlance +",
-    "slug": "Kamura-Warrior-Gunlance-+",
-    "url": "/Kamura+Warrior+Gunlance++",
-    "type": "gunlance",
-    "attack": 290,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Fine Kamura Gunlance",
-    "slug": "Fine-Kamura-Gunlance",
-    "url": "/Fine+Kamura+Gunlance",
-    "type": "gunlance",
-    "attack": 330,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Duke's Bayonet",
-    "slug": "Duke's-Bayonet",
-    "url": "/Duke's+Bayonet",
-    "type": "gunlance",
-    "attack": 320,
-    "element": [
-      {
-        "type": " Dragon",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      4
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Mizumori +",
-    "slug": "Mizumori-+",
-    "url": "/Mizumori++",
-    "type": "gunlance",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 33
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Harae no Toboshi",
-    "slug": "Harae-no-Toboshi",
-    "url": "/Harae+no+Toboshi",
-    "type": "gunlance",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 37
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Harae no Toboshi +",
-    "slug": "Harae-no-Toboshi-+",
-    "url": "/Harae+no+Toboshi++",
-    "type": "gunlance",
-    "attack": 310,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 40
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Ortlinde +",
-    "slug": "Ortlinde-+",
-    "url": "/Ortlinde++",
-    "type": "gunlance",
-    "attack": 250,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 31
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Great Ortlinde",
-    "slug": "Great-Ortlinde",
-    "url": "/Great+Ortlinde",
-    "type": "gunlance",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Great Ortlinde +",
-    "slug": "Great-Ortlinde-+",
-    "url": "/Great+Ortlinde++",
-    "type": "gunlance",
-    "attack": 320,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 37
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Rosenkanone",
-    "slug": "Rosenkanone",
-    "url": "/Rosenkanone",
-    "type": "gunlance",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 16
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Rosenkanone +",
-    "slug": "Rosenkanone-+",
-    "url": "/Rosenkanone++",
-    "type": "gunlance",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 20
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Rosenherrlich",
-    "slug": "Rosenherrlich",
-    "url": "/Rosenherrlich",
-    "type": "gunlance",
-    "attack": null,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 24
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Crimson Rook +",
-    "slug": "Crimson-Rook-+",
-    "url": "/Crimson+Rook++",
-    "type": "gunlance",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 44
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Etince Chariot",
-    "slug": "Etince-Chariot",
-    "url": "/Etince+Chariot",
-    "type": "gunlance",
-    "attack": 320,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 47
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Sand Blaster Gunlance +",
-    "slug": "Sand-Blaster-Gunlance-+",
-    "url": "/Sand+Blaster+Gunlance++",
-    "type": "gunlance",
-    "attack": null,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      3
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Sandspear",
-    "slug": "Sandspear",
-    "url": "/Sandspear",
-    "type": "gunlance",
-    "attack": 340,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 26
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      3
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Despot's Phlogiston +",
-    "slug": "Despot's-Phlogiston-+",
-    "url": "/Despot's+Phlogiston++",
-    "type": "gunlance",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 45
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Oppressor's Skyfall",
-    "slug": "Oppressor's-Skyfall",
-    "url": "/Oppressor's+Skyfall",
-    "type": "gunlance",
-    "attack": 320,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 48
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Amberift",
-    "slug": "Amberift",
-    "url": "/Amberift",
-    "type": "gunlance",
-    "attack": 250,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 31
-      }
-    ],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Amberift +",
-    "slug": "Amberift-+",
-    "url": "/Amberift++",
-    "type": "gunlance",
-    "attack": 270,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 37
-      }
-    ],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Amber Pike Ne'erthaw",
-    "slug": "Amber-Pike-Ne'erthaw",
-    "url": "/Amber+Pike+Ne'erthaw",
-    "type": "gunlance",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 45
-      }
-    ],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": [
-      2
-    ]
   },
   {
     "name": "Imperial Guardlance +",
@@ -3562,6 +1411,69 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "General's Arbalance I",
+    "slug": "General's-Arbalance-I",
+    "url": "/General's+Arbalance+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Exploit",
+      "Wyrmstake Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "General's Arbalance II",
+    "slug": "General's-Arbalance-II",
+    "url": "/General's+Arbalance+II",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Exploit",
+      "Wyrmstake Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Admiralls Arbalance",
+    "slug": "Admiralls-Arbalance",
+    "url": "/Admiralls+Arbalance",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Exploit",
+      "Wyrmstake Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Admiral's Arbalance +",
@@ -3687,6 +1599,81 @@
     ]
   },
   {
+    "name": "Pukei Gunlance I",
+    "slug": "Pukei-Gunlance-I",
+    "url": "/Pukei+Gunlance+I",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Gunlance II",
+    "slug": "Pukei-Gunlance-II",
+    "url": "/Pukei+Gunlance+II",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Poison Boost II"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Datura Gunlance",
+    "slug": "Datura-Gunlance",
+    "url": "/Datura+Gunlance",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost III",
+      "Poison Boost III"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Datura Gunlance +",
     "slug": "Datura-Gunlance-+",
     "url": "/Datura+Gunlance++",
@@ -3756,6 +1743,57 @@
     ]
   },
   {
+    "name": "Diablos Gunlance I",
+    "slug": "Diablos-Gunlance-I",
+    "url": "/Diablos+Gunlance+I",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Gunlance II",
+    "slug": "Diablos-Gunlance-II",
+    "url": "/Diablos+Gunlance+II",
+    "type": "gunlance",
+    "attack": 240,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Diablos Cannon",
+    "slug": "Diablos-Cannon",
+    "url": "/Diablos+Cannon",
+    "type": "gunlance",
+    "attack": 250,
+    "element": [],
+    "affinity": -10,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Diablos Cannon +",
     "slug": "Diablos-Cannon-+",
     "url": "/Diablos+Cannon++",
@@ -3799,6 +1837,98 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Aknosom Gunlance I",
+    "slug": "Aknosom-Gunlance-I",
+    "url": "/Aknosom+Gunlance+I",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Aknosom Gunlance II",
+    "slug": "Aknosom-Gunlance-II",
+    "url": "/Aknosom+Gunlance+II",
+    "type": "gunlance",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Fireblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Aknosom Gunlance III",
+    "slug": "Aknosom-Gunlance-III",
+    "url": "/Aknosom+Gunlance+III",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Dawnbreaker Gunlance",
+    "slug": "Dawnbreaker-Gunlance",
+    "url": "/Dawnbreaker+Gunlance",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost II",
+      "Fireblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Dawnmoon Gunlance",
@@ -3865,6 +1995,78 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Almudron Gunlance I",
+    "slug": "Almudron-Gunlance-I",
+    "url": "/Almudron+Gunlance+I",
+    "type": "gunlance",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Almudron Gunlance II",
+    "slug": "Almudron-Gunlance-II",
+    "url": "/Almudron+Gunlance+II",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Doombringer Gunlance",
+    "slug": "Doombringer-Gunlance",
+    "url": "/Doombringer+Gunlance",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 46
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Hellbringer Gunlance",
@@ -4002,6 +2204,74 @@
     ]
   },
   {
+    "name": "Full Voltage I",
+    "slug": "Full-Voltage-I",
+    "url": "/Full+Voltage+I",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 13
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Full Voltage II",
+    "slug": "Full-Voltage-II",
+    "url": "/Full+Voltage+II",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "High Volt Gunlance",
+    "slug": "High-Volt-Gunlance",
+    "url": "/High+Volt+Gunlance",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Thunder Boost II",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "High Volt Gunlance +",
     "slug": "High-Volt-Gunlance-+",
     "url": "/High+Volt+Gunlance++",
@@ -4009,7 +2279,7 @@
     "attack": 250,
     "element": [
       {
-        "type": " Thunder",
+        "type": "Thunder",
         "attack": 42
       }
     ],
@@ -4069,6 +2339,76 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Shattershot I",
+    "slug": "Shattershot-I",
+    "url": "/Shattershot+I",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 24
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Shattershot II",
+    "slug": "Shattershot-II",
+    "url": "/Shattershot+II",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 26
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Shatter God",
+    "slug": "Shatter-God",
+    "url": "/Shatter+God",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 28
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Defense Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Shatter God +",
@@ -4137,6 +2477,100 @@
     ]
   },
   {
+    "name": "Baggi Gunlance I",
+    "slug": "Baggi-Gunlance-I",
+    "url": "/Baggi+Gunlance+I",
+    "type": "gunlance",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Baggi Gunlance II",
+    "slug": "Baggi-Gunlance-II",
+    "url": "/Baggi+Gunlance+II",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Baggi Gunlance III",
+    "slug": "Baggi-Gunlance-III",
+    "url": "/Baggi+Gunlance+III",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Sleep Boost I",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Lullabyte Sleeplance",
+    "slug": "Lullabyte-Sleeplance",
+    "url": "/Lullabyte+Sleeplance",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Sleep Boost II",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Lullabyte Sleeplance +",
     "slug": "Lullabyte-Sleeplance-+",
     "url": "/Lullabyte+Sleeplance++",
@@ -4183,6 +2617,76 @@
     ]
   },
   {
+    "name": "Kadachi Striker I",
+    "slug": "Kadachi-Striker-I",
+    "url": "/Kadachi+Striker+I",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 19
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Thunder Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kadachi Striker II",
+    "slug": "Kadachi-Striker-II",
+    "url": "/Kadachi+Striker+II",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Thunder Boost III"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mythic Kadachi Striker",
+    "slug": "Mythic-Kadachi-Striker",
+    "url": "/Mythic+Kadachi+Striker",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 27
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Thunder Boost III"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Mythic Kadachi Striker +",
     "slug": "Mythic-Kadachi-Striker-+",
     "url": "/Mythic+Kadachi+Striker++",
@@ -4213,7 +2717,7 @@
     "element": [
       {
         "type": " Thunder",
-        "attack": 33
+        "attack": 36
       }
     ],
     "affinity": 20,
@@ -4235,7 +2739,7 @@
     "element": [
       {
         "type": " Thunder",
-        "attack": 33
+        "attack": 38
       }
     ],
     "affinity": 20,
@@ -4247,6 +2751,108 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bone Gunlance I",
+    "slug": "Bone-Gunlance-I",
+    "url": "/Bone+Gunlance+I",
+    "type": "gunlance",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Gunlance II",
+    "slug": "Bone-Gunlance-II",
+    "url": "/Bone+Gunlance+II",
+    "type": "gunlance",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wyvern Bone Gunlance",
+    "slug": "Wyvern-Bone-Gunlance",
+    "url": "/Wyvern+Bone+Gunlance",
+    "type": "gunlance",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Golem Gunlance I",
+    "slug": "Golem-Gunlance-I",
+    "url": "/Golem+Gunlance+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Golem Gunlance II",
+    "slug": "Golem-Gunlance-II",
+    "url": "/Golem+Gunlance+II",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Behemoth Gunlance",
+    "slug": "Behemoth-Gunlance",
+    "url": "/Behemoth+Gunlance",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Behemoth Gunlance +",
@@ -4411,6 +3017,63 @@
     ]
   },
   {
+    "name": "Hidden Gunlance I",
+    "slug": "Hidden-Gunlance-I",
+    "url": "/Hidden+Gunlance+I",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Gunlance II",
+    "slug": "Hidden-Gunlance-II",
+    "url": "/Hidden+Gunlance+II",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fading Night",
+    "slug": "Fading-Night",
+    "url": "/Fading+Night",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "New Moon",
     "slug": "New-Moon",
     "url": "/New+Moon",
@@ -4460,6 +3123,123 @@
     "rampSlots": [
       1
     ]
+  },
+  {
+    "name": "Alioth's Asterism",
+    "slug": "Alioth's-Asterism",
+    "url": "/Alioth's+Asterism",
+    "type": "gunlance",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Flaming Gunlance I",
+    "slug": "Flaming-Gunlance-I",
+    "url": "/Flaming+Gunlance+I",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flaming Gunlance II",
+    "slug": "Flaming-Gunlance-II",
+    "url": "/Flaming+Gunlance+II",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 17
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flaming Gunlance III",
+    "slug": "Flaming-Gunlance-III",
+    "url": "/Flaming+Gunlance+III",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 21
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Barbarous Firelance",
+    "slug": "Barbarous-Firelance",
+    "url": "/Barbarous+Firelance",
+    "type": "gunlance",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 24
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Barbarous Firelance +",
@@ -4531,6 +3311,57 @@
     ]
   },
   {
+    "name": "Barroth Loader I",
+    "slug": "Barroth-Loader-I",
+    "url": "/Barroth+Loader+I",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [],
+    "affinity": -20,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Barroth Loader II",
+    "slug": "Barroth-Loader-II",
+    "url": "/Barroth+Loader+II",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [],
+    "affinity": -20,
+    "defense": 15,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rugged Loader",
+    "slug": "Rugged-Loader",
+    "url": "/Rugged+Loader",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 20,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Barroth Hellraiser",
     "slug": "Barroth-Hellraiser",
     "url": "/Barroth+Hellraiser",
@@ -4574,6 +3405,61 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Tiger Blast I",
+    "slug": "Tiger-Blast-I",
+    "url": "/Tiger+Blast+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tiger Blast II",
+    "slug": "Tiger-Blast-II",
+    "url": "/Tiger+Blast+II",
+    "type": "gunlance",
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Gunlance",
+    "slug": "Tigrex-Gunlance",
+    "url": "/Tigrex+Gunlance",
+    "type": "gunlance",
+    "attack": 230,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Tigrex Gunlance +",
@@ -4627,6 +3513,98 @@
     ]
   },
   {
+    "name": "Lagomberator I",
+    "slug": "Lagomberator-I",
+    "url": "/Lagomberator+I",
+    "type": "gunlance",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagomberator II",
+    "slug": "Lagomberator-II",
+    "url": "/Lagomberator+II",
+    "type": "gunlance",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagomberator III",
+    "slug": "Lagomberator-III",
+    "url": "/Lagomberator+III",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Lagomberatrix",
+    "slug": "Lagomberatrix",
+    "url": "/Lagomberatrix",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost III",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Lagomberatrix +",
     "slug": "Lagomberatrix-+",
     "url": "/Lagomberatrix++",
@@ -4669,6 +3647,105 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Ludroth Harpoon I",
+    "slug": "Ludroth-Harpoon-I",
+    "url": "/Ludroth+Harpoon+I",
+    "type": "gunlance",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost I",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Ludroth Harpoon II",
+    "slug": "Ludroth-Harpoon-II",
+    "url": "/Ludroth+Harpoon+II",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Attack Boost II",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Ludroth Harpoon III",
+    "slug": "Ludroth-Harpoon-III",
+    "url": "/Ludroth+Harpoon+III",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Ludroth Shellbreaker",
+    "slug": "Ludroth-Shellbreaker",
+    "url": "/Ludroth+Shellbreaker",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost III",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Ludroth Shellbreaker +",
@@ -4731,7 +3808,7 @@
       }
     ],
     "affinity": 0,
-    "defense": 20,
+    "defense": 15,
     "rampSkills": [],
     "slots": [
       1,
@@ -4798,6 +3875,139 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Fiore Nulo I",
+    "slug": "Fiore-Nulo-I",
+    "url": "/Fiore+Nulo+I",
+    "type": "gunlance",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Nulo II",
+    "slug": "Fiore-Nulo-II",
+    "url": "/Fiore+Nulo+II",
+    "type": "gunlance",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Master Rider"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Unu",
+    "slug": "Fiore-Unu",
+    "url": "/Fiore+Unu",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Exploit",
+      "Master Rider"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rakna Gunlance I",
+    "slug": "Rakna-Gunlance-I",
+    "url": "/Rakna+Gunlance+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rakna Gunlance II",
+    "slug": "Rakna-Gunlance-II",
+    "url": "/Rakna+Gunlance+II",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Araknalance",
+    "slug": "Araknalance",
+    "url": "/Arknalance",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 27
+      }
+    ],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Fire Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Araknablazer",
@@ -4876,7 +4086,7 @@
     "slug": "Scarlet-Lamplance",
     "url": "/Scarlet+Lamplance",
     "type": "gunlance",
-    "attack": null,
+    "attack": 280,
     "element": [
       {
         "type": "Blast",
@@ -4944,6 +4154,81 @@
     ]
   },
   {
+    "name": "Fiore Nulo Black I",
+    "slug": "Fiore-Nulo-Black-I",
+    "url": "/Fiore+Nulo+Black+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Nulo Black II",
+    "slug": "Fiore-Nulo-Black-II",
+    "url": "/Fiore+Nulo+Black+II",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost III",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Unu Black",
+    "slug": "Fiore-Unu-Black",
+    "url": "/Fiore+Unu+Black",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost III",
+      "Element Exploit"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Fiore Du Black",
     "slug": "Fiore-Du-Black",
     "url": "/Fiore+Du+Black",
@@ -4990,6 +4275,74 @@
     ]
   },
   {
+    "name": "Fiore Nulo White I",
+    "slug": "Fiore-Nulo-White-I",
+    "url": "/Fiore+Nulo+White+I",
+    "type": "gunlance",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Element Exploit",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Nulo White II",
+    "slug": "Fiore-Nulo-White-II",
+    "url": "/Fiore+Nulo+White+II",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Element Exploit",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Unu White",
+    "slug": "Fiore-Unu-White",
+    "url": "/Fiore+Unu+White",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost III",
+      "Element Exploit",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Fiore Du White",
     "slug": "Fiore-Du-White",
     "url": "/Fiore+Du+White",
@@ -5032,6 +4385,76 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Fiore Nulo Green I",
+    "slug": "Fiore-Nulo-Green-I",
+    "url": "/Fiore+Nulo+Green+I",
+    "type": "gunlance",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Paralysis Boost I",
+      "Anti-Aerial Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Nulo Green II",
+    "slug": "Fiore-Nulo-Green-II",
+    "url": "/Fiore+Nulo+Green+II",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Paralysis Boost I",
+      "Anti-Aerial Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Fiore Unu Green",
+    "slug": "Fiore-Unu-Green",
+    "url": "/Fiore+Unu+Green",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Paralysis Boost II",
+      "Anti-Aerial Species"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Fiore Du Green",
@@ -5082,6 +4505,75 @@
     ]
   },
   {
+    "name": "Sinister Gunlance I",
+    "slug": "Sinister-Gunlance-I",
+    "url": "/Sinister+Gunlance+I",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Gunlance II",
+    "slug": "Sinister-Gunlance-II",
+    "url": "/Sinister+Gunlance+II",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Shadowshot",
+    "slug": "Sinister-Shadowshot",
+    "url": "/Sinister+Shadowshot",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Sinister Shadowshot +",
     "slug": "Sinister-Shadowshot-+",
     "url": "/Sinister+Shadowshot++",
@@ -5122,6 +4614,29 @@
     "slots": [
       1,
       2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Devil's Destiny",
+    "slug": "Devil's-Destiny",
+    "url": "/Devil's+Destiny",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      3
     ],
     "rampSlots": [
       2
@@ -5234,6 +4749,76 @@
     ]
   },
   {
+    "name": "Demon Gunlance I",
+    "slug": "Demon-Gunlance-I",
+    "url": "/Demon+Gunlance+I",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 16
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Demon Gunlance II",
+    "slug": "Demon-Gunlance-II",
+    "url": "/Demon+Gunlance+II",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 18
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Great Demon Gunlance",
+    "slug": "Great-Demon-Gunlance",
+    "url": "/Great+Demon+Gunlance",
+    "type": "gunlance",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Thunder Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Great Demon Gunlance +",
     "slug": "Great-Demon-Gunlance-+",
     "url": "/Great+Demon+Gunlance++",
@@ -5301,6 +4886,72 @@
     ]
   },
   {
+    "name": "Azure Elder Gunlance I",
+    "slug": "Azure-Elder-Gunlance-I",
+    "url": "/Azure+Elder+Gunlance+I",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Gunlance II",
+    "slug": "Azure-Elder-Gunlance-II",
+    "url": "/Azure+Elder+Gunlance+II",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Gunlance",
+    "slug": "Abyssal-Gale-Gunlance",
+    "url": "/Abyssal+Gale+Gunlance",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Skyrift Tempest",
     "slug": "Skyrift-Tempest",
     "url": "/Skyrift+Tempest",
@@ -5321,6 +4972,50 @@
     ]
   },
   {
+    "name": "Thunderbolt Gunlance I",
+    "slug": "Thunderbolt-Gunlance-I",
+    "url": "/Thunderbolt+Gunlance+I",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Gunlance",
+    "slug": "Abyssal-Storm-Gunlance",
+    "url": "/Abyssal+Storm+Gunlance",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Skyrift Thunderstorm",
     "slug": "Skyrift-Thunderstorm",
     "url": "/Skyrift+Thunderstorm",
@@ -5339,6 +5034,72 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bazel Buster I",
+    "slug": "Bazel-Buster-I",
+    "url": "/Bazel+Buster+I",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 12
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Wyrmstake Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bazel Buster II",
+    "slug": "Bazel-Buster-II",
+    "url": "/Bazel+Buster+II",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 14
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Wyrmstake Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bazel Destroyer",
+    "slug": "Bazel-Destroyer",
+    "url": "/Bazel+Destroyer",
+    "type": "gunlance",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost III",
+      "Wyrmstake Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Bazel Kingtopper",
@@ -5362,6 +5123,77 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Bazelpride",
+    "slug": "Bazelpride",
+    "url": "/Bazelpride",
+    "type": "gunlance",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 24
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Icesteel Gunlance I",
+    "slug": "Icesteel-Gunlance-I",
+    "url": "/Icesteel+Gunlance+I",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Brigia",
+    "slug": "Daora's-Brigia",
+    "url": "/Daora's+Brigia",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 44
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Daora's Brigia +",
@@ -5408,21 +5240,52 @@
     ]
   },
   {
-    "name": "Howlitzer +",
-    "slug": "Howlitzer-+",
-    "url": "/Howlitzer++",
+    "name": "Venomous Cologne I",
+    "slug": "Venomous-Cologne-I",
+    "url": "/Venomous+Cologne+I",
     "type": "gunlance",
-    "attack": 260,
-    "element": [],
-    "affinity": 0,
-    "defense": 20,
-    "rampSkills": [],
-    "slots": [
-      1
+    "attack": 220,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
     ],
-    "rampSlots": [
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
       3
-    ]
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Venomous Attar",
+    "slug": "Venomous-Attar",
+    "url": "/Venomous+Attar",
+    "type": "gunlance",
+    "attack": 230,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 31
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
   },
   {
     "name": "Venomous Attar +",
@@ -5469,6 +5332,76 @@
     ]
   },
   {
+    "name": "Redwing Gunlance I",
+    "slug": "Redwing-Gunlance-I",
+    "url": "/Redwing+Gunlance+I",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Gunlance",
+    "slug": "Reddnaught-Gunlance",
+    "url": "/Reddnaught+Gunlance",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 38
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Crimson Furywing",
+    "slug": "Crimson-Furywing",
+    "url": "/Crimson+Furywing",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 55
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Abyssal Rockslide",
     "slug": "Abyssal-Rockslide",
     "url": "/Abyssal+Rockslide",
@@ -5487,6 +5420,251 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Canyne Cannon I",
+    "slug": "Canyne-Cannon-I",
+    "url": "/Canyne+Cannon+I",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Defense Boost II",
+      "Wyrmstake Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Canyne Cannon II",
+    "slug": "Canyne-Cannon-II",
+    "url": "/Canyne+Cannon+II",
+    "type": "gunlance",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 5,
+    "rampSkills": [
+      "Defense Boost III",
+      "Wyrmstake Boost",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Howlitzer",
+    "slug": "Howlitzer",
+    "url": "/Howlitzer",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost III",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Howlitzer +",
+    "slug": "Howlitzer-+",
+    "url": "/Howlitzer++",
+    "type": "gunlance",
+    "attack": 260,
+    "element": [],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Roar of the Canyne",
+    "slug": "Roar-of-the-Canyne",
+    "url": "/Roar+of+the+Canyne",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Cornpopper I",
+    "slug": "Cornpopper-I",
+    "url": "/Cornpopper+I",
+    "type": "gunlance",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Wyrmstake Boost",
+      "Anti-Aquatic Species",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Cornpopper II",
+    "slug": "Cornpopper-II",
+    "url": "/Cornpopper+II",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Wyrmstake Boost",
+      "Anti-Aquatic Species",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mighty Cornpopper",
+    "slug": "Mighty-Cornpopper",
+    "url": "/Mighty+Cornpopper",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Anti-Aquatic Species",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Mighty Cornpopper +",
+    "slug": "Mighty-Cornpopper-+",
+    "url": "/Mighty+Cornpopper++",
+    "type": "gunlance",
+    "attack": 270,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Crunchy Cornpopper",
+    "slug": "Crunchy-Cornpopper",
+    "url": "/Crunchy+Cornpopper",
+    "type": "gunlance",
+    "attack": 330,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sleepy Shellgun I",
+    "slug": "Sleepy-Shellgun-I",
+    "url": "/Sleepy+Shellgun+I",
+    "type": "gunlance",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sleepy Shellgun II",
+    "slug": "Sleepy-Shellgun-II",
+    "url": "/Sleepy+Shellgun+II",
+    "type": "gunlance",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost II",
+      "Sleep Boost I",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Soporific Shellgun",
+    "slug": "Soporific-Shellgun",
+    "url": "/Soporific+Shellgun",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost III",
+      "Sleep Boost II",
+      "Anti-Aquatic Species"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
   },
   {
     "name": "Soporific Shellgun +",
@@ -5511,28 +5689,11 @@
     ]
   },
   {
-    "name": "Roar of the Canyne",
-    "slug": "Roar-of-the-Canyne",
-    "url": "/Roar+of+the+Canyne",
-    "type": "gunlance",
-    "attack": 320,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
     "name": "Dreamsniper",
     "slug": "Dreamsniper",
     "url": "/Dreamsniper",
     "type": "gunlance",
-    "attack": 260,
+    "attack": 340,
     "element": [
       {
         "type": "Sleep",
@@ -5603,5 +5764,83 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Rampage Gunlance I",
+    "slug": "Rampage-Gunlance-I",
+    "url": "/Rampage+Gunlance+I",
+    "type": "gunlance",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Gunlance II",
+    "slug": "Rampage-Gunlance-II",
+    "url": "/Rampage+Gunlance+II",
+    "type": "gunlance",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Gunlance III",
+    "slug": "Rampage-Gunlance-III",
+    "url": "/Rampage+Gunlance+III",
+    "type": "gunlance",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Gunlance IV",
+    "slug": "Rampage-Gunlance-IV",
+    "url": "/Rampage+Gunlance+IV",
+    "type": "gunlance",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Gunlance V",
+    "slug": "Rampage-Gunlance-V",
+    "url": "/Rampage+Gunlance+V",
+    "type": "gunlance",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Gunlance S",
+    "slug": "Rampage-Gunlance-S",
+    "url": "/Rampage+Gunlance+S",
+    "type": "gunlance",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
   }
 ]

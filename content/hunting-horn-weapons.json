@@ -1,5 +1,80 @@
 [
   {
+    "name": "Defender Horn I",
+    "slug": "Defender-Horn-I",
+    "url": "/Defender+Horn+I",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Horn",
+    "slug": "Champion-Horn",
+    "url": "/Champion+Horn",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Horn II",
+    "slug": "Champion-Horn-II",
+    "url": "/Champion+Horn+II",
+    "type": "hunting_horn",
+    "attack": 192,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Champion Horn III",
+    "slug": "Champion-Horn-III",
+    "url": "/Champion+Horn+III",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Guardian Horn",
+    "slug": "Guardian-Horn",
+    "url": "/Guardian+Horn",
+    "type": "hunting_horn",
+    "attack": 230,
+    "element": [],
+    "affinity": 0,
+    "defense": 30,
+    "rampSkills": [
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Kamura Chorus I",
     "slug": "Kamura-Chorus-I",
     "url": "/Kamura+Chorus+I",
@@ -107,6 +182,104 @@
     "rampSlots": []
   },
   {
+    "name": "Kamura Warrior Flute",
+    "slug": "Kamura-Warrior-Flute",
+    "url": "/Kamura+Warrior+Flute",
+    "type": "hunting_horn",
+    "attack": 240,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Kamura Warrior Flute +",
+    "slug": "Kamura-Warrior-Flute-+",
+    "url": "/Kamura+Warrior+Flute++",
+    "type": "hunting_horn",
+    "attack": 280,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Fine Kamura Flute",
+    "slug": "Fine-Kamura-Flute",
+    "url": "/Fine+Kamura+Flute",
+    "type": "hunting_horn",
+    "attack": 310,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Duke's Grail",
+    "slug": "Duke's-Grail",
+    "url": "/Duke's+Grail",
+    "type": "hunting_horn",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Dragon25",
+        "attack": null
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Magician's Allure",
+    "slug": "Magician's-Allure",
+    "url": "/Magician's+Allure",
+    "type": "hunting_horn",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
     "name": "Poetic Bell I",
     "slug": "Poetic-Bell-I",
     "url": "/Poetic+Bell+I",
@@ -151,6 +324,120 @@
       1
     ],
     "rampSlots": []
+  },
+  {
+    "name": "Summoning Bell",
+    "slug": "Summoning-Bell",
+    "url": "/Summoning+Bell",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 28
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Summoning Bell +",
+    "slug": "Summoning-Bell-+",
+    "url": "/Summoning+Bell++",
+    "type": "hunting_horn",
+    "attack": 290,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 33
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sublime Bell",
+    "slug": "Sublime-Bell",
+    "url": "/Sublime+Bell",
+    "type": "hunting_horn",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 35
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sublime Bell +",
+    "slug": "Sublime-Bell-+",
+    "url": "/Sublime+Bell++",
+    "type": "hunting_horn",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 38
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Pure Bell Inari",
+    "slug": "Pure-Bell-Inari",
+    "url": "/Pure+Bell+Inari",
+    "type": "hunting_horn",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 23
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "rampSlots": [
+      1
+    ]
   },
   {
     "name": "Sublime Bell I",
@@ -231,2782 +518,6 @@
     "rampSlots": []
   },
   {
-    "name": "Basarios Rock I",
-    "slug": "Basarios-Rock-I",
-    "url": "/Basarios+Rock+I",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 10
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost I",
-      "Fire Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Basarios Rock Mk.II",
-    "slug": "Basarios-Rock-Mk.II",
-    "url": "/Basarios+Rock++Mk.II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Defense Boost I",
-      "Fire Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Gigant Rock",
-    "slug": "Gigant-Rock",
-    "url": "/Gigant+Rock",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 20,
-    "rampSkills": [
-      "Defense Boost II",
-      "Fire Boost III",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Usurper's Growl I",
-    "slug": "Usurper's-Growl-I",
-    "url": "/Usurper's+Growl+I",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Thunder Boost I",
-      "Anti-aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Usurper's Growl II",
-    "slug": "Usurper's-Growl-II",
-    "url": "/Usurper's+Growl+II",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost I",
-      "Anti-aquatic Species"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Despot's Thunderclap",
-    "slug": "Despot's-Thunderclap",
-    "url": "/Despot's+Thunderclap",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 28
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost II",
-      "Anti-aquatic Species"
-    ],
-    "slots": [
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Zurogong Primo I",
-    "slug": "Zurogong-Primo-I",
-    "url": "/Zurogong+Primo+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Defense Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Zurogong Primo II",
-    "slug": "Zurogong-Primo-II",
-    "url": "/Zurogong+Primo+II",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Zurogong Secundo",
-    "slug": "Zurogong-Secundo",
-    "url": "/Zurogong+Secundo",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost II",
-      "Small Monster Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Striped Dragonga I",
-    "slug": "Striped-Dragonga-I",
-    "url": "/Striped+Dragonga+I",
-    "type": "hunting_horn",
-    "attack": 140,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Striped Dragonga II",
-    "slug": "Striped-Dragonga-II",
-    "url": "/Striped+Dragonga+II",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Tigrex Horn",
-    "slug": "Tigrex-Horn",
-    "url": "/Tigrex+Horn",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [],
-    "affinity": -20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost III",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bariguiro I",
-    "slug": "Bariguiro-I",
-    "url": "/Bariguiro+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 15
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Iceblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bariguiro II",
-    "slug": "Bariguiro-II",
-    "url": "/Bariguiro+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 18
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Iceblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Algiguiro",
-    "slug": "Algiguiro",
-    "url": "/Algiguiro",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 20
-      }
-    ],
-    "affinity": 20,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Affinity Boost II",
-      "Iceblight Exploit"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Frilled Flute I",
-    "slug": "Frilled-Flute-I",
-    "url": "/Frilled+Flute+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Sleep Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Frilled Flute II",
-    "slug": "Frilled-Flute-II",
-    "url": "/Frilled+Flute+II",
-    "type": "hunting_horn",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Sleep Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Illusory Flute",
-    "slug": "Illusory-Flute",
-    "url": "/Illusory+Flute",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Sleep",
-        "attack": 19
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Sleep Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Iron Horn I",
-    "slug": "Iron-Horn-I",
-    "url": "/Iron+Horn+I",
-    "type": "hunting_horn",
-    "attack": 70,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost II"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Wind Horn",
-    "slug": "Wind-Horn",
-    "url": "/Wind+Horn",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost I",
-      "Defense Boost II"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Metal Bagpipe I",
-    "slug": "Metal-Bagpipe-I",
-    "url": "/Metal+Bagpipe+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost II"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Great Bagpipe",
-    "slug": "Great-Bagpipe",
-    "url": "/Great+Bagpipe",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost II"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Heavy Bagpipe I",
-    "slug": "Heavy-Bagpipe-I",
-    "url": "/Heavy+Bagpipe+I",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [],
-    "affinity": 0,
-    "defense": 12,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost III",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Fortissimo",
-    "slug": "Fortissimo",
-    "url": "/Fortissimo",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 15,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost III",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Harmonic I",
-    "slug": "Hidden-Harmonic-I",
-    "url": "/Hidden+Harmonic+I",
-    "type": "hunting_horn",
-    "attack": 140,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Hidden Harmonic II",
-    "slug": "Hidden-Harmonic-II",
-    "url": "/Hidden+Harmonic+II",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost I",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Cry in the Night",
-    "slug": "Cry-in-the-Night",
-    "url": "/Cry+in+the+Night",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [],
-    "affinity": 40,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Master Rider"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Pukei Bagpipe I",
-    "slug": "Pukei-Bagpipe-I",
-    "url": "/Pukei+Bagpipe+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost I",
-      "Poison Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Pukei Bagpipe II",
-    "slug": "Pukei-Bagpipe-II",
-    "url": "/Pukei+Bagpipe+II",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Poison Boost I"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Datura Lurr",
-    "slug": "Datura-Lurr",
-    "url": "/Datura+Lurr",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 27
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost I",
-      "Poison Boost I"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Flammenkornett I",
-    "slug": "Flammenkornett-I",
-    "url": "/Flammenkornett+I",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 18
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Flammenkornett II",
-    "slug": "Flammenkornett-II",
-    "url": "/Flammenkornett+II",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 20
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Fire Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Forte Flammenkornett",
-    "slug": "Forte-Flammenkornett",
-    "url": "/Forte+Flammenkornett",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 22
-      }
-    ],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Fire Boost III",
-      "Brutal Strike"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Valkyrie Chordmaker I",
-    "slug": "Valkyrie-Chordmaker-I",
-    "url": "/Valkyrie+Chordmaker+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Valkyrie Chordmaker II",
-    "slug": "Valkyrie-Chordmaker-II",
-    "url": "/Valkyrie+Chordmaker+II",
-    "type": "hunting_horn",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Queen Chordmaker",
-    "slug": "Queen-Chordmaker",
-    "url": "/Queen+Chordmaker",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 22
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Fire Boost I",
-      "Small Monster Exploit"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sandpipe I",
-    "slug": "Sandpipe-I",
-    "url": "/Sandpipe+I",
-    "type": "hunting_horn",
-    "attack": 120,
-    "element": [],
-    "affinity": -30,
-    "defense": 8,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sandpipe II",
-    "slug": "Sandpipe-II",
-    "url": "/Sandpipe+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": -30,
-    "defense": 8,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sandcrier",
-    "slug": "Sandcrier",
-    "url": "/Sandcrier",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [],
-    "affinity": -30,
-    "defense": 10,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Frog Flute I",
-    "slug": "Frog-Flute-I",
-    "url": "/Frog+Flute+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Defense Boost I",
-      "Water Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Frog Flute II",
-    "slug": "Frog-Flute-II",
-    "url": "/Frog+Flute+II",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Defense Boost I",
-      "Water Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Amphibia Allargando",
-    "slug": "Amphibia-Allargando",
-    "url": "/Amphibia+Allargando",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 20,
-    "rampSkills": [
-      "Defense Boost I",
-      "Water Boost III",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Wind Thief Horn I",
-    "slug": "Wind-Thief-Horn-I",
-    "url": "/Wind+Thief+Horn+I",
-    "type": "hunting_horn",
-    "attack": 80,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost I",
-      "Small Monster Exploit",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Wind Thief Horn II",
-    "slug": "Wind-Thief-Horn-II",
-    "url": "/Wind+Thief+Horn+II",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Small Monster Exploit",
-      "Buddy Rally"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Gale Horn",
-    "slug": "Gale-Horn",
-    "url": "/Gale+Horn",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Small Monster Exploit",
-      "Buddy Rally"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Droth Drone I",
-    "slug": "Droth-Drone-I",
-    "url": "/Droth+Drone+I",
-    "type": "hunting_horn",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 30
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost",
-      "Water Boost I",
-      "Waterblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Droth Drone II",
-    "slug": "Droth-Drone-II",
-    "url": "/Droth+Drone+II",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost",
-      "Water Boost I",
-      "Waterblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Droth Roar",
-    "slug": "Droth-Roar",
-    "url": "/Droth+Roar",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Water Boost II",
-      "Waterblight Exploit"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Horn I",
-    "slug": "Bone-Horn-I",
-    "url": "/Bone+Horn+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bone Horn II",
-    "slug": "Bone-Horn-II",
-    "url": "/Bone+Horn+II",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Hardened Bone Horn",
-    "slug": "Hardened-Bone-Horn",
-    "url": "/Hardened+Bone+Horn",
-    "type": "hunting_horn",
-    "attack": 140,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Hunter's Horn I",
-    "slug": "Hunter's-Horn-I",
-    "url": "/Hunter's+Horn+I",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Native's Horn",
-    "slug": "Native's-Horn",
-    "url": "/Native's+Horn",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Affinity Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Duo Horn I",
-    "slug": "Duo-Horn-I",
-    "url": "/Duo+Horn+I",
-    "type": "hunting_horn",
-    "attack": 220,
-    "element": [],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost I",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Duo Horn II",
-    "slug": "Duo-Horn-II",
-    "url": "/Duo+Horn+II",
-    "type": "hunting_horn",
-    "attack": 230,
-    "element": [],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost II",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bull Grunt I",
-    "slug": "Bull-Grunt-I",
-    "url": "/Bull+Grunt+I",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [],
-    "affinity": -5,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bull Grunt II",
-    "slug": "Bull-Grunt-II",
-    "url": "/Bull+Grunt+II",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [],
-    "affinity": -5,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Wild Grunt",
-    "slug": "Wild-Grunt",
-    "url": "/Wild+Grunt",
-    "type": "hunting_horn",
-    "attack": 230,
-    "element": [],
-    "affinity": -5,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost III",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Flame Feroce I",
-    "slug": "Flame-Feroce-I",
-    "url": "/Flame+Feroce+I",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 25
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost I",
-      "Element Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Flame Feroce II",
-    "slug": "Flame-Feroce-II",
-    "url": "/Flame+Feroce+II",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fire Boost I",
-      "Element Exploit"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rathalos Feroce",
-    "slug": "Rathalos-Feroce",
-    "url": "/Rathalos+Feroce",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Fire",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Fire Boost I",
-      "Element Exploit"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Kulu Mosso I",
-    "slug": "Kulu-Mosso-I",
-    "url": "/Kulu+Mosso+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost II",
-      "Spiribird Doubled"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kulu Mosso II",
-    "slug": "Kulu-Mosso-II",
-    "url": "/Kulu+Mosso+II",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost I",
-      "Affinity Boost II",
-      "Spiribird Doubled"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kulu Grosso",
-    "slug": "Kulu-Grosso",
-    "url": "/Kulu+Grosso",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": 25,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost III",
-      "Spiribird Doubled"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Khezu Horn I",
-    "slug": "Khezu-Horn-I",
-    "url": "/Khezu+Horn+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost I",
-      "Thunderblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Khezu Horn II",
-    "slug": "Khezu-Horn-II",
-    "url": "/Khezu+Horn+II",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 24
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Thunder Boost I",
-      "Thunderblight Exploit"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Khezu Flute",
-    "slug": "Khezu-Flute",
-    "url": "/Khezu+Flute",
-    "type": "hunting_horn",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Thunder Boost I",
-      "Thunderblight Exploit"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo I",
-    "slug": "Vicello-Nulo-I",
-    "url": "/Vicello+Nulo+I",
-    "type": "hunting_horn",
-    "attack": 60,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo II",
-    "slug": "Vicello-Nulo-II",
-    "url": "/Vicello+Nulo+II",
-    "type": "hunting_horn",
-    "attack": 80,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Unu",
-    "slug": "Vicello-Unu",
-    "url": "/Vicello+Unu",
-    "type": "hunting_horn",
-    "attack": 120,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo Black I",
-    "slug": "Vicello-Nulo-Black-I",
-    "url": "/Vicello+Nulo+Black+I",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": null,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dragon Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo Black II",
-    "slug": "Vicello-Nulo-Black-II",
-    "url": "/Vicello+Nulo+Black+II",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 17
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dragon Boost III",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Uno Black",
-    "slug": "Vicello-Uno-Black",
-    "url": "/Vicello+Uno+Black",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Dragon Boost III",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo Green I",
-    "slug": "Vicello-Nulo-Green-I",
-    "url": "/Vicello+Nulo+Green+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo Green II",
-    "slug": "Vicello-Nulo-Green-II",
-    "url": "/Vicello+Nulo+Green+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 18
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Unu Green",
-    "slug": "Vicello-Unu-Green",
-    "url": "/Vicello+Unu+Green",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 21
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo White I",
-    "slug": "Vicello-Nulo-White-I",
-    "url": "/Vicello+Nulo+White+I",
-    "type": "hunting_horn",
-    "attack": 80,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 8
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Ice Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Nulo White II",
-    "slug": "Vicello-Nulo-White-II",
-    "url": "/Vicello+Nulo+White+II",
-    "type": "hunting_horn",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 10
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Ice Boost II",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Vicello Unu White",
-    "slug": "Vicello-Unu-White",
-    "url": "/Vicello+Unu+White",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost IV",
-      "Ice Boost III",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Strum I",
-    "slug": "Sinister-Strum-I",
-    "url": "/Sinister+Strum+I",
-    "type": "hunting_horn",
-    "attack": 120,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 13
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Strum II",
-    "slug": "Sinister-Strum-II",
-    "url": "/Sinister+Strum+II",
-    "type": "hunting_horn",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost I",
-      "Magnamalo Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Sinister Shadestrum",
-    "slug": "Sinister-Shadestrum",
-    "url": "/Sinister+Shadestrum",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 23
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Blast Boost II",
-      "Magnamalo Soul"
-    ],
-    "slots": [
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Denden Daiko I",
-    "slug": "Denden-Daiko-I",
-    "url": "/Denden+Daiko+I",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 15
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Thunder Boost I",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Denden Daiko II",
-    "slug": "Denden-Daiko-II",
-    "url": "/Denden+Daiko+II",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 17
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Thunder Boost I",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Horn I",
-    "slug": "Azure-Elder-Horn-I",
-    "url": "/Azure+Elder+Horn+I",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 9
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Azure Elder Horn II",
-    "slug": "Azure-Elder-Horn-II",
-    "url": "/Azure+Elder+Horn+II",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Dragon",
-        "attack": 11
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost III",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Thunderbolt Horn I",
-    "slug": "Thunderbolt-Horn-I",
-    "url": "/Thunderbolt+Horn+I",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 34
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rookslayer Drum I",
-    "slug": "Rookslayer-Drum-I",
-    "url": "/Rookslayer+Drum+I",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 15
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rookslayer Drum II",
-    "slug": "Rookslayer-Drum-II",
-    "url": "/Rookslayer+Drum+II",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 16
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost II",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Bazelreid Rookslayer",
-    "slug": "Bazelreid-Rookslayer",
-    "url": "/Bazelreid+Rookslayer",
-    "type": "hunting_horn",
-    "attack": 220,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 18
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Blast Boost III",
-      "Maximum Volume"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Daora's Taus I",
-    "slug": "Daora's-Taus-I",
-    "url": "/Daora's+Taus+I",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 32
-      }
-    ],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Teostra's Tiple I",
-    "slug": "Teostra's-Tiple-I",
-    "url": "/Teostra's+Tiple+I",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 40
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Fireblight Exploit",
-      "Teostra Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Blessed Ocarina I",
-    "slug": "Blessed-Ocarina-I",
-    "url": "/Blessed+Ocarina+I",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 37
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Defense Boost III",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Poison Fungasax I",
-    "slug": "Poison-Fungasax-I",
-    "url": "/Poison+Fungasax+I",
-    "type": "hunting_horn",
-    "attack": 90,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 30
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Dulling Strike",
-      "Spiribird Doubled"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Poison Fungasax II",
-    "slug": "Poison-Fungasax-II",
-    "url": "/Poison+Fungasax+II",
-    "type": "hunting_horn",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Dulling Strike",
-      "Spiribird Doubled"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Toxic Fungasax",
-    "slug": "Toxic-Fungasax",
-    "url": "/Toxic+Fungasax",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 35
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Dulling Strike",
-      "Spiribird Doubled"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Magia Charm I",
-    "slug": "Magia-Charm-I",
-    "url": "/Magia+Charm+I",
-    "type": "hunting_horn",
-    "attack": 100,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Ice Boost I",
-      "Dulling Strike",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Magia Charm II",
-    "slug": "Magia-Charm-II",
-    "url": "/Magia+Charm+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 14
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Ice Boost I",
-      "Dulling Strike",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Magia Charm III",
-    "slug": "Magia-Charm-III",
-    "url": "/Magia+Charm+III",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 16
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Ice Boost I",
-      "Dulling Strike",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Magia Charmbell",
-    "slug": "Magia-Charmbell",
-    "url": "/Magia+Charmbell",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 20
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Ice Boost III",
-      "Dulling Strike",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Cornupion I",
-    "slug": "Cornupion-I",
-    "url": "/Cornupion+I",
-    "type": "hunting_horn",
-    "attack": 130,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 10
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Defense Boost I",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Cornupion II",
-    "slug": "Cornupion-II",
-    "url": "/Cornupion+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Defense Boost II",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Webbed Cornupion",
-    "slug": "Webbed-Cornupion",
-    "url": "/Webbed+Cornupion",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Paralysis",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 10,
-    "rampSkills": [
-      "Defense Boost II",
-      "Paralysis Boost I",
-      "Silkbind Boost"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Grass Flute I",
-    "slug": "Grass-Flute-I",
-    "url": "/Grass+Flute+I",
-    "type": "hunting_horn",
-    "attack": 140,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 10
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Grass Flute II",
-    "slug": "Grass-Flute-II",
-    "url": "/Grass+Flute+II",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 12
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost II",
-      "Blast Boost II",
-      "Dulling Strike"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Bombadgy's Cry",
-    "slug": "Bombadgy's-Cry",
-    "url": "/Bombadgy's+Cry",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 15
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Defense Boost I",
-      "Blast Boost I",
-      "Dulling Strike"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato I",
-    "slug": "Rampage-Agitato-I",
-    "url": "/Rampage+Agitato+I",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato II",
-    "slug": "Rampage-Agitato-II",
-    "url": "/Rampage+Agitato+II",
-    "type": "hunting_horn",
-    "attack": 170,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato III",
-    "slug": "Rampage-Agitato-III",
-    "url": "/Rampage+Agitato+III",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato IV",
-    "slug": "Rampage-Agitato-IV",
-    "url": "/Rampage+Agitato+IV",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato V",
-    "slug": "Rampage-Agitato-V",
-    "url": "/Rampage+Agitato+V",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Summoning Bell",
-    "slug": "Summoning-Bell",
-    "url": "/Summoning+Bell",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 28
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost II",
-      "Affinity Boost II",
-      "Element Exploit"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Redwing Flute I",
-    "slug": "Redwing-Flute-I",
-    "url": "/Redwing+Flute+I",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 32
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Gale Horn",
-    "slug": "Abyssal-Gale-Horn",
-    "url": "/Abyssal+Gale+Horn",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 14
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Dragon Boost IV",
-      "Anti-Aerial Species",
-      "Ibushi Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Abyssal Storm Horn",
-    "slug": "Abyssal-Storm-Horn",
-    "url": "/Abyssal+Storm+Horn",
-    "type": "hunting_horn",
-    "attack": 190,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 41
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Anti-Aerial Species",
-      "Narwa Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Cursed Ocarina",
-    "slug": "Cursed-Ocarina",
-    "url": "/Cursed+Ocarina",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Poison",
-        "attack": 40
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Defense Boost III",
-      "Chameleos Soul"
-    ],
-    "slots": [
-      1,
-      1,
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Daora's Baphophone",
-    "slug": "Daora's-Baphophone",
-    "url": "/Daora's+Baphophone",
-    "type": "hunting_horn",
-    "attack": 180,
-    "element": [
-      {
-        "type": "Ice",
-        "attack": 35
-      }
-    ],
-    "affinity": 10,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Affinity Boost III",
-      "Kushala Daora Soul"
-    ],
-    "slots": [
-      1
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Denden Doomsounder",
-    "slug": "Denden-Doomsounder",
-    "url": "/Denden+Doomsounder",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [
-      {
-        "type": "Thunder",
-        "attack": 20
-      }
-    ],
-    "affinity": -10,
-    "defense": 0,
-    "rampSkills": [
-      "Thunder Boost II",
-      "Dulling Strike",
-      "Maximum Volume"
-    ],
-    "slots": [
-      3
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Duo Risoluto",
-    "slug": "Duo-Risoluto",
-    "url": "/Duo+Risoluto",
-    "type": "hunting_horn",
-    "attack": 240,
-    "element": [],
-    "affinity": -15,
-    "defense": 0,
-    "rampSkills": [
-      "Affinity Boost III",
-      "Defense Boost II",
-      "Brutal Strike"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Teostra's Orphee",
-    "slug": "Teostra's-Orphee",
-    "url": "/Teostra's+Orphee",
-    "type": "hunting_horn",
-    "attack": 200,
-    "element": [
-      {
-        "type": "Blast",
-        "attack": 42
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Fireblight Exploit",
-      "Teostra Soul"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Reddnaught Ritmico",
-    "slug": "Reddnaught-Ritmico",
-    "url": "/Reddnaught+Ritmico",
-    "type": "hunting_horn",
-    "attack": 160,
-    "element": [
-      {
-        "type": "Dragon ",
-        "attack": 37
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [
-      "Attack Boost III",
-      "Wyvern Exploit",
-      "Valstrax Soul"
-    ],
-    "slots": [
-      2
-    ],
-    "rampSlots": []
-  },
-  {
-    "name": "Rampage Agitato S",
-    "slug": "Rampage-Agitato-S",
-    "url": "/Rampage+Agitato+S",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Defender Horn I",
-    "slug": "Defender-Horn-I",
-    "url": "/Defender+Horn+I",
-    "type": "hunting_horn",
-    "attack": 110,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Horn",
-    "slug": "Champion-Horn",
-    "url": "/Champion+Horn",
-    "type": "hunting_horn",
-    "attack": 150,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Horn II",
-    "slug": "Champion-Horn-II",
-    "url": "/Champion+Horn+II",
-    "type": "hunting_horn",
-    "attack": 192,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Champion Horn III",
-    "slug": "Champion-Horn-III",
-    "url": "/Champion+Horn+III",
-    "type": "hunting_horn",
-    "attack": 210,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Guardian Horn",
-    "slug": "Guardian-Horn",
-    "url": "/Guardian+Horn",
-    "type": "hunting_horn",
-    "attack": 230,
-    "element": [],
-    "affinity": 0,
-    "defense": 30,
-    "rampSkills": [
-      "Defense Boost I"
-    ],
-    "slots": [],
-    "rampSlots": []
-  },
-  {
-    "name": "Kamura Warrior Flute",
-    "slug": "Kamura-Warrior-Flute",
-    "url": "/Kamura+Warrior+Flute",
-    "type": "hunting_horn",
-    "attack": 240,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Kamura Warrior Flute +",
-    "slug": "Kamura-Warrior-Flute-+",
-    "url": "/Kamura+Warrior+Flute++",
-    "type": "hunting_horn",
-    "attack": 280,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Fine Kamura Flute",
-    "slug": "Fine-Kamura-Flute",
-    "url": "/Fine+Kamura+Flute",
-    "type": "hunting_horn",
-    "attack": 310,
-    "element": [],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2,
-      4
-    ],
-    "rampSlots": [
-      2
-    ]
-  },
-  {
-    "name": "Duke's Grail",
-    "slug": "Duke's-Grail",
-    "url": "/Duke's+Grail",
-    "type": "hunting_horn",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Dragon25",
-        "attack": null
-      }
-    ],
-    "affinity": 0,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      4
-    ],
-    "rampSlots": [
-      1
-    ]
-  },
-  {
-    "name": "Summoning Bell +",
-    "slug": "Summoning-Bell-+",
-    "url": "/Summoning+Bell++",
-    "type": "hunting_horn",
-    "attack": 290,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 33
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Sublime Bell",
-    "slug": "Sublime-Bell",
-    "url": "/Sublime+Bell",
-    "type": "hunting_horn",
-    "attack": 300,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 35
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      1
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
-    "name": "Sublime Bell +",
-    "slug": "Sublime-Bell-+",
-    "url": "/Sublime+Bell++",
-    "type": "hunting_horn",
-    "attack": 310,
-    "element": [
-      {
-        "type": "Water",
-        "attack": 38
-      }
-    ],
-    "affinity": 15,
-    "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      2
-    ],
-    "rampSlots": [
-      3
-    ]
-  },
-  {
     "name": "Araknatootle",
     "slug": "Araknatootle",
     "url": "/Araknatootle",
@@ -3059,7 +570,7 @@
     "slug": "Doomed-Bell",
     "url": "/Doomed+Bell",
     "type": "hunting_horn",
-    "attack": null,
+    "attack": 300,
     "element": [
       {
         "type": "Fire",
@@ -3151,6 +662,74 @@
     ]
   },
   {
+    "name": "Basarios Rock I",
+    "slug": "Basarios-Rock-I",
+    "url": "/Basarios+Rock+I",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Fire Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Basarios Rock Mk.II",
+    "slug": "Basarios-Rock-Mk.II",
+    "url": "/Basarios+Rock++Mk.II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Defense Boost I",
+      "Fire Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Gigant Rock",
+    "slug": "Gigant-Rock",
+    "url": "/Gigant+Rock",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost II",
+      "Fire Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Gigant Rock +",
     "slug": "Gigant-Rock-+",
     "url": "/Gigant+Rock++",
@@ -3193,6 +772,75 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Usurper's Growl I",
+    "slug": "Usurper's-Growl-I",
+    "url": "/Usurper's+Growl+I",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Thunder Boost I",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Usurper's Growl II",
+    "slug": "Usurper's-Growl-II",
+    "url": "/Usurper's+Growl+II",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Anti-aquatic Species"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Despot's Thunderclap",
+    "slug": "Despot's-Thunderclap",
+    "url": "/Despot's+Thunderclap",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost II",
+      "Anti-aquatic Species"
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Despot's Thunderclap +",
@@ -3241,6 +889,59 @@
     ]
   },
   {
+    "name": "Zurogong Primo I",
+    "slug": "Zurogong-Primo-I",
+    "url": "/Zurogong+Primo+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Defense Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Zurogong Primo II",
+    "slug": "Zurogong-Primo-II",
+    "url": "/Zurogong+Primo+II",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Zurogong Secundo",
+    "slug": "Zurogong-Secundo",
+    "url": "/Zurogong+Secundo",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost II",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Zurogong Secundo +",
     "slug": "Zurogong-Secundo-+",
     "url": "/Zurogong+Secundo++",
@@ -3273,6 +974,57 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Striped Dragonga I",
+    "slug": "Striped-Dragonga-I",
+    "url": "/Striped+Dragonga+I",
+    "type": "hunting_horn",
+    "attack": 140,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Striped Dragonga II",
+    "slug": "Striped-Dragonga-II",
+    "url": "/Striped+Dragonga+II",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Tigrex Horn",
+    "slug": "Tigrex-Horn",
+    "url": "/Tigrex+Horn",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Tigrex Horn +",
@@ -3318,6 +1070,77 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bariguiro I",
+    "slug": "Bariguiro-I",
+    "url": "/Bariguiro+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 15
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bariguiro II",
+    "slug": "Bariguiro-II",
+    "url": "/Bariguiro+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 18
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Algiguiro",
+    "slug": "Algiguiro",
+    "url": "/Algiguiro",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Iceblight Exploit"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Guiro Frula",
@@ -3387,6 +1210,75 @@
     "rampSlots": [
       1
     ]
+  },
+  {
+    "name": "Frilled Flute I",
+    "slug": "Frilled-Flute-I",
+    "url": "/Frilled+Flute+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frilled Flute II",
+    "slug": "Frilled-Flute-II",
+    "url": "/Frilled+Flute+II",
+    "type": "hunting_horn",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Illusory Flute",
+    "slug": "Illusory-Flute",
+    "url": "/Illusory+Flute",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Sleep",
+        "attack": 19
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Sleep Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Illusory Flute +",
@@ -3525,6 +1417,112 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Iron Horn I",
+    "slug": "Iron-Horn-I",
+    "url": "/Iron+Horn+I",
+    "type": "hunting_horn",
+    "attack": 70,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wind Horn",
+    "slug": "Wind-Horn",
+    "url": "/Wind+Horn",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Metal Bagpipe I",
+    "slug": "Metal-Bagpipe-I",
+    "url": "/Metal+Bagpipe+I",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Great Bagpipe",
+    "slug": "Great-Bagpipe",
+    "url": "/Great+Bagpipe",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost II"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Heavy Bagpipe I",
+    "slug": "Heavy-Bagpipe-I",
+    "url": "/Heavy+Bagpipe+I",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [],
+    "affinity": 0,
+    "defense": 12,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Fortissimo",
+    "slug": "Fortissimo",
+    "url": "/Fortissimo",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 15,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Fortissimo +",
@@ -3713,6 +1711,63 @@
     ]
   },
   {
+    "name": "Hidden Harmonic I",
+    "slug": "Hidden-Harmonic-I",
+    "url": "/Hidden+Harmonic+I",
+    "type": "hunting_horn",
+    "attack": 140,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Hidden Harmonic II",
+    "slug": "Hidden-Harmonic-II",
+    "url": "/Hidden+Harmonic+II",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost I",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Cry in the Night",
+    "slug": "Cry-in-the-Night",
+    "url": "/Cry+in+the+Night",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [],
+    "affinity": 40,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Master Rider"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Horn of Deprivation",
     "slug": "Horn-of-Deprivation",
     "url": "/Horn+of+Deprivation",
@@ -3762,6 +1817,101 @@
     "rampSlots": [
       1
     ]
+  },
+  {
+    "name": "Namalsadirah's Asterism",
+    "slug": "Namalsadirah's-Asterism",
+    "url": "/Namalsadirah's+Asterism",
+    "type": "hunting_horn",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      4
+    ],
+    "rampSlots": [
+      1
+    ]
+  },
+  {
+    "name": "Pukei Bagpipe I",
+    "slug": "Pukei-Bagpipe-I",
+    "url": "/Pukei+Bagpipe+I",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost I",
+      "Poison Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Pukei Bagpipe II",
+    "slug": "Pukei-Bagpipe-II",
+    "url": "/Pukei+Bagpipe+II",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost I"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Datura Lurr",
+    "slug": "Datura-Lurr",
+    "url": "/Datura+Lurr",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost I",
+      "Poison Boost I"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Datura Lurr +",
@@ -3833,6 +1983,81 @@
     ]
   },
   {
+    "name": "Flammenkornett I",
+    "slug": "Flammenkornett-I",
+    "url": "/Flammenkornett+I",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Flammenkornett II",
+    "slug": "Flammenkornett-II",
+    "url": "/Flammenkornett+II",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 20
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Fire Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Forte Flammenkornett",
+    "slug": "Forte-Flammenkornett",
+    "url": "/Forte+Flammenkornett",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Fire Boost III",
+      "Brutal Strike"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Forte Flammenkornett +",
     "slug": "Forte-Flammenkornett-+",
     "url": "/Forte+Flammenkornett++",
@@ -3902,6 +2127,74 @@
     ]
   },
   {
+    "name": "Valkyrie Chordmaker I",
+    "slug": "Valkyrie-Chordmaker-I",
+    "url": "/Valkyrie+Chordmaker+I",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Valkyrie Chordmaker II",
+    "slug": "Valkyrie-Chordmaker-II",
+    "url": "/Valkyrie+Chordmaker+II",
+    "type": "hunting_horn",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Queen Chordmaker",
+    "slug": "Queen-Chordmaker",
+    "url": "/Queen+Chordmaker",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Fire Boost I",
+      "Small Monster Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Queen Chordmaker +",
     "slug": "Queen-Chordmaker-+",
     "url": "/Queen+Chordmaker++",
@@ -3968,6 +2261,28 @@
     ]
   },
   {
+    "name": "Gold Chordmaker",
+    "slug": "Gold-Chordmaker",
+    "url": "/Gold+Chordmaker",
+    "type": "hunting_horn",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 40
+      }
+    ],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      3
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Rosengitarre",
     "slug": "Rosengitarre",
     "url": "/Rosengitarre",
@@ -4028,6 +2343,81 @@
     ]
   },
   {
+    "name": "Kaktus Seele",
+    "slug": "Kaktus-Seele",
+    "url": "/Kaktus+Seele",
+    "type": "hunting_horn",
+    "attack": 280,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 42
+      }
+    ],
+    "affinity": 20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Sandpipe I",
+    "slug": "Sandpipe-I",
+    "url": "/Sandpipe+I",
+    "type": "hunting_horn",
+    "attack": 120,
+    "element": [],
+    "affinity": -30,
+    "defense": 8,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sandpipe II",
+    "slug": "Sandpipe-II",
+    "url": "/Sandpipe+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": -30,
+    "defense": 8,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sandcrier",
+    "slug": "Sandcrier",
+    "url": "/Sandcrier",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [],
+    "affinity": -30,
+    "defense": 10,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Sandcrier +",
     "slug": "Sandcrier-+",
     "url": "/Sandcrier++",
@@ -4071,6 +2461,76 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Frog Flute I",
+    "slug": "Frog-Flute-I",
+    "url": "/Frog+Flute+I",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Frog Flute II",
+    "slug": "Frog-Flute-II",
+    "url": "/Frog+Flute+II",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Amphibia Allargando",
+    "slug": "Amphibia-Allargando",
+    "url": "/Amphibia+Allargando",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 20,
+    "rampSkills": [
+      "Defense Boost I",
+      "Water Boost III",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Amphibia Allargando +",
@@ -4139,6 +2599,60 @@
     ]
   },
   {
+    "name": "Wind Thief Horn I",
+    "slug": "Wind-Thief-Horn-I",
+    "url": "/Wind+Thief+Horn+I",
+    "type": "hunting_horn",
+    "attack": 80,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost I",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Wind Thief Horn II",
+    "slug": "Wind-Thief-Horn-II",
+    "url": "/Wind+Thief+Horn+II",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Gale Horn",
+    "slug": "Gale-Horn",
+    "url": "/Gale+Horn",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Small Monster Exploit",
+      "Buddy Rally"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Gale Horn +",
     "slug": "Gale-Horn-+",
     "url": "/Gale+Horn++",
@@ -4173,6 +2687,76 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Droth Drone I",
+    "slug": "Droth-Drone-I",
+    "url": "/Droth+Drone+I",
+    "type": "hunting_horn",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Droth Drone II",
+    "slug": "Droth-Drone-II",
+    "url": "/Droth+Drone+II",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost",
+      "Water Boost I",
+      "Waterblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Droth Roar",
+    "slug": "Droth-Roar",
+    "url": "/Droth+Roar",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Water Boost II",
+      "Waterblight Exploit"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Droth Roar +",
@@ -4304,6 +2888,187 @@
     ]
   },
   {
+    "name": "Bone Horn I",
+    "slug": "Bone-Horn-I",
+    "url": "/Bone+Horn+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bone Horn II",
+    "slug": "Bone-Horn-II",
+    "url": "/Bone+Horn+II",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hardened Bone Horn",
+    "slug": "Hardened-Bone-Horn",
+    "url": "/Hardened+Bone+Horn",
+    "type": "hunting_horn",
+    "attack": 140,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Hunter's Horn I",
+    "slug": "Hunter's-Horn-I",
+    "url": "/Hunter's+Horn+I",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Native's Horn",
+    "slug": "Native's-Horn",
+    "url": "/Native's+Horn",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Affinity Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Duo Horn I",
+    "slug": "Duo-Horn-I",
+    "url": "/Duo+Horn+I",
+    "type": "hunting_horn",
+    "attack": 220,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost I",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Duo Horn II",
+    "slug": "Duo-Horn-II",
+    "url": "/Duo+Horn+II",
+    "type": "hunting_horn",
+    "attack": 230,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost II",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Duo Risoluto",
+    "slug": "Duo-Risoluto",
+    "url": "/Duo+Risoluto",
+    "type": "hunting_horn",
+    "attack": 240,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [
+      "Affinity Boost III",
+      "Defense Boost II",
+      "Brutal Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Duo Risoluto +",
+    "slug": "Duo-Risoluto-+",
+    "url": "/Duo+Risoluto++",
+    "type": "hunting_horn",
+    "attack": 330,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Horned Tyrant's Horn",
+    "slug": "Horned-Tyrant's-Horn",
+    "url": "/Horned+Tyrant's+Horn",
+    "type": "hunting_horn",
+    "attack": 340,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Horned Tyrant's Horn +",
+    "slug": "Horned-Tyrant's-Horn-+",
+    "url": "/Horned+Tyrant's+Horn++",
+    "type": "hunting_horn",
+    "attack": 350,
+    "element": [],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Sonic Glass",
     "slug": "Sonic-Glass",
     "url": "/Sonic+Glass",
@@ -4355,8 +3120,8 @@
     "attack": 290,
     "element": [
       {
-        "type": "Paralysis21",
-        "attack": null
+        "type": "Paralysis",
+        "attack": 21
       }
     ],
     "affinity": 0,
@@ -4377,8 +3142,8 @@
     "attack": 280,
     "element": [
       {
-        "type": "Water15",
-        "attack": null
+        "type": "Water",
+        "attack": 15
       }
     ],
     "affinity": 0,
@@ -4397,8 +3162,8 @@
     "attack": 300,
     "element": [
       {
-        "type": "Water16",
-        "attack": null
+        "type": "Water",
+        "attack": 16
       }
     ],
     "affinity": 0,
@@ -4417,8 +3182,8 @@
     "attack": 320,
     "element": [
       {
-        "type": "Water19",
-        "attack": null
+        "type": "Water",
+        "attack": 19
       }
     ],
     "affinity": 0,
@@ -4481,34 +3246,55 @@
     ]
   },
   {
-    "name": "Duo Risoluto +",
-    "slug": "Duo-Risoluto-+",
-    "url": "/Duo+Risoluto++",
+    "name": "Bull Grunt I",
+    "slug": "Bull-Grunt-I",
+    "url": "/Bull+Grunt+I",
     "type": "hunting_horn",
-    "attack": 330,
+    "attack": 180,
     "element": [],
-    "affinity": -15,
+    "affinity": -5,
     "defense": 0,
-    "rampSkills": [],
+    "rampSkills": [
+      "Defense Boost I",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
     "slots": [],
-    "rampSlots": [
-      2
-    ]
+    "rampSlots": []
   },
   {
-    "name": "Horned Tyrant's Horn",
-    "slug": "Horned-Tyrant's-Horn",
-    "url": "/Horned+Tyrant's+Horn",
+    "name": "Bull Grunt II",
+    "slug": "Bull-Grunt-II",
+    "url": "/Bull+Grunt+II",
     "type": "hunting_horn",
-    "attack": 340,
+    "attack": 190,
     "element": [],
-    "affinity": -15,
+    "affinity": -5,
     "defense": 0,
-    "rampSkills": [],
+    "rampSkills": [
+      "Defense Boost II",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
     "slots": [],
-    "rampSlots": [
-      2
-    ]
+    "rampSlots": []
+  },
+  {
+    "name": "Wild Grunt",
+    "slug": "Wild-Grunt",
+    "url": "/Wild+Grunt",
+    "type": "hunting_horn",
+    "attack": 230,
+    "element": [],
+    "affinity": -5,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost III",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Feral Grunt",
@@ -4562,6 +3348,76 @@
     ]
   },
   {
+    "name": "Flame Feroce I",
+    "slug": "Flame-Feroce-I",
+    "url": "/Flame+Feroce+I",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Flame Feroce II",
+    "slug": "Flame-Feroce-II",
+    "url": "/Flame+Feroce+II",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Rathalos Feroce",
+    "slug": "Rathalos-Feroce",
+    "url": "/Rathalos+Feroce",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Fire",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fire Boost I",
+      "Element Exploit"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Rathalos Feroce +",
     "slug": "Rathalos-Feroce-+",
     "url": "/Rathalos+Feroce++",
@@ -4606,6 +3462,61 @@
     ]
   },
   {
+    "name": "Kulu Mosso I",
+    "slug": "Kulu-Mosso-I",
+    "url": "/Kulu+Mosso+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Mosso II",
+    "slug": "Kulu-Mosso-II",
+    "url": "/Kulu+Mosso+II",
+    "type": "hunting_horn",
+    "attack": 110,
+    "element": [],
+    "affinity": 15,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost I",
+      "Affinity Boost II",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Kulu Grosso",
+    "slug": "Kulu-Grosso",
+    "url": "/Kulu+Grosso",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": 25,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost III",
+      "Spiribird Doubled"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Kulu Grosso +",
     "slug": "Kulu-Grosso-+",
     "url": "/Kulu+Grosso++",
@@ -4639,9 +3550,75 @@
       2,
       2
     ],
-    "rampSlots": [
+    "rampSlots": []
+  },
+  {
+    "name": "Khezu Horn I",
+    "slug": "Khezu-Horn-I",
+    "url": "/Khezu+Horn+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Khezu Horn II",
+    "slug": "Khezu-Horn-II",
+    "url": "/Khezu+Horn+II",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Khezu Flute",
+    "slug": "Khezu-Flute",
+    "url": "/Khezu+Flute",
+    "type": "hunting_horn",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Thunder Boost I",
+      "Thunderblight Exploit"
+    ],
+    "slots": [
       2
-    ]
+    ],
+    "rampSlots": []
   },
   {
     "name": "Khezu Flute +",
@@ -4708,6 +3685,132 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Vicello Nulo I",
+    "slug": "Vicello-Nulo-I",
+    "url": "/Vicello+Nulo+I",
+    "type": "hunting_horn",
+    "attack": 60,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Nulo II",
+    "slug": "Vicello-Nulo-II",
+    "url": "/Vicello+Nulo+II",
+    "type": "hunting_horn",
+    "attack": 80,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Unu",
+    "slug": "Vicello-Unu",
+    "url": "/Vicello+Unu",
+    "type": "hunting_horn",
+    "attack": 120,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Nulo Black I",
+    "slug": "Vicello-Nulo-Black-I",
+    "url": "/Vicello+Nulo+Black+I",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": null,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Nulo Black II",
+    "slug": "Vicello-Nulo-Black-II",
+    "url": "/Vicello+Nulo+Black+II",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 17
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dragon Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Uno Black",
+    "slug": "Vicello-Uno-Black",
+    "url": "/Vicello+Uno+Black",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Dragon Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "rampSlots": []
   },
   {
     "name": "Vicello Du Black",
@@ -4780,6 +3883,80 @@
     ]
   },
   {
+    "name": "Vicello Nulo Green I",
+    "slug": "Vicello-Nulo-Green-I",
+    "url": "/Vicello+Nulo+Green+I",
+    "type": "hunting_horn",
+    "attack": 100,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Nulo Green II",
+    "slug": "Vicello-Nulo-Green-II",
+    "url": "/Vicello+Nulo+Green+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 18
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Unu Green",
+    "slug": "Vicello-Unu-Green",
+    "url": "/Vicello+Unu+Green",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 21
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Vicello Du Green",
     "slug": "Vicello-Du-Green",
     "url": "/Vicello+Du+Green",
@@ -4826,6 +4003,76 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Vicello Nulo White I",
+    "slug": "Vicello-Nulo-White-I",
+    "url": "/Vicello+Nulo+White+I",
+    "type": "hunting_horn",
+    "attack": 80,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 8
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Ice Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Nulo White II",
+    "slug": "Vicello-Nulo-White-II",
+    "url": "/Vicello+Nulo+White+II",
+    "type": "hunting_horn",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Ice Boost II",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Vicello Unu White",
+    "slug": "Vicello-Unu-White",
+    "url": "/Vicello+Unu+White",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost IV",
+      "Ice Boost III",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Vicello Du White",
@@ -4876,6 +4123,75 @@
     ]
   },
   {
+    "name": "Sinister Strum I",
+    "slug": "Sinister-Strum-I",
+    "url": "/Sinister+Strum+I",
+    "type": "hunting_horn",
+    "attack": 120,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 13
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Strum II",
+    "slug": "Sinister-Strum-II",
+    "url": "/Sinister+Strum+II",
+    "type": "hunting_horn",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost I",
+      "Magnamalo Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Sinister Shadestrum",
+    "slug": "Sinister-Shadestrum",
+    "url": "/Sinister+Shadestrum",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Blast Boost II",
+      "Magnamalo Soul"
+    ],
+    "slots": [
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Sinister Shadestrum +",
     "slug": "Sinister-Shadestrum-+",
     "url": "/Sinister+Shadestrum++",
@@ -4916,6 +4232,29 @@
     "slots": [
       1,
       2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Devil's Lute",
+    "slug": "Devil's-Lute",
+    "url": "/Devil's+Lute",
+    "type": "hunting_horn",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2,
+      3
     ],
     "rampSlots": [
       2
@@ -5028,6 +4367,76 @@
     ]
   },
   {
+    "name": "Denden Daiko I",
+    "slug": "Denden-Daiko-I",
+    "url": "/Denden+Daiko+I",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Thunder Boost I",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Denden Daiko II",
+    "slug": "Denden-Daiko-II",
+    "url": "/Denden+Daiko+II",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 17
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Thunder Boost I",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Denden Doomsounder",
+    "slug": "Denden-Doomsounder",
+    "url": "/Denden+Doomsounder",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 20
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Thunder Boost II",
+      "Dulling Strike",
+      "Maximum Volume"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Denden Doomsounder +",
     "slug": "Denden-Doomsounder-+",
     "url": "/Denden+Doomsounder++",
@@ -5095,6 +4504,72 @@
     ]
   },
   {
+    "name": "Azure Elder Horn I",
+    "slug": "Azure-Elder-Horn-I",
+    "url": "/Azure+Elder+Horn+I",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 9
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Defense Boost I"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Azure Elder Horn II",
+    "slug": "Azure-Elder-Horn-II",
+    "url": "/Azure+Elder+Horn+II",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 11
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost III",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Gale Horn",
+    "slug": "Abyssal-Gale-Horn",
+    "url": "/Abyssal+Gale+Horn",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Dragon Boost IV",
+      "Anti-Aerial Species",
+      "Ibushi Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Skytremor Typhoon",
     "slug": "Skytremor-Typhoon",
     "url": "/Skytremor+Typhoon",
@@ -5113,6 +4588,50 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Thunderbolt Horn I",
+    "slug": "Thunderbolt-Horn-I",
+    "url": "/Thunderbolt+Horn+I",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 34
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Abyssal Storm Horn",
+    "slug": "Abyssal-Storm-Horn",
+    "url": "/Abyssal+Storm+Horn",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Thunder",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Anti-Aerial Species",
+      "Narwa Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
   },
   {
     "name": "Skytremor Rumble",
@@ -5135,6 +4654,72 @@
     ]
   },
   {
+    "name": "Rookslayer Drum I",
+    "slug": "Rookslayer-Drum-I",
+    "url": "/Rookslayer+Drum+I",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rookslayer Drum II",
+    "slug": "Rookslayer-Drum-II",
+    "url": "/Rookslayer+Drum+II",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 16
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost II",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Bazelreid Rookslayer",
+    "slug": "Bazelreid-Rookslayer",
+    "url": "/Bazelreid+Rookslayer",
+    "type": "hunting_horn",
+    "attack": 220,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 18
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost III",
+      "Maximum Volume"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Baselsium Rookslayer",
     "slug": "Baselsium-Rookslayer",
     "url": "/Baselsium+Rookslayer",
@@ -5153,6 +4738,74 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Bazel Valdi Rooksearer",
+    "slug": "Bazel-Valdi-Rooksearer",
+    "url": "/Bazel+Valdi+Rooksearer",
+    "type": "hunting_horn",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 25
+      }
+    ],
+    "affinity": -10,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
+    "name": "Daora's Taus I",
+    "slug": "Daora's-Taus-I",
+    "url": "/Daora's+Taus+I",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 32
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Affinity Boost II",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Daora's Baphophone",
+    "slug": "Daora's-Baphophone",
+    "url": "/Daora's+Baphophone",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 35
+      }
+    ],
+    "affinity": 10,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Affinity Boost III",
+      "Kushala Daora Soul"
+    ],
+    "slots": [
+      1
+    ],
+    "rampSlots": []
   },
   {
     "name": "Daora's Baphophone +",
@@ -5199,6 +4852,50 @@
     ]
   },
   {
+    "name": "Teostra's Tiple I",
+    "slug": "Teostra's-Tiple-I",
+    "url": "/Teostra's+Tiple+I",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Teostra's Orphee",
+    "slug": "Teostra's-Orphee",
+    "url": "/Teostra's+Orphee",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 42
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Fireblight Exploit",
+      "Teostra Soul"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Teostra's Orphée +",
     "slug": "Teostra's-Orphee-+",
     "url": "/Teostra's+Orphée++",
@@ -5237,6 +4934,58 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Blessed Ocarina I",
+    "slug": "Blessed-Ocarina-I",
+    "url": "/Blessed+Ocarina+I",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Cursed Ocarina",
+    "slug": "Cursed-Ocarina",
+    "url": "/Cursed+Ocarina",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Defense Boost III",
+      "Chameleos Soul"
+    ],
+    "slots": [
+      1,
+      1,
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Cursed Ocarina +",
@@ -5287,6 +5036,54 @@
     ]
   },
   {
+    "name": "Redwing Flute I",
+    "slug": "Redwing-Flute-I",
+    "url": "/Redwing+Flute+I",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Reddnaught Ritmico",
+    "slug": "Reddnaught-Ritmico",
+    "url": "/Reddnaught+Ritmico",
+    "type": "hunting_horn",
+    "attack": 160,
+    "element": [
+      {
+        "type": "Dragon ",
+        "attack": 37
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Wyvern Exploit",
+      "Valstrax Soul"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
     "name": "Crimson Clearwing",
     "slug": "Crimson-Clearwing",
     "url": "/Crimson+Clearwing",
@@ -5329,6 +5126,72 @@
     ]
   },
   {
+    "name": "Poison Fungasax I",
+    "slug": "Poison-Fungasax-I",
+    "url": "/Poison+Fungasax+I",
+    "type": "hunting_horn",
+    "attack": 90,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 30
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Poison Fungasax II",
+    "slug": "Poison-Fungasax-II",
+    "url": "/Poison+Fungasax+II",
+    "type": "hunting_horn",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 32
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost II",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Toxic Fungasax",
+    "slug": "Toxic-Fungasax",
+    "url": "/Toxic+Fungasax",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Poison",
+        "attack": 35
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Attack Boost III",
+      "Dulling Strike",
+      "Spiribird Doubled"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
     "name": "Toxic Fungasax +",
     "slug": "Toxic-Fungasax-+",
     "url": "/Toxic+Fungasax++",
@@ -5369,26 +5232,96 @@
     ]
   },
   {
-    "name": "Magia Charmbell +",
-    "slug": "Magia-Charmbell-+",
-    "url": "/Magia+Charmbell++",
+    "name": "Magia Charm I",
+    "slug": "Magia-Charm-I",
+    "url": "/Magia+Charm+I",
     "type": "hunting_horn",
-    "attack": 290,
+    "attack": 100,
     "element": [
       {
         "type": "Ice",
-        "attack": 24
+        "attack": 12
       }
     ],
     "affinity": 0,
     "defense": 0,
-    "rampSkills": [],
-    "slots": [
-      4
+    "rampSkills": [
+      "Ice Boost I",
+      "Dulling Strike",
+      "Silkbind Boost"
     ],
-    "rampSlots": [
-      1
-    ]
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Charm II",
+    "slug": "Magia-Charm-II",
+    "url": "/Magia+Charm+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 14
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Ice Boost I",
+      "Dulling Strike",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Charm III",
+    "slug": "Magia-Charm-III",
+    "url": "/Magia+Charm+III",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 16
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Ice Boost I",
+      "Dulling Strike",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Magia Charmbell",
+    "slug": "Magia-Charmbell",
+    "url": "/Magia+Charmbell",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Ice Boost III",
+      "Dulling Strike",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
   },
   {
     "name": "Bell of Laertes",
@@ -5411,6 +5344,74 @@
     "rampSlots": [
       1
     ]
+  },
+  {
+    "name": "Cornupion I",
+    "slug": "Cornupion-I",
+    "url": "/Cornupion+I",
+    "type": "hunting_horn",
+    "attack": 130,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost I",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Cornupion II",
+    "slug": "Cornupion-II",
+    "url": "/Cornupion+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost II",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Webbed Cornupion",
+    "slug": "Webbed-Cornupion",
+    "url": "/Webbed+Cornupion",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [
+      {
+        "type": "Paralysis",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 10,
+    "rampSkills": [
+      "Defense Boost II",
+      "Paralysis Boost I",
+      "Silkbind Boost"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
   },
   {
     "name": "Hamlet's Horn",
@@ -5439,7 +5440,7 @@
     "slug": "Gossamer-Cornupion",
     "url": "/Gossamer+Cornupion",
     "type": "hunting_horn",
-    "attack": 32,
+    "attack": 320,
     "element": [
       {
         "type": "Paralysis",
@@ -5455,6 +5456,76 @@
     "rampSlots": [
       1
     ]
+  },
+  {
+    "name": "Grass Flute I",
+    "slug": "Grass-Flute-I",
+    "url": "/Grass+Flute+I",
+    "type": "hunting_horn",
+    "attack": 140,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 10
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Grass Flute II",
+    "slug": "Grass-Flute-II",
+    "url": "/Grass+Flute+II",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 12
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost II",
+      "Blast Boost II",
+      "Dulling Strike"
+    ],
+    "slots": [
+      2
+    ],
+    "rampSlots": []
+  },
+  {
+    "name": "Bombadgy's Cry",
+    "slug": "Bombadgy's-Cry",
+    "url": "/Bombadgy's+Cry",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [
+      {
+        "type": "Blast",
+        "attack": 15
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [
+      "Defense Boost I",
+      "Blast Boost I",
+      "Dulling Strike"
+    ],
+    "slots": [
+      3
+    ],
+    "rampSlots": []
   },
   {
     "name": "Royal Order's Horn",
@@ -5510,5 +5581,83 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Rampage Agitato I",
+    "slug": "Rampage-Agitato-I",
+    "url": "/Rampage+Agitato+I",
+    "type": "hunting_horn",
+    "attack": 150,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Agitato II",
+    "slug": "Rampage-Agitato-II",
+    "url": "/Rampage+Agitato+II",
+    "type": "hunting_horn",
+    "attack": 170,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Agitato III",
+    "slug": "Rampage-Agitato-III",
+    "url": "/Rampage+Agitato+III",
+    "type": "hunting_horn",
+    "attack": 180,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Agitato IV",
+    "slug": "Rampage-Agitato-IV",
+    "url": "/Rampage+Agitato+IV",
+    "type": "hunting_horn",
+    "attack": 190,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Agitato V",
+    "slug": "Rampage-Agitato-V",
+    "url": "/Rampage+Agitato+V",
+    "type": "hunting_horn",
+    "attack": 200,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
+  },
+  {
+    "name": "Rampage Agitato S",
+    "slug": "Rampage-Agitato-S",
+    "url": "/Rampage+Agitato+S",
+    "type": "hunting_horn",
+    "attack": 210,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": []
   }
 ]
