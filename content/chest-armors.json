@@ -3804,9 +3804,9 @@
         "slug": "Fire-Resistance"
       },
       {
-        "name": "Recovery Up",
+        "name": "Recovery Speed",
         "level": 3,
-        "slug": "Recovery-Up"
+        "slug": "Recovery-Speed"
       }
     ],
     "slots": [
