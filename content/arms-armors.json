@@ -6700,5 +6700,70 @@
     "iceResistance": -1,
     "dragonResistance": -3,
     "rank": 2
+  },
+  {
+    "name": "Rimeguard Gloves",
+    "url": "/Rimeguard+Gloves",
+    "type": "arms",
+    "slug": "Rimeguard-Gloves",
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1,
+        "slug": "Frostcraft"
+      },
+      {
+        "name": "Critical Draw",
+        "level": 3,
+        "slug": "Critical-Draw"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      3
+    ],
+    "baseDefense": 123,
+    "fireResistance": -3,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": -1,
+    "rank": 2
+  }
+  {
+    "name": "Valstrax Braces - Epoch",
+    "url": "/Valstrax+Braces+-+Epoch",
+    "type": "arms",
+    "slug": "Valstrax-Braces-Epoch",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Latent Power",
+        "level": 2,
+        "slug": "Stun-Resistance"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 121,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3,
+    "rank": 2
   }
 ]
