@@ -1711,5 +1711,29 @@
       "Activate Effect",
       "Slows the speed at which your red gauge depletes when using the Blue Swap Scroll."
     ]
+  },
+  {
+    "name": "Frostcraft",
+    "slug": "Frostcraft",
+    "url": "/Frostcraft",
+    "description": "An aura of frost builds when your weapon is sheathed, raising attack. The effect decreases with each melee hit or shot/arrow fired.",
+    "level": 3,
+    "levels": [
+      "Activate effect.",
+      "Extends the Frost Gauge.",
+      "Extends the Frost Gauge even further."
+    ]
+  },
+  {
+    "name": "Dragon Conversion",
+    "slug": "Dragon-Conversion",
+    "url": "/Dragon+Conversion",
+    "description": "When using the Red Swap Scroll, all elemental resistance is set to 0 and converted into elemental attack. The Blue Swap Scroll raises elemental resistance.",
+    "level": 3,
+    "levels": [
+      "Activate effect. All elemental resistances +3.",
+      "All elemental resistances +5. When using the Blue Swap Scroll, resistance buildup increases when continuously attacking.",
+      "All elemental resistances +10. When using the Red Swap Scroll, the conversion rate for elemental attacks increases."
+    ]
   }
 ]
