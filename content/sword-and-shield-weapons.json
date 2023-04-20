@@ -5363,6 +5363,29 @@
     ]
   },
   {
+    "name": "Noble Ana Palas",
+    "slug": "Noble-Ana-Palas",
+    "url": "/Noble+Ana+Palas",
+    "type": "sword_and_shield",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 24
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Sleepy Shellsword I",
     "slug": "Sleepy-Shellsword-I",
     "url": "/Sleepy+Shellsword+I",
