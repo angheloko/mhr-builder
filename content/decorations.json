@@ -2468,5 +2468,125 @@
     "skillLevel": 1,
     "level": 2,
     "isRampage": true
+  },
+  {
+    "name": "Trigger Jewel 3",
+    "slug": "Trigger-Jewel-3",
+    "url": "/Trigger+Jewel+3",
+    "skill": "Status Trigger",
+    "skillSlug": "Status Trigger",
+    "skillLevel": 1,
+    "level": 3,
+    "isRampage": false
+  },
+  {
+    "name": "Potential Jewel+ 4",
+    "slug": "Potential-Jewel+-4",
+    "url": "/Potential+Jewel++4",
+    "skill": "Heroics",
+    "skillSlug": "Heroics",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Intrepid Jewel 1",
+    "slug": "Intrepid-Jewel-1",
+    "url": "/Intrepid+Jewel+1",
+    "skill": "Intrepid Heart",
+    "skillSlug": "Intrepid-Heart",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": false
+  },
+  {
+    "name": "Hard Cornerstone Jewel 4",
+    "slug": "Hard-Cornerstone-Jewel-4",
+    "url": "/Hard+Cornerstone+Jewel+4",
+    "skill": "Defiance",
+    "skillSlug": "Defiance",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Furor Jewel+ 4",
+    "slug": "Furor-Jewel+-4",
+    "url": "/Furor+Jewel++4",
+    "skill": "Resentment",
+    "skillSlug": "Resentment",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Foray Jewel+ 4",
+    "slug": "Foray-Jewel+-4",
+    "url": "/Foray+Jewel++4",
+    "skill": "Foray",
+    "skillSlug": "Foray",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Embolden Jewel 2",
+    "slug": "Embolden-Jewel-2",
+    "url": "/Embolden+Jewel+2",
+    "skill": "Embolden",
+    "skillSlug": "Embolden",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": false
+  },
+  {
+    "name": "Element Exploit Jewel+ 4",
+    "slug": "Element-Exploit-Jewel+-4",
+    "url": "/Element+Exploit+Jewel++4",
+    "skill": "Element Exploit",
+    "skillSlug": "Element-Exploit",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Dragon Spirit Jewel 4",
+    "slug": "Dragon-Spirit-Jewel-4",
+    "url": "/Dragon+Spirit+Jewel+4",
+    "skill": "Dragonheart",
+    "skillSlug": "Dragonheart",
+    "skillLevel": 1,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Counterattack Jewel+ 4",
+    "slug": "Counterattack-Jewel+-4",
+    "url": "/Counterattack+Jewel++4",
+    "skill": "Adrenaline Rush",
+    "skillSlug": "Adrenaline Rush",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Chain Jewel+ 4",
+    "slug": "Chain-Jewel+-4",
+    "url": "/Chain+Jewel++4",
+    "skill": "Burst",
+    "skillSlug": "Burst",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Backstab Jewel+ 4",
+    "slug": "Backstab-Jewel+-4",
+    "url": "/Backstab+Jewel++4",
+    "skill": "Sneak Attack",
+    "skillSlug": "Sneak-Attack",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
   }
 ]

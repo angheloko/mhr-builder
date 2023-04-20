@@ -4005,6 +4005,23 @@
     ]
   },
   {
+    "name": "Graceful Almaria",
+    "slug": "Graceful-Almaria",
+    "url": "/Graceful+Almaria",
+    "type": "light_bowgun",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Wooden Dog Bowgun I",
     "slug": "Wooden-Dog-Bowgun-I",
     "url": "/Wooden+Dog+Bowgun+I",

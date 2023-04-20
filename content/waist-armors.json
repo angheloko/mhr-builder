@@ -6721,5 +6721,70 @@
     "iceResistance": -1,
     "dragonResistance": -3,
     "rank": 2
+  },
+  {
+    "name": "Rimeguard Coil",
+    "url": "/Rimeguard+Coil",
+    "type": "waist",
+    "slug": "Rimeguard-Coil",
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1,
+        "slug": "Frostcraft"
+      },
+      {
+        "name": "Focus",
+        "level": 3,
+        "slug": "Focus"
+      }
+    ],
+    "slots": [
+      2,
+      3,
+      3
+    ],
+    "baseDefense": 123,
+    "fireResistance": -3,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": -1,
+    "rank": 2
+  }
+  {
+    "name": "Valstrax Coil - Epoch",
+    "url": "/Valstrax+Coil+-+Epoch",
+    "type": "waist",
+    "slug": "Valstrax-Coil-Epoch",
+    "skills": [
+      {
+        "name": "Dragon Conversion",
+        "level": 1,
+        "slug": "Dragon-Conversion"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 3,
+        "slug": "Stamina-Surge"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      4
+    ],
+    "baseDefense": 121,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3,
+    "rank": 2
   }
 ]

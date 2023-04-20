@@ -7023,5 +7023,69 @@
     "iceResistance": -1,
     "dragonResistance": -3,
     "rank": 2
+  },
+  {
+    "name": "Rimeguard Mail",
+    "url": "/Rimeguard+Mail",
+    "type": "chest",
+    "slug": "Rimeguard-Mail",
+    "skills": [
+      {
+        "name": "Frostcraft",
+        "level": 1,
+        "slug": "Frostcraft"
+      },
+      {
+        "name": "Quick Sheathe",
+        "level": 3,
+        "slug": "Quick-Sheathe"
+      }
+    ],
+    "slots": [
+      1,
+      2,
+      4
+    ],
+    "baseDefense": 123,
+    "fireResistance": -3,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": -1,
+    "rank": 2
+  }
+  {
+    "name": "Valstrax Mail - Epoch",
+    "url": "/Valstrax+Mail+-+Epoch",
+    "type": "chest",
+    "slug": "Valstrax-Mail-Epoch",
+    "skills": [
+      {
+        "name": "Dragon Conversion",
+        "level": 1,
+        "slug": "Dragon-Conversion"
+      },
+      {
+        "name": "Dragon Resistance",
+        "level": 3,
+        "slug": "Dragon-Resistance"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 121,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3,
+    "rank": 2
   }
 ]

@@ -3997,6 +3997,23 @@
     ]
   },
   {
+    "name": "Graceful Almaria",
+    "slug": "Graceful-Almaria",
+    "url": "/Graceful+Almaria",
+    "type": "heavy_bowgun",
+    "attack": 370,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Carrozza Bazooka I",
     "slug": "Carrozza-Bazooka-I",
     "url": "/Carrozza+Bazooka+I",

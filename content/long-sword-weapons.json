@@ -5685,6 +5685,28 @@
     ]
   },
   {
+    "name": "Reverent Elusarca",
+    "slug": "Reverent-Elusarca",
+    "url": "/Reverent+Elusarca",
+    "type": "long_sword",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 25
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Cawscythe I",
     "slug": "Cawscythe-I",
     "url": "/Cawscythe+I",

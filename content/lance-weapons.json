@@ -4981,6 +4981,49 @@
     ]
   },
   {
+    "name": "Abyssal Icicle",
+    "slug": "Abyssal-Icicle",
+    "url": "/Abyssal+Icicle",
+    "type": "lance",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 15
+      }
+    ],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Knightly Ectis",
+    "slug": "Knightly-Ectis",
+    "url": "/Knightly+Ectis",
+    "type": "lance",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Plegis Needle I",
     "slug": "Plegis-Needle-I",
     "url": "/Plegis+Needle+I",

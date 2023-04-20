@@ -5422,6 +5422,28 @@
     ]
   },
   {
+    "name": "Vorpal Icefort",
+    "slug": "Vorpal-Icefort",
+    "url": "/Vorpal+Icefort",
+    "type": "gunlance",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 27
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Canyne Cannon I",
     "slug": "Canyne-Cannon-I",
     "url": "/Canyne+Cannon+I",

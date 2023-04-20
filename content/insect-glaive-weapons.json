@@ -5052,6 +5052,28 @@
     "rampSlots": []
   },
   {
+    "name": "Crimson Springwing",
+    "slug": "Crimson-Springwing",
+    "url": "/Crimson+Springwing",
+    "type": "insect_glaive",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      2
+    ],
+    "rampSlots": [
+      2
+    ]
+  },
+  {
     "name": "Abyssal Insectoid",
     "slug": "Abyssal-Insectoid",
     "url": "/Abyssal+Insectoid",
@@ -5072,25 +5094,25 @@
     ]
   },
   {
-    "name": "Crimson Springwing",
-    "slug": "Crimson-Springwing",
-    "url": "/Crimson+Springwing",
+    "name": "Wise Fylos",
+    "slug": "Wise-Fylos",
+    "url": "/Wise+Fylos",
     "type": "insect_glaive",
     "attack": 340,
     "element": [
       {
-        "type": "Dragon",
-        "attack": 50
+        "type": "Ice",
+        "attack": 21
       }
     ],
     "affinity": 0,
     "defense": 0,
     "rampSkills": [],
     "slots": [
-      2
+      4
     ],
     "rampSlots": [
-      2
+      3
     ]
   },
   {

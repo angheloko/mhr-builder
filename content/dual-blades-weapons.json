@@ -5131,6 +5131,29 @@
     ]
   },
   {
+    "name": "Untouched Hel",
+    "slug": "Untouched-Hel",
+    "url": "/Untouched+Hel",
+    "type": "dual_blades",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 22
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      1
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Felyne Claws I",
     "slug": "Felyne-Claws-I",
     "url": "/Felyne+Claws+I",

@@ -6856,5 +6856,73 @@
     "iceResistance": -1,
     "dragonResistance": -3,
     "rank": 2
+  },
+  {
+    "name": "Rimeguard Greaves",
+    "url": "/Rimeguard+Greaves",
+    "type": "legs",
+    "slug": "Rimeguard-Greaves",
+    "skills": [
+      {
+        "name": "Ice Attack",
+        "level": 5,
+        "slug": "Ice-Attack"
+      },
+      {
+        "name": "Critical Element",
+        "level": 3,
+        "slug": "Critical-Element"
+      },
+      {
+        "name": "Element Exploit",
+        "level": 1,
+        "slug": "Element-Exploit"
+      }
+    ],
+    "slots": [
+      1,
+      4
+    ],
+    "baseDefense": 123,
+    "fireResistance": -3,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": -1,
+    "rank": 2
+  }
+  {
+    "name": "Valstrax Greaves - Epoch",
+    "url": "/Valstrax+Greaves+-+Epoch",
+    "type": "legs",
+    "slug": "Valstrax-Greaves-Epoch",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Stun Resistance",
+        "level": 3,
+        "slug": "Stun-Resistance"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 2,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      3,
+      4
+    ],
+    "baseDefense": 121,
+    "fireResistance": -2,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": -2,
+    "dragonResistance": 3,
+    "rank": 2
   }
 ]
