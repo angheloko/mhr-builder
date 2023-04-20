@@ -62,10 +62,6 @@ export default {
       type: Boolean,
       default: true
     },
-    height: {
-      type: Number,
-      default: 48
-    },
     bottom: {
       type: Boolean,
       default: false
@@ -80,7 +76,7 @@ export default {
   computed: {
     classes () {
       return [
-        'max-h-' + this.height,
+        'max-h-48',
         {
           'bottom-11': this.bottom
         }
