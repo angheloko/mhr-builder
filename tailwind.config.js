@@ -11,15 +11,8 @@ module.exports = {
       borderColor: ['checked']
     }
   },
-  purge: {
-    options: {
-      safelist: {
-        standard: [
-          /^max-h-/,
-          /^md:w-/,
-          /^md:h-/
-        ]
-      }
-    }
-  }
+  content: [
+    './pages/**/*.{js,jsx,ts,tsx,vue}',
+    './components/**/*.{js,jsx,ts,tsx,vue}'
+  ]
 }

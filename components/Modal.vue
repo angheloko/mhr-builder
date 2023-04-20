@@ -34,8 +34,7 @@
             To: "opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
         -->
         <div
-          class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:max-w-screen-sm md:rounded-lg md:align-middle md:shadow-xl"
-          :class="[ 'md:' + width, 'md:' + height ]"
+          class="h-screen w-full bg-white text-left transform transition-all align-bottom inline-flex flex-col md:max-w-screen-sm md:rounded-lg md:align-middle md:shadow-xl md:w-4/5 md:h-4/5"
         >
           <div class="h-12 p-2 flex items-center space-x-2">
             <button @click="close">
@@ -65,14 +64,6 @@ export default {
     title: {
       type: String,
       default: ''
-    },
-    width: {
-      type: String,
-      default: 'w-4/5'
-    },
-    height: {
-      type: String,
-      default: 'h-4/5'
     }
   },
   computed: {
