@@ -5126,6 +5126,28 @@
     ]
   },
   {
+    "name": "Sonorous Eisfyl",
+    "slug": "Sonorous-Eisfyl",
+    "url": "/Sonorous+Eisfyl",
+    "type": "hunting_horn",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 23
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Poison Fungasax I",
     "slug": "Poison-Fungasax-I",
     "url": "/Poison+Fungasax+I",
