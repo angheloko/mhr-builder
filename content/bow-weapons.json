@@ -5609,6 +5609,28 @@
     ]
   },
   {
+    "name": "Alluring Evelia",
+    "slug": "Alluring-Evelia",
+    "url": "/Alluring+Evelia",
+    "type": "bow",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 20
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Morsel Bowfish I",
     "slug": "Morsel-Bowfish-I",
     "url": "/Morsel+Bowfish+I",
