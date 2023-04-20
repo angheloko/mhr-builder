@@ -5536,6 +5536,28 @@
     ]
   },
   {
+    "name": "Victorious Northlein",
+    "slug": "Victorious-Northlein",
+    "url": "/Victorious+Northlein",
+    "type": "hammer",
+    "attack": 330,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 26
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Teddybear I",
     "slug": "Teddybear-I",
     "url": "/Teddybear+I",
