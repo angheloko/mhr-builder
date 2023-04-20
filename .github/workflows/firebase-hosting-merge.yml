@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: nvm use && yarn install --frozen-lockfile && yarn generate
+      - run: yarn install --frozen-lockfile && yarn generate
         env:
           NUXT_ENV_FB_API_KEY: '${{ secrets.FB_API_KEY }}'
           NUXT_ENV_FB_APP_ID: '${{ secrets.FB_APP_ID }}'
