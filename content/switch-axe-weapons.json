@@ -5428,6 +5428,28 @@
     ]
   },
   {
+    "name": "Wicked Niddoq",
+    "slug": "Wicked-Niddoq",
+    "url": "/Wicked+Niddoq",
+    "type": "switch_axe",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 29
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Origami Axe I",
     "slug": "Origami-Axe-I",
     "url": "/Origami+Axe+I",
