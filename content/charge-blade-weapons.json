@@ -4953,6 +4953,28 @@
     ]
   },
   {
+    "name": "Regal Daruq",
+    "slug": "Regal-Daruq",
+    "url": "/Regal+Daruq",
+    "type": "charge_blade",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 28
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Pounder of Rice +",
     "slug": "Pounder-of-Rice-+",
     "url": "/Pounder+of+Rice++",
