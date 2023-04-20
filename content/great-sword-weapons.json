@@ -5087,6 +5087,28 @@
     ]
   },
   {
+    "name": "Winged Seraphyd",
+    "slug": "Winged-Seraphyd",
+    "url": "/Winged+Seraphyd",
+    "type": "great_sword",
+    "attack": 340,
+    "element": [
+      {
+        "type": "Ice",
+        "attack": 33
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
     "name": "Wyvern's Perch I",
     "slug": "Wyvern's-Perch-I",
     "url": "/Wyvern's+Perch+I",
