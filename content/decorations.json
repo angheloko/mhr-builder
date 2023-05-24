@@ -1024,7 +1024,7 @@
     "slug": "Hard-Fire-Res-Jewel-4",
     "url": "/Hard+Fire+Res+Jewel+4",
     "skill": "Fire Resistance",
-    "skillSlug": "Fire-Resistance",
+    "skillSlug": "Fire-Resistance-Skill",
     "skillLevel": 3,
     "level": 4,
     "isRampage": false
@@ -1054,7 +1054,7 @@
     "slug": "Hard-Ice-Res-Jewel-4",
     "url": "/Hard+Ice+Res+Jewel+4",
     "skill": "Ice Resistance",
-    "skillSlug": "Ice-Resistance",
+    "skillSlug": "Ice-Resistance-Skill",
     "skillLevel": 3,
     "level": 4,
     "isRampage": false
@@ -1064,7 +1064,7 @@
     "slug": "Hard-Dragon-Res-Jewel-4",
     "url": "/Hard+Dragon+Res+Jewel+4",
     "skill": "Dragon Resistance",
-    "skillSlug": "Dragon-Resistance",
+    "skillSlug": "Dragon-Resistance-Skill",
     "skillLevel": 3,
     "level": 4,
     "isRampage": false

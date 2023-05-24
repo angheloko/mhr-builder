@@ -306,7 +306,7 @@
       {
         "name": "Water Resistance",
         "level": 1,
-        "slug": "Water-Resistance"
+        "slug": "Water-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -479,7 +479,7 @@
       {
         "name": "Fire Resistance",
         "level": 2,
-        "slug": "Fire-Resistance"
+        "slug": "Fire-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -3801,7 +3801,7 @@
       {
         "name": "Fire Resistance",
         "level": 2,
-        "slug": "Fire-Resistance"
+        "slug": "Fire-Resistance-Skill"
       },
       {
         "name": "Recovery Speed",
@@ -6788,7 +6788,7 @@
       {
         "name": "Elemental Exploit",
         "level": 1,
-        "slug": "Elemental-Exploit"
+        "slug": "Element-Exploit"
       },
       {
         "name": "Critical Element",
@@ -7068,7 +7068,7 @@
       {
         "name": "Dragon Resistance",
         "level": 3,
-        "slug": "Dragon-Resistance"
+        "slug": "Dragon-Resistance-Skill"
       },
       {
         "name": "Attack Boost",

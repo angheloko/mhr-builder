@@ -606,7 +606,7 @@
       {
         "name": "Dragon Resistance",
         "level": 2,
-        "slug": "Dragon-Resistance"
+        "slug": "Dragon-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -648,7 +648,7 @@
       {
         "name": "Water Resistance",
         "level": 1,
-        "slug": "Water-Resistance"
+        "slug": "Water-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -1941,9 +1941,9 @@
     "slug": "S.-Studded-Hat-S",
     "skills": [
       {
-        "name": "Aim Booster",
+        "name": "Ballistics",
         "level": 2,
-        "slug": "Aim-Booster"
+        "slug": "Ballistics"
       }
     ],
     "slots": [],
@@ -3561,7 +3561,7 @@
       {
         "name": "Ice Resistance",
         "level": 1,
-        "slug": "Ice-Resistance"
+        "slug": "Ice-Resistance-Skill"
       }
     ],
     "slots": [
@@ -7036,7 +7036,7 @@
       {
         "name": "Elemental Exploit",
         "level": 1,
-        "slug": "Elemental-Exploit"
+        "slug": "Element-Exploit"
       }
     ],
     "slots": [
