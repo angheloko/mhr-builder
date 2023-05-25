@@ -2157,9 +2157,9 @@
         "slug": "Spare-Shot"
       },
       {
-        "name": "Aim Booster",
+        "name": "Ballistics",
         "level": 1,
-        "slug": "Aim-Booster"
+        "slug": "Ballistics"
       }
     ],
     "slots": [],
@@ -2988,10 +2988,10 @@
     "rank": 2
   },
   {
-    "name": "Chaunmail Gloves X",
-    "url": "/Chaunmail+Gloves+X",
+    "name": "Chainmail Gloves X",
+    "url": "/Chainmail+Gloves+X",
     "type": "arms",
-    "slug": "Chaunmail-Gloves-X",
+    "slug": "Chainmail-Gloves-X",
     "skills": [
       {
         "name": "Stamina Surge",

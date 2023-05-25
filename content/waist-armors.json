@@ -438,7 +438,7 @@
       {
         "name": "Fire Resistance",
         "level": 1,
-        "slug": "Fire-Resistance"
+        "slug": "Fire-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -548,7 +548,7 @@
       {
         "name": "Dragon Resistance",
         "level": 1,
-        "slug": "Dragon-Resistance"
+        "slug": "Dragon-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -588,9 +588,9 @@
     "slug": "S.-Studded-Sash",
     "skills": [
       {
-        "name": "Aim Booster",
+        "name": "Ballistics",
         "level": 1,
-        "slug": "Aim-Booster"
+        "slug": "Ballistics"
       }
     ],
     "slots": [],
@@ -1775,9 +1775,9 @@
     "slug": "S.-Studded-Sash-S",
     "skills": [
       {
-        "name": "Aim Booster",
+        "name": "Ballistics",
         "level": 1,
-        "slug": "Aim-Booster"
+        "slug": "Ballistics"
       }
     ],
     "slots": [],
@@ -3386,7 +3386,7 @@
       {
         "name": "Dragon Resistance",
         "level": 3,
-        "slug": "Dragon-Resistance"
+        "slug": "Dragon-Resistance-Skill"
       }
     ],
     "slots": [

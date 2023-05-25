@@ -265,7 +265,7 @@
       {
         "name": "Water Resistance",
         "level": 2,
-        "slug": "Water-Resistance"
+        "slug": "Water-Resistance-Skill"
       }
     ],
     "slots": [],
@@ -2206,9 +2206,9 @@
         "slug": "Constitution"
       },
       {
-        "name": "Aim Booster",
+        "name": "Ballistics",
         "level": 1,
-        "slug": "Aim-Booster"
+        "slug": "Ballistics"
       }
     ],
     "slots": [],
@@ -3366,7 +3366,7 @@
       {
         "name": "Ice Resistance",
         "level": 2,
-        "slug": "Ice-Resistance"
+        "slug": "Ice-Resistance-Skill"
       }
     ],
     "slots": [
