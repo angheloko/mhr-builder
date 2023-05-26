@@ -26,7 +26,7 @@
         <WeaponCard
           :value="item"
           class="h-full"
-          :class="{ 'ring-2': value && value.slug === item.slug }"
+          :class="{ 'ring-2 border-blue-600': value && value.slug === item.slug }"
         />
       </div>
     </div>
