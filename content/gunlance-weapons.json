@@ -5864,5 +5864,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Monsoon",
+    "slug": "Ominous-Monsoon",
+    "url": "/Ominous+Monsoon",
+    "type": "gunlance",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 45
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

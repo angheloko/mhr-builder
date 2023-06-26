@@ -7087,5 +7087,105 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Tempest Robe",
+    "url": "/Tempest+Robe",
+    "type": "chest",
+    "slug": "Tempest-Robe",
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1,
+        "slug": "Heaven-Sent"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 3,
+        "slug": "Critical-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Prudence Mail",
+    "url": "/Prudence+Mail",
+    "type": "chest",
+    "slug": "Prudence-Mail",
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 2,
+        "slug": "Strife"
+      },
+      {
+        "name": "Handicraft",
+        "level": 3,
+        "slug": "Handicraft"
+      },
+      {
+        "name": "Ammo Up",
+        "level": 3,
+        "slug": "Ammo-Up"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Virtue Mail",
+    "url": "/Virtue+Mail",
+    "type": "chest",
+    "slug": "Virtue-Mail",
+    "skills": [
+      {
+        "name": "Strife",
+        "level": 2,
+        "slug": "Strife"
+      },
+      {
+        "name": "Handicraft",
+        "level": 3,
+        "slug": "Handicraft"
+      },
+      {
+        "name": "Ammo Up",
+        "level": 3,
+        "slug": "Ammo-Up"
+      }
+    ],
+    "slots": [
+      1,
+      1,
+      3
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
   }
 ]

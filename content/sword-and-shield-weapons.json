@@ -5821,5 +5821,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Treasure",
+    "slug": "Ominous-Treasure",
+    "url": "/Ominous+Treasure",
+    "type": "sword_and_shield",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 41
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

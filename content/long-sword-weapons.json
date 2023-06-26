@@ -6088,5 +6088,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Spring",
+    "slug": "Ominous-Spring",
+    "url": "/Ominous+Spring",
+    "type": "long_sword",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 43
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -6765,5 +6765,103 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Tempest Sleeves",
+    "url": "/Tempest+Sleeves",
+    "type": "arms",
+    "slug": "Tempest-Sleeves",
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1,
+        "slug": "Heaven-Sent"
+      },
+      {
+        "name": "Latent Power",
+        "level": 1,
+        "slug": "Latent-Power"
+      }
+    ],
+    "slots": [
+      1,
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Prudence Braces",
+    "url": "/Prudence+Braces",
+    "type": "arms",
+    "slug": "Prudence-Braces",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Virtue Braces",
+    "url": "/Virtue+Braces",
+    "type": "arms",
+    "slug": "Virtue-Braces",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "slug": "Attack-Boost"
+      }
+    ],
+    "slots": [
+      1,
+      3
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
   }
 ]

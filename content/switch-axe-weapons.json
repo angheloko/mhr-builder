@@ -6021,5 +6021,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Cloudburst Axe",
+    "slug": "Cloudburst-Axe",
+    "url": "/Cloudburst+Axe",
+    "type": "switch_axe",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 47
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -7182,5 +7182,111 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Tempest Crown",
+    "url": "/Tempest+Crown",
+    "type": "head",
+    "slug": "Tempest-Crown",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 5,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      3,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Tempest Crown",
+    "url": "/Tempest+Crown",
+    "type": "head",
+    "slug": "Tempest-Crown",
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 5,
+        "slug": "Evade-Window"
+      }
+    ],
+    "slots": [
+      3,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Prudence Helm",
+    "url": "/Prudence+Helm",
+    "type": "head",
+    "slug": "Prudence-Helm",
+    "skills": [
+      {
+        "name": "Redirection",
+        "level": 2,
+        "slug": "Redirection"
+      },
+      {
+        "name": "Defiance",
+        "level": 2,
+        "slug": "Defiance"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Virtue Helm",
+    "url": "/Virtue+Helm",
+    "type": "head",
+    "slug": "Virtue-Helm",
+    "skills": [
+      {
+        "name": "Redirection",
+        "level": 2,
+        "slug": "Redirection"
+      },
+      {
+        "name": "Defiance",
+        "level": 2,
+        "slug": "Defiance"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
   }
 ]

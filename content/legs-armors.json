@@ -6924,5 +6924,104 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Tempest Hakama",
+    "url": "/Tempest+Hakama",
+    "type": "legs",
+    "slug": "Tempest-Hakama",
+    "skills": [
+      {
+        "name": "Heaven-Sent",
+        "level": 1,
+        "slug": "Heaven-Sent"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "slug": "Critical-Boost"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Prudence Greaves",
+    "url": "/Prudence+Greaves",
+    "type": "legs",
+    "slug": "Prudence-Greaves",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Strife",
+        "level": 1,
+        "slug": "Strife"
+      }
+    ],
+    "slots": [
+      1,
+      3,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Virtue Greaves",
+    "url": "/Virtue+Greaves",
+    "type": "legs",
+    "slug": "Virtue-Greaves",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Strife",
+        "level": 1,
+        "slug": "Strife"
+      }
+    ],
+    "slots": [
+      1,
+      3,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
   }
 ]

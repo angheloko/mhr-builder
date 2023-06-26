@@ -5681,5 +5681,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Autumn Lute",
+    "slug": "Autumn-Lute",
+    "url": "/Autumn+Lute",
+    "type": "hunting_horn",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 47
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

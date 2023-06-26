@@ -6027,5 +6027,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Stormwind Fans",
+    "slug": "Stormwind-Fans",
+    "url": "/Stormwind+Fans",
+    "type": "dual_blades",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 38
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

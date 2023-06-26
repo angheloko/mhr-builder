@@ -5811,5 +5811,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Roilcloud Sword",
+    "slug": "Roilcloud-Sword",
+    "url": "/Roilcloud+Sword",
+    "type": "great_sword",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 58
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

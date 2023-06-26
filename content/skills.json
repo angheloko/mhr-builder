@@ -1735,5 +1735,39 @@
       "All elemental resistances +5. When using the Blue Swap Scroll, resistance buildup increases when continuously attacking.",
       "All elemental resistances +10. When using the Red Swap Scroll, the conversion rate for elemental attacks increases."
     ]
+  },
+  {
+    "name": "Frenzied Bloodlust",
+    "slug": "Frenzied-Bloodlust",
+    "url": "/Frenzied+Bloodlust",
+    "description": "Temporarily gain an additional Wirebug when overcoming the Frenzy. The effect duration decreases drastically when your weapon is sheathed.",
+    "level": 3,
+    "levels": [
+      "Effect duration: 30 seconds.",
+      "Effect duration: 60 seconds.",
+      "Effect duration: 90 seconds."
+    ]
+  },
+  {
+    "name": "Heaven-Sent",
+    "slug": "Heaven-Sent",
+    "url": "/Heaven-Sent",
+    "description": "Activates when not taking damage for a while during combat with a large monster. The effect is lost when you are knocked back or stray too far away from the monster.",
+    "level": 3,
+    "levels": [
+      "Decreases damage once and reduces stamina consumption while active. Performing a Switch Skill Swap will recover sharpness and reload ammo.",
+      "Reduces time until activation.",
+      "Also nullifies stamina and sharpness consumption. Performing a Switch Skill Swap removes or reduces status ailments."
+    ]
+  },
+  {
+    "name": "Shock Absorber",
+    "slug": "Shock-Absorber",
+    "url": "/Shock+Absorber",
+    "description": "Disables damage reactions when you hit a friend or when a friend hits you. (Does not apply during certain status ailments.)",
+    "level": 1,
+    "levels": [
+      "Activate effect."
+    ]
   }
 ]

@@ -5617,5 +5617,25 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Ominous Cloud",
+    "slug": "Ominous-Cloud",
+    "url": "/Ominous+Cloud",
+    "type": "lance",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 48
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

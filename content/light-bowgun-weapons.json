@@ -4325,5 +4325,20 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Wicked Needle",
+    "slug": "Wicked-Needle",
+    "url": "/Wicked+Needle",
+    "type": "light_bowgun",
+    "attack": 350,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

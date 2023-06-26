@@ -5625,5 +5625,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Stratus Arc",
+    "slug": "Stratus-Arc",
+    "url": "/Stratus+Arc",
+    "type": "insect_glaive",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 37
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]

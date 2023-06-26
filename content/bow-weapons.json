@@ -6193,5 +6193,25 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Tempest Nightbow",
+    "slug": "Tempest-Nightbow",
+    "url": "/Tempest+Nightbow",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
   }
 ]
