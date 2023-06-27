@@ -7187,5 +7187,35 @@
     "iceResistance": 2,
     "dragonResistance": -4,
     "rank": 2
+  },
+  {
+    "name": "Primordial Mail",
+    "url": "/Primordial+Mail",
+    "type": "chest",
+    "slug": "Primordial-Mail",
+    "skills": [
+      {
+        "name": "Blood Awakening",
+        "level": 2,
+        "slug": "Blood-Awakening"
+      },
+      {
+        "name": "Burst",
+        "level": 3,
+        "slug": "Burst"
+      }
+    ],
+    "slots": [
+      2,
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -1,
+    "dragonResistance": -5,
+    "rank": 2
   }
 ]

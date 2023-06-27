@@ -4583,5 +4583,24 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Silver Scatterer",
+    "slug": "Silver-Scatterer",
+    "url": "/Silver+Scatterer",
+    "type": "heavy_bowgun",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

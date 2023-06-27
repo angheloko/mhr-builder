@@ -6878,5 +6878,35 @@
     "iceResistance": 2,
     "dragonResistance": -4,
     "rank": 2
+  },
+  {
+    "name": "Primordial Coil",
+    "url": "/Primordial+Coil",
+    "type": "waist",
+    "slug": "Primordial-Coil",
+    "skills": [
+      {
+        "name": "Burst",
+        "level": 2,
+        "slug": "Burst"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      }
+    ],
+    "slots": [
+      2,
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -1,
+    "dragonResistance": -5,
+    "rank": 2
   }
 ]

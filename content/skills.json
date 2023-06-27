@@ -1769,5 +1769,27 @@
     "levels": [
       "Activate effect."
     ]
+  },
+  {
+    "name": "Blood Awakening",
+    "slug": "Blood-Awakening",
+    "url": "/Blood+Awakening",
+    "description": "Gradually bolsters your attacks for a certain period of time, depending on how much health you regain when landing attacks.",
+    "level": 3,
+    "levels": [
+      "Activate effect.",
+      "Adds a bonus increase to effects that bolster your attacks.",
+      "Adds a bigger bonus increase to effects that bolster your attacks."
+    ]
+  },
+  {
+    "name": "Inspiration",
+    "slug": "Inspiration",
+    "url": "/Inspiration",
+    "description": "Adds an extra attack increase bonus for a short while when activating effects that affect friends within a certain target area, like melodies, etc.",
+    "level": 1,
+    "levels": [
+      "Activate effect."
+    ]
   }
 ]

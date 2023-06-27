@@ -2748,5 +2748,35 @@
     "skillLevel": 1,
     "level": 1,
     "isRampage": true
+  },
+  {
+    "name": "Thrift Jewel+ 4",
+    "slug": "Thrift-Jewel+-4",
+    "url": "/Thrift+Jewel++4",
+    "skill": "Spare Shot",
+    "skillSlug": "Spare-Shot",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Bloodening Jewel+ 4",
+    "slug": "Bloodening-Jewel+-4",
+    "url": "/Bloodening+Jewel++4",
+    "skill": "Blood Rite",
+    "skillSlug": "Blood-Rite",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Inspiration Jewel 1",
+    "slug": "Inspiration-Jewel-1",
+    "url": "/Inspiration+Jewel+1",
+    "skill": "Inspiration",
+    "skillSlug": "Inspiration",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": false
   }
 ]

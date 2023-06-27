@@ -7023,5 +7023,39 @@
     "iceResistance": 2,
     "dragonResistance": -4,
     "rank": 2
+  },
+  {
+    "name": "Primordial Greaves",
+    "url": "/Primordial+Greaves",
+    "type": "legs",
+    "slug": "Primordial-Greaves",
+    "skills": [
+      {
+        "name": "Blood Awakening",
+        "level": 1,
+        "slug": "Blood-Awakening"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      },
+      {
+        "name": "Partbreaker",
+        "level": 3,
+        "slug": "Partbreaker"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -1,
+    "dragonResistance": -5,
+    "rank": 2
   }
 ]

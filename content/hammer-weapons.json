@@ -6079,5 +6079,29 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Silver Splatterer",
+    "slug": "Silver-Splatterer",
+    "url": "/Silver+Splatterer",
+    "type": "hammer",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 48
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -4340,5 +4340,24 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Silver Shooter",
+    "slug": "Silver-Shooter",
+    "url": "/Silver+Shooter",
+    "type": "light_bowgun",
+    "attack": 320,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

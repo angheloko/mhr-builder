@@ -5701,5 +5701,29 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Silver Smasher",
+    "slug": "Silver-Smasher",
+    "url": "/Silver+Smasher",
+    "type": "hunting_horn",
+    "attack": 300,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

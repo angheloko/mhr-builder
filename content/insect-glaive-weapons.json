@@ -5645,5 +5645,29 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Silver Spear",
+    "slug": "Silver-Spear",
+    "url": "/Silver+Spear",
+    "type": "insect_glaive",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

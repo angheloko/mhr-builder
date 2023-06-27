@@ -7288,5 +7288,29 @@
     "iceResistance": 2,
     "dragonResistance": -4,
     "rank": 2
+  },
+  {
+    "name": "Primordial Helm",
+    "url": "/Primordial+Helm",
+    "type": "head",
+    "slug": "Primordial-Helm",
+    "skills": [
+      {
+        "name": "Blood Rite",
+        "level": 3,
+        "slug": "Blood-Rite"
+      }
+    ],
+    "slots": [
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -1,
+    "dragonResistance": -5,
+    "rank": 2
   }
 ]
