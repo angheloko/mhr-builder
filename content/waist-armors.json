@@ -6786,5 +6786,127 @@
     "iceResistance": -2,
     "dragonResistance": 3,
     "rank": 2
+  },
+  {
+    "name": "Tempest Obi",
+    "url": "/Tempest+Obi",
+    "type": "waist",
+    "slug": "Tempest-Obi",
+    "skills": [
+      {
+        "name": "Latent Power",
+        "level": 4,
+        "slug": "Latent-Power"
+      }
+    ],
+    "slots": [
+      3,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -5,
+    "rank": 2
+  },
+  {
+    "name": "Prudence Coil",
+    "url": "/Prudence+Coil",
+    "type": "waist",
+    "slug": "Prudence-Coil",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2,
+        "slug": "Weakness-Exploit"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Virtue Coil",
+    "url": "/Virtue+Coil",
+    "type": "waist",
+    "slug": "Virtue-Coil",
+    "skills": [
+      {
+        "name": "Frenzied Bloodlust",
+        "level": 1,
+        "slug": "Frenzied-Bloodlust"
+      },
+      {
+        "name": "Bloodlust",
+        "level": 1,
+        "slug": "Bloodlust"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 2,
+        "slug": "Weakness-Exploit"
+      }
+    ],
+    "slots": [
+      2,
+      4
+    ],
+    "baseDefense": 122,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": -4,
+    "rank": 2
+  },
+  {
+    "name": "Primordial Coil",
+    "url": "/Primordial+Coil",
+    "type": "waist",
+    "slug": "Primordial-Coil",
+    "skills": [
+      {
+        "name": "Burst",
+        "level": 2,
+        "slug": "Burst"
+      },
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "slug": "Critical-Boost"
+      }
+    ],
+    "slots": [
+      2,
+      4,
+      4
+    ],
+    "baseDefense": 125,
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -1,
+    "dragonResistance": -5,
+    "rank": 2
   }
 ]

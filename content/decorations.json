@@ -2588,5 +2588,195 @@
     "skillLevel": 2,
     "level": 4,
     "isRampage": false
+  },
+  {
+    "name": "Attack Jewel+ 4",
+    "slug": "Attack-Jewel+-4",
+    "url": "/Attack+Jewel++4",
+    "skill": "Attack Boost",
+    "skillSlug": "Attack-Boost",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Blasescale Jewel+ 4",
+    "slug": "Blasescale-Jewel+-4",
+    "url": "/Blasescale+Jewel++4",
+    "skill": "Bladescale Hone",
+    "skillSlug": "Bladescale-Hone",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Bloodlust Jewel 4",
+    "slug": "Bloodlust-Jewel-4",
+    "url": "/Bloodlust+Jewel+4",
+    "skill": "Bloodlust",
+    "skillSlug": "Bloodlust",
+    "skillLevel": 1,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Capacity Jewel+ 4",
+    "slug": "Capacity-Jewel+-4",
+    "url": "/Capacity+Jewel++4",
+    "skill": "Ammo Up",
+    "skillSlug": "Ammo-Up",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Challenger Jewel+ 4",
+    "slug": "Challenger-Jewel+-4",
+    "url": "/Challenger+Jewel++4",
+    "skill": "Agitator",
+    "skillSlug": "Agitator",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Embolden Jewel+ 4",
+    "slug": "Embolden-Jewel+-4",
+    "url": "/Embolden+Jewel++4",
+    "skill": "Embolden",
+    "skillSlug": "Embolden",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Expert Jewel+ 4",
+    "slug": "Expert-Jewel+-4",
+    "url": "/Expert+Jewel++4",
+    "skill": "Critical Eye",
+    "skillSlug": "Critical-Eye",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Intrepid Jewel+ 3",
+    "slug": "Intrepid-Jewel+-3",
+    "url": "/Intrepid+Jewel++3",
+    "skill": "Intrepid Heart",
+    "skillSlug": "Intrepid-Heart",
+    "skillLevel": 2,
+    "level": 3,
+    "isRampage": false
+  },
+  {
+    "name": "Shockproof Jewel 1",
+    "slug": "Shockproof-Jewel-1",
+    "url": "/Shockproof+Jewel+1",
+    "skill": "Shock Absorber",
+    "skillSlug": "Shock-Absorber",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": false
+  },
+  {
+    "name": "Trigger Jewel+ 4",
+    "slug": "Trigger-Jewel+-4",
+    "url": "/Trigger+Jewel++4",
+    "skill": "Status Trigger",
+    "skillSlug": "Status-Trigger",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Demon Rage Jewel 2",
+    "slug": "Demon-Rage-Jewel-2",
+    "url": "/Demon+Rage+Jewel+2",
+    "skill": "Demon Rage",
+    "skillSlug": "Demon-Rage",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": true
+  },
+  {
+    "name": "Growth Jewel 2",
+    "slug": "Growth-Jewel-2",
+    "url": "/Growth+Jewel+2",
+    "skill": "Self-Improvement",
+    "skillSlug": "Self-Improvement",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": true
+  },
+  {
+    "name": "Guardbash Jewel 2",
+    "slug": "Guardbash-Jewel-2",
+    "url": "/Guardbash+Jewel+2",
+    "skill": "Guard Bash",
+    "skillSlug": "Guard-Bash",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": true
+  },
+  {
+    "name": "Stun Jewel 1",
+    "slug": "Stun-Jewel-1",
+    "url": "/Stun+Jewel+1",
+    "skill": "Charge Up",
+    "skillSlug": "Charge-Up",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": true
+  },
+  {
+    "name": "Supercharge Jewel 2",
+    "slug": "Supercharge-Jewel-2",
+    "url": "/Supercharge+Jewel+2",
+    "skill": "Kinsect Supercharge",
+    "skillSlug": "Kinsect-Supercharge",
+    "skillLevel": 1,
+    "level": 2,
+    "isRampage": true
+  },
+  {
+    "name": "Wirebug Jewel 1",
+    "slug": "Wirebug-Jewel-1",
+    "url": "/Wirebug+Jewel+1",
+    "skill": "Wirebug Wrangler",
+    "skillSlug": "Wirebug-Wrangler",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": true
+  },
+  {
+    "name": "Thrift Jewel+ 4",
+    "slug": "Thrift-Jewel+-4",
+    "url": "/Thrift+Jewel++4",
+    "skill": "Spare Shot",
+    "skillSlug": "Spare-Shot",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Bloodening Jewel+ 4",
+    "slug": "Bloodening-Jewel+-4",
+    "url": "/Bloodening+Jewel++4",
+    "skill": "Blood Rite",
+    "skillSlug": "Blood-Rite",
+    "skillLevel": 2,
+    "level": 4,
+    "isRampage": false
+  },
+  {
+    "name": "Inspiration Jewel 1",
+    "slug": "Inspiration-Jewel-1",
+    "url": "/Inspiration+Jewel+1",
+    "skill": "Inspiration",
+    "skillSlug": "Inspiration",
+    "skillLevel": 1,
+    "level": 1,
+    "isRampage": false
   }
 ]

@@ -6088,5 +6088,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Spring",
+    "slug": "Ominous-Spring",
+    "url": "/Ominous+Spring",
+    "type": "long_sword",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 43
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Severer",
+    "slug": "Silver-Severer",
+    "url": "/Silver+Severer",
+    "type": "long_sword",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -5811,5 +5811,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Roilcloud Sword",
+    "slug": "Roilcloud-Sword",
+    "url": "/Roilcloud+Sword",
+    "type": "great_sword",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 58
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Sunderer",
+    "slug": "Silver-Sunderer",
+    "url": "/Silver+Sunderer",
+    "type": "great_sword",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 67
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

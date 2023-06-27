@@ -5821,5 +5821,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Treasure",
+    "slug": "Ominous-Treasure",
+    "url": "/Ominous+Treasure",
+    "type": "sword_and_shield",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 41
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Separator",
+    "slug": "Silver-Separator",
+    "url": "/Silver+Separator",
+    "type": "sword_and_shield",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 41
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -4568,5 +4568,39 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ill Omen",
+    "slug": "Ill-Omen",
+    "url": "/Ill+Omen",
+    "type": "heavy_bowgun",
+    "attack": 370,
+    "element": [],
+    "affinity": -20,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Scatterer",
+    "slug": "Silver-Scatterer",
+    "url": "/Silver+Scatterer",
+    "type": "heavy_bowgun",
+    "attack": 350,
+    "element": [],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

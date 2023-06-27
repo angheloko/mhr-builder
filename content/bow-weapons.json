@@ -6193,5 +6193,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Tempest Nightbow",
+    "slug": "Tempest-Nightbow",
+    "url": "/Tempest+Nightbow",
+    "type": "bow",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 24
+      }
+    ],
+    "affinity": -15,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Striker",
+    "slug": "Silver-Striker",
+    "url": "/Silver+Striker",
+    "type": "bow",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -6027,5 +6027,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Stormwind Fans",
+    "slug": "Stormwind-Fans",
+    "url": "/Stormwind+Fans",
+    "type": "dual_blades",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 38
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Slicers",
+    "slug": "Silver-Slicers",
+    "url": "/Silver+Slicers",
+    "type": "dual_blades",
+    "attack": 310,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 40
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

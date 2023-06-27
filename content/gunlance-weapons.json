@@ -5864,5 +5864,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Ominous Monsoon",
+    "slug": "Ominous-Monsoon",
+    "url": "/Ominous+Monsoon",
+    "type": "gunlance",
+    "attack": 350,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 45
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Sploder",
+    "slug": "Silver-Sploder",
+    "url": "/Silver+Sploder",
+    "type": "gunlance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 45
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

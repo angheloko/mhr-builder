@@ -5617,5 +5617,49 @@
     "rampSlots": [
       3
     ]
+  },
+  {
+    "name": "Ominous Cloud",
+    "slug": "Ominous-Cloud",
+    "url": "/Ominous+Cloud",
+    "type": "lance",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 48
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Stabber",
+    "slug": "Silver-Stabber",
+    "url": "/Silver+Stabber",
+    "type": "lance",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 50
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

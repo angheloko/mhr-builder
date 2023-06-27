@@ -5200,5 +5200,49 @@
     "rampSlots": [
       2
     ]
+  },
+  {
+    "name": "Altostratus Blade",
+    "slug": "Altostratus-Blade",
+    "url": "/Altostratus+Blade",
+    "type": "charge_blade",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 44
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Splitter",
+    "slug": "Silver-Splitter",
+    "url": "/Silver+Splitter",
+    "type": "charge_blade",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 51
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]

@@ -6021,5 +6021,49 @@
     "rampSkills": [],
     "slots": [],
     "rampSlots": []
+  },
+  {
+    "name": "Cloudburst Axe",
+    "slug": "Cloudburst-Axe",
+    "url": "/Cloudburst+Axe",
+    "type": "switch_axe",
+    "attack": 360,
+    "element": [
+      {
+        "type": "Water",
+        "attack": 47
+      }
+    ],
+    "affinity": -25,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [],
+    "rampSlots": [
+      3
+    ]
+  },
+  {
+    "name": "Silver Slasher",
+    "slug": "Silver-Slasher",
+    "url": "/Silver+Slasher",
+    "type": "switch_axe",
+    "attack": 320,
+    "element": [
+      {
+        "type": "Dragon",
+        "attack": 49
+      }
+    ],
+    "affinity": 0,
+    "defense": 0,
+    "rampSkills": [],
+    "slots": [
+      4,
+      4,
+      4
+    ],
+    "rampSlots": [
+      3
+    ]
   }
 ]
